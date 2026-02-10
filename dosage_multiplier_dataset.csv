@@ -1,0 +1,4846 @@
+Drug,Age_Group,Base_Dose,Multiplier
+sodium bicarbonate,Infant,307,0.3
+sodium bicarbonate,Adult,307,1.0
+sodium bicarbonate,OldAge,307,0.75
+citric acid / sodium citrate,Infant,66,0.3
+citric acid / sodium citrate,Adult,66,1.0
+citric acid / sodium citrate,OldAge,66,0.75
+bethanechol,Infant,493,0.3
+bethanechol,Adult,493,1.0
+bethanechol,OldAge,493,0.75
+pamabrom,Infant,365,0.3
+pamabrom,Adult,365,1.0
+pamabrom,OldAge,365,0.75
+vasopressin,Infant,82,0.3
+vasopressin,Adult,82,1.0
+vasopressin,OldAge,82,0.75
+medroxyprogesterone,Infant,374,0.3
+medroxyprogesterone,Adult,374,1.0s
+medroxyprogesterone,OldAge,374,0.75
+norethindrone,Infant,300,0.3
+norethindrone,Adult,300,1.0
+norethindrone,OldAge,300,0.75
+megestrol,Infant,369,0.3
+megestrol,Adult,369,1.0
+megestrol,OldAge,369,0.75
+levonorgestrel,Infant,123,0.3
+levonorgestrel,Adult,123,1.0
+levonorgestrel,OldAge,123,0.75
+ethinyl estradiol / levonorgestrel,Infant,59,0.3
+ethinyl estradiol / levonorgestrel,Adult,59,1.0
+ethinyl estradiol / levonorgestrel,OldAge,59,0.75
+ethinyl estradiol / norgestimate,Infant,262,0.3
+ethinyl estradiol / norgestimate,Adult,262,1.0
+ethinyl estradiol / norgestimate,OldAge,262,0.75
+ethinyl estradiol / norethindrone,Infant,311,0.3
+ethinyl estradiol / norethindrone,Adult,311,1.0
+ethinyl estradiol / norethindrone,OldAge,311,0.75
+desogestrel / ethinyl estradiol,Infant,465,0.3
+desogestrel / ethinyl estradiol,Adult,465,1.0
+desogestrel / ethinyl estradiol,OldAge,465,0.75
+misoprostol,Infant,379,0.3
+misoprostol,Adult,379,1.0
+misoprostol,OldAge,379,0.75
+mifepristone,Infant,95,0.3
+mifepristone,Adult,95,1.0
+mifepristone,OldAge,95,0.75
+oxytocin,Infant,176,0.3
+oxytocin,Adult,176,1.0
+oxytocin,OldAge,176,0.75
+carboprost,Infant,268,0.3
+carboprost,Adult,268,1.0
+carboprost,OldAge,268,0.75
+dinoprostone,Infant,146,0.3
+dinoprostone,Adult,146,1.0
+dinoprostone,OldAge,146,0.75
+methotrexate,Infant,82,0.3
+methotrexate,Adult,82,1.0
+methotrexate,OldAge,82,0.75
+cefotaxime,Infant,56,0.3
+cefotaxime,Adult,56,1.0
+cefotaxime,OldAge,56,0.75
+levetiracetam,Infant,326,0.3
+levetiracetam,Adult,326,1.0
+levetiracetam,OldAge,326,0.75
+phenobarbital,Infant,237,0.3
+phenobarbital,Adult,237,1.0
+phenobarbital,OldAge,237,0.75
+phenytoin,Infant,166,0.3
+phenytoin,Adult,166,1.0
+phenytoin,OldAge,166,0.75
+diazepam,Infant,349,0.3
+diazepam,Adult,349,1.0
+diazepam,OldAge,349,0.75
+oxcarbazepine,Infant,369,0.3
+oxcarbazepine,Adult,369,1.0
+oxcarbazepine,OldAge,369,0.75
+zonisamide,Infant,304,0.3
+zonisamide,Adult,304,1.0
+zonisamide,OldAge,304,0.75
+topiramate,Infant,205,0.3
+topiramate,Adult,205,1.0
+topiramate,OldAge,205,0.75
+valproic acid,Infant,427,0.3
+valproic acid,Adult,427,1.0
+valproic acid,OldAge,427,0.75
+primidone,Infant,96,0.3
+primidone,Adult,96,1.0
+primidone,OldAge,96,0.75
+aspirin,Infant,193,0.3
+aspirin,Adult,193,1.0
+aspirin,OldAge,193,0.75
+nitroglycerin,Infant,242,0.3
+nitroglycerin,Adult,242,1.0
+nitroglycerin,OldAge,242,0.75
+metoprolol,Infant,330,0.3
+metoprolol,Adult,330,1.0
+metoprolol,OldAge,330,0.75
+amlodipine,Infant,242,0.3
+amlodipine,Adult,242,1.0
+amlodipine,OldAge,242,0.75
+isosorbide mononitrate,Infant,382,0.3
+isosorbide mononitrate,Adult,382,1.0
+isosorbide mononitrate,OldAge,382,0.75
+isosorbide dinitrate,Infant,360,0.3
+isosorbide dinitrate,Adult,360,1.0
+isosorbide dinitrate,OldAge,360,0.75
+enoxaparin,Infant,292,0.3
+enoxaparin,Adult,292,1.0
+enoxaparin,OldAge,292,0.75
+ranolazine,Infant,80,0.3
+ranolazine,Adult,80,1.0
+ranolazine,OldAge,80,0.75
+atenolol,Infant,408,0.3
+atenolol,Adult,408,1.0
+atenolol,OldAge,408,0.75
+carvedilol,Infant,182,0.3
+carvedilol,Adult,182,1.0
+carvedilol,OldAge,182,0.75
+amlodipine / atorvastatin,Infant,137,0.3
+amlodipine / atorvastatin,Adult,137,1.0
+amlodipine / atorvastatin,OldAge,137,0.75
+dextranomer / sodium hyaluronate,Infant,216,0.3
+dextranomer / sodium hyaluronate,Adult,216,1.0
+dextranomer / sodium hyaluronate,OldAge,216,0.75
+acetylcysteine,Infant,88,0.3
+acetylcysteine,Adult,88,1.0
+acetylcysteine,OldAge,88,0.75
+meloxicam,Infant,383,0.3
+meloxicam,Adult,383,1.0
+meloxicam,OldAge,383,0.75
+naproxen,Infant,300,0.3
+naproxen,Adult,300,1.0
+naproxen,OldAge,300,0.75
+indomethacin,Infant,73,0.3
+indomethacin,Adult,73,1.0
+indomethacin,OldAge,73,0.75
+trolamine salicylate,Infant,223,0.3
+trolamine salicylate,Adult,223,1.0
+trolamine salicylate,OldAge,223,0.75
+sulindac,Infant,209,0.3
+sulindac,Adult,209,1.0
+sulindac,OldAge,209,0.75
+omeprazole,Infant,219,0.3
+omeprazole,Adult,219,1.0
+omeprazole,OldAge,219,0.75
+pantoprazole,Infant,86,0.3
+pantoprazole,Adult,86,1.0
+pantoprazole,OldAge,86,0.75
+ranitidine,Infant,425,0.3
+ranitidine,Adult,425,1.0
+ranitidine,OldAge,425,0.75
+famotidine,Infant,361,0.3
+famotidine,Adult,361,1.0
+famotidine,OldAge,361,0.75
+lansoprazole,Infant,454,0.3
+lansoprazole,Adult,454,1.0
+lansoprazole,OldAge,454,0.75
+esomeprazole,Infant,208,0.3
+esomeprazole,Adult,208,1.0
+esomeprazole,OldAge,208,0.75
+rabeprazole,Infant,498,0.3
+rabeprazole,Adult,498,1.0
+rabeprazole,OldAge,498,0.75
+sucralfate,Infant,340,0.3
+sucralfate,Adult,340,1.0
+sucralfate,OldAge,340,0.75
+dexlansoprazole,Infant,152,0.3
+dexlansoprazole,Adult,152,1.0
+dexlansoprazole,OldAge,152,0.75
+omeprazole / sodium bicarbonate,Infant,199,0.3
+omeprazole / sodium bicarbonate,Adult,199,1.0
+omeprazole / sodium bicarbonate,OldAge,199,0.75
+ibuprofen,Infant,304,0.3
+ibuprofen,Adult,304,1.0
+ibuprofen,OldAge,304,0.75
+acetaminophen,Infant,57,0.3
+acetaminophen,Adult,57,1.0
+acetaminophen,OldAge,57,0.75
+diclofenac,Infant,60,0.3
+diclofenac,Adult,60,1.0
+diclofenac,OldAge,60,0.75
+nabumetone,Infant,235,0.3
+nabumetone,Adult,235,1.0
+nabumetone,OldAge,235,0.75
+doxycycline,Infant,408,0.3
+doxycycline,Adult,408,1.0
+doxycycline,OldAge,408,0.75
+spironolactone,Infant,475,0.3
+spironolactone,Adult,475,1.0
+spironolactone,OldAge,475,0.75
+minocycline,Infant,171,0.3
+minocycline,Adult,171,1.0
+minocycline,OldAge,171,0.75
+clindamycin,Infant,200,0.3
+clindamycin,Adult,200,1.0
+clindamycin,OldAge,200,0.75
+tretinoin,Infant,199,0.3
+tretinoin,Adult,199,1.0
+tretinoin,OldAge,199,0.75
+isotretinoin,Infant,251,0.3
+isotretinoin,Adult,251,1.0
+isotretinoin,OldAge,251,0.75
+benzoyl peroxide,Infant,422,0.3
+benzoyl peroxide,Adult,422,1.0
+benzoyl peroxide,OldAge,422,0.75
+adapalene,Infant,145,0.3
+adapalene,Adult,145,1.0
+adapalene,OldAge,145,0.75
+tetracycline,Infant,433,0.3
+tetracycline,Adult,433,1.0
+tetracycline,OldAge,433,0.75
+cephalexin,Infant,352,0.3
+cephalexin,Adult,352,1.0
+cephalexin,OldAge,352,0.75
+sulfamethoxazole / trimethoprim,Infant,213,0.3
+sulfamethoxazole / trimethoprim,Adult,213,1.0
+sulfamethoxazole / trimethoprim,OldAge,213,0.75
+metronidazole,Infant,290,0.3
+metronidazole,Adult,290,1.0
+metronidazole,OldAge,290,0.75
+azelaic acid,Infant,271,0.3
+azelaic acid,Adult,271,1.0
+azelaic acid,OldAge,271,0.75
+sulfacetamide sodium / sulfur,Infant,182,0.3
+sulfacetamide sodium / sulfur,Adult,182,1.0
+sulfacetamide sodium / sulfur,OldAge,182,0.75
+ivermectin,Infant,378,0.3
+ivermectin,Adult,378,1.0
+ivermectin,OldAge,378,0.75
+brimonidine,Infant,145,0.3
+brimonidine,Adult,145,1.0
+brimonidine,OldAge,145,0.75
+lamivudine,Infant,493,0.3
+lamivudine,Adult,493,1.0
+lamivudine,OldAge,493,0.75
+efavirenz / emtricitabine / tenofovir,Infant,184,0.3
+efavirenz / emtricitabine / tenofovir,Adult,184,1.0
+efavirenz / emtricitabine / tenofovir,OldAge,184,0.75
+ritonavir,Infant,66,0.3
+ritonavir,Adult,66,1.0
+ritonavir,OldAge,66,0.75
+emtricitabine / tenofovir,Infant,218,0.3
+emtricitabine / tenofovir,Adult,218,1.0
+emtricitabine / tenofovir,OldAge,218,0.75
+tenofovir,Infant,435,0.3
+tenofovir,Adult,435,1.0
+tenofovir,OldAge,435,0.75
+abacavir,Infant,218,0.3
+abacavir,Adult,218,1.0
+abacavir,OldAge,218,0.75
+methylene blue,Infant,318,0.3
+methylene blue,Adult,318,1.0
+methylene blue,OldAge,318,0.75
+bromocriptine,Infant,289,0.3
+bromocriptine,Adult,289,1.0
+bromocriptine,OldAge,289,0.75
+octreotide,Infant,417,0.3
+octreotide,Adult,417,1.0
+octreotide,OldAge,417,0.75
+pegvisomant,Infant,52,0.3
+pegvisomant,Adult,52,1.0
+pegvisomant,OldAge,52,0.75
+lanreotide,Infant,240,0.3
+lanreotide,Adult,240,1.0
+lanreotide,OldAge,240,0.75
+pasireotide,Infant,346,0.3
+pasireotide,Adult,346,1.0
+pasireotide,OldAge,346,0.75
+gabapentin,Infant,378,0.3
+gabapentin,Adult,378,1.0
+gabapentin,OldAge,378,0.75
+fluorouracil,Infant,267,0.3
+fluorouracil,Adult,267,1.0
+fluorouracil,OldAge,267,0.75
+aminolevulinic acid,Infant,235,0.3
+aminolevulinic acid,Adult,235,1.0
+aminolevulinic acid,OldAge,235,0.75
+ingenol,Infant,308,0.3
+ingenol,Adult,308,1.0
+ingenol,OldAge,308,0.75
+amoxicillin,Infant,75,0.3
+amoxicillin,Adult,75,1.0
+amoxicillin,OldAge,75,0.75
+penicillin g sodium,Infant,215,0.3
+penicillin g sodium,Adult,215,1.0
+penicillin g sodium,OldAge,215,0.75
+penicillin g potassium,Infant,77,0.3
+penicillin g potassium,Adult,77,1.0
+penicillin g potassium,OldAge,77,0.75
+albuterol,Infant,418,0.3
+albuterol,Adult,418,1.0
+albuterol,OldAge,418,0.75
+prednisolone,Infant,465,0.3
+prednisolone,Adult,465,1.0
+prednisolone,OldAge,465,0.75
+methylprednisolone,Infant,112,0.3
+methylprednisolone,Adult,112,1.0
+methylprednisolone,OldAge,112,0.75
+epinephrine,Infant,468,0.3
+epinephrine,Adult,468,1.0
+epinephrine,OldAge,468,0.75
+hydrocortisone,Infant,84,0.3
+hydrocortisone,Adult,84,1.0
+hydrocortisone,OldAge,84,0.75
+theophylline,Infant,149,0.3
+theophylline,Adult,149,1.0
+theophylline,OldAge,149,0.75
+dexamethasone,Infant,311,0.3
+dexamethasone,Adult,311,1.0
+dexamethasone,OldAge,311,0.75
+levalbuterol,Infant,272,0.3
+levalbuterol,Adult,272,1.0
+levalbuterol,OldAge,272,0.75
+terbutaline,Infant,322,0.3
+terbutaline,Adult,322,1.0
+terbutaline,OldAge,322,0.75
+ciprofloxacin,Infant,403,0.3
+ciprofloxacin,Adult,403,1.0
+ciprofloxacin,OldAge,403,0.75
+nitrofurantoin,Infant,362,0.3
+nitrofurantoin,Adult,362,1.0
+nitrofurantoin,OldAge,362,0.75
+levofloxacin,Infant,322,0.3
+levofloxacin,Adult,322,1.0
+levofloxacin,OldAge,322,0.75
+ceftriaxone,Infant,311,0.3
+ceftriaxone,Adult,311,1.0
+ceftriaxone,OldAge,311,0.75
+amoxicillin / clavulanate,Infant,190,0.3
+amoxicillin / clavulanate,Adult,190,1.0
+amoxicillin / clavulanate,OldAge,190,0.75
+cefuroxime,Infant,287,0.3
+cefuroxime,Adult,287,1.0
+cefuroxime,OldAge,287,0.75
+trimethoprim,Infant,91,0.3
+trimethoprim,Adult,91,1.0
+trimethoprim,OldAge,91,0.75
+methenamine,Infant,338,0.3
+methenamine,Adult,338,1.0
+methenamine,OldAge,338,0.75
+ampicillin,Infant,419,0.3
+ampicillin,Adult,419,1.0
+ampicillin,OldAge,419,0.75
+prednisone,Infant,387,0.3
+prednisone,Adult,387,1.0
+prednisone,OldAge,387,0.75
+vincristine,Infant,171,0.3
+vincristine,Adult,171,1.0
+vincristine,OldAge,171,0.75
+cyclophosphamide,Infant,351,0.3
+cyclophosphamide,Adult,351,1.0
+cyclophosphamide,OldAge,351,0.75
+asparaginase escherichia coli,Infant,112,0.3
+asparaginase escherichia coli,Adult,112,1.0
+asparaginase escherichia coli,OldAge,112,0.75
+daunorubicin,Infant,172,0.3
+daunorubicin,Adult,172,1.0
+daunorubicin,OldAge,172,0.75
+asparaginase erwinia chrysanthemi,Infant,302,0.3
+asparaginase erwinia chrysanthemi,Adult,302,1.0
+asparaginase erwinia chrysanthemi,OldAge,302,0.75
+teniposide,Infant,385,0.3
+teniposide,Adult,385,1.0
+teniposide,OldAge,385,0.75
+clopidogrel,Infant,71,0.3
+clopidogrel,Adult,71,1.0
+clopidogrel,OldAge,71,0.75
+ticagrelor,Infant,475,0.3
+ticagrelor,Adult,475,1.0
+ticagrelor,OldAge,475,0.75
+prasugrel,Infant,172,0.3
+prasugrel,Adult,172,1.0
+prasugrel,OldAge,172,0.75
+eptifibatide,Infant,396,0.3
+eptifibatide,Adult,396,1.0
+eptifibatide,OldAge,396,0.75
+tirofiban,Infant,269,0.3
+tirofiban,Adult,269,1.0
+tirofiban,OldAge,269,0.75
+azathioprine,Infant,72,0.3
+azathioprine,Adult,72,1.0
+azathioprine,OldAge,72,0.75
+penicillin g benzathine,Infant,180,0.3
+penicillin g benzathine,Adult,180,1.0
+penicillin g benzathine,OldAge,180,0.75
+cytarabine,Infant,124,0.3
+cytarabine,Adult,124,1.0
+cytarabine,OldAge,124,0.75
+idarubicin,Infant,90,0.3
+idarubicin,Adult,90,1.0
+idarubicin,OldAge,90,0.75
+decitabine,Infant,444,0.3
+decitabine,Adult,444,1.0
+decitabine,OldAge,444,0.75
+gemtuzumab,Infant,50,0.3
+gemtuzumab,Adult,50,1.0
+gemtuzumab,OldAge,50,0.75
+midostaurin,Infant,462,0.3
+midostaurin,Adult,462,1.0
+midostaurin,OldAge,462,0.75
+venetoclax,Infant,201,0.3
+venetoclax,Adult,201,1.0
+venetoclax,OldAge,201,0.75
+enasidenib,Infant,228,0.3
+enasidenib,Adult,228,1.0
+enasidenib,OldAge,228,0.75
+cytarabine liposomal / daunorubicin liposomal,Infant,137,0.3
+cytarabine liposomal / daunorubicin liposomal,Adult,137,1.0
+cytarabine liposomal / daunorubicin liposomal,OldAge,137,0.75
+ivosidenib,Infant,115,0.3
+ivosidenib,Adult,115,1.0
+ivosidenib,OldAge,115,0.75
+gilteritinib,Infant,126,0.3
+gilteritinib,Adult,126,1.0
+gilteritinib,OldAge,126,0.75
+glasdegib,Infant,356,0.3
+glasdegib,Adult,356,1.0
+glasdegib,OldAge,356,0.75
+chlorpromazine,Infant,271,0.3
+chlorpromazine,Adult,271,1.0
+chlorpromazine,OldAge,271,0.75
+hemin,Infant,345,0.3
+hemin,Adult,345,1.0
+hemin,OldAge,345,0.75
+givosiran,Infant,382,0.3
+givosiran,Adult,382,1.0
+givosiran,OldAge,382,0.75
+mercaptopurine,Infant,124,0.3
+mercaptopurine,Adult,124,1.0
+mercaptopurine,OldAge,124,0.75
+dasatinib,Infant,410,0.3
+dasatinib,Adult,410,1.0
+dasatinib,OldAge,410,0.75
+pegaspargase,Infant,93,0.3
+pegaspargase,Adult,93,1.0
+pegaspargase,OldAge,93,0.75
+doxorubicin,Infant,114,0.3
+doxorubicin,Adult,114,1.0
+doxorubicin,OldAge,114,0.75
+imatinib,Infant,85,0.3
+imatinib,Adult,85,1.0
+imatinib,OldAge,85,0.75
+ponatinib,Infant,86,0.3
+ponatinib,Adult,86,1.0
+ponatinib,OldAge,86,0.75
+vincristine liposome,Infant,91,0.3
+vincristine liposome,Adult,91,1.0
+vincristine liposome,OldAge,91,0.75
+blinatumomab,Infant,456,0.3
+blinatumomab,Adult,456,1.0
+blinatumomab,OldAge,456,0.75
+thioguanine,Infant,248,0.3
+thioguanine,Adult,248,1.0
+thioguanine,OldAge,248,0.75
+mitoxantrone,Infant,333,0.3
+mitoxantrone,Adult,333,1.0
+mitoxantrone,OldAge,333,0.75
+ofloxacin,Infant,100,0.3
+ofloxacin,Adult,100,1.0
+ofloxacin,OldAge,100,0.75
+ciprofloxacin / hydrocortisone,Infant,211,0.3
+ciprofloxacin / hydrocortisone,Adult,211,1.0
+ciprofloxacin / hydrocortisone,OldAge,211,0.75
+colistin sulfate / hydrocortisone / neomycin / thonzonium bromide,Infant,481,0.3
+colistin sulfate / hydrocortisone / neomycin / thonzonium bromide,Adult,481,1.0
+colistin sulfate / hydrocortisone / neomycin / thonzonium bromide,OldAge,481,0.75
+arsenic trioxide,Infant,496,0.3
+arsenic trioxide,Adult,496,1.0
+arsenic trioxide,OldAge,496,0.75
+beractant,Infant,196,0.3
+beractant,Adult,196,1.0
+beractant,OldAge,196,0.75
+poractant,Infant,485,0.3
+poractant,Adult,485,1.0
+poractant,OldAge,485,0.75
+calfactant,Infant,366,0.3
+calfactant,Adult,366,1.0
+calfactant,OldAge,366,0.75
+cefdinir,Infant,152,0.3
+cefdinir,Adult,152,1.0
+cefdinir,OldAge,152,0.75
+azithromycin,Infant,228,0.3
+azithromycin,Adult,228,1.0
+azithromycin,OldAge,228,0.75
+clarithromycin,Infant,351,0.3
+clarithromycin,Adult,351,1.0
+clarithromycin,OldAge,351,0.75
+moxifloxacin,Infant,268,0.3
+moxifloxacin,Adult,268,1.0
+moxifloxacin,OldAge,268,0.75
+sertraline,Infant,222,0.3
+sertraline,Adult,222,1.0
+sertraline,OldAge,222,0.75
+citalopram,Infant,262,0.3
+citalopram,Adult,262,1.0
+citalopram,OldAge,262,0.75
+fluoxetine,Infant,113,0.3
+fluoxetine,Adult,113,1.0
+fluoxetine,OldAge,113,0.75
+amitriptyline,Infant,370,0.3
+amitriptyline,Adult,370,1.0
+amitriptyline,OldAge,370,0.75
+venlafaxine,Infant,188,0.3
+venlafaxine,Adult,188,1.0
+venlafaxine,OldAge,188,0.75
+paroxetine,Infant,385,0.3
+paroxetine,Adult,385,1.0
+paroxetine,OldAge,385,0.75
+prazosin,Infant,484,0.3
+prazosin,Adult,484,1.0
+prazosin,OldAge,484,0.75
+fluvoxamine,Infant,283,0.3
+fluvoxamine,Adult,283,1.0
+fluvoxamine,OldAge,283,0.75
+pegademase bovine,Infant,309,0.3
+pegademase bovine,Adult,309,1.0
+pegademase bovine,OldAge,309,0.75
+elapegademase,Infant,487,0.3
+elapegademase,Adult,487,1.0
+elapegademase,OldAge,487,0.75
+ephedrine,Infant,221,0.3
+ephedrine,Adult,221,1.0
+ephedrine,OldAge,221,0.75
+isoproterenol,Infant,399,0.3
+isoproterenol,Adult,399,1.0
+isoproterenol,OldAge,399,0.75
+methylphenidate,Infant,310,0.3
+methylphenidate,Adult,310,1.0
+methylphenidate,OldAge,310,0.75
+amphetamine / dextroamphetamine,Infant,392,0.3
+amphetamine / dextroamphetamine,Adult,392,1.0
+amphetamine / dextroamphetamine,OldAge,392,0.75
+dextroamphetamine,Infant,376,0.3
+dextroamphetamine,Adult,376,1.0
+dextroamphetamine,OldAge,376,0.75
+clonidine,Infant,82,0.3
+clonidine,Adult,82,1.0
+clonidine,OldAge,82,0.75
+bupropion,Infant,484,0.3
+bupropion,Adult,484,1.0
+bupropion,OldAge,484,0.75
+guanfacine,Infant,446,0.3
+guanfacine,Adult,446,1.0
+guanfacine,OldAge,446,0.75
+lisdexamfetamine,Infant,487,0.3
+lisdexamfetamine,Adult,487,1.0
+lisdexamfetamine,OldAge,487,0.75
+amphetamine,Infant,486,0.3
+amphetamine,Adult,486,1.0
+amphetamine,OldAge,486,0.75
+atomoxetine,Infant,265,0.3
+atomoxetine,Adult,265,1.0
+atomoxetine,OldAge,265,0.75
+fludrocortisone,Infant,394,0.3
+fludrocortisone,Adult,394,1.0
+fludrocortisone,OldAge,394,0.75
+pazopanib,Infant,407,0.3
+pazopanib,Adult,407,1.0
+pazopanib,OldAge,407,0.75
+sunitinib,Infant,300,0.3
+sunitinib,Adult,300,1.0
+sunitinib,OldAge,300,0.75
+axitinib,Infant,58,0.3
+axitinib,Adult,58,1.0
+axitinib,OldAge,58,0.75
+nivolumab,Infant,146,0.3
+nivolumab,Adult,146,1.0
+nivolumab,OldAge,146,0.75
+sorafenib,Infant,57,0.3
+sorafenib,Adult,57,1.0
+sorafenib,OldAge,57,0.75
+everolimus,Infant,487,0.3
+everolimus,Adult,487,1.0
+everolimus,OldAge,487,0.75
+bevacizumab,Infant,376,0.3
+bevacizumab,Adult,376,1.0
+bevacizumab,OldAge,376,0.75
+cabozantinib,Infant,390,0.3
+cabozantinib,Adult,390,1.0
+cabozantinib,OldAge,390,0.75
+aldesleukin,Infant,341,0.3
+aldesleukin,Adult,341,1.0
+aldesleukin,OldAge,341,0.75
+capecitabine,Infant,415,0.3
+capecitabine,Adult,415,1.0
+capecitabine,OldAge,415,0.75
+temsirolimus,Infant,223,0.3
+temsirolimus,Adult,223,1.0
+temsirolimus,OldAge,223,0.75
+lenvatinib,Infant,167,0.3
+lenvatinib,Adult,167,1.0
+lenvatinib,OldAge,167,0.75
+adenovirus vaccine,Infant,327,0.3
+adenovirus vaccine,Adult,327,1.0
+adenovirus vaccine,OldAge,327,0.75
+piroxicam,Infant,458,0.3
+piroxicam,Adult,458,1.0
+piroxicam,OldAge,458,0.75
+triamcinolone,Infant,357,0.3
+triamcinolone,Adult,357,1.0
+triamcinolone,OldAge,357,0.75
+fentanyl,Infant,411,0.3
+fentanyl,Adult,411,1.0
+fentanyl,OldAge,411,0.75
+pregabalin,Infant,419,0.3
+pregabalin,Adult,419,1.0
+pregabalin,OldAge,419,0.75
+probenecid,Infant,183,0.3
+probenecid,Adult,183,1.0
+probenecid,OldAge,183,0.75
+enalapril,Infant,329,0.3
+enalapril,Adult,329,1.0
+enalapril,OldAge,329,0.75
+lisinopril,Infant,169,0.3
+lisinopril,Adult,169,1.0
+lisinopril,OldAge,169,0.75
+captopril,Infant,101,0.3
+captopril,Adult,101,1.0
+captopril,OldAge,101,0.75
+mitotane,Infant,322,0.3
+mitotane,Adult,322,1.0
+mitotane,OldAge,322,0.75
+cortisone,Infant,300,0.3
+cortisone,Adult,300,1.0
+cortisone,OldAge,300,0.75
+cosyntropin,Infant,64,0.3
+cosyntropin,Adult,64,1.0
+cosyntropin,OldAge,64,0.75
+somatropin,Infant,118,0.3
+somatropin,Adult,118,1.0
+somatropin,OldAge,118,0.75
+anakinra,Infant,239,0.3
+anakinra,Adult,239,1.0
+anakinra,OldAge,239,0.75
+tocilizumab,Infant,293,0.3
+tocilizumab,Adult,293,1.0
+tocilizumab,OldAge,293,0.75
+etanercept,Infant,328,0.3
+etanercept,Adult,328,1.0
+etanercept,OldAge,328,0.75
+digoxin,Infant,71,0.3
+digoxin,Adult,71,1.0
+digoxin,OldAge,71,0.75
+diltiazem,Infant,386,0.3
+diltiazem,Adult,386,1.0
+diltiazem,OldAge,386,0.75
+flecainide,Infant,415,0.3
+flecainide,Adult,415,1.0
+flecainide,OldAge,415,0.75
+sotalol,Infant,358,0.3
+sotalol,Adult,358,1.0
+sotalol,OldAge,358,0.75
+propafenone,Infant,110,0.3
+propafenone,Adult,110,1.0
+propafenone,OldAge,110,0.75
+rivaroxaban,Infant,190,0.3
+rivaroxaban,Adult,190,1.0
+rivaroxaban,OldAge,190,0.75
+dronedarone,Infant,161,0.3
+dronedarone,Adult,161,1.0
+dronedarone,OldAge,161,0.75
+propranolol,Infant,64,0.3
+propranolol,Adult,64,1.0
+propranolol,OldAge,64,0.75
+pentamidine,Infant,258,0.3
+pentamidine,Adult,258,1.0
+pentamidine,OldAge,258,0.75
+benznidazole,Infant,323,0.3
+benznidazole,Adult,323,1.0
+benznidazole,OldAge,323,0.75
+haloperidol,Infant,165,0.3
+haloperidol,Adult,165,1.0
+haloperidol,OldAge,165,0.75
+aripiprazole,Infant,73,0.3
+aripiprazole,Adult,73,1.0
+aripiprazole,OldAge,73,0.75
+olanzapine,Infant,256,0.3
+olanzapine,Adult,256,1.0
+olanzapine,OldAge,256,0.75
+loxapine,Infant,139,0.3
+loxapine,Adult,139,1.0
+loxapine,OldAge,139,0.75
+risperidone,Infant,262,0.3
+risperidone,Adult,262,1.0
+risperidone,OldAge,262,0.75
+amitriptyline / perphenazine,Infant,276,0.3
+amitriptyline / perphenazine,Adult,276,1.0
+amitriptyline / perphenazine,OldAge,276,0.75
+ruxolitinib,Infant,229,0.3
+ruxolitinib,Adult,229,1.0
+ruxolitinib,OldAge,229,0.75
+fedratinib,Infant,111,0.3
+fedratinib,Adult,111,1.0
+fedratinib,OldAge,111,0.75
+filgrastim,Infant,430,0.3
+filgrastim,Adult,430,1.0
+filgrastim,OldAge,430,0.75
+dronabinol,Infant,213,0.3
+dronabinol,Adult,213,1.0
+dronabinol,OldAge,213,0.75
+naltrexone,Infant,323,0.3
+naltrexone,Adult,323,1.0
+naltrexone,OldAge,323,0.75
+acamprosate,Infant,327,0.3
+acamprosate,Adult,327,1.0
+acamprosate,OldAge,327,0.75
+disulfiram,Infant,260,0.3
+disulfiram,Adult,260,1.0
+disulfiram,OldAge,260,0.75
+ondansetron,Infant,342,0.3
+ondansetron,Adult,342,1.0
+ondansetron,OldAge,342,0.75
+gabapentin enacarbil,Infant,178,0.3
+gabapentin enacarbil,Adult,178,1.0
+gabapentin enacarbil,OldAge,178,0.75
+baclofen,Infant,466,0.3
+baclofen,Adult,466,1.0
+baclofen,OldAge,466,0.75
+chlordiazepoxide,Infant,93,0.3
+chlordiazepoxide,Adult,93,1.0
+chlordiazepoxide,OldAge,93,0.75
+oxazepam,Infant,119,0.3
+oxazepam,Adult,119,1.0
+oxazepam,OldAge,119,0.75
+clorazepate,Infant,333,0.3
+clorazepate,Adult,333,1.0
+clorazepate,OldAge,333,0.75
+propylthiouracil,Infant,83,0.3
+propylthiouracil,Adult,83,1.0
+propylthiouracil,OldAge,83,0.75
+oxandrolone,Infant,231,0.3
+oxandrolone,Adult,231,1.0
+oxandrolone,OldAge,231,0.75
+hydroxyquinoline,Infant,401,0.3
+hydroxyquinoline,Adult,401,1.0
+hydroxyquinoline,OldAge,401,0.75
+ammonium chloride,Infant,378,0.3
+ammonium chloride,Adult,378,1.0
+ammonium chloride,OldAge,378,0.75
+salmeterol,Infant,235,0.3
+salmeterol,Adult,235,1.0
+salmeterol,OldAge,235,0.75
+ketotifen,Infant,199,0.3
+ketotifen,Adult,199,1.0
+ketotifen,OldAge,199,0.75
+azelastine,Infant,67,0.3
+azelastine,Adult,67,1.0
+azelastine,OldAge,67,0.75
+cromolyn,Infant,154,0.3
+cromolyn,Adult,154,1.0
+cromolyn,OldAge,154,0.75
+epinastine,Infant,388,0.3
+epinastine,Adult,388,1.0
+epinastine,OldAge,388,0.75
+nedocromil,Infant,114,0.3
+nedocromil,Adult,114,1.0
+nedocromil,OldAge,114,0.75
+bepotastine,Infant,409,0.3
+bepotastine,Adult,409,1.0
+bepotastine,OldAge,409,0.75
+cetirizine,Infant,182,0.3
+cetirizine,Adult,182,1.0
+cetirizine,OldAge,182,0.75
+alcaftadine,Infant,117,0.3
+alcaftadine,Adult,117,1.0
+alcaftadine,OldAge,117,0.75
+carbinoxamine,Infant,111,0.3
+carbinoxamine,Adult,111,1.0
+carbinoxamine,OldAge,111,0.75
+doxylamine,Infant,429,0.3
+doxylamine,Adult,429,1.0
+doxylamine,OldAge,429,0.75
+clobetasol,Infant,123,0.3
+clobetasol,Adult,123,1.0
+clobetasol,OldAge,123,0.75
+betamethasone,Infant,356,0.3
+betamethasone,Adult,356,1.0
+betamethasone,OldAge,356,0.75
+fluocinonide,Infant,261,0.3
+fluocinonide,Adult,261,1.0
+fluocinonide,OldAge,261,0.75
+tacrolimus,Infant,50,0.3
+tacrolimus,Adult,50,1.0
+tacrolimus,OldAge,50,0.75
+mometasone,Infant,160,0.3
+mometasone,Adult,160,1.0
+mometasone,OldAge,160,0.75
+desonide,Infant,232,0.3
+desonide,Adult,232,1.0
+desonide,OldAge,232,0.75
+fluocinolone,Infant,184,0.3
+fluocinolone,Adult,184,1.0
+fluocinolone,OldAge,184,0.75
+desoximetasone,Infant,192,0.3
+desoximetasone,Adult,192,1.0
+desoximetasone,OldAge,192,0.75
+fluticasone,Infant,229,0.3
+fluticasone,Adult,229,1.0
+fluticasone,OldAge,229,0.75
+diphenhydramine,Infant,366,0.3
+diphenhydramine,Adult,366,1.0
+diphenhydramine,OldAge,366,0.75
+loratadine,Infant,232,0.3
+loratadine,Adult,232,1.0
+loratadine,OldAge,232,0.75
+chlorpheniramine,Infant,238,0.3
+chlorpheniramine,Adult,238,1.0
+chlorpheniramine,OldAge,238,0.75
+promethazine,Infant,234,0.3
+promethazine,Adult,234,1.0
+promethazine,OldAge,234,0.75
+cyproheptadine,Infant,212,0.3
+cyproheptadine,Adult,212,1.0
+cyproheptadine,OldAge,212,0.75
+montelukast,Infant,161,0.3
+montelukast,Adult,161,1.0
+montelukast,OldAge,161,0.75
+fexofenadine,Infant,93,0.3
+fexofenadine,Adult,93,1.0
+fexofenadine,OldAge,93,0.75
+levocetirizine,Infant,447,0.3
+levocetirizine,Adult,447,1.0
+levocetirizine,OldAge,447,0.75
+hydroxyzine,Infant,249,0.3
+hydroxyzine,Adult,249,1.0
+hydroxyzine,OldAge,249,0.75
+triprolidine,Infant,381,0.3
+triprolidine,Adult,381,1.0
+triprolidine,OldAge,381,0.75
+tetracaine,Infant,74,0.3
+tetracaine,Adult,74,1.0
+tetracaine,OldAge,74,0.75
+corticotropin,Infant,75,0.3
+corticotropin,Adult,75,1.0
+corticotropin,OldAge,75,0.75
+dexbrompheniramine,Infant,426,0.3
+dexbrompheniramine,Adult,426,1.0
+dexbrompheniramine,OldAge,426,0.75
+chlorpheniramine / ibuprofen / phenylephrine,Infant,123,0.3
+chlorpheniramine / ibuprofen / phenylephrine,Adult,123,1.0
+chlorpheniramine / ibuprofen / phenylephrine,OldAge,123,0.75
+dexbrompheniramine / phenylephrine,Infant,299,0.3
+dexbrompheniramine / phenylephrine,Adult,299,1.0
+dexbrompheniramine / phenylephrine,OldAge,299,0.75
+minoxidil,Infant,139,0.3
+minoxidil,Adult,139,1.0
+minoxidil,OldAge,139,0.75
+sulfasalazine,Infant,378,0.3
+sulfasalazine,Adult,378,1.0
+sulfasalazine,OldAge,378,0.75
+hydroxyurea,Infant,250,0.3
+hydroxyurea,Adult,250,1.0
+hydroxyurea,OldAge,250,0.75
+deferasirox,Infant,256,0.3
+deferasirox,Adult,256,1.0
+deferasirox,OldAge,256,0.75
+deferiprone,Infant,492,0.3
+deferiprone,Adult,492,1.0
+deferiprone,OldAge,492,0.75
+alpha 1-proteinase inhibitor,Infant,91,0.3
+alpha 1-proteinase inhibitor,Adult,91,1.0
+alpha 1-proteinase inhibitor,OldAge,91,0.75
+losartan,Infant,103,0.3
+losartan,Adult,103,1.0
+losartan,OldAge,103,0.75
+fosinopril,Infant,266,0.3
+fosinopril,Adult,266,1.0
+fosinopril,OldAge,266,0.75
+candesartan,Infant,127,0.3
+candesartan,Adult,127,1.0
+candesartan,OldAge,127,0.75
+quinapril,Infant,132,0.3
+quinapril,Adult,132,1.0
+quinapril,OldAge,132,0.75
+riluzole,Infant,220,0.3
+riluzole,Adult,220,1.0
+riluzole,OldAge,220,0.75
+edaravone,Infant,68,0.3
+edaravone,Adult,68,1.0
+edaravone,OldAge,68,0.75
+trabectedin,Infant,345,0.3
+trabectedin,Adult,345,1.0
+trabectedin,OldAge,345,0.75
+olaratumab,Infant,166,0.3
+olaratumab,Adult,166,1.0
+olaratumab,OldAge,166,0.75
+donepezil,Infant,219,0.3
+donepezil,Adult,219,1.0
+donepezil,OldAge,219,0.75
+memantine,Infant,130,0.3
+memantine,Adult,130,1.0
+memantine,OldAge,130,0.75
+galantamine,Infant,140,0.3
+galantamine,Adult,140,1.0
+galantamine,OldAge,140,0.75
+rivastigmine,Infant,477,0.3
+rivastigmine,Adult,477,1.0
+rivastigmine,OldAge,477,0.75
+vitamin e,Infant,349,0.3
+vitamin e,Adult,349,1.0
+vitamin e,OldAge,349,0.75
+donepezil / memantine,Infant,490,0.3
+donepezil / memantine,Adult,490,1.0
+donepezil / memantine,OldAge,490,0.75
+ergoloid mesylates,Infant,239,0.3
+ergoloid mesylates,Adult,239,1.0
+ergoloid mesylates,OldAge,239,0.75
+tinidazole,Infant,231,0.3
+tinidazole,Adult,231,1.0
+tinidazole,OldAge,231,0.75
+nitazoxanide,Infant,309,0.3
+nitazoxanide,Adult,309,1.0
+nitazoxanide,OldAge,309,0.75
+paromomycin,Infant,187,0.3
+paromomycin,Adult,187,1.0
+paromomycin,OldAge,187,0.75
+chloroquine,Infant,498,0.3
+chloroquine,Adult,498,1.0
+chloroquine,OldAge,498,0.75
+progesterone,Infant,112,0.3
+progesterone,Adult,112,1.0
+progesterone,OldAge,112,0.75
+tafamidis,Infant,205,0.3
+tafamidis,Adult,205,1.0
+tafamidis,OldAge,205,0.75
+inotersen,Infant,368,0.3
+inotersen,Adult,368,1.0
+inotersen,OldAge,368,0.75
+patisiran,Infant,153,0.3
+patisiran,Adult,153,1.0
+patisiran,OldAge,153,0.75
+colchicine,Infant,296,0.3
+colchicine,Adult,296,1.0
+colchicine,OldAge,296,0.75
+piperacillin / tazobactam,Infant,448,0.3
+piperacillin / tazobactam,Adult,448,1.0
+piperacillin / tazobactam,OldAge,448,0.75
+ampicillin / sulbactam,Infant,383,0.3
+ampicillin / sulbactam,Adult,383,1.0
+ampicillin / sulbactam,OldAge,383,0.75
+cefoxitin,Infant,342,0.3
+cefoxitin,Adult,342,1.0
+cefoxitin,OldAge,342,0.75
+cilastatin / imipenem,Infant,231,0.3
+cilastatin / imipenem,Adult,231,1.0
+cilastatin / imipenem,OldAge,231,0.75
+mitomycin,Infant,425,0.3
+mitomycin,Adult,425,1.0
+mitomycin,OldAge,425,0.75
+cisplatin,Infant,169,0.3
+cisplatin,Adult,169,1.0
+cisplatin,OldAge,169,0.75
+lidocaine,Infant,65,0.3
+lidocaine,Adult,65,1.0
+lidocaine,OldAge,65,0.75
+zinc oxide,Infant,75,0.3
+zinc oxide,Adult,75,1.0
+zinc oxide,OldAge,75,0.75
+benzocaine,Infant,455,0.3
+benzocaine,Adult,455,1.0
+benzocaine,OldAge,455,0.75
+temozolomide,Infant,172,0.3
+temozolomide,Adult,172,1.0
+temozolomide,OldAge,172,0.75
+procarbazine,Infant,58,0.3
+procarbazine,Adult,58,1.0
+procarbazine,OldAge,58,0.75
+lomustine,Infant,178,0.3
+lomustine,Adult,178,1.0
+lomustine,OldAge,178,0.75
+thyroid desiccated,Infant,277,0.3
+thyroid desiccated,Adult,277,1.0
+thyroid desiccated,OldAge,277,0.75
+sodium iodide-i-131,Infant,381,0.3
+sodium iodide-i-131,Adult,381,1.0
+sodium iodide-i-131,OldAge,381,0.75
+thyrotropin alpha,Infant,293,0.3
+thyrotropin alpha,Adult,293,1.0
+thyrotropin alpha,OldAge,293,0.75
+vandetanib,Infant,309,0.3
+vandetanib,Adult,309,1.0
+vandetanib,OldAge,309,0.75
+dabrafenib,Infant,123,0.3
+dabrafenib,Adult,123,1.0
+dabrafenib,OldAge,123,0.75
+trametinib,Infant,350,0.3
+trametinib,Adult,350,1.0
+trametinib,OldAge,350,0.75
+mebendazole,Infant,165,0.3
+mebendazole,Adult,165,1.0
+mebendazole,OldAge,165,0.75
+albendazole,Infant,144,0.3
+albendazole,Adult,144,1.0
+albendazole,OldAge,144,0.75
+pyrantel,Infant,108,0.3
+pyrantel,Adult,108,1.0
+pyrantel,OldAge,108,0.75
+finasteride,Infant,233,0.3
+finasteride,Adult,233,1.0
+finasteride,OldAge,233,0.75
+ketoconazole,Infant,285,0.3
+ketoconazole,Adult,285,1.0
+ketoconazole,OldAge,285,0.75
+epoetin alfa,Infant,359,0.3
+epoetin alfa,Adult,359,1.0
+epoetin alfa,OldAge,359,0.75
+multivitamin with iron,Infant,59,0.3
+multivitamin with iron,Adult,59,1.0
+multivitamin with iron,OldAge,59,0.75
+pyridoxine,Infant,225,0.3
+pyridoxine,Adult,225,1.0
+pyridoxine,OldAge,225,0.75
+oxymetholone,Infant,97,0.3
+oxymetholone,Adult,97,1.0
+oxymetholone,OldAge,97,0.75
+lenalidomide,Infant,195,0.3
+lenalidomide,Adult,195,1.0
+lenalidomide,OldAge,195,0.75
+ferrous sulfate,Infant,385,0.3
+ferrous sulfate,Adult,385,1.0
+ferrous sulfate,OldAge,385,0.75
+ferrous fumarate,Infant,449,0.3
+ferrous fumarate,Adult,449,1.0
+ferrous fumarate,OldAge,449,0.75
+darbepoetin alfa,Infant,91,0.3
+darbepoetin alfa,Adult,91,1.0
+darbepoetin alfa,OldAge,91,0.75
+ferrous gluconate,Infant,124,0.3
+ferrous gluconate,Adult,124,1.0
+ferrous gluconate,OldAge,124,0.75
+epoetin beta-methoxy polyethylene glycol,Infant,344,0.3
+epoetin beta-methoxy polyethylene glycol,Adult,344,1.0
+epoetin beta-methoxy polyethylene glycol,OldAge,344,0.75
+ferrous fumarate / folic acid,Infant,153,0.3
+ferrous fumarate / folic acid,Adult,153,1.0
+ferrous fumarate / folic acid,OldAge,153,0.75
+iron polysaccharide,Infant,72,0.3
+iron polysaccharide,Adult,72,1.0
+iron polysaccharide,OldAge,72,0.75
+ferumoxytol,Infant,451,0.3
+ferumoxytol,Adult,451,1.0
+ferumoxytol,OldAge,451,0.75
+iron sucrose,Infant,399,0.3
+iron sucrose,Adult,399,1.0
+iron sucrose,OldAge,399,0.75
+folic acid,Infant,179,0.3
+folic acid,Adult,179,1.0
+folic acid,OldAge,179,0.75
+leucovorin,Infant,498,0.3
+leucovorin,Adult,498,1.0
+leucovorin,OldAge,498,0.75
+glutamine,Infant,74,0.3
+glutamine,Adult,74,1.0
+glutamine,OldAge,74,0.75
+crizanlizumab,Infant,357,0.3
+crizanlizumab,Adult,357,1.0
+crizanlizumab,OldAge,357,0.75
+propofol,Infant,352,0.3
+propofol,Adult,352,1.0
+propofol,OldAge,352,0.75
+lidocaine / prilocaine,Infant,332,0.3
+lidocaine / prilocaine,Adult,332,1.0
+lidocaine / prilocaine,OldAge,332,0.75
+ketamine,Infant,347,0.3
+ketamine,Adult,347,1.0
+ketamine,OldAge,347,0.75
+succinylcholine,Infant,68,0.3
+succinylcholine,Adult,68,1.0
+succinylcholine,OldAge,68,0.75
+glycopyrrolate,Infant,162,0.3
+glycopyrrolate,Adult,162,1.0
+glycopyrrolate,OldAge,162,0.75
+rocuronium,Infant,313,0.3
+rocuronium,Adult,313,1.0
+rocuronium,OldAge,313,0.75
+etomidate,Infant,216,0.3
+etomidate,Adult,216,1.0
+etomidate,OldAge,216,0.75
+vecuronium,Infant,449,0.3
+vecuronium,Adult,449,1.0
+vecuronium,OldAge,449,0.75
+hyoscyamine,Infant,481,0.3
+hyoscyamine,Adult,481,1.0
+hyoscyamine,OldAge,481,0.75
+cisatracurium,Infant,76,0.3
+cisatracurium,Adult,76,1.0
+cisatracurium,OldAge,76,0.75
+hydromorphone,Infant,269,0.3
+hydromorphone,Adult,269,1.0
+hydromorphone,OldAge,269,0.75
+atracurium,Infant,188,0.3
+atracurium,Adult,188,1.0
+atracurium,OldAge,188,0.75
+butorphanol,Infant,404,0.3
+butorphanol,Adult,404,1.0
+butorphanol,OldAge,404,0.75
+methohexital,Infant,367,0.3
+methohexital,Adult,367,1.0
+methohexital,OldAge,367,0.75
+bisoprolol,Infant,365,0.3
+bisoprolol,Adult,365,1.0
+bisoprolol,OldAge,365,0.75
+nifedipine,Infant,182,0.3
+nifedipine,Adult,182,1.0
+nifedipine,OldAge,182,0.75
+interferon alfa-2b,Infant,435,0.3
+interferon alfa-2b,Adult,435,1.0
+interferon alfa-2b,OldAge,435,0.75
+iohexol,Infant,102,0.3
+iohexol,Adult,102,1.0
+iohexol,OldAge,102,0.75
+danazol,Infant,177,0.3
+danazol,Adult,177,1.0
+danazol,OldAge,177,0.75
+gadobenate dimeglumine,Infant,262,0.3
+gadobenate dimeglumine,Adult,262,1.0
+gadobenate dimeglumine,OldAge,262,0.75
+furosemide,Infant,453,0.3
+furosemide,Adult,453,1.0
+furosemide,OldAge,453,0.75
+hydrochlorothiazide,Infant,290,0.3
+hydrochlorothiazide,Adult,290,1.0
+hydrochlorothiazide,OldAge,290,0.75
+bumetanide,Infant,83,0.3
+bumetanide,Adult,83,1.0
+bumetanide,OldAge,83,0.75
+metolazone,Infant,138,0.3
+metolazone,Adult,138,1.0
+metolazone,OldAge,138,0.75
+torsemide,Infant,453,0.3
+torsemide,Adult,453,1.0
+torsemide,OldAge,453,0.75
+hydrochlorothiazide / triamterene,Infant,124,0.3
+hydrochlorothiazide / triamterene,Adult,124,1.0
+hydrochlorothiazide / triamterene,OldAge,124,0.75
+hydrochlorothiazide / spironolactone,Infant,205,0.3
+hydrochlorothiazide / spironolactone,Adult,205,1.0
+hydrochlorothiazide / spironolactone,OldAge,205,0.75
+triamterene,Infant,391,0.3
+triamterene,Adult,391,1.0
+triamterene,OldAge,391,0.75
+chlorthalidone,Infant,358,0.3
+chlorthalidone,Adult,358,1.0
+chlorthalidone,OldAge,358,0.75
+acetazolamide,Infant,363,0.3
+acetazolamide,Adult,363,1.0
+acetazolamide,OldAge,363,0.75
+celecoxib,Infant,187,0.3
+celecoxib,Adult,187,1.0
+celecoxib,OldAge,187,0.75
+adalimumab,Infant,392,0.3
+adalimumab,Adult,392,1.0
+adalimumab,OldAge,392,0.75
+infliximab,Infant,444,0.3
+infliximab,Adult,444,1.0
+infliximab,OldAge,444,0.75
+chloramphenicol,Infant,384,0.3
+chloramphenicol,Adult,384,1.0
+chloramphenicol,OldAge,384,0.75
+anthrax immune globulin intravenous,Infant,432,0.3
+anthrax immune globulin intravenous,Adult,432,1.0
+anthrax immune globulin intravenous,OldAge,432,0.75
+anthrax vaccine adsorbed,Infant,165,0.3
+anthrax vaccine adsorbed,Adult,165,1.0
+anthrax vaccine adsorbed,OldAge,165,0.75
+immune globulin intravenous,Infant,177,0.3
+immune globulin intravenous,Adult,177,1.0
+immune globulin intravenous,OldAge,177,0.75
+fomepizole,Infant,162,0.3
+fomepizole,Adult,162,1.0
+fomepizole,OldAge,162,0.75
+vancomycin,Infant,474,0.3
+vancomycin,Adult,474,1.0
+vancomycin,OldAge,474,0.75
+physostigmine,Infant,201,0.3
+physostigmine,Adult,201,1.0
+physostigmine,OldAge,201,0.75
+pralidoxime,Infant,457,0.3
+pralidoxime,Adult,457,1.0
+pralidoxime,OldAge,457,0.75
+atropine,Infant,168,0.3
+atropine,Adult,168,1.0
+atropine,OldAge,168,0.75
+heparin,Infant,408,0.3
+heparin,Adult,408,1.0
+heparin,OldAge,408,0.75
+buspirone,Infant,165,0.3
+buspirone,Adult,165,1.0
+buspirone,OldAge,165,0.75
+sildenafil,Infant,247,0.3
+sildenafil,Adult,247,1.0
+sildenafil,OldAge,247,0.75
+amantadine,Infant,379,0.3
+amantadine,Adult,379,1.0
+amantadine,OldAge,379,0.75
+warfarin,Infant,301,0.3
+warfarin,Adult,301,1.0
+warfarin,OldAge,301,0.75
+antithrombin iii,Infant,79,0.3
+antithrombin iii,Adult,79,1.0
+antithrombin iii,OldAge,79,0.75
+antithrombin (recombinant),Infant,443,0.3
+antithrombin (recombinant),Adult,443,1.0
+antithrombin (recombinant),OldAge,443,0.75
+clonazepam,Infant,352,0.3
+clonazepam,Adult,352,1.0
+clonazepam,OldAge,352,0.75
+alprazolam,Infant,252,0.3
+alprazolam,Adult,252,1.0
+alprazolam,OldAge,252,0.75
+lorazepam,Infant,425,0.3
+lorazepam,Adult,425,1.0
+lorazepam,OldAge,425,0.75
+escitalopram,Infant,301,0.3
+escitalopram,Adult,301,1.0
+escitalopram,OldAge,301,0.75
+trazodone,Infant,329,0.3
+trazodone,Adult,329,1.0
+trazodone,OldAge,329,0.75
+duloxetine,Infant,209,0.3
+duloxetine,Adult,209,1.0
+duloxetine,OldAge,209,0.75
+mirtazapine,Infant,140,0.3
+mirtazapine,Adult,140,1.0
+mirtazapine,OldAge,140,0.75
+quetiapine,Infant,450,0.3
+quetiapine,Adult,450,1.0
+quetiapine,OldAge,450,0.75
+dipyridamole,Infant,148,0.3
+dipyridamole,Adult,148,1.0
+dipyridamole,OldAge,148,0.75
+iodixanol,Infant,293,0.3
+iodixanol,Adult,293,1.0
+iodixanol,OldAge,293,0.75
+dexmethylphenidate,Infant,152,0.3
+dexmethylphenidate,Adult,152,1.0
+dexmethylphenidate,OldAge,152,0.75
+sargramostim,Infant,143,0.3
+sargramostim,Adult,143,1.0
+sargramostim,OldAge,143,0.75
+"lymphocyte immune globulin, anti-thy (equine)",Infant,290,0.3
+"lymphocyte immune globulin, anti-thy (equine)",Adult,290,1.0
+"lymphocyte immune globulin, anti-thy (equine)",OldAge,290,0.75
+eltrombopag,Infant,466,0.3
+eltrombopag,Adult,466,1.0
+eltrombopag,OldAge,466,0.75
+caffeine,Infant,382,0.3
+caffeine,Adult,382,1.0
+caffeine,OldAge,382,0.75
+carbamazepine,Infant,321,0.3
+carbamazepine,Adult,321,1.0
+carbamazepine,OldAge,321,0.75
+amiodarone,Infant,255,0.3
+amiodarone,Adult,255,1.0
+amiodarone,OldAge,255,0.75
+verapamil,Infant,361,0.3
+verapamil,Adult,361,1.0
+verapamil,OldAge,361,0.75
+dofetilide,Infant,233,0.3
+dofetilide,Adult,233,1.0
+dofetilide,OldAge,233,0.75
+mexiletine,Infant,329,0.3
+mexiletine,Adult,329,1.0
+mexiletine,OldAge,329,0.75
+disopyramide,Infant,443,0.3
+disopyramide,Adult,443,1.0
+disopyramide,OldAge,443,0.75
+quinidine,Infant,54,0.3
+quinidine,Adult,54,1.0
+quinidine,OldAge,54,0.75
+procainamide,Infant,186,0.3
+procainamide,Adult,186,1.0
+procainamide,OldAge,186,0.75
+dimercaprol,Infant,71,0.3
+dimercaprol,Adult,71,1.0
+dimercaprol,OldAge,71,0.75
+rosuvastatin,Infant,68,0.3
+rosuvastatin,Adult,68,1.0
+rosuvastatin,OldAge,68,0.75
+perindopril,Infant,458,0.3
+perindopril,Adult,458,1.0
+perindopril,OldAge,458,0.75
+isoxsuprine,Infant,386,0.3
+isoxsuprine,Adult,386,1.0
+isoxsuprine,OldAge,386,0.75
+hydroxychloroquine,Infant,317,0.3
+hydroxychloroquine,Adult,317,1.0
+hydroxychloroquine,OldAge,317,0.75
+leflunomide,Infant,113,0.3
+leflunomide,Adult,113,1.0
+leflunomide,OldAge,113,0.75
+acetaminophen / hydrocodone,Infant,424,0.3
+acetaminophen / hydrocodone,Adult,424,1.0
+acetaminophen / hydrocodone,OldAge,424,0.75
+chondroitin / glucosamine,Infant,341,0.3
+chondroitin / glucosamine,Adult,341,1.0
+chondroitin / glucosamine,OldAge,341,0.75
+etodolac,Infant,260,0.3
+etodolac,Adult,260,1.0
+etodolac,OldAge,260,0.75
+mycophenolate mofetil,Infant,423,0.3
+mycophenolate mofetil,Adult,423,1.0
+mycophenolate mofetil,OldAge,423,0.75
+amiloride,Infant,309,0.3
+amiloride,Adult,309,1.0
+amiloride,OldAge,309,0.75
+ethacrynic acid,Infant,360,0.3
+ethacrynic acid,Adult,360,1.0
+ethacrynic acid,OldAge,360,0.75
+alendronate,Infant,373,0.3
+alendronate,Adult,373,1.0
+alendronate,OldAge,373,0.75
+itraconazole,Infant,297,0.3
+itraconazole,Adult,297,1.0
+itraconazole,OldAge,297,0.75
+amphotericin b,Infant,178,0.3
+amphotericin b,Adult,178,1.0
+amphotericin b,OldAge,178,0.75
+amphotericin b lipid complex,Infant,177,0.3
+amphotericin b lipid complex,Adult,177,1.0
+amphotericin b lipid complex,OldAge,177,0.75
+voriconazole,Infant,111,0.3
+voriconazole,Adult,111,1.0
+voriconazole,OldAge,111,0.75
+posaconazole,Infant,416,0.3
+posaconazole,Adult,416,1.0
+posaconazole,OldAge,416,0.75
+caspofungin,Infant,227,0.3
+caspofungin,Adult,227,1.0
+caspofungin,OldAge,227,0.75
+amphotericin b liposomal,Infant,418,0.3
+amphotericin b liposomal,Adult,418,1.0
+amphotericin b liposomal,OldAge,418,0.75
+isavuconazonium,Infant,298,0.3
+isavuconazonium,Adult,298,1.0
+isavuconazonium,OldAge,298,0.75
+ipratropium,Infant,294,0.3
+ipratropium,Adult,294,1.0
+ipratropium,OldAge,294,0.75
+flunisolide,Infant,340,0.3
+flunisolide,Adult,340,1.0
+flunisolide,OldAge,340,0.75
+formoterol / mometasone,Infant,463,0.3
+formoterol / mometasone,Adult,463,1.0
+formoterol / mometasone,OldAge,463,0.75
+fluticasone / vilanterol,Infant,100,0.3
+fluticasone / vilanterol,Adult,100,1.0
+fluticasone / vilanterol,OldAge,100,0.75
+ciclesonide,Infant,113,0.3
+ciclesonide,Adult,113,1.0
+ciclesonide,OldAge,113,0.75
+fluticasone / salmeterol,Infant,155,0.3
+fluticasone / salmeterol,Adult,155,1.0
+fluticasone / salmeterol,OldAge,155,0.75
+budesonide,Infant,64,0.3
+budesonide,Adult,64,1.0
+budesonide,OldAge,64,0.75
+budesonide / formoterol,Infant,487,0.3
+budesonide / formoterol,Adult,487,1.0
+budesonide / formoterol,OldAge,487,0.75
+beclomethasone,Infant,308,0.3
+beclomethasone,Adult,308,1.0
+beclomethasone,OldAge,308,0.75
+calcium chloride,Infant,236,0.3
+calcium chloride,Adult,236,1.0
+calcium chloride,OldAge,236,0.75
+clotrimazole,Infant,70,0.3
+clotrimazole,Adult,70,1.0
+clotrimazole,OldAge,70,0.75
+terbinafine,Infant,216,0.3
+terbinafine,Adult,216,1.0
+terbinafine,OldAge,216,0.75
+econazole,Infant,372,0.3
+econazole,Adult,372,1.0
+econazole,OldAge,372,0.75
+betamethasone / clotrimazole,Infant,298,0.3
+betamethasone / clotrimazole,Adult,298,1.0
+betamethasone / clotrimazole,OldAge,298,0.75
+tolnaftate,Infant,188,0.3
+tolnaftate,Adult,188,1.0
+tolnaftate,OldAge,188,0.75
+ciclopirox,Infant,437,0.3
+ciclopirox,Adult,437,1.0
+ciclopirox,OldAge,437,0.75
+miconazole,Infant,277,0.3
+miconazole,Adult,277,1.0
+miconazole,OldAge,277,0.75
+griseofulvin,Infant,315,0.3
+griseofulvin,Adult,315,1.0
+griseofulvin,OldAge,315,0.75
+halobetasol,Infant,166,0.3
+halobetasol,Adult,166,1.0
+halobetasol,OldAge,166,0.75
+pimecrolimus,Infant,148,0.3
+pimecrolimus,Adult,148,1.0
+pimecrolimus,OldAge,148,0.75
+alclometasone,Infant,434,0.3
+alclometasone,Adult,434,1.0
+alclometasone,OldAge,434,0.75
+esmolol,Infant,406,0.3
+esmolol,Adult,406,1.0
+esmolol,OldAge,406,0.75
+ibutilide,Infant,340,0.3
+ibutilide,Adult,340,1.0
+ibutilide,OldAge,340,0.75
+adenosine,Infant,469,0.3
+adenosine,Adult,469,1.0
+adenosine,OldAge,469,0.75
+estradiol,Infant,366,0.3
+estradiol,Adult,366,1.0
+estradiol,OldAge,366,0.75
+conjugated estrogens,Infant,443,0.3
+conjugated estrogens,Adult,443,1.0
+conjugated estrogens,OldAge,443,0.75
+estradiol / norethindrone,Infant,144,0.3
+estradiol / norethindrone,Adult,144,1.0
+estradiol / norethindrone,OldAge,144,0.75
+ziprasidone,Infant,282,0.3
+ziprasidone,Adult,282,1.0
+ziprasidone,OldAge,282,0.75
+paliperidone,Infant,104,0.3
+paliperidone,Adult,104,1.0
+paliperidone,OldAge,104,0.75
+oseltamivir,Infant,198,0.3
+oseltamivir,Adult,198,1.0
+oseltamivir,OldAge,198,0.75
+"influenza virus vaccine, h5n1",Infant,315,0.3
+"influenza virus vaccine, h5n1",Adult,315,1.0
+"influenza virus vaccine, h5n1",OldAge,315,0.75
+tisagenlecleucel,Infant,179,0.3
+tisagenlecleucel,Adult,179,1.0
+tisagenlecleucel,OldAge,179,0.75
+cyanocobalamin,Infant,257,0.3
+cyanocobalamin,Adult,257,1.0
+cyanocobalamin,OldAge,257,0.75
+atovaquone,Infant,328,0.3
+atovaquone,Adult,328,1.0
+atovaquone,OldAge,328,0.75
+tramadol,Infant,424,0.3
+tramadol,Adult,424,1.0
+tramadol,OldAge,424,0.75
+amikacin,Infant,120,0.3
+amikacin,Adult,120,1.0
+amikacin,OldAge,120,0.75
+cefepime,Infant,431,0.3
+cefepime,Adult,431,1.0
+cefepime,OldAge,431,0.75
+ceftazidime,Infant,291,0.3
+ceftazidime,Adult,291,1.0
+ceftazidime,OldAge,291,0.75
+gentamicin,Infant,304,0.3
+gentamicin,Adult,304,1.0
+gentamicin,OldAge,304,0.75
+linezolid,Infant,327,0.3
+linezolid,Adult,327,1.0
+linezolid,OldAge,327,0.75
+erythromycin,Infant,323,0.3
+erythromycin,Adult,323,1.0
+erythromycin,OldAge,323,0.75
+tobramycin,Infant,354,0.3
+tobramycin,Adult,354,1.0
+tobramycin,OldAge,354,0.75
+polymyxin b / trimethoprim,Infant,355,0.3
+polymyxin b / trimethoprim,Adult,355,1.0
+polymyxin b / trimethoprim,OldAge,355,0.75
+dexamethasone / tobramycin,Infant,377,0.3
+dexamethasone / tobramycin,Adult,377,1.0
+dexamethasone / tobramycin,OldAge,377,0.75
+bacitracin,Infant,168,0.3
+bacitracin,Adult,168,1.0
+bacitracin,OldAge,168,0.75
+dexamethasone / neomycin / polymyxin b,Infant,302,0.3
+dexamethasone / neomycin / polymyxin b,Adult,302,1.0
+dexamethasone / neomycin / polymyxin b,OldAge,302,0.75
+cefadroxil,Infant,194,0.3
+cefadroxil,Adult,194,1.0
+cefadroxil,OldAge,194,0.75
+cefazolin,Infant,243,0.3
+cefazolin,Adult,243,1.0
+cefazolin,OldAge,243,0.75
+bacitracin / neomycin / polymyxin b,Infant,395,0.3
+bacitracin / neomycin / polymyxin b,Adult,395,1.0
+bacitracin / neomycin / polymyxin b,OldAge,395,0.75
+benzalkonium chloride / lidocaine,Infant,124,0.3
+benzalkonium chloride / lidocaine,Adult,124,1.0
+benzalkonium chloride / lidocaine,OldAge,124,0.75
+bacitracin / polymyxin b,Infant,275,0.3
+bacitracin / polymyxin b,Adult,275,1.0
+bacitracin / polymyxin b,OldAge,275,0.75
+hydrocortisone / neomycin / polymyxin b,Infant,127,0.3
+hydrocortisone / neomycin / polymyxin b,Adult,127,1.0
+hydrocortisone / neomycin / polymyxin b,OldAge,127,0.75
+bacitracin / hydrocortisone / neomycin / polymyxin b,Infant,233,0.3
+bacitracin / hydrocortisone / neomycin / polymyxin b,Adult,233,1.0
+bacitracin / hydrocortisone / neomycin / polymyxin b,OldAge,233,0.75
+fluocinolone / neomycin,Infant,366,0.3
+fluocinolone / neomycin,Adult,366,1.0
+fluocinolone / neomycin,OldAge,366,0.75
+bacitracin / neomycin / polymyxin b / pramoxine,Infant,235,0.3
+bacitracin / neomycin / polymyxin b / pramoxine,Adult,235,1.0
+bacitracin / neomycin / polymyxin b / pramoxine,OldAge,235,0.75
+neomycin / polymyxin b / pramoxine,Infant,235,0.3
+neomycin / polymyxin b / pramoxine,Adult,235,1.0
+neomycin / polymyxin b / pramoxine,OldAge,235,0.75
+acetic acid,Infant,144,0.3
+acetic acid,Adult,144,1.0
+acetic acid,OldAge,144,0.75
+secnidazole,Infant,468,0.3
+secnidazole,Adult,468,1.0
+secnidazole,OldAge,468,0.75
+meclizine,Infant,390,0.3
+meclizine,Adult,390,1.0
+meclizine,OldAge,390,0.75
+sincalide,Infant,322,0.3
+sincalide,Adult,322,1.0
+sincalide,OldAge,322,0.75
+magnesium sulfate,Infant,377,0.3
+magnesium sulfate,Adult,377,1.0
+magnesium sulfate,OldAge,377,0.75
+nebivolol,Infant,335,0.3
+nebivolol,Adult,335,1.0
+nebivolol,OldAge,335,0.75
+nadolol,Infant,303,0.3
+nadolol,Adult,303,1.0
+nadolol,OldAge,303,0.75
+labetalol,Infant,401,0.3
+labetalol,Adult,401,1.0
+labetalol,OldAge,401,0.75
+rifampin,Infant,463,0.3
+rifampin,Adult,463,1.0
+rifampin,OldAge,463,0.75
+imiquimod,Infant,106,0.3
+imiquimod,Adult,106,1.0
+imiquimod,OldAge,106,0.75
+vismodegib,Infant,449,0.3
+vismodegib,Adult,449,1.0
+vismodegib,OldAge,449,0.75
+sonidegib,Infant,221,0.3
+sonidegib,Adult,221,1.0
+sonidegib,OldAge,221,0.75
+sumatriptan,Infant,78,0.3
+sumatriptan,Adult,78,1.0
+sumatriptan,OldAge,78,0.75
+rizatriptan,Infant,213,0.3
+rizatriptan,Adult,213,1.0
+rizatriptan,OldAge,213,0.75
+aspirin / butalbital / caffeine,Infant,415,0.3
+aspirin / butalbital / caffeine,Adult,415,1.0
+aspirin / butalbital / caffeine,OldAge,415,0.75
+cyclobenzaprine,Infant,160,0.3
+cyclobenzaprine,Adult,160,1.0
+cyclobenzaprine,OldAge,160,0.75
+naratriptan,Infant,230,0.3
+naratriptan,Adult,230,1.0
+naratriptan,OldAge,230,0.75
+almotriptan,Infant,265,0.3
+almotriptan,Adult,265,1.0
+almotriptan,OldAge,265,0.75
+zolmitriptan,Infant,380,0.3
+zolmitriptan,Adult,380,1.0
+zolmitriptan,OldAge,380,0.75
+eletriptan,Infant,65,0.3
+eletriptan,Adult,65,1.0
+eletriptan,OldAge,65,0.75
+collagenase,Infant,151,0.3
+collagenase,Adult,151,1.0
+collagenase,OldAge,151,0.75
+becaplermin,Infant,258,0.3
+becaplermin,Adult,258,1.0
+becaplermin,OldAge,258,0.75
+cadexomer iodine,Infant,396,0.3
+cadexomer iodine,Adult,396,1.0
+cadexomer iodine,OldAge,396,0.75
+imipramine,Infant,356,0.3
+imipramine,Adult,356,1.0
+imipramine,OldAge,356,0.75
+belladonna,Infant,397,0.3
+belladonna,Adult,397,1.0
+belladonna,OldAge,397,0.75
+praziquantel,Infant,312,0.3
+praziquantel,Adult,312,1.0
+praziquantel,OldAge,312,0.75
+apremilast,Infant,347,0.3
+apremilast,Adult,347,1.0
+apremilast,OldAge,347,0.75
+simethicone,Infant,294,0.3
+simethicone,Adult,294,1.0
+simethicone,OldAge,294,0.75
+aluminum hydroxide / magnesium hydroxide / simethicone,Infant,272,0.3
+aluminum hydroxide / magnesium hydroxide / simethicone,Adult,272,1.0
+aluminum hydroxide / magnesium hydroxide / simethicone,OldAge,272,0.75
+modafinil,Infant,140,0.3
+modafinil,Adult,140,1.0
+modafinil,OldAge,140,0.75
+armodafinil,Infant,360,0.3
+armodafinil,Adult,360,1.0
+armodafinil,OldAge,360,0.75
+tamsulosin,Infant,355,0.3
+tamsulosin,Adult,355,1.0
+tamsulosin,OldAge,355,0.75
+doxazosin,Infant,322,0.3
+doxazosin,Adult,322,1.0
+doxazosin,OldAge,322,0.75
+terazosin,Infant,244,0.3
+terazosin,Adult,244,1.0
+terazosin,OldAge,244,0.75
+alfuzosin,Infant,199,0.3
+alfuzosin,Adult,199,1.0
+alfuzosin,OldAge,199,0.75
+tadalafil,Infant,351,0.3
+tadalafil,Adult,351,1.0
+tadalafil,OldAge,351,0.75
+dutasteride,Infant,467,0.3
+dutasteride,Adult,467,1.0
+dutasteride,OldAge,467,0.75
+silodosin,Infant,79,0.3
+silodosin,Adult,79,1.0
+silodosin,OldAge,79,0.75
+dutasteride / tamsulosin,Infant,331,0.3
+dutasteride / tamsulosin,Adult,331,1.0
+dutasteride / tamsulosin,OldAge,331,0.75
+flumazenil,Infant,368,0.3
+flumazenil,Adult,368,1.0
+flumazenil,OldAge,368,0.75
+thiamine,Infant,267,0.3
+thiamine,Adult,267,1.0
+thiamine,OldAge,267,0.75
+luspatercept,Infant,81,0.3
+luspatercept,Adult,81,1.0
+luspatercept,OldAge,81,0.75
+cholic acid,Infant,193,0.3
+cholic acid,Adult,193,1.0
+cholic acid,OldAge,193,0.75
+ursodiol,Infant,138,0.3
+ursodiol,Adult,138,1.0
+ursodiol,OldAge,138,0.75
+obeticholic acid,Infant,362,0.3
+obeticholic acid,Adult,362,1.0
+obeticholic acid,OldAge,362,0.75
+lamotrigine,Infant,113,0.3
+lamotrigine,Adult,113,1.0
+lamotrigine,OldAge,113,0.75
+lithium,Infant,217,0.3
+lithium,Adult,217,1.0
+lithium,OldAge,217,0.75
+divalproex sodium,Infant,74,0.3
+divalproex sodium,Adult,74,1.0
+divalproex sodium,OldAge,74,0.75
+allopurinol,Infant,228,0.3
+allopurinol,Adult,228,1.0
+allopurinol,OldAge,228,0.75
+magnesium oxide,Infant,102,0.3
+magnesium oxide,Adult,102,1.0
+magnesium oxide,OldAge,102,0.75
+citric acid / potassium citrate,Infant,113,0.3
+citric acid / potassium citrate,Adult,113,1.0
+citric acid / potassium citrate,OldAge,113,0.75
+atezolizumab,Infant,371,0.3
+atezolizumab,Adult,371,1.0
+atezolizumab,OldAge,371,0.75
+thiotepa,Infant,392,0.3
+thiotepa,Adult,392,1.0
+thiotepa,OldAge,392,0.75
+erdafitinib,Infant,341,0.3
+erdafitinib,Adult,341,1.0
+erdafitinib,OldAge,341,0.75
+darifenacin,Infant,239,0.3
+darifenacin,Adult,239,1.0
+darifenacin,OldAge,239,0.75
+onabotulinumtoxina,Infant,73,0.3
+onabotulinumtoxina,Adult,73,1.0
+onabotulinumtoxina,OldAge,73,0.75
+cefpodoxime,Infant,289,0.3
+cefpodoxime,Adult,289,1.0
+cefpodoxime,OldAge,289,0.75
+fosfomycin,Infant,227,0.3
+fosfomycin,Adult,227,1.0
+fosfomycin,OldAge,227,0.75
+phenazopyridine,Infant,252,0.3
+phenazopyridine,Adult,252,1.0
+phenazopyridine,OldAge,252,0.75
+pentosan polysulfate sodium,Infant,105,0.3
+pentosan polysulfate sodium,Adult,105,1.0
+pentosan polysulfate sodium,OldAge,105,0.75
+trospium,Infant,51,0.3
+trospium,Adult,51,1.0
+trospium,OldAge,51,0.75
+dimethyl sulfoxide,Infant,225,0.3
+dimethyl sulfoxide,Adult,225,1.0
+dimethyl sulfoxide,OldAge,225,0.75
+oxybutynin,Infant,480,0.3
+oxybutynin,Adult,480,1.0
+oxybutynin,OldAge,480,0.75
+tolterodine,Infant,237,0.3
+tolterodine,Adult,237,1.0
+tolterodine,OldAge,237,0.75
+mirabegron,Infant,84,0.3
+mirabegron,Adult,84,1.0
+mirabegron,OldAge,84,0.75
+solifenacin,Infant,388,0.3
+solifenacin,Adult,388,1.0
+solifenacin,OldAge,388,0.75
+fesoterodine,Infant,424,0.3
+fesoterodine,Adult,424,1.0
+fesoterodine,OldAge,424,0.75
+fluconazole,Infant,172,0.3
+fluconazole,Adult,172,1.0
+fluconazole,OldAge,172,0.75
+tranexamic acid,Infant,259,0.3
+tranexamic acid,Adult,259,1.0
+tranexamic acid,OldAge,259,0.75
+goserelin,Infant,98,0.3
+goserelin,Adult,98,1.0
+goserelin,OldAge,98,0.75
+"dextran, high molecular weight",Infant,183,0.3
+"dextran, high molecular weight",Adult,183,1.0
+"dextran, high molecular weight",OldAge,183,0.75
+prednisolone / sulfacetamide sodium,Infant,328,0.3
+prednisolone / sulfacetamide sodium,Adult,328,1.0
+prednisolone / sulfacetamide sodium,OldAge,328,0.75
+gentamicin / prednisolone,Infant,235,0.3
+gentamicin / prednisolone,Adult,235,1.0
+gentamicin / prednisolone,OldAge,235,0.75
+incobotulinumtoxina,Infant,206,0.3
+incobotulinumtoxina,Adult,206,1.0
+incobotulinumtoxina,OldAge,206,0.75
+pseudoephedrine,Infant,235,0.3
+pseudoephedrine,Adult,235,1.0
+pseudoephedrine,OldAge,235,0.75
+phenylephrine,Infant,193,0.3
+phenylephrine,Adult,193,1.0
+phenylephrine,OldAge,193,0.75
+oxymetazoline,Infant,379,0.3
+oxymetazoline,Adult,379,1.0
+oxymetazoline,OldAge,379,0.75
+loratadine / pseudoephedrine,Infant,432,0.3
+loratadine / pseudoephedrine,Adult,432,1.0
+loratadine / pseudoephedrine,OldAge,432,0.75
+sodium chloride,Infant,114,0.3
+sodium chloride,Adult,114,1.0
+sodium chloride,OldAge,114,0.75
+xylometazoline,Infant,354,0.3
+xylometazoline,Adult,354,1.0
+xylometazoline,OldAge,354,0.75
+apixaban,Infant,130,0.3
+apixaban,Adult,130,1.0
+apixaban,OldAge,130,0.75
+dabigatran,Infant,191,0.3
+dabigatran,Adult,191,1.0
+dabigatran,OldAge,191,0.75
+fondaparinux,Infant,291,0.3
+fondaparinux,Adult,291,1.0
+fondaparinux,OldAge,291,0.75
+edoxaban,Infant,84,0.3
+edoxaban,Adult,84,1.0
+edoxaban,OldAge,84,0.75
+urokinase,Infant,73,0.3
+urokinase,Adult,73,1.0
+urokinase,OldAge,73,0.75
+hetastarch,Infant,226,0.3
+hetastarch,Adult,226,1.0
+hetastarch,OldAge,226,0.75
+nortriptyline,Infant,234,0.3
+nortriptyline,Adult,234,1.0
+nortriptyline,OldAge,234,0.75
+capsaicin,Infant,254,0.3
+capsaicin,Adult,254,1.0
+capsaicin,OldAge,254,0.75
+ioversol,Infant,359,0.3
+ioversol,Adult,359,1.0
+ioversol,OldAge,359,0.75
+permethrin,Infant,118,0.3
+permethrin,Adult,118,1.0
+permethrin,OldAge,118,0.75
+lindane,Infant,311,0.3
+lindane,Adult,311,1.0
+lindane,OldAge,311,0.75
+piperonyl butoxide / pyrethrins,Infant,85,0.3
+piperonyl butoxide / pyrethrins,Adult,85,1.0
+piperonyl butoxide / pyrethrins,OldAge,85,0.75
+spinosad,Infant,272,0.3
+spinosad,Adult,272,1.0
+spinosad,OldAge,272,0.75
+dactinomycin,Infant,367,0.3
+dactinomycin,Adult,367,1.0
+dactinomycin,OldAge,367,0.75
+dicloxacillin,Infant,443,0.3
+dicloxacillin,Adult,443,1.0
+dicloxacillin,OldAge,443,0.75
+busulfan,Infant,452,0.3
+busulfan,Adult,452,1.0
+busulfan,OldAge,452,0.75
+denosumab,Infant,387,0.3
+denosumab,Adult,387,1.0
+denosumab,OldAge,387,0.75
+zoledronic acid,Infant,456,0.3
+zoledronic acid,Adult,456,1.0
+zoledronic acid,OldAge,456,0.75
+pamidronate,Infant,394,0.3
+pamidronate,Adult,394,1.0
+pamidronate,OldAge,394,0.75
+calcium / vitamin d,Infant,111,0.3
+calcium / vitamin d,Adult,111,1.0
+calcium / vitamin d,OldAge,111,0.75
+calcium carbonate,Infant,354,0.3
+calcium carbonate,Adult,354,1.0
+calcium carbonate,OldAge,354,0.75
+risedronate,Infant,347,0.3
+risedronate,Adult,347,1.0
+risedronate,OldAge,347,0.75
+ibandronate,Infant,62,0.3
+ibandronate,Adult,62,1.0
+ibandronate,OldAge,62,0.75
+raloxifene,Infant,281,0.3
+raloxifene,Adult,281,1.0
+raloxifene,OldAge,281,0.75
+calcitonin,Infant,155,0.3
+calcitonin,Adult,155,1.0
+calcitonin,OldAge,155,0.75
+teriparatide,Infant,77,0.3
+teriparatide,Adult,77,1.0
+teriparatide,OldAge,77,0.75
+clozapine,Infant,486,0.3
+clozapine,Adult,486,1.0
+clozapine,OldAge,486,0.75
+lurasidone,Infant,82,0.3
+lurasidone,Adult,82,1.0
+lurasidone,OldAge,82,0.75
+l-methylfolate,Infant,147,0.3
+l-methylfolate,Adult,147,1.0
+l-methylfolate,OldAge,147,0.75
+asenapine,Infant,139,0.3
+asenapine,Adult,139,1.0
+asenapine,OldAge,139,0.75
+botulism immune globulin,Infant,326,0.3
+botulism immune globulin,Adult,326,1.0
+botulism immune globulin,OldAge,326,0.75
+botulism antitoxin,Infant,277,0.3
+botulism antitoxin,Adult,277,1.0
+botulism antitoxin,OldAge,277,0.75
+polyethylene glycol 3350,Infant,488,0.3
+polyethylene glycol 3350,Adult,488,1.0
+polyethylene glycol 3350,OldAge,488,0.75
+bisacodyl,Infant,266,0.3
+bisacodyl,Adult,266,1.0
+bisacodyl,OldAge,266,0.75
+polyethylene glycol 3350 with electrolytes,Infant,383,0.3
+polyethylene glycol 3350 with electrolytes,Adult,383,1.0
+polyethylene glycol 3350 with electrolytes,OldAge,383,0.75
+magnesium sulfate / potassium sulfate / sodium sulfate,Infant,409,0.3
+magnesium sulfate / potassium sulfate / sodium sulfate,Adult,409,1.0
+magnesium sulfate / potassium sulfate / sodium sulfate,OldAge,409,0.75
+citric acid / magnesium oxide / sodium picosulfate,Infant,439,0.3
+citric acid / magnesium oxide / sodium picosulfate,Adult,439,1.0
+citric acid / magnesium oxide / sodium picosulfate,OldAge,439,0.75
+neomycin,Infant,328,0.3
+neomycin,Adult,328,1.0
+neomycin,OldAge,328,0.75
+carmustine,Infant,60,0.3
+carmustine,Adult,60,1.0
+carmustine,OldAge,60,0.75
+tamoxifen,Infant,267,0.3
+tamoxifen,Adult,267,1.0
+tamoxifen,OldAge,267,0.75
+anastrozole,Infant,80,0.3
+anastrozole,Adult,80,1.0
+anastrozole,OldAge,80,0.75
+letrozole,Infant,269,0.3
+letrozole,Adult,269,1.0
+letrozole,OldAge,269,0.75
+exemestane,Infant,461,0.3
+exemestane,Adult,461,1.0
+exemestane,OldAge,461,0.75
+paclitaxel,Infant,435,0.3
+paclitaxel,Adult,435,1.0
+paclitaxel,OldAge,435,0.75
+trastuzumab,Infant,163,0.3
+trastuzumab,Adult,163,1.0
+trastuzumab,OldAge,163,0.75
+epirubicin,Infant,260,0.3
+epirubicin,Adult,260,1.0
+epirubicin,OldAge,260,0.75
+leuprolide,Infant,107,0.3
+leuprolide,Adult,107,1.0
+leuprolide,OldAge,107,0.75
+neratinib,Infant,239,0.3
+neratinib,Adult,239,1.0
+neratinib,OldAge,239,0.75
+palbociclib,Infant,290,0.3
+palbociclib,Adult,290,1.0
+palbociclib,OldAge,290,0.75
+alpelisib,Infant,457,0.3
+alpelisib,Adult,457,1.0
+alpelisib,OldAge,457,0.75
+fulvestrant,Infant,278,0.3
+fulvestrant,Adult,278,1.0
+fulvestrant,OldAge,278,0.75
+docetaxel,Infant,456,0.3
+docetaxel,Adult,456,1.0
+docetaxel,OldAge,456,0.75
+eribulin,Infant,358,0.3
+eribulin,Adult,358,1.0
+eribulin,OldAge,358,0.75
+testosterone,Infant,443,0.3
+testosterone,Adult,443,1.0
+testosterone,OldAge,443,0.75
+methyltestosterone,Infant,492,0.3
+methyltestosterone,Adult,492,1.0
+methyltestosterone,OldAge,492,0.75
+fluoxymesterone,Infant,227,0.3
+fluoxymesterone,Adult,227,1.0
+fluoxymesterone,OldAge,227,0.75
+esterified estrogens,Infant,50,0.3
+esterified estrogens,Adult,50,1.0
+esterified estrogens,OldAge,50,0.75
+ethinyl estradiol,Infant,69,0.3
+ethinyl estradiol,Adult,69,1.0
+ethinyl estradiol,OldAge,69,0.75
+metoclopramide,Infant,317,0.3
+metoclopramide,Adult,317,1.0
+metoclopramide,OldAge,317,0.75
+guaifenesin,Infant,288,0.3
+guaifenesin,Adult,288,1.0
+guaifenesin,OldAge,288,0.75
+ribavirin,Infant,484,0.3
+ribavirin,Adult,484,1.0
+ribavirin,OldAge,484,0.75
+palivizumab,Infant,100,0.3
+palivizumab,Adult,100,1.0
+palivizumab,OldAge,100,0.75
+aclidinium,Infant,472,0.3
+aclidinium,Adult,472,1.0
+aclidinium,OldAge,472,0.75
+roflumilast,Infant,346,0.3
+roflumilast,Adult,346,1.0
+roflumilast,OldAge,346,0.75
+umeclidinium / vilanterol,Infant,312,0.3
+umeclidinium / vilanterol,Adult,312,1.0
+umeclidinium / vilanterol,OldAge,312,0.75
+olodaterol / tiotropium,Infant,310,0.3
+olodaterol / tiotropium,Adult,310,1.0
+olodaterol / tiotropium,OldAge,310,0.75
+dyphylline,Infant,183,0.3
+dyphylline,Adult,183,1.0
+dyphylline,OldAge,183,0.75
+fluticasone / umeclidinium / vilanterol,Infant,195,0.3
+fluticasone / umeclidinium / vilanterol,Adult,195,1.0
+fluticasone / umeclidinium / vilanterol,OldAge,195,0.75
+olodaterol,Infant,289,0.3
+olodaterol,Adult,289,1.0
+olodaterol,OldAge,289,0.75
+umeclidinium,Infant,259,0.3
+umeclidinium,Adult,259,1.0
+umeclidinium,OldAge,259,0.75
+cimetidine,Infant,279,0.3
+cimetidine,Adult,279,1.0
+cimetidine,OldAge,279,0.75
+formoterol,Infant,172,0.3
+formoterol,Adult,172,1.0
+formoterol,OldAge,172,0.75
+streptomycin,Infant,358,0.3
+streptomycin,Adult,358,1.0
+streptomycin,OldAge,358,0.75
+argatroban,Infant,295,0.3
+argatroban,Adult,295,1.0
+argatroban,OldAge,295,0.75
+alteplase,Infant,81,0.3
+alteplase,Adult,81,1.0
+alteplase,OldAge,81,0.75
+dapsone,Infant,156,0.3
+dapsone,Adult,156,1.0
+dapsone,OldAge,156,0.75
+rituximab,Infant,159,0.3
+rituximab,Adult,159,1.0
+rituximab,OldAge,159,0.75
+silver sulfadiazine,Infant,444,0.3
+silver sulfadiazine,Adult,444,1.0
+silver sulfadiazine,OldAge,444,0.75
+vitamin a & d,Infant,249,0.3
+vitamin a & d,Adult,249,1.0
+vitamin a & d,OldAge,249,0.75
+desvenlafaxine,Infant,223,0.3
+desvenlafaxine,Adult,223,1.0
+desvenlafaxine,OldAge,223,0.75
+fidaxomicin,Infant,272,0.3
+fidaxomicin,Adult,272,1.0
+fidaxomicin,OldAge,272,0.75
+penicillin v potassium,Infant,299,0.3
+penicillin v potassium,Adult,299,1.0
+penicillin v potassium,OldAge,299,0.75
+daptomycin,Infant,355,0.3
+daptomycin,Adult,355,1.0
+daptomycin,OldAge,355,0.75
+dalfopristin / quinupristin,Infant,346,0.3
+dalfopristin / quinupristin,Adult,346,1.0
+dalfopristin / quinupristin,OldAge,346,0.75
+carboplatin,Infant,448,0.3
+carboplatin,Adult,448,1.0
+carboplatin,OldAge,448,0.75
+etoposide,Infant,266,0.3
+etoposide,Adult,266,1.0
+etoposide,OldAge,266,0.75
+chlorambucil,Infant,157,0.3
+chlorambucil,Adult,157,1.0
+chlorambucil,OldAge,157,0.75
+ifosfamide,Infant,196,0.3
+ifosfamide,Adult,196,1.0
+ifosfamide,OldAge,196,0.75
+vinblastine,Infant,194,0.3
+vinblastine,Adult,194,1.0
+vinblastine,OldAge,194,0.75
+topotecan,Infant,104,0.3
+topotecan,Adult,104,1.0
+topotecan,OldAge,104,0.75
+fludarabine,Infant,470,0.3
+fludarabine,Adult,470,1.0
+fludarabine,OldAge,470,0.75
+pembrolizumab,Infant,380,0.3
+pembrolizumab,Adult,380,1.0
+pembrolizumab,OldAge,380,0.75
+ibrutinib,Infant,211,0.3
+ibrutinib,Adult,211,1.0
+ibrutinib,OldAge,211,0.75
+bendamustine,Infant,172,0.3
+bendamustine,Adult,172,1.0
+bendamustine,OldAge,172,0.75
+idelalisib,Infant,200,0.3
+idelalisib,Adult,200,1.0
+idelalisib,OldAge,200,0.75
+obinutuzumab,Infant,81,0.3
+obinutuzumab,Adult,81,1.0
+obinutuzumab,OldAge,81,0.75
+alemtuzumab,Infant,194,0.3
+alemtuzumab,Adult,194,1.0
+alemtuzumab,OldAge,194,0.75
+ofatumumab,Infant,206,0.3
+ofatumumab,Adult,206,1.0
+ofatumumab,OldAge,206,0.75
+nilotinib,Infant,77,0.3
+nilotinib,Adult,77,1.0
+nilotinib,OldAge,77,0.75
+anagrelide,Infant,171,0.3
+anagrelide,Adult,171,1.0
+anagrelide,OldAge,171,0.75
+bosutinib,Infant,100,0.3
+bosutinib,Adult,100,1.0
+bosutinib,OldAge,100,0.75
+omacetaxine,Infant,424,0.3
+omacetaxine,Adult,424,1.0
+omacetaxine,OldAge,424,0.75
+peginterferon alfa-2b,Infant,226,0.3
+peginterferon alfa-2b,Adult,226,1.0
+peginterferon alfa-2b,OldAge,226,0.75
+oxaliplatin,Infant,100,0.3
+oxaliplatin,Adult,100,1.0
+oxaliplatin,OldAge,100,0.75
+irinotecan,Infant,314,0.3
+irinotecan,Adult,314,1.0
+irinotecan,OldAge,314,0.75
+cetuximab,Infant,258,0.3
+cetuximab,Adult,258,1.0
+cetuximab,OldAge,258,0.75
+panitumumab,Infant,466,0.3
+panitumumab,Adult,466,1.0
+panitumumab,OldAge,466,0.75
+regorafenib,Infant,103,0.3
+regorafenib,Adult,103,1.0
+regorafenib,OldAge,103,0.75
+romidepsin,Infant,218,0.3
+romidepsin,Adult,218,1.0
+romidepsin,OldAge,218,0.75
+vorinostat,Infant,453,0.3
+vorinostat,Adult,453,1.0
+vorinostat,OldAge,453,0.75
+bexarotene,Infant,296,0.3
+bexarotene,Adult,296,1.0
+bexarotene,OldAge,296,0.75
+methoxsalen,Infant,251,0.3
+methoxsalen,Adult,251,1.0
+methoxsalen,OldAge,251,0.75
+interferon gamma-1b,Infant,466,0.3
+interferon gamma-1b,Adult,466,1.0
+interferon gamma-1b,OldAge,466,0.75
+niraparib,Infant,134,0.3
+niraparib,Adult,134,1.0
+niraparib,OldAge,134,0.75
+ramucirumab,Infant,361,0.3
+ramucirumab,Adult,361,1.0
+ramucirumab,OldAge,361,0.75
+cladribine,Infant,317,0.3
+cladribine,Adult,317,1.0
+cladribine,OldAge,317,0.75
+pentostatin,Infant,59,0.3
+pentostatin,Adult,59,1.0
+pentostatin,OldAge,59,0.75
+moxetumomab pasudotox,Infant,288,0.3
+moxetumomab pasudotox,Adult,288,1.0
+moxetumomab pasudotox,OldAge,288,0.75
+bleomycin,Infant,115,0.3
+bleomycin,Adult,115,1.0
+bleomycin,OldAge,115,0.75
+dacarbazine,Infant,110,0.3
+dacarbazine,Adult,110,1.0
+dacarbazine,OldAge,110,0.75
+brentuximab,Infant,266,0.3
+brentuximab,Adult,266,1.0
+brentuximab,OldAge,266,0.75
+doxorubicin liposomal,Infant,61,0.3
+doxorubicin liposomal,Adult,61,1.0
+doxorubicin liposomal,OldAge,61,0.75
+alitretinoin,Infant,178,0.3
+alitretinoin,Adult,178,1.0
+alitretinoin,OldAge,178,0.75
+erlotinib,Infant,461,0.3
+erlotinib,Adult,461,1.0
+erlotinib,OldAge,461,0.75
+pemetrexed,Infant,482,0.3
+pemetrexed,Adult,482,1.0
+pemetrexed,OldAge,482,0.75
+gefitinib,Infant,404,0.3
+gefitinib,Adult,404,1.0
+gefitinib,OldAge,404,0.75
+crizotinib,Infant,407,0.3
+crizotinib,Adult,407,1.0
+crizotinib,OldAge,407,0.75
+nelarabine,Infant,187,0.3
+nelarabine,Adult,187,1.0
+nelarabine,OldAge,187,0.75
+bortezomib,Infant,394,0.3
+bortezomib,Adult,394,1.0
+bortezomib,OldAge,394,0.75
+pralatrexate,Infant,499,0.3
+pralatrexate,Adult,499,1.0
+pralatrexate,OldAge,499,0.75
+thalidomide,Infant,84,0.3
+thalidomide,Adult,84,1.0
+thalidomide,OldAge,84,0.75
+carfilzomib,Infant,96,0.3
+carfilzomib,Adult,96,1.0
+carfilzomib,OldAge,96,0.75
+pomalidomide,Infant,255,0.3
+pomalidomide,Adult,255,1.0
+pomalidomide,OldAge,255,0.75
+daratumumab,Infant,126,0.3
+daratumumab,Adult,126,1.0
+daratumumab,OldAge,126,0.75
+melphalan,Infant,251,0.3
+melphalan,Adult,251,1.0
+melphalan,OldAge,251,0.75
+ipilimumab,Infant,216,0.3
+ipilimumab,Adult,216,1.0
+ipilimumab,OldAge,216,0.75
+talimogene laherparepvec,Infant,120,0.3
+talimogene laherparepvec,Adult,120,1.0
+talimogene laherparepvec,OldAge,120,0.75
+ibritumomab,Infant,328,0.3
+ibritumomab,Adult,328,1.0
+ibritumomab,OldAge,328,0.75
+olaparib,Infant,424,0.3
+olaparib,Adult,424,1.0
+olaparib,OldAge,424,0.75
+gemcitabine,Infant,308,0.3
+gemcitabine,Adult,308,1.0
+gemcitabine,OldAge,308,0.75
+paclitaxel protein-bound,Infant,221,0.3
+paclitaxel protein-bound,Adult,221,1.0
+paclitaxel protein-bound,OldAge,221,0.75
+pancreatin,Infant,56,0.3
+pancreatin,Adult,56,1.0
+pancreatin,OldAge,56,0.75
+irinotecan liposomal,Infant,384,0.3
+irinotecan liposomal,Adult,384,1.0
+irinotecan liposomal,OldAge,384,0.75
+streptozocin,Infant,459,0.3
+streptozocin,Adult,459,1.0
+streptozocin,OldAge,459,0.75
+bicalutamide,Infant,321,0.3
+bicalutamide,Adult,321,1.0
+bicalutamide,OldAge,321,0.75
+abiraterone,Infant,216,0.3
+abiraterone,Adult,216,1.0
+abiraterone,OldAge,216,0.75
+enzalutamide,Infant,294,0.3
+enzalutamide,Adult,294,1.0
+enzalutamide,OldAge,294,0.75
+degarelix,Infant,243,0.3
+degarelix,Adult,243,1.0
+degarelix,OldAge,243,0.75
+flutamide,Infant,73,0.3
+flutamide,Adult,73,1.0
+flutamide,OldAge,73,0.75
+triptorelin,Infant,103,0.3
+triptorelin,Adult,103,1.0
+triptorelin,OldAge,103,0.75
+cemiplimab,Infant,393,0.3
+cemiplimab,Adult,393,1.0
+cemiplimab,OldAge,393,0.75
+anidulafungin,Infant,95,0.3
+anidulafungin,Adult,95,1.0
+anidulafungin,OldAge,95,0.75
+micafungin,Infant,490,0.3
+micafungin,Adult,490,1.0
+micafungin,OldAge,490,0.75
+flucytosine,Infant,322,0.3
+flucytosine,Adult,322,1.0
+flucytosine,OldAge,322,0.75
+nystatin,Infant,272,0.3
+nystatin,Adult,272,1.0
+nystatin,OldAge,272,0.75
+nystatin / triamcinolone,Infant,283,0.3
+nystatin / triamcinolone,Adult,283,1.0
+nystatin / triamcinolone,OldAge,283,0.75
+gentian violet,Infant,68,0.3
+gentian violet,Adult,68,1.0
+gentian violet,OldAge,68,0.75
+terconazole,Infant,59,0.3
+terconazole,Adult,59,1.0
+terconazole,OldAge,59,0.75
+tioconazole,Infant,456,0.3
+tioconazole,Adult,456,1.0
+tioconazole,OldAge,456,0.75
+boric acid,Infant,475,0.3
+boric acid,Adult,475,1.0
+boric acid,OldAge,475,0.75
+tazarotene,Infant,408,0.3
+tazarotene,Adult,408,1.0
+tazarotene,OldAge,408,0.75
+abobotulinumtoxina,Infant,395,0.3
+abobotulinumtoxina,Adult,395,1.0
+abobotulinumtoxina,OldAge,395,0.75
+azficel-t,Infant,385,0.3
+azficel-t,Adult,385,1.0
+azficel-t,OldAge,385,0.75
+uridine,Infant,218,0.3
+uridine,Adult,218,1.0
+uridine,OldAge,218,0.75
+rilonacept,Infant,452,0.3
+rilonacept,Adult,452,1.0
+rilonacept,OldAge,452,0.75
+canakinumab,Infant,66,0.3
+canakinumab,Adult,66,1.0
+canakinumab,OldAge,66,0.75
+telotristat,Infant,205,0.3
+telotristat,Adult,205,1.0
+telotristat,OldAge,205,0.75
+perflutren,Infant,50,0.3
+perflutren,Adult,50,1.0
+perflutren,OldAge,50,0.75
+dexrazoxane,Infant,132,0.3
+dexrazoxane,Adult,132,1.0
+dexrazoxane,OldAge,132,0.75
+simvastatin,Infant,463,0.3
+simvastatin,Adult,463,1.0
+simvastatin,OldAge,463,0.75
+ramipril,Infant,121,0.3
+ramipril,Adult,121,1.0
+ramipril,OldAge,121,0.75
+telmisartan,Infant,238,0.3
+telmisartan,Adult,238,1.0
+telmisartan,OldAge,238,0.75
+empagliflozin,Infant,199,0.3
+empagliflozin,Adult,199,1.0
+empagliflozin,OldAge,199,0.75
+liraglutide,Infant,325,0.3
+liraglutide,Adult,325,1.0
+liraglutide,OldAge,325,0.75
+alirocumab,Infant,431,0.3
+alirocumab,Adult,431,1.0
+alirocumab,OldAge,431,0.75
+evolocumab,Infant,434,0.3
+evolocumab,Adult,434,1.0
+evolocumab,OldAge,434,0.75
+canagliflozin / metformin,Infant,163,0.3
+canagliflozin / metformin,Adult,163,1.0
+canagliflozin / metformin,OldAge,163,0.75
+canagliflozin,Infant,369,0.3
+canagliflozin,Adult,369,1.0
+canagliflozin,OldAge,369,0.75
+icosapent,Infant,106,0.3
+icosapent,Adult,106,1.0
+icosapent,OldAge,106,0.75
+semaglutide,Infant,458,0.3
+semaglutide,Adult,458,1.0
+semaglutide,OldAge,458,0.75
+levocarnitine,Infant,192,0.3
+levocarnitine,Adult,192,1.0
+levocarnitine,OldAge,192,0.75
+siltuximab,Infant,85,0.3
+siltuximab,Adult,85,1.0
+siltuximab,OldAge,85,0.75
+sodium oxybate,Infant,293,0.3
+sodium oxybate,Adult,293,1.0
+sodium oxybate,OldAge,293,0.75
+milnacipran,Infant,420,0.3
+milnacipran,Adult,420,1.0
+milnacipran,OldAge,420,0.75
+doxepin,Infant,484,0.3
+doxepin,Adult,484,1.0
+doxepin,OldAge,484,0.75
+desmopressin,Infant,368,0.3
+desmopressin,Adult,368,1.0
+desmopressin,OldAge,368,0.75
+iopromide,Infant,74,0.3
+iopromide,Adult,74,1.0
+iopromide,OldAge,74,0.75
+mannitol,Infant,178,0.3
+mannitol,Adult,178,1.0
+mannitol,OldAge,178,0.75
+trihexyphenidyl,Infant,483,0.3
+trihexyphenidyl,Adult,483,1.0
+trihexyphenidyl,OldAge,483,0.75
+ticlopidine,Infant,234,0.3
+ticlopidine,Adult,234,1.0
+ticlopidine,OldAge,234,0.75
+nimodipine,Infant,491,0.3
+nimodipine,Adult,491,1.0
+nimodipine,OldAge,491,0.75
+carbamide peroxide,Infant,151,0.3
+carbamide peroxide,Adult,151,1.0
+carbamide peroxide,OldAge,151,0.75
+rimabotulinumtoxinb,Infant,400,0.3
+rimabotulinumtoxinb,Adult,400,1.0
+rimabotulinumtoxinb,OldAge,400,0.75
+bupivacaine,Infant,110,0.3
+bupivacaine,Adult,110,1.0
+bupivacaine,OldAge,110,0.75
+ropivacaine,Infant,179,0.3
+ropivacaine,Adult,179,1.0
+ropivacaine,OldAge,179,0.75
+cefotetan,Infant,337,0.3
+cefotetan,Adult,337,1.0
+cefotetan,OldAge,337,0.75
+piperacillin,Infant,489,0.3
+piperacillin,Adult,489,1.0
+piperacillin,OldAge,489,0.75
+esterified estrogens / methyltestosterone,Infant,472,0.3
+esterified estrogens / methyltestosterone,Adult,472,1.0
+esterified estrogens / methyltestosterone,OldAge,472,0.75
+estradiol / progesterone,Infant,448,0.3
+estradiol / progesterone,Adult,448,1.0
+estradiol / progesterone,OldAge,448,0.75
+tizanidine,Infant,123,0.3
+tizanidine,Adult,123,1.0
+tizanidine,OldAge,123,0.75
+methocarbamol,Infant,317,0.3
+methocarbamol,Adult,317,1.0
+methocarbamol,OldAge,317,0.75
+carisoprodol,Infant,74,0.3
+carisoprodol,Adult,74,1.0
+carisoprodol,OldAge,74,0.75
+metaxalone,Infant,445,0.3
+metaxalone,Adult,445,1.0
+metaxalone,OldAge,445,0.75
+chlorzoxazone,Infant,499,0.3
+chlorzoxazone,Adult,499,1.0
+chlorzoxazone,OldAge,499,0.75
+orphenadrine,Infant,395,0.3
+orphenadrine,Adult,395,1.0
+orphenadrine,OldAge,395,0.75
+aspirin / caffeine / orphenadrine,Infant,226,0.3
+aspirin / caffeine / orphenadrine,Adult,226,1.0
+aspirin / caffeine / orphenadrine,OldAge,226,0.75
+aspirin / carisoprodol,Infant,464,0.3
+aspirin / carisoprodol,Adult,464,1.0
+aspirin / carisoprodol,OldAge,464,0.75
+aspirin / carisoprodol / codeine,Infant,376,0.3
+aspirin / carisoprodol / codeine,Adult,376,1.0
+aspirin / carisoprodol / codeine,OldAge,376,0.75
+amifostine,Infant,188,0.3
+amifostine,Adult,188,1.0
+amifostine,OldAge,188,0.75
+hydralazine,Infant,74,0.3
+hydralazine,Adult,74,1.0
+hydralazine,OldAge,74,0.75
+acyclovir,Infant,211,0.3
+acyclovir,Adult,211,1.0
+acyclovir,OldAge,211,0.75
+valacyclovir,Infant,219,0.3
+valacyclovir,Adult,219,1.0
+valacyclovir,OldAge,219,0.75
+varicella zoster immune globulin,Infant,422,0.3
+varicella zoster immune globulin,Adult,422,1.0
+varicella zoster immune globulin,OldAge,422,0.75
+immune globulin intramuscular,Infant,99,0.3
+immune globulin intramuscular,Adult,99,1.0
+immune globulin intramuscular,OldAge,99,0.75
+foscarnet,Infant,178,0.3
+foscarnet,Adult,178,1.0
+foscarnet,OldAge,178,0.75
+"cholera vaccine, live",Infant,56,0.3
+"cholera vaccine, live",Adult,56,1.0
+"cholera vaccine, live",OldAge,56,0.75
+atorvastatin,Infant,384,0.3
+atorvastatin,Adult,384,1.0
+atorvastatin,OldAge,384,0.75
+pravastatin,Infant,145,0.3
+pravastatin,Adult,145,1.0
+pravastatin,OldAge,145,0.75
+lovastatin,Infant,128,0.3
+lovastatin,Adult,128,1.0
+lovastatin,OldAge,128,0.75
+ezetimibe,Infant,470,0.3
+ezetimibe,Adult,470,1.0
+ezetimibe,OldAge,470,0.75
+gemfibrozil,Infant,206,0.3
+gemfibrozil,Adult,206,1.0
+gemfibrozil,OldAge,206,0.75
+niacin,Infant,222,0.3
+niacin,Adult,222,1.0
+niacin,OldAge,222,0.75
+ezetimibe / simvastatin,Infant,438,0.3
+ezetimibe / simvastatin,Adult,438,1.0
+ezetimibe / simvastatin,OldAge,438,0.75
+fenofibric acid,Infant,410,0.3
+fenofibric acid,Adult,410,1.0
+fenofibric acid,OldAge,410,0.75
+coagulation factor ix,Infant,219,0.3
+coagulation factor ix,Adult,219,1.0
+coagulation factor ix,OldAge,219,0.75
+factor ix complex,Infant,222,0.3
+factor ix complex,Adult,222,1.0
+factor ix complex,OldAge,222,0.75
+benzonatate,Infant,471,0.3
+benzonatate,Adult,471,1.0
+benzonatate,OldAge,471,0.75
+codeine / guaifenesin,Infant,340,0.3
+codeine / guaifenesin,Adult,340,1.0
+codeine / guaifenesin,OldAge,340,0.75
+dextromethorphan,Infant,208,0.3
+dextromethorphan,Adult,208,1.0
+dextromethorphan,OldAge,208,0.75
+codeine / promethazine,Infant,461,0.3
+codeine / promethazine,Adult,461,1.0
+codeine / promethazine,OldAge,461,0.75
+homatropine / hydrocodone,Infant,57,0.3
+homatropine / hydrocodone,Adult,57,1.0
+homatropine / hydrocodone,OldAge,57,0.75
+dextromethorphan / guaifenesin,Infant,325,0.3
+dextromethorphan / guaifenesin,Adult,325,1.0
+dextromethorphan / guaifenesin,OldAge,325,0.75
+chlorpheniramine / hydrocodone,Infant,472,0.3
+chlorpheniramine / hydrocodone,Adult,472,1.0
+chlorpheniramine / hydrocodone,OldAge,472,0.75
+dextromethorphan / promethazine,Infant,372,0.3
+dextromethorphan / promethazine,Adult,372,1.0
+dextromethorphan / promethazine,OldAge,372,0.75
+loperamide,Infant,256,0.3
+loperamide,Adult,256,1.0
+loperamide,OldAge,256,0.75
+colesevelam,Infant,69,0.3
+colesevelam,Adult,69,1.0
+colesevelam,OldAge,69,0.75
+bismuth subsalicylate,Infant,383,0.3
+bismuth subsalicylate,Adult,383,1.0
+bismuth subsalicylate,OldAge,383,0.75
+atropine / difenoxin,Infant,368,0.3
+atropine / difenoxin,Adult,368,1.0
+atropine / difenoxin,OldAge,368,0.75
+entecavir,Infant,117,0.3
+entecavir,Adult,117,1.0
+entecavir,OldAge,117,0.75
+adefovir,Infant,89,0.3
+adefovir,Adult,89,1.0
+adefovir,OldAge,89,0.75
+tenofovir alafenamide,Infant,332,0.3
+tenofovir alafenamide,Adult,332,1.0
+tenofovir alafenamide,OldAge,332,0.75
+peginterferon alfa-2a,Infant,203,0.3
+peginterferon alfa-2a,Adult,203,1.0
+peginterferon alfa-2a,OldAge,203,0.75
+ledipasvir / sofosbuvir,Infant,347,0.3
+ledipasvir / sofosbuvir,Adult,347,1.0
+ledipasvir / sofosbuvir,OldAge,347,0.75
+sofosbuvir,Infant,124,0.3
+sofosbuvir,Adult,124,1.0
+sofosbuvir,OldAge,124,0.75
+sofosbuvir / velpatasvir,Infant,125,0.3
+sofosbuvir / velpatasvir,Adult,125,1.0
+sofosbuvir / velpatasvir,OldAge,125,0.75
+dasabuvir / ombitasvir / paritaprevir / ritonavir,Infant,355,0.3
+dasabuvir / ombitasvir / paritaprevir / ritonavir,Adult,355,1.0
+dasabuvir / ombitasvir / paritaprevir / ritonavir,OldAge,355,0.75
+elbasvir / grazoprevir,Infant,482,0.3
+elbasvir / grazoprevir,Adult,482,1.0
+elbasvir / grazoprevir,OldAge,482,0.75
+glecaprevir / pibrentasvir,Infant,122,0.3
+glecaprevir / pibrentasvir,Adult,122,1.0
+glecaprevir / pibrentasvir,OldAge,122,0.75
+sofosbuvir / velpatasvir / voxilaprevir,Infant,360,0.3
+sofosbuvir / velpatasvir / voxilaprevir,Adult,360,1.0
+sofosbuvir / velpatasvir / voxilaprevir,OldAge,360,0.75
+plecanatide,Infant,452,0.3
+plecanatide,Adult,452,1.0
+plecanatide,OldAge,452,0.75
+prucalopride,Infant,346,0.3
+prucalopride,Adult,346,1.0
+prucalopride,OldAge,346,0.75
+immune globulin intravenous and subcutaneous,Infant,362,0.3
+immune globulin intravenous and subcutaneous,Adult,362,1.0
+immune globulin intravenous and subcutaneous,OldAge,362,0.75
+interferon beta-1b,Infant,395,0.3
+interferon beta-1b,Adult,395,1.0
+interferon beta-1b,OldAge,395,0.75
+immune globulin subcutaneous,Infant,166,0.3
+immune globulin subcutaneous,Adult,166,1.0
+immune globulin subcutaneous,OldAge,166,0.75
+levothyroxine,Infant,106,0.3
+levothyroxine,Adult,106,1.0
+levothyroxine,OldAge,106,0.75
+albuterol / ipratropium,Infant,150,0.3
+albuterol / ipratropium,Adult,150,1.0
+albuterol / ipratropium,OldAge,150,0.75
+tiotropium,Infant,415,0.3
+tiotropium,Adult,415,1.0
+tiotropium,OldAge,415,0.75
+midodrine,Infant,93,0.3
+midodrine,Adult,93,1.0
+midodrine,OldAge,93,0.75
+oxycodone,Infant,129,0.3
+oxycodone,Adult,129,1.0
+oxycodone,OldAge,129,0.75
+acetaminophen / oxycodone,Infant,190,0.3
+acetaminophen / oxycodone,Adult,190,1.0
+acetaminophen / oxycodone,OldAge,190,0.75
+morphine,Infant,380,0.3
+morphine,Adult,380,1.0
+morphine,OldAge,380,0.75
+methadone,Infant,375,0.3
+methadone,Adult,375,1.0
+methadone,OldAge,375,0.75
+buprenorphine,Infant,121,0.3
+buprenorphine,Adult,121,1.0
+buprenorphine,OldAge,121,0.75
+pancrelipase,Infant,480,0.3
+pancrelipase,Adult,480,1.0
+pancrelipase,OldAge,480,0.75
+dupilumab,Infant,314,0.3
+dupilumab,Adult,314,1.0
+dupilumab,OldAge,314,0.75
+dantrolene,Infant,359,0.3
+dantrolene,Adult,359,1.0
+dantrolene,OldAge,359,0.75
+mepolizumab,Infant,222,0.3
+mepolizumab,Adult,222,1.0
+mepolizumab,OldAge,222,0.75
+cerliponase alfa,Infant,465,0.3
+cerliponase alfa,Adult,465,1.0
+cerliponase alfa,OldAge,465,0.75
+bezlotoxumab,Infant,139,0.3
+bezlotoxumab,Adult,139,1.0
+bezlotoxumab,OldAge,139,0.75
+fibrin sealant,Infant,152,0.3
+fibrin sealant,Adult,152,1.0
+fibrin sealant,OldAge,152,0.75
+dihydroergotamine,Infant,169,0.3
+dihydroergotamine,Adult,169,1.0
+dihydroergotamine,OldAge,169,0.75
+caffeine / ergotamine,Infant,202,0.3
+caffeine / ergotamine,Adult,202,1.0
+caffeine / ergotamine,OldAge,202,0.75
+ganciclovir,Infant,170,0.3
+ganciclovir,Adult,170,1.0
+ganciclovir,OldAge,170,0.75
+valganciclovir,Infant,114,0.3
+valganciclovir,Adult,114,1.0
+valganciclovir,OldAge,114,0.75
+cytomegalovirus immune globulin,Infant,237,0.3
+cytomegalovirus immune globulin,Adult,237,1.0
+cytomegalovirus immune globulin,OldAge,237,0.75
+letermovir,Infant,98,0.3
+letermovir,Adult,98,1.0
+letermovir,OldAge,98,0.75
+cidofovir,Infant,88,0.3
+cidofovir,Adult,88,1.0
+cidofovir,OldAge,88,0.75
+gadopentetate dimeglumine,Infant,181,0.3
+gadopentetate dimeglumine,Adult,181,1.0
+gadopentetate dimeglumine,OldAge,181,0.75
+gadobutrol,Infant,133,0.3
+gadobutrol,Adult,133,1.0
+gadobutrol,OldAge,133,0.75
+gadoteridol,Infant,276,0.3
+gadoteridol,Adult,276,1.0
+gadoteridol,OldAge,276,0.75
+gadodiamide,Infant,193,0.3
+gadodiamide,Adult,193,1.0
+gadodiamide,OldAge,193,0.75
+gadoterate meglumine,Infant,155,0.3
+gadoterate meglumine,Adult,155,1.0
+gadoterate meglumine,OldAge,155,0.75
+cyclosporine,Infant,388,0.3
+cyclosporine,Adult,388,1.0
+cyclosporine,OldAge,388,0.75
+acetaminophen / chlorpheniramine / phenylephrine,Infant,480,0.3
+acetaminophen / chlorpheniramine / phenylephrine,Adult,480,1.0
+acetaminophen / chlorpheniramine / phenylephrine,OldAge,480,0.75
+pseudoephedrine / triprolidine,Infant,453,0.3
+pseudoephedrine / triprolidine,Adult,453,1.0
+pseudoephedrine / triprolidine,OldAge,453,0.75
+famciclovir,Infant,104,0.3
+famciclovir,Adult,104,1.0
+famciclovir,OldAge,104,0.75
+acyclovir / hydrocortisone,Infant,292,0.3
+acyclovir / hydrocortisone,Adult,292,1.0
+acyclovir / hydrocortisone,OldAge,292,0.75
+penciclovir,Infant,268,0.3
+penciclovir,Adult,268,1.0
+penciclovir,OldAge,268,0.75
+benzyl alcohol,Infant,278,0.3
+benzyl alcohol,Adult,278,1.0
+benzyl alcohol,OldAge,278,0.75
+dicyclomine,Infant,386,0.3
+dicyclomine,Adult,386,1.0
+dicyclomine,OldAge,386,0.75
+mesalamine,Infant,489,0.3
+mesalamine,Adult,489,1.0
+mesalamine,OldAge,489,0.75
+balsalazide,Infant,386,0.3
+balsalazide,Adult,386,1.0
+balsalazide,OldAge,386,0.75
+ammonium lactate,Infant,315,0.3
+ammonium lactate,Adult,315,1.0
+ammonium lactate,OldAge,315,0.75
+salicylic acid,Infant,279,0.3
+salicylic acid,Adult,279,1.0
+salicylic acid,OldAge,279,0.75
+silver nitrate,Infant,413,0.3
+silver nitrate,Adult,413,1.0
+silver nitrate,OldAge,413,0.75
+cantharidin,Infant,354,0.3
+cantharidin,Adult,354,1.0
+cantharidin,OldAge,354,0.75
+mupirocin,Infant,195,0.3
+mupirocin,Adult,195,1.0
+mupirocin,OldAge,195,0.75
+meropenem,Infant,436,0.3
+meropenem,Adult,436,1.0
+meropenem,OldAge,436,0.75
+barium sulfate,Infant,289,0.3
+barium sulfate,Adult,289,1.0
+barium sulfate,OldAge,289,0.75
+podofilox,Infant,260,0.3
+podofilox,Adult,260,1.0
+podofilox,OldAge,260,0.75
+sinecatechins,Infant,293,0.3
+sinecatechins,Adult,293,1.0
+sinecatechins,OldAge,293,0.75
+interferon alfa-n3,Infant,173,0.3
+interferon alfa-n3,Adult,173,1.0
+interferon alfa-n3,OldAge,173,0.75
+fibrinogen,Infant,184,0.3
+fibrinogen,Adult,184,1.0
+fibrinogen,OldAge,184,0.75
+procaine penicillin,Infant,491,0.3
+procaine penicillin,Adult,491,1.0
+procaine penicillin,OldAge,491,0.75
+sulfacetamide sodium,Infant,492,0.3
+sulfacetamide sodium,Adult,492,1.0
+sulfacetamide sodium,OldAge,492,0.75
+loteprednol,Infant,267,0.3
+loteprednol,Adult,267,1.0
+loteprednol,OldAge,267,0.75
+gatifloxacin,Infant,209,0.3
+gatifloxacin,Adult,209,1.0
+gatifloxacin,OldAge,209,0.75
+lodoxamide,Infant,406,0.3
+lodoxamide,Adult,406,1.0
+lodoxamide,OldAge,406,0.75
+docusate,Infant,378,0.3
+docusate,Adult,378,1.0
+docusate,OldAge,378,0.75
+magnesium citrate,Infant,113,0.3
+magnesium citrate,Adult,113,1.0
+magnesium citrate,OldAge,113,0.75
+psyllium,Infant,452,0.3
+psyllium,Adult,452,1.0
+psyllium,OldAge,452,0.75
+linaclotide,Infant,252,0.3
+linaclotide,Adult,252,1.0
+linaclotide,OldAge,252,0.75
+magnesium hydroxide,Infant,267,0.3
+magnesium hydroxide,Adult,267,1.0
+magnesium hydroxide,OldAge,267,0.75
+lactulose,Infant,335,0.3
+lactulose,Adult,335,1.0
+lactulose,OldAge,335,0.75
+docusate / senna,Infant,92,0.3
+docusate / senna,Adult,92,1.0
+docusate / senna,OldAge,92,0.75
+lubiprostone,Infant,460,0.3
+lubiprostone,Adult,460,1.0
+lubiprostone,OldAge,460,0.75
+methylnaltrexone,Infant,416,0.3
+methylnaltrexone,Adult,416,1.0
+methylnaltrexone,OldAge,416,0.75
+tegaserod,Infant,201,0.3
+tegaserod,Adult,201,1.0
+tegaserod,OldAge,201,0.75
+naloxegol,Infant,328,0.3
+naloxegol,Adult,328,1.0
+naloxegol,OldAge,328,0.75
+naldemedine,Infant,434,0.3
+naldemedine,Adult,434,1.0
+naldemedine,OldAge,434,0.75
+nitroprusside,Infant,354,0.3
+nitroprusside,Adult,354,1.0
+nitroprusside,OldAge,354,0.75
+cysteamine,Infant,311,0.3
+cysteamine,Adult,311,1.0
+cysteamine,OldAge,311,0.75
+ketorolac,Infant,417,0.3
+ketorolac,Adult,417,1.0
+ketorolac,OldAge,417,0.75
+riboflavin,Infant,156,0.3
+riboflavin,Adult,156,1.0
+riboflavin,OldAge,156,0.75
+brompheniramine / dextromethorphan / pseudoephedrine,Infant,460,0.3
+brompheniramine / dextromethorphan / pseudoephedrine,Adult,460,1.0
+brompheniramine / dextromethorphan / pseudoephedrine,OldAge,460,0.75
+guaifenesin / pseudoephedrine,Infant,357,0.3
+guaifenesin / pseudoephedrine,Adult,357,1.0
+guaifenesin / pseudoephedrine,OldAge,357,0.75
+dextromethorphan / guaifenesin / phenylephrine,Infant,203,0.3
+dextromethorphan / guaifenesin / phenylephrine,Adult,203,1.0
+dextromethorphan / guaifenesin / phenylephrine,OldAge,203,0.75
+guaifenesin / phenylephrine,Infant,243,0.3
+guaifenesin / phenylephrine,Adult,243,1.0
+guaifenesin / phenylephrine,OldAge,243,0.75
+chlorpheniramine / hydrocodone / pseudoephedrine,Infant,324,0.3
+chlorpheniramine / hydrocodone / pseudoephedrine,Adult,324,1.0
+chlorpheniramine / hydrocodone / pseudoephedrine,OldAge,324,0.75
+codeine / phenylephrine / promethazine,Infant,384,0.3
+codeine / phenylephrine / promethazine,Adult,384,1.0
+codeine / phenylephrine / promethazine,OldAge,384,0.75
+cholestyramine,Infant,50,0.3
+cholestyramine,Adult,50,1.0
+cholestyramine,OldAge,50,0.75
+vedolizumab,Infant,392,0.3
+vedolizumab,Adult,392,1.0
+vedolizumab,OldAge,392,0.75
+rifaximin,Infant,178,0.3
+rifaximin,Adult,178,1.0
+rifaximin,OldAge,178,0.75
+certolizumab,Infant,222,0.3
+certolizumab,Adult,222,1.0
+certolizumab,OldAge,222,0.75
+ustekinumab,Infant,60,0.3
+ustekinumab,Adult,60,1.0
+ustekinumab,OldAge,60,0.75
+natalizumab,Infant,165,0.3
+natalizumab,Adult,165,1.0
+natalizumab,OldAge,165,0.75
+corticorelin,Infant,401,0.3
+corticorelin,Adult,401,1.0
+corticorelin,OldAge,401,0.75
+avelumab,Infant,325,0.3
+avelumab,Adult,325,1.0
+avelumab,OldAge,325,0.75
+miltefosine,Infant,110,0.3
+miltefosine,Adult,110,1.0
+miltefosine,OldAge,110,0.75
+potassium iodide,Infant,107,0.3
+potassium iodide,Adult,107,1.0
+potassium iodide,OldAge,107,0.75
+pramoxine / zinc acetate,Infant,312,0.3
+pramoxine / zinc acetate,Adult,312,1.0
+pramoxine / zinc acetate,OldAge,312,0.75
+benzethonium chloride,Infant,406,0.3
+benzethonium chloride,Adult,406,1.0
+benzethonium chloride,OldAge,406,0.75
+hydroxocobalamin,Infant,363,0.3
+hydroxocobalamin,Adult,363,1.0
+hydroxocobalamin,OldAge,363,0.75
+sodium nitrite / sodium thiosulfate,Infant,390,0.3
+sodium nitrite / sodium thiosulfate,Adult,390,1.0
+sodium nitrite / sodium thiosulfate,OldAge,390,0.75
+amyl nitrite,Infant,166,0.3
+amyl nitrite,Adult,166,1.0
+amyl nitrite,OldAge,166,0.75
+sodium thiosulfate,Infant,370,0.3
+sodium thiosulfate,Adult,370,1.0
+sodium thiosulfate,OldAge,370,0.75
+sodium nitrite,Infant,316,0.3
+sodium nitrite,Adult,316,1.0
+sodium nitrite,OldAge,316,0.75
+loteprednol / tobramycin,Infant,393,0.3
+loteprednol / tobramycin,Adult,393,1.0
+loteprednol / tobramycin,OldAge,393,0.75
+dornase alfa,Infant,211,0.3
+dornase alfa,Adult,211,1.0
+dornase alfa,OldAge,211,0.75
+ivacaftor,Infant,204,0.3
+ivacaftor,Adult,204,1.0
+ivacaftor,OldAge,204,0.75
+aztreonam,Infant,69,0.3
+aztreonam,Adult,69,1.0
+aztreonam,OldAge,69,0.75
+ivacaftor / lumacaftor,Infant,262,0.3
+ivacaftor / lumacaftor,Adult,262,1.0
+ivacaftor / lumacaftor,OldAge,262,0.75
+tiopronin,Infant,214,0.3
+tiopronin,Adult,214,1.0
+tiopronin,OldAge,214,0.75
+penicillamine,Infant,86,0.3
+penicillamine,Adult,86,1.0
+penicillamine,OldAge,86,0.75
+pyrithione zinc,Infant,121,0.3
+pyrithione zinc,Adult,121,1.0
+pyrithione zinc,OldAge,121,0.75
+salicylic acid / sulfur,Infant,392,0.3
+salicylic acid / sulfur,Adult,392,1.0
+salicylic acid / sulfur,OldAge,392,0.75
+selenium sulfide,Infant,75,0.3
+selenium sulfide,Adult,75,1.0
+selenium sulfide,OldAge,75,0.75
+solriamfetol,Infant,374,0.3
+solriamfetol,Adult,374,1.0
+solriamfetol,OldAge,374,0.75
+dalteparin,Infant,464,0.3
+dalteparin,Adult,464,1.0
+dalteparin,OldAge,464,0.75
+desirudin,Infant,163,0.3
+desirudin,Adult,163,1.0
+desirudin,OldAge,163,0.75
+lvp solution,Infant,353,0.3
+lvp solution,Adult,353,1.0
+lvp solution,OldAge,353,0.75
+trifluridine,Infant,355,0.3
+trifluridine,Adult,355,1.0
+trifluridine,OldAge,355,0.75
+hydrogen peroxide,Infant,424,0.3
+hydrogen peroxide,Adult,424,1.0
+hydrogen peroxide,OldAge,424,0.75
+brexanolone,Infant,366,0.3
+brexanolone,Adult,366,1.0
+brexanolone,OldAge,366,0.75
+phentolamine,Infant,375,0.3
+phentolamine,Adult,375,1.0
+phentolamine,OldAge,375,0.75
+miconazole / zinc oxide,Infant,85,0.3
+miconazole / zinc oxide,Adult,85,1.0
+miconazole / zinc oxide,OldAge,85,0.75
+lanolin,Infant,375,0.3
+lanolin,Adult,375,1.0
+lanolin,OldAge,375,0.75
+menthol / zinc oxide,Infant,157,0.3
+menthol / zinc oxide,Adult,157,1.0
+menthol / zinc oxide,OldAge,157,0.75
+"vitamins a, d, and e",Infant,220,0.3
+"vitamins a, d, and e",Adult,220,1.0
+"vitamins a, d, and e",OldAge,220,0.75
+balsam peru / castor oil / trypsin,Infant,364,0.3
+balsam peru / castor oil / trypsin,Adult,364,1.0
+balsam peru / castor oil / trypsin,OldAge,364,0.75
+sodium hyaluronate,Infant,281,0.3
+sodium hyaluronate,Adult,281,1.0
+sodium hyaluronate,OldAge,281,0.75
+balsam peru / castor oil,Infant,469,0.3
+balsam peru / castor oil,Adult,469,1.0
+balsam peru / castor oil,OldAge,469,0.75
+hydroquinone,Infant,481,0.3
+hydroquinone,Adult,481,1.0
+hydroquinone,OldAge,481,0.75
+urea,Infant,325,0.3
+urea,Adult,325,1.0
+urea,OldAge,325,0.75
+hydrocortisone / pramoxine,Infant,51,0.3
+hydrocortisone / pramoxine,Adult,51,1.0
+hydrocortisone / pramoxine,OldAge,51,0.75
+silver,Infant,55,0.3
+silver,Adult,55,1.0
+silver,OldAge,55,0.75
+mycophenolic acid,Infant,164,0.3
+mycophenolic acid,Adult,164,1.0
+mycophenolic acid,OldAge,164,0.75
+flavoxate,Infant,408,0.3
+flavoxate,Adult,408,1.0
+flavoxate,OldAge,408,0.75
+metformin,Infant,443,0.3
+metformin,Adult,443,1.0
+metformin,OldAge,443,0.75
+glipizide,Infant,472,0.3
+glipizide,Adult,472,1.0
+glipizide,OldAge,472,0.75
+glimepiride,Infant,461,0.3
+glimepiride,Adult,461,1.0
+glimepiride,OldAge,461,0.75
+pioglitazone,Infant,245,0.3
+pioglitazone,Adult,245,1.0
+pioglitazone,OldAge,245,0.75
+sitagliptin,Infant,433,0.3
+sitagliptin,Adult,433,1.0
+sitagliptin,OldAge,433,0.75
+metformin / sitagliptin,Infant,185,0.3
+metformin / sitagliptin,Adult,185,1.0
+metformin / sitagliptin,OldAge,185,0.75
+insulin degludec,Infant,198,0.3
+insulin degludec,Adult,198,1.0
+insulin degludec,OldAge,198,0.75
+insulin aspart / insulin degludec,Infant,350,0.3
+insulin aspart / insulin degludec,Adult,350,1.0
+insulin aspart / insulin degludec,OldAge,350,0.75
+insulin glargine,Infant,109,0.3
+insulin glargine,Adult,109,1.0
+insulin glargine,OldAge,109,0.75
+insulin lispro,Infant,113,0.3
+insulin lispro,Adult,113,1.0
+insulin lispro,OldAge,113,0.75
+insulin aspart,Infant,373,0.3
+insulin aspart,Adult,373,1.0
+insulin aspart,OldAge,373,0.75
+insulin regular,Infant,427,0.3
+insulin regular,Adult,427,1.0
+insulin regular,OldAge,427,0.75
+insulin glulisine,Infant,244,0.3
+insulin glulisine,Adult,244,1.0
+insulin glulisine,OldAge,244,0.75
+irbesartan,Infant,206,0.3
+irbesartan,Adult,206,1.0
+irbesartan,OldAge,206,0.75
+benazepril,Infant,355,0.3
+benazepril,Adult,355,1.0
+benazepril,OldAge,355,0.75
+moexipril,Infant,137,0.3
+moexipril,Adult,137,1.0
+moexipril,OldAge,137,0.75
+trandolapril,Infant,182,0.3
+trandolapril,Adult,182,1.0
+trandolapril,OldAge,182,0.75
+ranibizumab,Infant,80,0.3
+ranibizumab,Adult,80,1.0
+ranibizumab,OldAge,80,0.75
+aflibercept,Infant,304,0.3
+aflibercept,Adult,304,1.0
+aflibercept,OldAge,304,0.75
+tapentadol,Infant,220,0.3
+tapentadol,Adult,220,1.0
+tapentadol,OldAge,220,0.75
+tuberculin purified protein derivative,Infant,124,0.3
+tuberculin purified protein derivative,Adult,124,1.0
+tuberculin purified protein derivative,OldAge,124,0.75
+metyrapone,Infant,54,0.3
+metyrapone,Adult,54,1.0
+metyrapone,OldAge,54,0.75
+tetrofosmin,Infant,68,0.3
+tetrofosmin,Adult,68,1.0
+tetrofosmin,OldAge,68,0.75
+glucagon,Infant,295,0.3
+glucagon,Adult,295,1.0
+glucagon,OldAge,295,0.75
+regadenoson,Infant,428,0.3
+regadenoson,Adult,428,1.0
+regadenoson,OldAge,428,0.75
+iobenguane i 123,Infant,222,0.3
+iobenguane i 123,Adult,222,1.0
+iobenguane i 123,OldAge,222,0.75
+methacholine,Infant,425,0.3
+methacholine,Adult,425,1.0
+methacholine,OldAge,425,0.75
+atropine / diphenoxylate,Infant,360,0.3
+atropine / diphenoxylate,Adult,360,1.0
+atropine / diphenoxylate,OldAge,360,0.75
+codeine,Infant,272,0.3
+codeine,Adult,272,1.0
+codeine,OldAge,272,0.75
+saccharomyces boulardii lyo,Infant,204,0.3
+saccharomyces boulardii lyo,Adult,204,1.0
+saccharomyces boulardii lyo,OldAge,204,0.75
+opium,Infant,424,0.3
+opium,Adult,424,1.0
+opium,OldAge,424,0.75
+loperamide / simethicone,Infant,283,0.3
+loperamide / simethicone,Adult,283,1.0
+loperamide / simethicone,OldAge,283,0.75
+multivitamin,Infant,179,0.3
+multivitamin,Adult,179,1.0
+multivitamin,OldAge,179,0.75
+biotin,Infant,485,0.3
+biotin,Adult,485,1.0
+biotin,OldAge,485,0.75
+omega-3 polyunsaturated fatty acids,Infant,292,0.3
+omega-3 polyunsaturated fatty acids,Adult,292,1.0
+omega-3 polyunsaturated fatty acids,OldAge,292,0.75
+calcium citrate,Infant,407,0.3
+calcium citrate,Adult,407,1.0
+calcium citrate,OldAge,407,0.75
+ascorbic acid,Infant,101,0.3
+ascorbic acid,Adult,101,1.0
+ascorbic acid,OldAge,101,0.75
+bifidobacterium infantis / lactobacillus acidophilus,Infant,434,0.3
+bifidobacterium infantis / lactobacillus acidophilus,Adult,434,1.0
+bifidobacterium infantis / lactobacillus acidophilus,OldAge,434,0.75
+zolpidem,Infant,419,0.3
+zolpidem,Adult,419,1.0
+zolpidem,OldAge,419,0.75
+temazepam,Infant,484,0.3
+temazepam,Adult,484,1.0
+temazepam,OldAge,484,0.75
+eszopiclone,Infant,361,0.3
+eszopiclone,Adult,361,1.0
+eszopiclone,OldAge,361,0.75
+flurazepam,Infant,446,0.3
+flurazepam,Adult,446,1.0
+flurazepam,OldAge,446,0.75
+axicabtagene ciloleucel,Infant,125,0.3
+axicabtagene ciloleucel,Adult,125,1.0
+axicabtagene ciloleucel,OldAge,125,0.75
+hyaluronidase / rituximab,Infant,174,0.3
+hyaluronidase / rituximab,Adult,174,1.0
+hyaluronidase / rituximab,OldAge,174,0.75
+polatuzumab vedotin,Infant,373,0.3
+polatuzumab vedotin,Adult,373,1.0
+polatuzumab vedotin,OldAge,373,0.75
+digoxin immune fab,Infant,447,0.3
+digoxin immune fab,Adult,447,1.0
+digoxin immune fab,OldAge,447,0.75
+"diphtheria toxoid / pertussis, acellular / tetanus toxoid",Infant,407,0.3
+"diphtheria toxoid / pertussis, acellular / tetanus toxoid",Adult,407,1.0
+"diphtheria toxoid / pertussis, acellular / tetanus toxoid",OldAge,407,0.75
+diphtheria toxoid / tetanus toxoid,Infant,489,0.3
+diphtheria toxoid / tetanus toxoid,Adult,489,1.0
+diphtheria toxoid / tetanus toxoid,OldAge,489,0.75
+"diphtheria toxoid / haemophilus b conjugate (prp-t) vaccine / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid",Infant,387,0.3
+"diphtheria toxoid / haemophilus b conjugate (prp-t) vaccine / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid",Adult,387,1.0
+"diphtheria toxoid / haemophilus b conjugate (prp-t) vaccine / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid",OldAge,387,0.75
+"diphtheria and tetanus toxoids / pertussis, acellular",Infant,342,0.3
+"diphtheria and tetanus toxoids / pertussis, acellular",Adult,342,1.0
+"diphtheria and tetanus toxoids / pertussis, acellular",OldAge,342,0.75
+"diphtheria toxoid / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid",Infant,426,0.3
+"diphtheria toxoid / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid",Adult,426,1.0
+"diphtheria toxoid / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid",OldAge,426,0.75
+"diphtheria toxoid / hepatitis b pediatric vaccine / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid",Infant,478,0.3
+"diphtheria toxoid / hepatitis b pediatric vaccine / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid",Adult,478,1.0
+"diphtheria toxoid / hepatitis b pediatric vaccine / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid",OldAge,478,0.75
+"diphtheria and tetanus toxoids / pertussis, acellular / poliovirus vaccine, inactivated / haemophilus b conjugate / hepatitis b vaccine",Infant,413,0.3
+"diphtheria and tetanus toxoids / pertussis, acellular / poliovirus vaccine, inactivated / haemophilus b conjugate / hepatitis b vaccine",Adult,413,1.0
+"diphtheria and tetanus toxoids / pertussis, acellular / poliovirus vaccine, inactivated / haemophilus b conjugate / hepatitis b vaccine",OldAge,413,0.75
+belimumab,Infant,354,0.3
+belimumab,Adult,354,1.0
+belimumab,OldAge,354,0.75
+cycloserine,Infant,269,0.3
+cycloserine,Adult,269,1.0
+cycloserine,OldAge,269,0.75
+deoxycholic acid,Infant,51,0.3
+deoxycholic acid,Adult,51,1.0
+deoxycholic acid,OldAge,51,0.75
+cannabidiol,Infant,218,0.3
+cannabidiol,Adult,218,1.0
+cannabidiol,OldAge,218,0.75
+stiripentol,Infant,60,0.3
+stiripentol,Adult,60,1.0
+stiripentol,OldAge,60,0.75
+hydrochlorothiazide / lisinopril,Infant,361,0.3
+hydrochlorothiazide / lisinopril,Adult,361,1.0
+hydrochlorothiazide / lisinopril,OldAge,361,0.75
+valsartan,Infant,215,0.3
+valsartan,Adult,215,1.0
+valsartan,OldAge,215,0.75
+lifitegrast,Infant,289,0.3
+lifitegrast,Adult,289,1.0
+lifitegrast,OldAge,289,0.75
+hydroxypropyl methylcellulose,Infant,230,0.3
+hydroxypropyl methylcellulose,Adult,230,1.0
+hydroxypropyl methylcellulose,OldAge,230,0.75
+pilocarpine,Infant,141,0.3
+pilocarpine,Adult,141,1.0
+pilocarpine,OldAge,141,0.75
+saliva substitutes,Infant,291,0.3
+saliva substitutes,Adult,291,1.0
+saliva substitutes,OldAge,291,0.75
+glycerin,Infant,198,0.3
+glycerin,Adult,198,1.0
+glycerin,OldAge,198,0.75
+emollients,Infant,472,0.3
+emollients,Adult,472,1.0
+emollients,OldAge,472,0.75
+deflazacort,Infant,298,0.3
+deflazacort,Adult,298,1.0
+deflazacort,OldAge,298,0.75
+eteplirsen,Infant,325,0.3
+eteplirsen,Adult,325,1.0
+eteplirsen,OldAge,325,0.75
+golodirsen,Infant,480,0.3
+golodirsen,Adult,480,1.0
+golodirsen,OldAge,480,0.75
+acarbose,Infant,202,0.3
+acarbose,Adult,202,1.0
+acarbose,OldAge,202,0.75
+methscopolamine,Infant,208,0.3
+methscopolamine,Adult,208,1.0
+methscopolamine,OldAge,208,0.75
+atropine / hyoscyamine / phenobarbital / scopolamine,Infant,337,0.3
+atropine / hyoscyamine / phenobarbital / scopolamine,Adult,337,1.0
+atropine / hyoscyamine / phenobarbital / scopolamine,OldAge,337,0.75
+collagenase clostridium histolyticum,Infant,283,0.3
+collagenase clostridium histolyticum,Adult,283,1.0
+collagenase clostridium histolyticum,OldAge,283,0.75
+pyridostigmine,Infant,416,0.3
+pyridostigmine,Adult,416,1.0
+pyridostigmine,OldAge,416,0.75
+pitavastatin,Infant,316,0.3
+pitavastatin,Adult,316,1.0
+pitavastatin,OldAge,316,0.75
+fluvastatin,Infant,82,0.3
+fluvastatin,Adult,82,1.0
+fluvastatin,OldAge,82,0.75
+mefenamic acid,Infant,71,0.3
+mefenamic acid,Adult,71,1.0
+mefenamic acid,OldAge,71,0.75
+ketoprofen,Infant,87,0.3
+ketoprofen,Adult,87,1.0
+ketoprofen,OldAge,87,0.75
+ospemifene,Infant,177,0.3
+ospemifene,Adult,177,1.0
+ospemifene,OldAge,177,0.75
+dehydroepiandrosterone,Infant,297,0.3
+dehydroepiandrosterone,Adult,297,1.0
+dehydroepiandrosterone,OldAge,297,0.75
+ciprofloxacin / dexamethasone,Infant,442,0.3
+ciprofloxacin / dexamethasone,Adult,442,1.0
+ciprofloxacin / dexamethasone,OldAge,442,0.75
+acetic acid / hydrocortisone,Infant,213,0.3
+acetic acid / hydrocortisone,Adult,213,1.0
+acetic acid / hydrocortisone,OldAge,213,0.75
+acetic acid / aluminum acetate,Infant,296,0.3
+acetic acid / aluminum acetate,Adult,296,1.0
+acetic acid / aluminum acetate,OldAge,296,0.75
+amifampridine,Infant,288,0.3
+amifampridine,Adult,288,1.0
+amifampridine,OldAge,288,0.75
+"ebola zaire vaccine, live",Infant,371,0.3
+"ebola zaire vaccine, live",Adult,371,1.0
+"ebola zaire vaccine, live",OldAge,371,0.75
+ulipristal,Infant,481,0.3
+ulipristal,Adult,481,1.0
+ulipristal,OldAge,481,0.75
+ethinyl estradiol / norgestrel,Infant,307,0.3
+ethinyl estradiol / norgestrel,Adult,307,1.0
+ethinyl estradiol / norgestrel,OldAge,307,0.75
+vardenafil,Infant,189,0.3
+vardenafil,Adult,189,1.0
+vardenafil,OldAge,189,0.75
+alprostadil,Infant,129,0.3
+alprostadil,Adult,129,1.0
+alprostadil,OldAge,129,0.75
+avanafil,Infant,495,0.3
+avanafil,Adult,495,1.0
+avanafil,OldAge,495,0.75
+ropinirole,Infant,138,0.3
+ropinirole,Adult,138,1.0
+ropinirole,OldAge,138,0.75
+pramipexole,Infant,56,0.3
+pramipexole,Adult,56,1.0
+pramipexole,OldAge,56,0.75
+carbidopa / levodopa,Infant,395,0.3
+carbidopa / levodopa,Adult,395,1.0
+carbidopa / levodopa,OldAge,395,0.75
+rotigotine,Infant,194,0.3
+rotigotine,Adult,194,1.0
+rotigotine,OldAge,194,0.75
+levodopa,Infant,480,0.3
+levodopa,Adult,480,1.0
+levodopa,OldAge,480,0.75
+oxacillin,Infant,328,0.3
+oxacillin,Adult,328,1.0
+oxacillin,OldAge,328,0.75
+iopamidol,Infant,295,0.3
+iopamidol,Adult,295,1.0
+iopamidol,OldAge,295,0.75
+chlordiazepoxide / clidinium,Infant,246,0.3
+chlordiazepoxide / clidinium,Adult,246,1.0
+chlordiazepoxide / clidinium,OldAge,246,0.75
+tazemetostat,Infant,393,0.3
+tazemetostat,Adult,393,1.0
+tazemetostat,OldAge,393,0.75
+vemurafenib,Infant,192,0.3
+vemurafenib,Adult,192,1.0
+vemurafenib,OldAge,192,0.75
+diflorasone,Infant,242,0.3
+diflorasone,Adult,242,1.0
+diflorasone,OldAge,242,0.75
+calcipotriene,Infant,238,0.3
+calcipotriene,Adult,238,1.0
+calcipotriene,OldAge,238,0.75
+acitretin,Infant,343,0.3
+acitretin,Adult,343,1.0
+acitretin,OldAge,343,0.75
+betamethasone / calcipotriene,Infant,285,0.3
+betamethasone / calcipotriene,Adult,285,1.0
+betamethasone / calcipotriene,OldAge,285,0.75
+porfimer,Infant,103,0.3
+porfimer,Adult,103,1.0
+porfimer,OldAge,103,0.75
+ethanolamine oleate,Infant,316,0.3
+ethanolamine oleate,Adult,316,1.0
+ethanolamine oleate,OldAge,316,0.75
+tolvaptan,Infant,473,0.3
+tolvaptan,Adult,473,1.0
+tolvaptan,OldAge,473,0.75
+conivaptan,Infant,285,0.3
+conivaptan,Adult,285,1.0
+conivaptan,OldAge,285,0.75
+aluminum chloride hexahydrate,Infant,145,0.3
+aluminum chloride hexahydrate,Adult,145,1.0
+aluminum chloride hexahydrate,OldAge,145,0.75
+benztropine,Infant,477,0.3
+benztropine,Adult,477,1.0
+benztropine,OldAge,477,0.75
+glycopyrronium,Infant,132,0.3
+glycopyrronium,Adult,132,1.0
+glycopyrronium,OldAge,132,0.75
+calcium gluconate,Infant,387,0.3
+calcium gluconate,Adult,387,1.0
+calcium gluconate,OldAge,387,0.75
+hepatitis b immune globulin,Infant,394,0.3
+hepatitis b immune globulin,Adult,394,1.0
+hepatitis b immune globulin,OldAge,394,0.75
+hyaluronidase,Infant,157,0.3
+hyaluronidase,Adult,157,1.0
+hyaluronidase,OldAge,157,0.75
+coagulation factor viia,Infant,164,0.3
+coagulation factor viia,Adult,164,1.0
+coagulation factor viia,OldAge,164,0.75
+lutein,Infant,158,0.3
+lutein,Adult,158,1.0
+lutein,OldAge,158,0.75
+natamycin,Infant,119,0.3
+natamycin,Adult,119,1.0
+natamycin,OldAge,119,0.75
+fluorometholone,Infant,149,0.3
+fluorometholone,Adult,149,1.0
+fluorometholone,OldAge,149,0.75
+naphazoline,Infant,478,0.3
+naphazoline,Adult,478,1.0
+naphazoline,OldAge,478,0.75
+tetrahydrozoline,Infant,224,0.3
+tetrahydrozoline,Adult,224,1.0
+tetrahydrozoline,OldAge,224,0.75
+naphazoline / pheniramine,Infant,287,0.3
+naphazoline / pheniramine,Adult,287,1.0
+naphazoline / pheniramine,OldAge,287,0.75
+tetrahydrozoline / zinc sulfate,Infant,170,0.3
+tetrahydrozoline / zinc sulfate,Adult,170,1.0
+tetrahydrozoline / zinc sulfate,OldAge,170,0.75
+bimatoprost,Infant,408,0.3
+bimatoprost,Adult,408,1.0
+bimatoprost,OldAge,408,0.75
+agalsidase beta,Infant,248,0.3
+agalsidase beta,Adult,248,1.0
+agalsidase beta,OldAge,248,0.75
+migalastat,Infant,386,0.3
+migalastat,Adult,386,1.0
+migalastat,OldAge,386,0.75
+poly-l-lactic acid,Infant,146,0.3
+poly-l-lactic acid,Adult,146,1.0
+poly-l-lactic acid,OldAge,146,0.75
+coagulation factor x,Infant,264,0.3
+coagulation factor x,Adult,264,1.0
+coagulation factor x,OldAge,264,0.75
+factor xiii,Infant,212,0.3
+factor xiii,Adult,212,1.0
+factor xiii,OldAge,212,0.75
+lomitapide,Infant,237,0.3
+lomitapide,Adult,237,1.0
+lomitapide,OldAge,237,0.75
+ergocalciferol,Infant,457,0.3
+ergocalciferol,Adult,457,1.0
+ergocalciferol,OldAge,457,0.75
+triclabendazole,Infant,400,0.3
+triclabendazole,Adult,400,1.0
+triclabendazole,OldAge,400,0.75
+orlistat,Infant,126,0.3
+orlistat,Adult,126,1.0
+orlistat,OldAge,126,0.75
+betaine,Infant,418,0.3
+betaine,Adult,418,1.0
+betaine,OldAge,418,0.75
+rosiglitazone,Infant,263,0.3
+rosiglitazone,Adult,263,1.0
+rosiglitazone,OldAge,263,0.75
+auranofin,Infant,418,0.3
+auranofin,Adult,418,1.0
+auranofin,OldAge,418,0.75
+clomiphene,Infant,195,0.3
+clomiphene,Adult,195,1.0
+clomiphene,OldAge,195,0.75
+chorionic gonadotropin (hcg),Infant,403,0.3
+chorionic gonadotropin (hcg),Adult,403,1.0
+chorionic gonadotropin (hcg),OldAge,403,0.75
+menotropins,Infant,59,0.3
+menotropins,Adult,59,1.0
+menotropins,OldAge,59,0.75
+urofollitropin,Infant,393,0.3
+urofollitropin,Adult,393,1.0
+urofollitropin,OldAge,393,0.75
+flibanserin,Infant,314,0.3
+flibanserin,Adult,314,1.0
+flibanserin,OldAge,314,0.75
+bremelanotide,Infant,102,0.3
+bremelanotide,Adult,102,1.0
+bremelanotide,OldAge,102,0.75
+aminocaproic acid,Infant,202,0.3
+aminocaproic acid,Adult,202,1.0
+aminocaproic acid,OldAge,202,0.75
+nabilone,Infant,461,0.3
+nabilone,Adult,461,1.0
+nabilone,OldAge,461,0.75
+acetaminophen / dextromethorphan / guaifenesin / phenylephrine,Infant,272,0.3
+acetaminophen / dextromethorphan / guaifenesin / phenylephrine,Adult,272,1.0
+acetaminophen / dextromethorphan / guaifenesin / phenylephrine,OldAge,272,0.75
+zanamivir,Infant,428,0.3
+zanamivir,Adult,428,1.0
+zanamivir,OldAge,428,0.75
+acetaminophen / chlorpheniramine,Infant,363,0.3
+acetaminophen / chlorpheniramine,Adult,363,1.0
+acetaminophen / chlorpheniramine,OldAge,363,0.75
+acetaminophen / chlorpheniramine / dextromethorphan / pseudoephedrine,Infant,406,0.3
+acetaminophen / chlorpheniramine / dextromethorphan / pseudoephedrine,Adult,406,1.0
+acetaminophen / chlorpheniramine / dextromethorphan / pseudoephedrine,OldAge,406,0.75
+peramivir,Infant,139,0.3
+peramivir,Adult,139,1.0
+peramivir,OldAge,139,0.75
+acetaminophen / chlorpheniramine / dextromethorphan,Infant,402,0.3
+acetaminophen / chlorpheniramine / dextromethorphan,Adult,402,1.0
+acetaminophen / chlorpheniramine / dextromethorphan,OldAge,402,0.75
+acetaminophen / dextromethorphan / diphenhydramine,Infant,168,0.3
+acetaminophen / dextromethorphan / diphenhydramine,Adult,168,1.0
+acetaminophen / dextromethorphan / diphenhydramine,OldAge,168,0.75
+baloxavir marboxil,Infant,432,0.3
+baloxavir marboxil,Adult,432,1.0
+baloxavir marboxil,OldAge,432,0.75
+"influenza virus vaccine, inactivated",Infant,212,0.3
+"influenza virus vaccine, inactivated",Adult,212,1.0
+"influenza virus vaccine, inactivated",OldAge,212,0.75
+"influenza virus vaccine, live, trivalent",Infant,117,0.3
+"influenza virus vaccine, live, trivalent",Adult,117,1.0
+"influenza virus vaccine, live, trivalent",OldAge,117,0.75
+rimantadine,Infant,275,0.3
+rimantadine,Adult,275,1.0
+rimantadine,OldAge,275,0.75
+follicle stimulating hormone,Infant,199,0.3
+follicle stimulating hormone,Adult,199,1.0
+follicle stimulating hormone,OldAge,199,0.75
+copanlisib,Infant,307,0.3
+copanlisib,Adult,307,1.0
+copanlisib,OldAge,307,0.75
+duvelisib,Infant,138,0.3
+duvelisib,Adult,138,1.0
+duvelisib,OldAge,138,0.75
+salicylic acid / urea,Infant,272,0.3
+salicylic acid / urea,Adult,272,1.0
+salicylic acid / urea,OldAge,272,0.75
+prabotulinumtoxina,Infant,214,0.3
+prabotulinumtoxina,Adult,214,1.0
+prabotulinumtoxina,OldAge,214,0.75
+fenofibrate,Infant,238,0.3
+fenofibrate,Adult,238,1.0
+fenofibrate,OldAge,238,0.75
+colestipol,Infant,228,0.3
+colestipol,Adult,228,1.0
+colestipol,OldAge,228,0.75
+clioquinol,Infant,298,0.3
+clioquinol,Adult,298,1.0
+clioquinol,OldAge,298,0.75
+undecylenic acid,Infant,112,0.3
+undecylenic acid,Adult,112,1.0
+undecylenic acid,OldAge,112,0.75
+efinaconazole,Infant,433,0.3
+efinaconazole,Adult,433,1.0
+efinaconazole,OldAge,433,0.75
+tavaborole,Infant,219,0.3
+tavaborole,Adult,219,1.0
+tavaborole,OldAge,219,0.75
+chenodeoxycholic acid,Infant,115,0.3
+chenodeoxycholic acid,Adult,115,1.0
+chenodeoxycholic acid,OldAge,115,0.75
+tipiracil / trifluridine,Infant,209,0.3
+tipiracil / trifluridine,Adult,209,1.0
+tipiracil / trifluridine,OldAge,209,0.75
+rotavirus vaccine,Infant,67,0.3
+rotavirus vaccine,Adult,67,1.0
+rotavirus vaccine,OldAge,67,0.75
+aluminum hydroxide,Infant,460,0.3
+aluminum hydroxide,Adult,460,1.0
+aluminum hydroxide,OldAge,460,0.75
+avapritinib,Infant,260,0.3
+avapritinib,Adult,260,1.0
+avapritinib,OldAge,260,0.75
+alvimopan,Infant,95,0.3
+alvimopan,Adult,95,1.0
+alvimopan,OldAge,95,0.75
+imiglucerase,Infant,63,0.3
+imiglucerase,Adult,63,1.0
+imiglucerase,OldAge,63,0.75
+miglustat,Infant,458,0.3
+miglustat,Adult,458,1.0
+miglustat,OldAge,458,0.75
+velaglucerase alfa,Infant,146,0.3
+velaglucerase alfa,Adult,146,1.0
+velaglucerase alfa,OldAge,146,0.75
+eliglustat,Infant,472,0.3
+eliglustat,Adult,472,1.0
+eliglustat,OldAge,472,0.75
+taliglucerase alfa,Infant,144,0.3
+taliglucerase alfa,Adult,144,1.0
+taliglucerase alfa,OldAge,144,0.75
+pexidartinib,Infant,249,0.3
+pexidartinib,Adult,249,1.0
+pexidartinib,OldAge,249,0.75
+insulin isophane,Infant,244,0.3
+insulin isophane,Adult,244,1.0
+insulin isophane,OldAge,244,0.75
+insulin isophane / insulin regular,Infant,443,0.3
+insulin isophane / insulin regular,Adult,443,1.0
+insulin isophane / insulin regular,OldAge,443,0.75
+chlorhexidine,Infant,462,0.3
+chlorhexidine,Adult,462,1.0
+chlorhexidine,OldAge,462,0.75
+brimonidine / timolol,Infant,480,0.3
+brimonidine / timolol,Adult,480,1.0
+brimonidine / timolol,OldAge,480,0.75
+methazolamide,Infant,350,0.3
+methazolamide,Adult,350,1.0
+methazolamide,OldAge,350,0.75
+apraclonidine,Infant,396,0.3
+apraclonidine,Adult,396,1.0
+apraclonidine,OldAge,396,0.75
+carbachol,Infant,230,0.3
+carbachol,Adult,230,1.0
+carbachol,OldAge,230,0.75
+echothiophate iodide,Infant,480,0.3
+echothiophate iodide,Adult,480,1.0
+echothiophate iodide,OldAge,480,0.75
+latanoprost,Infant,143,0.3
+latanoprost,Adult,143,1.0
+latanoprost,OldAge,143,0.75
+timolol,Infant,337,0.3
+timolol,Adult,337,1.0
+timolol,OldAge,337,0.75
+dorzolamide / timolol,Infant,256,0.3
+dorzolamide / timolol,Adult,256,1.0
+dorzolamide / timolol,OldAge,256,0.75
+dorzolamide,Infant,238,0.3
+dorzolamide,Adult,238,1.0
+dorzolamide,OldAge,238,0.75
+travoprost,Infant,238,0.3
+travoprost,Adult,238,1.0
+travoprost,OldAge,238,0.75
+brinzolamide,Infant,252,0.3
+brinzolamide,Adult,252,1.0
+brinzolamide,OldAge,252,0.75
+tafluprost,Infant,67,0.3
+tafluprost,Adult,67,1.0
+tafluprost,OldAge,67,0.75
+brimonidine / brinzolamide,Infant,385,0.3
+brimonidine / brinzolamide,Adult,385,1.0
+brimonidine / brinzolamide,OldAge,385,0.75
+latanoprostene bunod,Infant,107,0.3
+latanoprostene bunod,Adult,107,1.0
+latanoprostene bunod,OldAge,107,0.75
+ganirelix,Infant,190,0.3
+ganirelix,Adult,190,1.0
+ganirelix,OldAge,190,0.75
+cefixime,Infant,70,0.3
+cefixime,Adult,70,1.0
+cefixime,OldAge,70,0.75
+febuxostat,Infant,133,0.3
+febuxostat,Adult,133,1.0
+febuxostat,OldAge,133,0.75
+pegloticase,Infant,274,0.3
+pegloticase,Adult,274,1.0
+pegloticase,OldAge,274,0.75
+allopurinol / lesinurad,Infant,405,0.3
+allopurinol / lesinurad,Adult,405,1.0
+allopurinol / lesinurad,OldAge,405,0.75
+lesinurad,Infant,172,0.3
+lesinurad,Adult,172,1.0
+lesinurad,OldAge,172,0.75
+colchicine / probenecid,Infant,85,0.3
+colchicine / probenecid,Adult,85,1.0
+colchicine / probenecid,OldAge,85,0.75
+colistimethate,Infant,354,0.3
+colistimethate,Adult,354,1.0
+colistimethate,OldAge,354,0.75
+gemifloxacin,Infant,363,0.3
+gemifloxacin,Adult,363,1.0
+gemifloxacin,OldAge,363,0.75
+macimorelin,Infant,84,0.3
+macimorelin,Adult,84,1.0
+macimorelin,OldAge,84,0.75
+carbidopa,Infant,273,0.3
+carbidopa,Adult,273,1.0
+carbidopa,OldAge,273,0.75
+vestronidase alfa,Infant,150,0.3
+vestronidase alfa,Adult,150,1.0
+vestronidase alfa,OldAge,150,0.75
+c1 esterase inhibitor (human),Infant,64,0.3
+c1 esterase inhibitor (human),Adult,64,1.0
+c1 esterase inhibitor (human),OldAge,64,0.75
+ecallantide,Infant,145,0.3
+ecallantide,Adult,145,1.0
+ecallantide,OldAge,145,0.75
+icatibant,Infant,153,0.3
+icatibant,Adult,153,1.0
+icatibant,OldAge,153,0.75
+conestat alfa,Infant,104,0.3
+conestat alfa,Adult,104,1.0
+conestat alfa,OldAge,104,0.75
+lanadelumab,Infant,240,0.3
+lanadelumab,Adult,240,1.0
+lanadelumab,OldAge,240,0.75
+emapalumab,Infant,484,0.3
+emapalumab,Adult,484,1.0
+emapalumab,OldAge,484,0.75
+haemophilus b conjugate (prp-t) vaccine,Infant,431,0.3
+haemophilus b conjugate (prp-t) vaccine,Adult,431,1.0
+haemophilus b conjugate (prp-t) vaccine,OldAge,431,0.75
+haemophilus b conjugate (prp-omp) vaccine,Infant,331,0.3
+haemophilus b conjugate (prp-omp) vaccine,Adult,331,1.0
+haemophilus b conjugate (prp-omp) vaccine,OldAge,331,0.75
+aspirin / caffeine,Infant,106,0.3
+aspirin / caffeine,Adult,106,1.0
+aspirin / caffeine,OldAge,106,0.75
+malathion,Infant,429,0.3
+malathion,Adult,429,1.0
+malathion,OldAge,429,0.75
+acetaminophen / butalbital / caffeine,Infant,434,0.3
+acetaminophen / butalbital / caffeine,Adult,434,1.0
+acetaminophen / butalbital / caffeine,OldAge,434,0.75
+acetaminophen / butalbital / caffeine / codeine,Infant,307,0.3
+acetaminophen / butalbital / caffeine / codeine,Adult,307,1.0
+acetaminophen / butalbital / caffeine / codeine,OldAge,307,0.75
+acetaminophen / butalbital,Infant,498,0.3
+acetaminophen / butalbital,Adult,498,1.0
+acetaminophen / butalbital,OldAge,498,0.75
+electrolyte replacement solutions,Infant,426,0.3
+electrolyte replacement solutions,Adult,426,1.0
+electrolyte replacement solutions,OldAge,426,0.75
+dienogest / estradiol,Infant,416,0.3
+dienogest / estradiol,Adult,416,1.0
+dienogest / estradiol,OldAge,416,0.75
+amoxicillin / clarithromycin / lansoprazole,Infant,76,0.3
+amoxicillin / clarithromycin / lansoprazole,Adult,76,1.0
+amoxicillin / clarithromycin / lansoprazole,OldAge,76,0.75
+bismuth subcitrate potassium / metronidazole / tetracycline,Infant,485,0.3
+bismuth subcitrate potassium / metronidazole / tetracycline,Adult,485,1.0
+bismuth subcitrate potassium / metronidazole / tetracycline,OldAge,485,0.75
+amoxicillin / clarithromycin / omeprazole,Infant,110,0.3
+amoxicillin / clarithromycin / omeprazole,Adult,110,1.0
+amoxicillin / clarithromycin / omeprazole,OldAge,110,0.75
+eculizumab,Infant,101,0.3
+eculizumab,Adult,101,1.0
+eculizumab,OldAge,101,0.75
+ravulizumab,Infant,185,0.3
+ravulizumab,Adult,185,1.0
+ravulizumab,OldAge,185,0.75
+antihemophilic factor,Infant,261,0.3
+antihemophilic factor,Adult,261,1.0
+antihemophilic factor,OldAge,261,0.75
+anti-inhibitor coagulant complex,Infant,241,0.3
+anti-inhibitor coagulant complex,Adult,241,1.0
+anti-inhibitor coagulant complex,OldAge,241,0.75
+antihemophilic factor / von willebrand factor,Infant,256,0.3
+antihemophilic factor / von willebrand factor,Adult,256,1.0
+antihemophilic factor / von willebrand factor,OldAge,256,0.75
+emicizumab,Infant,377,0.3
+emicizumab,Adult,377,1.0
+emicizumab,OldAge,377,0.75
+mesna,Infant,223,0.3
+mesna,Adult,223,1.0
+mesna,OldAge,223,0.75
+dibucaine,Infant,192,0.3
+dibucaine,Adult,192,1.0
+dibucaine,OldAge,192,0.75
+hydrocortisone / lidocaine,Infant,476,0.3
+hydrocortisone / lidocaine,Adult,476,1.0
+hydrocortisone / lidocaine,OldAge,476,0.75
+pramoxine,Infant,83,0.3
+pramoxine,Adult,83,1.0
+pramoxine,OldAge,83,0.75
+thrombin,Infant,104,0.3
+thrombin,Adult,104,1.0
+thrombin,OldAge,104,0.75
+protamine,Infant,275,0.3
+protamine,Adult,275,1.0
+protamine,OldAge,275,0.75
+defibrotide,Infant,458,0.3
+defibrotide,Adult,458,1.0
+defibrotide,OldAge,458,0.75
+hepatitis a adult vaccine,Infant,274,0.3
+hepatitis a adult vaccine,Adult,274,1.0
+hepatitis a adult vaccine,OldAge,274,0.75
+hepatitis a adult vaccine / hepatitis b adult vaccine,Infant,50,0.3
+hepatitis a adult vaccine / hepatitis b adult vaccine,Adult,50,1.0
+hepatitis a adult vaccine / hepatitis b adult vaccine,OldAge,50,0.75
+hepatitis a pediatric vaccine,Infant,407,0.3
+hepatitis a pediatric vaccine,Adult,407,1.0
+hepatitis a pediatric vaccine,OldAge,407,0.75
+hepatitis b adult vaccine,Infant,239,0.3
+hepatitis b adult vaccine,Adult,239,1.0
+hepatitis b adult vaccine,OldAge,239,0.75
+hepatitis b pediatric vaccine,Infant,157,0.3
+hepatitis b pediatric vaccine,Adult,157,1.0
+hepatitis b pediatric vaccine,OldAge,157,0.75
+bioflavonoids,Infant,387,0.3
+bioflavonoids,Adult,387,1.0
+bioflavonoids,OldAge,387,0.75
+nitisinone,Infant,204,0.3
+nitisinone,Adult,204,1.0
+nitisinone,OldAge,204,0.75
+aluminum hydroxide / magnesium trisilicate,Infant,246,0.3
+aluminum hydroxide / magnesium trisilicate,Adult,246,1.0
+aluminum hydroxide / magnesium trisilicate,OldAge,246,0.75
+docosanol,Infant,350,0.3
+docosanol,Adult,350,1.0
+docosanol,OldAge,350,0.75
+allantoin / camphor / phenol,Infant,226,0.3
+allantoin / camphor / phenol,Adult,226,1.0
+allantoin / camphor / phenol,OldAge,226,0.75
+zoster vaccine live,Infant,76,0.3
+zoster vaccine live,Adult,76,1.0
+zoster vaccine live,OldAge,76,0.75
+"zoster vaccine, inactivated",Infant,72,0.3
+"zoster vaccine, inactivated",Adult,72,1.0
+"zoster vaccine, inactivated",OldAge,72,0.75
+etidronate,Infant,88,0.3
+etidronate,Adult,88,1.0
+etidronate,OldAge,88,0.75
+prochlorperazine,Infant,318,0.3
+prochlorperazine,Adult,318,1.0
+prochlorperazine,OldAge,318,0.75
+abciximab,Infant,241,0.3
+abciximab,Adult,241,1.0
+abciximab,OldAge,241,0.75
+eflornithine,Infant,399,0.3
+eflornithine,Adult,399,1.0
+eflornithine,OldAge,399,0.75
+omalizumab,Infant,257,0.3
+omalizumab,Adult,257,1.0
+omalizumab,OldAge,257,0.75
+bazedoxifene / conjugated estrogens,Infant,300,0.3
+bazedoxifene / conjugated estrogens,Adult,300,1.0
+bazedoxifene / conjugated estrogens,OldAge,300,0.75
+podophyllum resin,Infant,245,0.3
+podophyllum resin,Adult,245,1.0
+podophyllum resin,OldAge,245,0.75
+resorcinol,Infant,195,0.3
+resorcinol,Adult,195,1.0
+resorcinol,OldAge,195,0.75
+human papillomavirus vaccine,Infant,175,0.3
+human papillomavirus vaccine,Adult,175,1.0
+human papillomavirus vaccine,OldAge,175,0.75
+tetrabenazine,Infant,244,0.3
+tetrabenazine,Adult,244,1.0
+tetrabenazine,OldAge,244,0.75
+deutetrabenazine,Infant,381,0.3
+deutetrabenazine,Adult,381,1.0
+deutetrabenazine,OldAge,381,0.75
+laronidase,Infant,126,0.3
+laronidase,Adult,126,1.0
+laronidase,OldAge,126,0.75
+sodium benzoate / sodium phenylacetate,Infant,431,0.3
+sodium benzoate / sodium phenylacetate,Adult,431,1.0
+sodium benzoate / sodium phenylacetate,OldAge,431,0.75
+carglumic acid,Infant,337,0.3
+carglumic acid,Adult,337,1.0
+carglumic acid,OldAge,337,0.75
+cinacalcet,Infant,248,0.3
+cinacalcet,Adult,248,1.0
+cinacalcet,OldAge,248,0.75
+sodium polystyrene sulfonate,Infant,105,0.3
+sodium polystyrene sulfonate,Adult,105,1.0
+sodium polystyrene sulfonate,OldAge,105,0.75
+patiromer,Infant,400,0.3
+patiromer,Adult,400,1.0
+patiromer,OldAge,400,0.75
+sodium zirconium cyclosilicate,Infant,385,0.3
+sodium zirconium cyclosilicate,Adult,385,1.0
+sodium zirconium cyclosilicate,OldAge,385,0.75
+dichlorphenamide,Infant,437,0.3
+dichlorphenamide,Adult,437,1.0
+dichlorphenamide,OldAge,437,0.75
+calcifediol,Infant,449,0.3
+calcifediol,Adult,449,1.0
+calcifediol,OldAge,449,0.75
+etelcalcetide,Infant,152,0.3
+etelcalcetide,Adult,152,1.0
+etelcalcetide,OldAge,152,0.75
+calcium acetate,Infant,314,0.3
+calcium acetate,Adult,314,1.0
+calcium acetate,OldAge,314,0.75
+sevelamer,Infant,141,0.3
+sevelamer,Adult,141,1.0
+sevelamer,OldAge,141,0.75
+lanthanum carbonate,Infant,201,0.3
+lanthanum carbonate,Adult,201,1.0
+lanthanum carbonate,OldAge,201,0.75
+ferric citrate,Infant,259,0.3
+ferric citrate,Adult,259,1.0
+ferric citrate,OldAge,259,0.75
+sucroferric oxyhydroxide,Infant,60,0.3
+sucroferric oxyhydroxide,Adult,60,1.0
+sucroferric oxyhydroxide,OldAge,60,0.75
+magnesium carbonate,Infant,341,0.3
+magnesium carbonate,Adult,341,1.0
+magnesium carbonate,OldAge,341,0.75
+cabergoline,Infant,363,0.3
+cabergoline,Adult,363,1.0
+cabergoline,OldAge,363,0.75
+methyldopa,Infant,367,0.3
+methyldopa,Adult,367,1.0
+methyldopa,OldAge,367,0.75
+diazoxide,Infant,253,0.3
+diazoxide,Adult,253,1.0
+diazoxide,OldAge,253,0.75
+fenoldopam,Infant,288,0.3
+fenoldopam,Adult,288,1.0
+fenoldopam,OldAge,288,0.75
+clevidipine,Infant,411,0.3
+clevidipine,Adult,411,1.0
+clevidipine,OldAge,411,0.75
+methimazole,Infant,488,0.3
+methimazole,Adult,488,1.0
+methimazole,OldAge,488,0.75
+iodine / potassium iodide,Infant,468,0.3
+iodine / potassium iodide,Adult,468,1.0
+iodine / potassium iodide,OldAge,468,0.75
+rasburicase,Infant,78,0.3
+rasburicase,Adult,78,1.0
+rasburicase,OldAge,78,0.75
+calcitriol,Infant,221,0.3
+calcitriol,Adult,221,1.0
+calcitriol,OldAge,221,0.75
+parathyroid hormone,Infant,379,0.3
+parathyroid hormone,Adult,379,1.0
+parathyroid hormone,OldAge,379,0.75
+calcium lactate,Infant,121,0.3
+calcium lactate,Adult,121,1.0
+calcium lactate,OldAge,121,0.75
+"calcium phosphate, tribasic",Infant,287,0.3
+"calcium phosphate, tribasic",Adult,287,1.0
+"calcium phosphate, tribasic",OldAge,287,0.75
+estropipate,Infant,121,0.3
+estropipate,Adult,121,1.0
+estropipate,OldAge,121,0.75
+potassium chloride,Infant,362,0.3
+potassium chloride,Adult,362,1.0
+potassium chloride,OldAge,362,0.75
+potassium gluconate,Infant,259,0.3
+potassium gluconate,Adult,259,1.0
+potassium gluconate,OldAge,259,0.75
+potassium bicarbonate,Infant,189,0.3
+potassium bicarbonate,Adult,189,1.0
+potassium bicarbonate,OldAge,189,0.75
+potassium bicarbonate / potassium chloride,Infant,447,0.3
+potassium bicarbonate / potassium chloride,Adult,447,1.0
+potassium bicarbonate / potassium chloride,OldAge,447,0.75
+magnesium chloride,Infant,408,0.3
+magnesium chloride,Adult,408,1.0
+magnesium chloride,OldAge,408,0.75
+magnesium amino acids chelate,Infant,365,0.3
+magnesium amino acids chelate,Adult,365,1.0
+magnesium amino acids chelate,OldAge,365,0.75
+magnesium gluconate,Infant,161,0.3
+magnesium gluconate,Adult,161,1.0
+magnesium gluconate,OldAge,161,0.75
+sodium acetate,Infant,159,0.3
+sodium acetate,Adult,159,1.0
+sodium acetate,OldAge,159,0.75
+asfotase alfa,Infant,284,0.3
+asfotase alfa,Adult,284,1.0
+asfotase alfa,OldAge,284,0.75
+potassium phosphate / sodium phosphate,Infant,311,0.3
+potassium phosphate / sodium phosphate,Adult,311,1.0
+potassium phosphate / sodium phosphate,OldAge,311,0.75
+potassium phosphate,Infant,135,0.3
+potassium phosphate,Adult,135,1.0
+potassium phosphate,OldAge,135,0.75
+sodium phosphate,Infant,238,0.3
+sodium phosphate,Adult,238,1.0
+sodium phosphate,OldAge,238,0.75
+albumin human,Infant,239,0.3
+albumin human,Adult,239,1.0
+albumin human,OldAge,239,0.75
+phytonadione,Infant,346,0.3
+phytonadione,Adult,346,1.0
+phytonadione,OldAge,346,0.75
+norepinephrine,Infant,353,0.3
+norepinephrine,Adult,353,1.0
+norepinephrine,OldAge,353,0.75
+droxidopa,Infant,450,0.3
+droxidopa,Adult,450,1.0
+droxidopa,OldAge,450,0.75
+liothyronine,Infant,267,0.3
+liothyronine,Adult,267,1.0
+liothyronine,OldAge,267,0.75
+liotrix,Infant,363,0.3
+liotrix,Adult,363,1.0
+liotrix,OldAge,363,0.75
+doxapram,Infant,306,0.3
+doxapram,Adult,306,1.0
+doxapram,OldAge,306,0.75
+hydroxyethyl starch,Infant,53,0.3
+hydroxyethyl starch,Adult,53,1.0
+hydroxyethyl starch,OldAge,53,0.75
+midazolam,Infant,433,0.3
+midazolam,Adult,433,1.0
+midazolam,OldAge,433,0.75
+pirfenidone,Infant,79,0.3
+pirfenidone,Adult,79,1.0
+pirfenidone,OldAge,79,0.75
+nintedanib,Infant,188,0.3
+nintedanib,Adult,188,1.0
+nintedanib,OldAge,188,0.75
+romiplostim,Infant,119,0.3
+romiplostim,Adult,119,1.0
+romiplostim,OldAge,119,0.75
+rho (d) immune globulin,Infant,66,0.3
+rho (d) immune globulin,Adult,66,1.0
+rho (d) immune globulin,OldAge,66,0.75
+retapamulin,Infant,435,0.3
+retapamulin,Adult,435,1.0
+retapamulin,OldAge,435,0.75
+sulconazole,Infant,356,0.3
+sulconazole,Adult,356,1.0
+sulconazole,OldAge,356,0.75
+ozenoxacin,Infant,251,0.3
+ozenoxacin,Adult,251,1.0
+ozenoxacin,OldAge,251,0.75
+ammoniated mercury,Infant,392,0.3
+ammoniated mercury,Adult,392,1.0
+ammoniated mercury,OldAge,392,0.75
+ertapenem,Infant,478,0.3
+ertapenem,Adult,478,1.0
+ertapenem,OldAge,478,0.75
+magnesium salicylate,Infant,301,0.3
+magnesium salicylate,Adult,301,1.0
+magnesium salicylate,OldAge,301,0.75
+tolmetin,Infant,125,0.3
+tolmetin,Adult,125,1.0
+tolmetin,OldAge,125,0.75
+flurbiprofen,Infant,290,0.3
+flurbiprofen,Adult,290,1.0
+flurbiprofen,OldAge,290,0.75
+cilostazol,Infant,444,0.3
+cilostazol,Adult,444,1.0
+cilostazol,OldAge,444,0.75
+pentoxifylline,Infant,470,0.3
+pentoxifylline,Adult,470,1.0
+pentoxifylline,OldAge,470,0.75
+doripenem,Infant,398,0.3
+doripenem,Adult,398,1.0
+doripenem,OldAge,398,0.75
+tigecycline,Infant,55,0.3
+tigecycline,Adult,55,1.0
+tigecycline,OldAge,55,0.75
+levobunolol,Infant,457,0.3
+levobunolol,Adult,457,1.0
+levobunolol,OldAge,457,0.75
+deferoxamine,Infant,184,0.3
+deferoxamine,Adult,184,1.0
+deferoxamine,OldAge,184,0.75
+aspirin / dipyridamole,Infant,360,0.3
+aspirin / dipyridamole,Adult,360,1.0
+aspirin / dipyridamole,OldAge,360,0.75
+calamine,Infant,244,0.3
+calamine,Adult,244,1.0
+calamine,OldAge,244,0.75
+"japanese enceph vacc sa14-14-2, inactivated",Infant,234,0.3
+"japanese enceph vacc sa14-14-2, inactivated",Adult,234,1.0
+"japanese enceph vacc sa14-14-2, inactivated",OldAge,234,0.75
+oxaprozin,Infant,386,0.3
+oxaprozin,Adult,386,1.0
+oxaprozin,OldAge,386,0.75
+abatacept,Infant,120,0.3
+abatacept,Adult,120,1.0
+abatacept,OldAge,120,0.75
+methyl aminolevulinate,Infant,153,0.3
+methyl aminolevulinate,Adult,153,1.0
+methyl aminolevulinate,OldAge,153,0.75
+potassium citrate,Infant,188,0.3
+potassium citrate,Adult,188,1.0
+potassium citrate,OldAge,188,0.75
+oxymorphone,Infant,200,0.3
+oxymorphone,Adult,200,1.0
+oxymorphone,OldAge,200,0.75
+lactase,Infant,393,0.3
+lactase,Adult,393,1.0
+lactase,OldAge,393,0.75
+sirolimus,Infant,416,0.3
+sirolimus,Adult,416,1.0
+sirolimus,OldAge,416,0.75
+edetate calcium disodium,Infant,443,0.3
+edetate calcium disodium,Adult,443,1.0
+edetate calcium disodium,OldAge,443,0.75
+succimer,Infant,337,0.3
+succimer,Adult,337,1.0
+succimer,OldAge,337,0.75
+clobazam,Infant,238,0.3
+clobazam,Adult,238,1.0
+clobazam,OldAge,238,0.75
+rufinamide,Infant,475,0.3
+rufinamide,Adult,475,1.0
+rufinamide,OldAge,475,0.75
+felbamate,Infant,287,0.3
+felbamate,Adult,287,1.0
+felbamate,OldAge,287,0.75
+clofazimine,Infant,86,0.3
+clofazimine,Adult,86,1.0
+clofazimine,OldAge,86,0.75
+aloe polysaccharides / iodoquinol,Infant,438,0.3
+aloe polysaccharides / iodoquinol,Adult,438,1.0
+aloe polysaccharides / iodoquinol,OldAge,438,0.75
+meperidine,Infant,441,0.3
+meperidine,Adult,441,1.0
+meperidine,OldAge,441,0.75
+secobarbital,Infant,223,0.3
+secobarbital,Adult,223,1.0
+secobarbital,OldAge,223,0.75
+levorphanol,Infant,171,0.3
+levorphanol,Adult,171,1.0
+levorphanol,OldAge,171,0.75
+tesamorelin,Infant,202,0.3
+tesamorelin,Adult,202,1.0
+tesamorelin,OldAge,202,0.75
+metreleptin,Infant,450,0.3
+metreleptin,Adult,450,1.0
+metreleptin,OldAge,450,0.75
+gadoxetate disodium,Infant,352,0.3
+gadoxetate disodium,Adult,352,1.0
+gadoxetate disodium,OldAge,352,0.75
+floxuridine,Infant,293,0.3
+floxuridine,Adult,293,1.0
+floxuridine,OldAge,293,0.75
+mepivacaine,Infant,212,0.3
+mepivacaine,Adult,212,1.0
+mepivacaine,OldAge,212,0.75
+cocaine,Infant,269,0.3
+cocaine,Adult,269,1.0
+cocaine,OldAge,269,0.75
+articaine / epinephrine,Infant,105,0.3
+articaine / epinephrine,Adult,105,1.0
+articaine / epinephrine,OldAge,105,0.75
+epinephrine / lidocaine,Infant,449,0.3
+epinephrine / lidocaine,Adult,449,1.0
+epinephrine / lidocaine,OldAge,449,0.75
+chloroprocaine,Infant,240,0.3
+chloroprocaine,Adult,240,1.0
+chloroprocaine,OldAge,240,0.75
+sebelipase alfa,Infant,240,0.3
+sebelipase alfa,Adult,240,1.0
+sebelipase alfa,OldAge,240,0.75
+verteporfin,Infant,411,0.3
+verteporfin,Adult,411,1.0
+verteporfin,OldAge,411,0.75
+pegaptanib,Infant,438,0.3
+pegaptanib,Adult,438,1.0
+pegaptanib,OldAge,438,0.75
+brolucizumab,Infant,132,0.3
+brolucizumab,Adult,132,1.0
+brolucizumab,OldAge,132,0.75
+artemether / lumefantrine,Infant,344,0.3
+artemether / lumefantrine,Adult,344,1.0
+artemether / lumefantrine,OldAge,344,0.75
+mefloquine,Infant,313,0.3
+mefloquine,Adult,313,1.0
+mefloquine,OldAge,313,0.75
+atovaquone / proguanil,Infant,220,0.3
+atovaquone / proguanil,Adult,220,1.0
+atovaquone / proguanil,OldAge,220,0.75
+primaquine,Infant,287,0.3
+primaquine,Adult,287,1.0
+primaquine,OldAge,287,0.75
+pyrimethamine,Infant,401,0.3
+pyrimethamine,Adult,401,1.0
+pyrimethamine,OldAge,401,0.75
+tafenoquine,Infant,326,0.3
+tafenoquine,Adult,326,1.0
+tafenoquine,OldAge,326,0.75
+acalabrutinib,Infant,118,0.3
+acalabrutinib,Adult,118,1.0
+acalabrutinib,OldAge,118,0.75
+zanubrutinib,Infant,419,0.3
+zanubrutinib,Adult,419,1.0
+zanubrutinib,OldAge,419,0.75
+azacitidine,Infant,307,0.3
+azacitidine,Adult,307,1.0
+azacitidine,OldAge,307,0.75
+measles virus vaccine / mumps virus vaccine / rubella virus vaccine,Infant,287,0.3
+measles virus vaccine / mumps virus vaccine / rubella virus vaccine,Adult,287,1.0
+measles virus vaccine / mumps virus vaccine / rubella virus vaccine,OldAge,287,0.75
+measles virus vaccine,Infant,386,0.3
+measles virus vaccine,Adult,386,1.0
+measles virus vaccine,OldAge,386,0.75
+measles virus vaccine / mumps virus vaccine / rubella virus vaccine / varicella virus vaccine,Infant,58,0.3
+measles virus vaccine / mumps virus vaccine / rubella virus vaccine / varicella virus vaccine,Adult,58,1.0
+measles virus vaccine / mumps virus vaccine / rubella virus vaccine / varicella virus vaccine,OldAge,58,0.75
+formaldehyde,Infant,268,0.3
+formaldehyde,Adult,268,1.0
+formaldehyde,OldAge,268,0.75
+cobimetinib,Infant,200,0.3
+cobimetinib,Adult,200,1.0
+cobimetinib,OldAge,200,0.75
+fluocinolone / hydroquinone / tretinoin,Infant,361,0.3
+fluocinolone / hydroquinone / tretinoin,Adult,361,1.0
+fluocinolone / hydroquinone / tretinoin,OldAge,361,0.75
+meningococcal group b vaccine,Infant,349,0.3
+meningococcal group b vaccine,Adult,349,1.0
+meningococcal group b vaccine,OldAge,349,0.75
+meningococcal conjugate vaccine,Infant,394,0.3
+meningococcal conjugate vaccine,Adult,394,1.0
+meningococcal conjugate vaccine,OldAge,394,0.75
+drospirenone / ethinyl estradiol,Infant,71,0.3
+drospirenone / ethinyl estradiol,Adult,71,1.0
+drospirenone / ethinyl estradiol,OldAge,71,0.75
+citric acid / potassium citrate / sodium citrate,Infant,228,0.3
+citric acid / potassium citrate / sodium citrate,Adult,228,1.0
+citric acid / potassium citrate / sodium citrate,OldAge,228,0.75
+levoleucovorin,Infant,306,0.3
+levoleucovorin,Adult,306,1.0
+levoleucovorin,OldAge,306,0.75
+glucarpidase,Infant,383,0.3
+glucarpidase,Adult,383,1.0
+glucarpidase,OldAge,383,0.75
+olmesartan,Infant,166,0.3
+olmesartan,Adult,166,1.0
+olmesartan,OldAge,166,0.75
+benzoin,Infant,292,0.3
+benzoin,Adult,292,1.0
+benzoin,OldAge,292,0.75
+camphor / menthol,Infant,456,0.3
+camphor / menthol,Adult,456,1.0
+camphor / menthol,OldAge,456,0.75
+smallpox and monkeypox vaccine,Infant,129,0.3
+smallpox and monkeypox vaccine,Adult,129,1.0
+smallpox and monkeypox vaccine,OldAge,129,0.75
+doxylamine / pyridoxine,Infant,116,0.3
+doxylamine / pyridoxine,Adult,116,1.0
+doxylamine / pyridoxine,OldAge,116,0.75
+calcium / folic acid / ginger / pyridoxine,Infant,173,0.3
+calcium / folic acid / ginger / pyridoxine,Adult,173,1.0
+calcium / folic acid / ginger / pyridoxine,OldAge,173,0.75
+elosulfase alfa,Infant,276,0.3
+elosulfase alfa,Adult,276,1.0
+elosulfase alfa,OldAge,276,0.75
+scopolamine,Infant,239,0.3
+scopolamine,Adult,239,1.0
+scopolamine,OldAge,239,0.75
+dimenhydrinate,Infant,310,0.3
+dimenhydrinate,Adult,310,1.0
+dimenhydrinate,OldAge,310,0.75
+glatiramer,Infant,478,0.3
+glatiramer,Adult,478,1.0
+glatiramer,OldAge,478,0.75
+dalfampridine,Infant,148,0.3
+dalfampridine,Adult,148,1.0
+dalfampridine,OldAge,148,0.75
+fingolimod,Infant,136,0.3
+fingolimod,Adult,136,1.0
+fingolimod,OldAge,136,0.75
+interferon beta-1a,Infant,398,0.3
+interferon beta-1a,Adult,398,1.0
+interferon beta-1a,OldAge,398,0.75
+dimethyl fumarate,Infant,481,0.3
+dimethyl fumarate,Adult,481,1.0
+dimethyl fumarate,OldAge,481,0.75
+teriflunomide,Infant,475,0.3
+teriflunomide,Adult,475,1.0
+teriflunomide,OldAge,475,0.75
+idursulfase,Infant,157,0.3
+idursulfase,Adult,157,1.0
+idursulfase,OldAge,157,0.75
+galsulfase,Infant,341,0.3
+galsulfase,Adult,341,1.0
+galsulfase,OldAge,341,0.75
+palifermin,Infant,418,0.3
+palifermin,Adult,418,1.0
+palifermin,OldAge,418,0.75
+mumps virus vaccine,Infant,87,0.3
+mumps virus vaccine,Adult,87,1.0
+mumps virus vaccine,OldAge,87,0.75
+neostigmine,Infant,412,0.3
+neostigmine,Adult,412,1.0
+neostigmine,OldAge,412,0.75
+ethambutol,Infant,237,0.3
+ethambutol,Adult,237,1.0
+ethambutol,OldAge,237,0.75
+rifabutin,Infant,123,0.3
+rifabutin,Adult,123,1.0
+rifabutin,OldAge,123,0.75
+amikacin liposome,Infant,389,0.3
+amikacin liposome,Adult,389,1.0
+amikacin liposome,OldAge,389,0.75
+isoniazid,Infant,365,0.3
+isoniazid,Adult,365,1.0
+isoniazid,OldAge,365,0.75
+mechlorethamine,Infant,300,0.3
+mechlorethamine,Adult,300,1.0
+mechlorethamine,OldAge,300,0.75
+mogamulizumab,Infant,305,0.3
+mogamulizumab,Adult,305,1.0
+mogamulizumab,OldAge,305,0.75
+poly-ureaurethane,Infant,87,0.3
+poly-ureaurethane,Adult,87,1.0
+poly-ureaurethane,OldAge,87,0.75
+aprepitant,Infant,463,0.3
+aprepitant,Adult,463,1.0
+aprepitant,OldAge,463,0.75
+granisetron,Infant,166,0.3
+granisetron,Adult,166,1.0
+granisetron,OldAge,166,0.75
+palonosetron,Infant,160,0.3
+palonosetron,Adult,160,1.0
+palonosetron,OldAge,160,0.75
+droperidol,Infant,117,0.3
+droperidol,Adult,117,1.0
+droperidol,OldAge,117,0.75
+atropine / pralidoxime,Infant,343,0.3
+atropine / pralidoxime,Adult,343,1.0
+atropine / pralidoxime,OldAge,343,0.75
+dinutuximab,Infant,218,0.3
+dinutuximab,Adult,218,1.0
+dinutuximab,OldAge,218,0.75
+lutetium lu 177 dotatate,Infant,186,0.3
+lutetium lu 177 dotatate,Adult,186,1.0
+lutetium lu 177 dotatate,OldAge,186,0.75
+guanidine,Infant,220,0.3
+guanidine,Adult,220,1.0
+guanidine,OldAge,220,0.75
+cenegermin,Infant,160,0.3
+cenegermin,Adult,160,1.0
+cenegermin,OldAge,160,0.75
+pegfilgrastim,Infant,149,0.3
+pegfilgrastim,Adult,149,1.0
+pegfilgrastim,OldAge,149,0.75
+tbo-filgrastim,Infant,388,0.3
+tbo-filgrastim,Adult,388,1.0
+tbo-filgrastim,OldAge,388,0.75
+niacinamide,Infant,221,0.3
+niacinamide,Adult,221,1.0
+niacinamide,OldAge,221,0.75
+tasimelteon,Infant,473,0.3
+tasimelteon,Adult,473,1.0
+tasimelteon,OldAge,473,0.75
+dopamine,Infant,82,0.3
+dopamine,Adult,82,1.0
+dopamine,OldAge,82,0.75
+lamivudine / zidovudine,Infant,298,0.3
+lamivudine / zidovudine,Adult,298,1.0
+lamivudine / zidovudine,OldAge,298,0.75
+atazanavir,Infant,437,0.3
+atazanavir,Adult,437,1.0
+atazanavir,OldAge,437,0.75
+abacavir / lamivudine,Infant,200,0.3
+abacavir / lamivudine,Adult,200,1.0
+abacavir / lamivudine,OldAge,200,0.75
+zidovudine,Infant,395,0.3
+zidovudine,Adult,395,1.0
+zidovudine,OldAge,395,0.75
+efavirenz,Infant,267,0.3
+efavirenz,Adult,267,1.0
+efavirenz,OldAge,267,0.75
+lopinavir / ritonavir,Infant,164,0.3
+lopinavir / ritonavir,Adult,164,1.0
+lopinavir / ritonavir,OldAge,164,0.75
+esomeprazole / naproxen,Infant,325,0.3
+esomeprazole / naproxen,Adult,325,1.0
+esomeprazole / naproxen,OldAge,325,0.75
+famotidine / ibuprofen,Infant,409,0.3
+famotidine / ibuprofen,Adult,409,1.0
+famotidine / ibuprofen,OldAge,409,0.75
+parenteral nutrition solution w / electrolytes,Infant,149,0.3
+parenteral nutrition solution w / electrolytes,Adult,149,1.0
+parenteral nutrition solution w / electrolytes,OldAge,149,0.75
+fat emulsion,Infant,250,0.3
+fat emulsion,Adult,250,1.0
+fat emulsion,OldAge,250,0.75
+parenteral nutrition solution,Infant,110,0.3
+parenteral nutrition solution,Adult,110,1.0
+parenteral nutrition solution,OldAge,110,0.75
+chromic chloride hexahydrate,Infant,351,0.3
+chromic chloride hexahydrate,Adult,351,1.0
+chromic chloride hexahydrate,OldAge,351,0.75
+trace elements,Infant,51,0.3
+trace elements,Adult,51,1.0
+trace elements,OldAge,51,0.75
+phentermine,Infant,237,0.3
+phentermine,Adult,237,1.0
+phentermine,OldAge,237,0.75
+phendimetrazine,Infant,185,0.3
+phendimetrazine,Adult,185,1.0
+phendimetrazine,OldAge,185,0.75
+diethylpropion,Infant,426,0.3
+diethylpropion,Adult,426,1.0
+diethylpropion,OldAge,426,0.75
+methamphetamine,Infant,465,0.3
+methamphetamine,Adult,465,1.0
+methamphetamine,OldAge,465,0.75
+lorcaserin,Infant,101,0.3
+lorcaserin,Adult,101,1.0
+lorcaserin,OldAge,101,0.75
+phentermine / topiramate,Infant,419,0.3
+phentermine / topiramate,Adult,419,1.0
+phentermine / topiramate,OldAge,419,0.75
+bupropion / naltrexone,Infant,339,0.3
+bupropion / naltrexone,Adult,339,1.0
+bupropion / naltrexone,OldAge,339,0.75
+clomipramine,Infant,377,0.3
+clomipramine,Adult,377,1.0
+clomipramine,OldAge,377,0.75
+raltegravir,Infant,399,0.3
+raltegravir,Adult,399,1.0
+raltegravir,OldAge,399,0.75
+emtricitabine,Infant,303,0.3
+emtricitabine,Adult,303,1.0
+emtricitabine,OldAge,303,0.75
+moxidectin,Infant,307,0.3
+moxidectin,Adult,307,1.0
+moxidectin,OldAge,307,0.75
+conjugated estrogens / medroxyprogesterone,Infant,256,0.3
+conjugated estrogens / medroxyprogesterone,Adult,256,1.0
+conjugated estrogens / medroxyprogesterone,OldAge,256,0.75
+proparacaine,Infant,497,0.3
+proparacaine,Adult,497,1.0
+proparacaine,OldAge,497,0.75
+besifloxacin,Infant,232,0.3
+besifloxacin,Adult,232,1.0
+besifloxacin,OldAge,232,0.75
+ketorolac / phenylephrine,Infant,370,0.3
+ketorolac / phenylephrine,Adult,370,1.0
+ketorolac / phenylephrine,OldAge,370,0.75
+"ophthalmic irrigation, intraocular",Infant,361,0.3
+"ophthalmic irrigation, intraocular",Adult,361,1.0
+"ophthalmic irrigation, intraocular",OldAge,361,0.75
+trypan blue,Infant,431,0.3
+trypan blue,Adult,431,1.0
+trypan blue,OldAge,431,0.75
+sodium chondroitin sulfate / sodium hyaluronate,Infant,464,0.3
+sodium chondroitin sulfate / sodium hyaluronate,Adult,464,1.0
+sodium chondroitin sulfate / sodium hyaluronate,OldAge,464,0.75
+buprenorphine / naloxone,Infant,405,0.3
+buprenorphine / naloxone,Adult,405,1.0
+buprenorphine / naloxone,OldAge,405,0.75
+lofexidine,Infant,144,0.3
+lofexidine,Adult,144,1.0
+lofexidine,OldAge,144,0.75
+naloxone,Infant,375,0.3
+naloxone,Adult,375,1.0
+naloxone,OldAge,375,0.75
+basiliximab,Infant,199,0.3
+basiliximab,Adult,199,1.0
+basiliximab,OldAge,199,0.75
+daclizumab,Infant,134,0.3
+daclizumab,Adult,134,1.0
+daclizumab,OldAge,134,0.75
+tropicamide,Infant,87,0.3
+tropicamide,Adult,87,1.0
+tropicamide,OldAge,87,0.75
+cholecalciferol / genistein / zinc glycinate,Infant,382,0.3
+cholecalciferol / genistein / zinc glycinate,Adult,382,1.0
+cholecalciferol / genistein / zinc glycinate,OldAge,382,0.75
+cetrorelix,Infant,364,0.3
+cetrorelix,Adult,364,1.0
+cetrorelix,OldAge,364,0.75
+ambrisentan,Infant,227,0.3
+ambrisentan,Adult,227,1.0
+ambrisentan,OldAge,227,0.75
+bosentan,Infant,181,0.3
+bosentan,Adult,181,1.0
+bosentan,OldAge,181,0.75
+treprostinil,Infant,195,0.3
+treprostinil,Adult,195,1.0
+treprostinil,OldAge,195,0.75
+macitentan,Infant,274,0.3
+macitentan,Adult,274,1.0
+macitentan,OldAge,274,0.75
+epoprostenol,Infant,167,0.3
+epoprostenol,Adult,167,1.0
+epoprostenol,OldAge,167,0.75
+iloprost,Infant,123,0.3
+iloprost,Adult,123,1.0
+iloprost,OldAge,123,0.75
+riociguat,Infant,226,0.3
+riociguat,Adult,226,1.0
+riociguat,OldAge,226,0.75
+hydrocodone,Infant,488,0.3
+hydrocodone,Adult,488,1.0
+hydrocodone,OldAge,488,0.75
+acetaminophen / aspirin / caffeine,Infant,50,0.3
+acetaminophen / aspirin / caffeine,Adult,50,1.0
+acetaminophen / aspirin / caffeine,OldAge,50,0.75
+naproxen / pseudoephedrine,Infant,258,0.3
+naproxen / pseudoephedrine,Adult,258,1.0
+naproxen / pseudoephedrine,OldAge,258,0.75
+acetaminophen / dextromethorphan / phenylephrine,Infant,438,0.3
+acetaminophen / dextromethorphan / phenylephrine,Adult,438,1.0
+acetaminophen / dextromethorphan / phenylephrine,OldAge,438,0.75
+acetaminophen / dextromethorphan / doxylamine / phenylephrine,Infant,208,0.3
+acetaminophen / dextromethorphan / doxylamine / phenylephrine,Adult,208,1.0
+acetaminophen / dextromethorphan / doxylamine / phenylephrine,OldAge,208,0.75
+iobenguane i 131,Infant,477,0.3
+iobenguane i 131,Adult,477,1.0
+iobenguane i 131,OldAge,477,0.75
+selegiline,Infant,133,0.3
+selegiline,Adult,133,1.0
+selegiline,OldAge,133,0.75
+rasagiline,Infant,295,0.3
+rasagiline,Adult,295,1.0
+rasagiline,OldAge,295,0.75
+entacapone,Infant,395,0.3
+entacapone,Adult,395,1.0
+entacapone,OldAge,395,0.75
+carbidopa / entacapone / levodopa,Infant,217,0.3
+carbidopa / entacapone / levodopa,Adult,217,1.0
+carbidopa / entacapone / levodopa,OldAge,217,0.75
+pimavanserin,Infant,427,0.3
+pimavanserin,Adult,427,1.0
+pimavanserin,OldAge,427,0.75
+heparin flush,Infant,85,0.3
+heparin flush,Adult,85,1.0
+heparin flush,OldAge,85,0.75
+dextromethorphan / quinidine,Infant,196,0.3
+dextromethorphan / quinidine,Adult,196,1.0
+dextromethorphan / quinidine,OldAge,196,0.75
+drospirenone / ethinyl estradiol / levomefolate calcium,Infant,349,0.3
+drospirenone / ethinyl estradiol / levomefolate calcium,Adult,349,1.0
+drospirenone / ethinyl estradiol / levomefolate calcium,OldAge,349,0.75
+benzylpenicilloyl-polylysine,Infant,395,0.3
+benzylpenicilloyl-polylysine,Adult,395,1.0
+benzylpenicilloyl-polylysine,OldAge,395,0.75
+propantheline,Infant,465,0.3
+propantheline,Adult,465,1.0
+propantheline,OldAge,465,0.75
+clidinium,Infant,325,0.3
+clidinium,Adult,325,1.0
+clidinium,OldAge,325,0.75
+bivalirudin,Infant,207,0.3
+bivalirudin,Adult,207,1.0
+bivalirudin,OldAge,207,0.75
+cangrelor,Infant,450,0.3
+cangrelor,Adult,450,1.0
+cangrelor,OldAge,450,0.75
+vorapaxar,Infant,98,0.3
+vorapaxar,Adult,98,1.0
+vorapaxar,OldAge,98,0.75
+belinostat,Infant,177,0.3
+belinostat,Adult,177,1.0
+belinostat,OldAge,177,0.75
+florbetapir f 18,Infant,144,0.3
+florbetapir f 18,Adult,144,1.0
+florbetapir f 18,OldAge,144,0.75
+gallium ga 68 dotatate,Infant,51,0.3
+gallium ga 68 dotatate,Adult,51,1.0
+gallium ga 68 dotatate,OldAge,51,0.75
+rubidium chloride rb-82,Infant,461,0.3
+rubidium chloride rb-82,Adult,461,1.0
+rubidium chloride rb-82,OldAge,461,0.75
+flutemetamol f-18,Infant,466,0.3
+flutemetamol f-18,Adult,466,1.0
+flutemetamol f-18,OldAge,466,0.75
+choline c-11,Infant,414,0.3
+choline c-11,Adult,414,1.0
+choline c-11,OldAge,414,0.75
+florbetaben f-18,Infant,97,0.3
+florbetaben f-18,Adult,97,1.0
+florbetaben f-18,OldAge,97,0.75
+fluciclovine f 18,Infant,330,0.3
+fluciclovine f 18,Adult,330,1.0
+fluciclovine f 18,OldAge,330,0.75
+gallium ga-68 dotatoc,Infant,191,0.3
+gallium ga-68 dotatoc,Adult,191,1.0
+gallium ga-68 dotatoc,OldAge,191,0.75
+sapropterin,Infant,153,0.3
+sapropterin,Adult,153,1.0
+sapropterin,OldAge,153,0.75
+pegvaliase,Infant,389,0.3
+pegvaliase,Adult,389,1.0
+pegvaliase,OldAge,389,0.75
+phenoxybenzamine,Infant,129,0.3
+phenoxybenzamine,Adult,129,1.0
+phenoxybenzamine,OldAge,129,0.75
+metyrosine,Infant,400,0.3
+metyrosine,Adult,400,1.0
+metyrosine,OldAge,400,0.75
+lactic acid,Infant,89,0.3
+lactic acid,Adult,89,1.0
+lactic acid,OldAge,89,0.75
+secukinumab,Infant,481,0.3
+secukinumab,Adult,481,1.0
+secukinumab,OldAge,481,0.75
+ixekizumab,Infant,300,0.3
+ixekizumab,Adult,300,1.0
+ixekizumab,OldAge,300,0.75
+brodalumab,Infant,427,0.3
+brodalumab,Adult,427,1.0
+brodalumab,OldAge,427,0.75
+sterile talc,Infant,199,0.3
+sterile talc,Adult,199,1.0
+sterile talc,OldAge,199,0.75
+acetaminophen / pamabrom / pyrilamine,Infant,199,0.3
+acetaminophen / pamabrom / pyrilamine,Adult,199,1.0
+acetaminophen / pamabrom / pyrilamine,OldAge,199,0.75
+acetaminophen / caffeine / pyrilamine,Infant,483,0.3
+acetaminophen / caffeine / pyrilamine,Adult,483,1.0
+acetaminophen / caffeine / pyrilamine,OldAge,483,0.75
+acetaminophen / pamabrom,Infant,272,0.3
+acetaminophen / pamabrom,Adult,272,1.0
+acetaminophen / pamabrom,OldAge,272,0.75
+pneumococcal 13-valent vaccine,Infant,288,0.3
+pneumococcal 13-valent vaccine,Adult,288,1.0
+pneumococcal 13-valent vaccine,OldAge,288,0.75
+pneumococcal 23-polyvalent vaccine,Infant,92,0.3
+pneumococcal 23-polyvalent vaccine,Adult,92,1.0
+pneumococcal 23-polyvalent vaccine,OldAge,92,0.75
+"poliovirus vaccine, inactivated",Infant,275,0.3
+"poliovirus vaccine, inactivated",Adult,275,1.0
+"poliovirus vaccine, inactivated",OldAge,275,0.75
+alglucosidase alfa,Infant,264,0.3
+alglucosidase alfa,Adult,264,1.0
+alglucosidase alfa,OldAge,264,0.75
+acetaminophen / chlorpheniramine / dextromethorphan / phenylephrine,Infant,97,0.3
+acetaminophen / chlorpheniramine / dextromethorphan / phenylephrine,Adult,97,1.0
+acetaminophen / chlorpheniramine / dextromethorphan / phenylephrine,OldAge,97,0.75
+brompheniramine / codeine,Infant,328,0.3
+brompheniramine / codeine,Adult,328,1.0
+brompheniramine / codeine,OldAge,328,0.75
+chlophedianol / dexbrompheniramine,Infant,75,0.3
+chlophedianol / dexbrompheniramine,Adult,75,1.0
+chlophedianol / dexbrompheniramine,OldAge,75,0.75
+dextromethorphan / pyrilamine,Infant,312,0.3
+dextromethorphan / pyrilamine,Adult,312,1.0
+dextromethorphan / pyrilamine,OldAge,312,0.75
+nepafenac,Infant,150,0.3
+nepafenac,Adult,150,1.0
+nepafenac,OldAge,150,0.75
+bromfenac,Infant,425,0.3
+bromfenac,Adult,425,1.0
+bromfenac,OldAge,425,0.75
+difluprednate,Infant,166,0.3
+difluprednate,Adult,166,1.0
+difluprednate,OldAge,166,0.75
+methylergonovine,Infant,145,0.3
+methylergonovine,Adult,145,1.0
+methylergonovine,OldAge,145,0.75
+emtricitabine / tenofovir alafenamide,Infant,483,0.3
+emtricitabine / tenofovir alafenamide,Adult,483,1.0
+emtricitabine / tenofovir alafenamide,OldAge,483,0.75
+histrelin,Infant,69,0.3
+histrelin,Adult,69,1.0
+histrelin,OldAge,69,0.75
+nafarelin,Infant,56,0.3
+nafarelin,Adult,56,1.0
+nafarelin,OldAge,56,0.75
+hydroxyprogesterone,Infant,218,0.3
+hydroxyprogesterone,Adult,218,1.0
+hydroxyprogesterone,OldAge,218,0.75
+acebutolol,Infant,122,0.3
+acebutolol,Adult,122,1.0
+acebutolol,OldAge,122,0.75
+aspirin / omeprazole,Infant,347,0.3
+aspirin / omeprazole,Adult,347,1.0
+aspirin / omeprazole,OldAge,347,0.75
+fluoride,Infant,261,0.3
+fluoride,Adult,261,1.0
+fluoride,OldAge,261,0.75
+cholecalciferol,Infant,157,0.3
+cholecalciferol,Adult,157,1.0
+cholecalciferol,OldAge,157,0.75
+estradiol / levonorgestrel,Infant,223,0.3
+estradiol / levonorgestrel,Adult,223,1.0
+estradiol / levonorgestrel,OldAge,223,0.75
+afamelanotide,Infant,143,0.3
+afamelanotide,Adult,143,1.0
+afamelanotide,OldAge,143,0.75
+mecasermin,Infant,467,0.3
+mecasermin,Adult,467,1.0
+mecasermin,OldAge,467,0.75
+hyaluronidase / immune globulin,Infant,379,0.3
+hyaluronidase / immune globulin,Adult,379,1.0
+hyaluronidase / immune globulin,OldAge,379,0.75
+acetylcholine,Infant,248,0.3
+acetylcholine,Adult,248,1.0
+acetylcholine,OldAge,248,0.75
+protein c,Infant,414,0.3
+protein c,Adult,414,1.0
+protein c,OldAge,414,0.75
+perphenazine,Infant,458,0.3
+perphenazine,Adult,458,1.0
+perphenazine,OldAge,458,0.75
+fluphenazine,Infant,164,0.3
+fluphenazine,Adult,164,1.0
+fluphenazine,OldAge,164,0.75
+thiothixene,Infant,213,0.3
+thiothixene,Adult,213,1.0
+thiothixene,OldAge,213,0.75
+iloperidone,Infant,278,0.3
+iloperidone,Adult,278,1.0
+iloperidone,OldAge,278,0.75
+cyclopentolate,Infant,478,0.3
+cyclopentolate,Adult,478,1.0
+cyclopentolate,OldAge,478,0.75
+"rabies immune globulin, human",Infant,93,0.3
+"rabies immune globulin, human",Adult,93,1.0
+"rabies immune globulin, human",OldAge,93,0.75
+"rabies vaccine, purified chick embryo cell",Infant,281,0.3
+"rabies vaccine, purified chick embryo cell",Adult,281,1.0
+"rabies vaccine, purified chick embryo cell",OldAge,281,0.75
+"rabies vaccine, human diploid cell",Infant,103,0.3
+"rabies vaccine, human diploid cell",Adult,103,1.0
+"rabies vaccine, human diploid cell",OldAge,103,0.75
+pentetate calcium trisodium,Infant,319,0.3
+pentetate calcium trisodium,Adult,319,1.0
+pentetate calcium trisodium,OldAge,319,0.75
+prussian blue,Infant,379,0.3
+prussian blue,Adult,379,1.0
+prussian blue,OldAge,379,0.75
+pentetate zinc trisodium,Infant,382,0.3
+pentetate zinc trisodium,Adult,382,1.0
+pentetate zinc trisodium,OldAge,382,0.75
+felodipine,Infant,150,0.3
+felodipine,Adult,150,1.0
+felodipine,OldAge,150,0.75
+isradipine,Infant,431,0.3
+isradipine,Adult,431,1.0
+isradipine,OldAge,431,0.75
+nisoldipine,Infant,485,0.3
+nisoldipine,Adult,485,1.0
+nisoldipine,OldAge,485,0.75
+nevirapine,Infant,178,0.3
+nevirapine,Adult,178,1.0
+nevirapine,OldAge,178,0.75
+homatropine,Infant,337,0.3
+homatropine,Adult,337,1.0
+homatropine,OldAge,337,0.75
+belatacept,Infant,465,0.3
+belatacept,Adult,465,1.0
+belatacept,OldAge,465,0.75
+muromonab-cd3,Infant,336,0.3
+muromonab-cd3,Adult,336,1.0
+muromonab-cd3,OldAge,336,0.75
+anti-thymocyte globulin (rabbit),Infant,104,0.3
+anti-thymocyte globulin (rabbit),Adult,104,1.0
+anti-thymocyte globulin (rabbit),OldAge,104,0.75
+nitric oxide,Infant,432,0.3
+nitric oxide,Adult,432,1.0
+nitric oxide,OldAge,432,0.75
+caffeine / sodium benzoate,Infant,275,0.3
+caffeine / sodium benzoate,Adult,275,1.0
+caffeine / sodium benzoate,OldAge,275,0.75
+voretigene neparvovec,Infant,405,0.3
+voretigene neparvovec,Adult,405,1.0
+voretigene neparvovec,OldAge,405,0.75
+prothrombin complex,Infant,119,0.3
+prothrombin complex,Adult,119,1.0
+prothrombin complex,OldAge,119,0.75
+coagulation factor xa,Infant,119,0.3
+coagulation factor xa,Adult,119,1.0
+coagulation factor xa,OldAge,119,0.75
+idarucizumab,Infant,167,0.3
+idarucizumab,Adult,167,1.0
+idarucizumab,OldAge,167,0.75
+sugammadex,Infant,292,0.3
+sugammadex,Adult,292,1.0
+sugammadex,OldAge,292,0.75
+atropine / edrophonium,Infant,254,0.3
+atropine / edrophonium,Adult,254,1.0
+atropine / edrophonium,OldAge,254,0.75
+sulfadiazine,Infant,156,0.3
+sulfadiazine,Adult,156,1.0
+sulfadiazine,OldAge,156,0.75
+brompheniramine / phenylephrine,Infant,389,0.3
+brompheniramine / phenylephrine,Adult,389,1.0
+brompheniramine / phenylephrine,OldAge,389,0.75
+chlorpheniramine / methscopolamine / phenylephrine,Infant,497,0.3
+chlorpheniramine / methscopolamine / phenylephrine,Adult,497,1.0
+chlorpheniramine / methscopolamine / phenylephrine,OldAge,497,0.75
+crotamiton,Infant,331,0.3
+crotamiton,Adult,331,1.0
+crotamiton,OldAge,331,0.75
+penicillin g benzathine / procaine penicillin,Infant,208,0.3
+penicillin g benzathine / procaine penicillin,Adult,208,1.0
+penicillin g benzathine / procaine penicillin,OldAge,208,0.75
+diclofenac / misoprostol,Infant,239,0.3
+diclofenac / misoprostol,Adult,239,1.0
+diclofenac / misoprostol,OldAge,239,0.75
+antivenom (centruroides scorpion),Infant,286,0.3
+antivenom (centruroides scorpion),Adult,286,1.0
+antivenom (centruroides scorpion),OldAge,286,0.75
+olopatadine,Infant,458,0.3
+olopatadine,Adult,458,1.0
+olopatadine,OldAge,458,0.75
+coal tar,Infant,330,0.3
+coal tar,Adult,330,1.0
+coal tar,OldAge,330,0.75
+paricalcitol,Infant,469,0.3
+paricalcitol,Adult,469,1.0
+paricalcitol,OldAge,469,0.75
+doxercalciferol,Infant,416,0.3
+doxercalciferol,Adult,416,1.0
+doxercalciferol,OldAge,416,0.75
+dexmedetomidine,Infant,301,0.3
+dexmedetomidine,Adult,301,1.0
+dexmedetomidine,OldAge,301,0.75
+dobutamine,Infant,284,0.3
+dobutamine,Adult,284,1.0
+dobutamine,OldAge,284,0.75
+teduglutide,Infant,278,0.3
+teduglutide,Adult,278,1.0
+teduglutide,OldAge,278,0.75
+demeclocycline,Infant,403,0.3
+demeclocycline,Adult,403,1.0
+demeclocycline,OldAge,403,0.75
+ibuprofen / pseudoephedrine,Infant,488,0.3
+ibuprofen / pseudoephedrine,Adult,488,1.0
+ibuprofen / pseudoephedrine,OldAge,488,0.75
+acetaminophen / phenylephrine,Infant,79,0.3
+acetaminophen / phenylephrine,Adult,79,1.0
+acetaminophen / phenylephrine,OldAge,79,0.75
+acetaminophen / pseudoephedrine,Infant,366,0.3
+acetaminophen / pseudoephedrine,Adult,366,1.0
+acetaminophen / pseudoephedrine,OldAge,366,0.75
+dexbrompheniramine / pseudoephedrine,Infant,309,0.3
+dexbrompheniramine / pseudoephedrine,Adult,309,1.0
+dexbrompheniramine / pseudoephedrine,OldAge,309,0.75
+cevimeline,Infant,225,0.3
+cevimeline,Adult,225,1.0
+cevimeline,OldAge,225,0.75
+tecovirimat,Infant,442,0.3
+tecovirimat,Adult,442,1.0
+tecovirimat,OldAge,442,0.75
+smallpox vaccine,Infant,429,0.3
+smallpox vaccine,Adult,429,1.0
+smallpox vaccine,OldAge,429,0.75
+nicotine,Infant,303,0.3
+nicotine,Adult,303,1.0
+nicotine,OldAge,303,0.75
+varenicline,Infant,253,0.3
+varenicline,Adult,253,1.0
+varenicline,OldAge,253,0.75
+papaverine,Infant,120,0.3
+papaverine,Adult,120,1.0
+papaverine,OldAge,120,0.75
+larotrectinib,Infant,181,0.3
+larotrectinib,Adult,181,1.0
+larotrectinib,OldAge,181,0.75
+entrectinib,Infant,358,0.3
+entrectinib,Adult,358,1.0
+entrectinib,OldAge,358,0.75
+phenol,Infant,455,0.3
+phenol,Adult,455,1.0
+phenol,OldAge,455,0.75
+benzocaine / menthol,Infant,94,0.3
+benzocaine / menthol,Adult,94,1.0
+benzocaine / menthol,OldAge,94,0.75
+menthol,Infant,459,0.3
+menthol,Adult,459,1.0
+menthol,OldAge,459,0.75
+dyclonine,Infant,85,0.3
+dyclonine,Adult,85,1.0
+dyclonine,OldAge,85,0.75
+benzocaine / butamben / tetracaine,Infant,188,0.3
+benzocaine / butamben / tetracaine,Adult,188,1.0
+benzocaine / butamben / tetracaine,OldAge,188,0.75
+nusinersen,Infant,331,0.3
+nusinersen,Adult,331,1.0
+nusinersen,OldAge,331,0.75
+onasemnogene abeparvovec,Infant,367,0.3
+onasemnogene abeparvovec,Adult,367,1.0
+onasemnogene abeparvovec,OldAge,367,0.75
+golimumab,Infant,286,0.3
+golimumab,Adult,286,1.0
+golimumab,OldAge,286,0.75
+pentobarbital,Infant,51,0.3
+pentobarbital,Adult,51,1.0
+pentobarbital,OldAge,51,0.75
+fosphenytoin,Infant,95,0.3
+fosphenytoin,Adult,95,1.0
+fosphenytoin,OldAge,95,0.75
+aluminum hydroxide / magnesium hydroxide,Infant,103,0.3
+aluminum hydroxide / magnesium hydroxide,Adult,103,1.0
+aluminum hydroxide / magnesium hydroxide,OldAge,103,0.75
+sacrosidase,Infant,183,0.3
+sacrosidase,Adult,183,1.0
+sacrosidase,OldAge,183,0.75
+valbenazine,Infant,476,0.3
+valbenazine,Adult,476,1.0
+valbenazine,OldAge,476,0.75
+apomorphine,Infant,349,0.3
+apomorphine,Adult,349,1.0
+apomorphine,OldAge,349,0.75
+tetanus immune globulin,Infant,204,0.3
+tetanus immune globulin,Adult,204,1.0
+tetanus immune globulin,OldAge,204,0.75
+avatrombopag,Infant,79,0.3
+avatrombopag,Adult,79,1.0
+avatrombopag,OldAge,79,0.75
+lusutrombopag,Infant,446,0.3
+lusutrombopag,Adult,446,1.0
+lusutrombopag,OldAge,446,0.75
+caplacizumab,Infant,207,0.3
+caplacizumab,Adult,207,1.0
+caplacizumab,OldAge,207,0.75
+teprotumumab,Infant,244,0.3
+teprotumumab,Adult,244,1.0
+teprotumumab,OldAge,244,0.75
+cefaclor,Infant,462,0.3
+cefaclor,Adult,462,1.0
+cefaclor,OldAge,462,0.75
+povidone iodine,Infant,291,0.3
+povidone iodine,Adult,291,1.0
+povidone iodine,OldAge,291,0.75
+iodine,Infant,154,0.3
+iodine,Adult,154,1.0
+iodine,OldAge,154,0.75
+isopropyl alcohol,Infant,457,0.3
+isopropyl alcohol,Adult,457,1.0
+isopropyl alcohol,OldAge,457,0.75
+sodium hypochlorite,Infant,486,0.3
+sodium hypochlorite,Adult,486,1.0
+sodium hypochlorite,OldAge,486,0.75
+benzalkonium chloride,Infant,452,0.3
+benzalkonium chloride,Adult,452,1.0
+benzalkonium chloride,OldAge,452,0.75
+pimozide,Infant,434,0.3
+pimozide,Adult,434,1.0
+pimozide,OldAge,434,0.75
+isoniazid / pyrazinamide / rifampin,Infant,154,0.3
+isoniazid / pyrazinamide / rifampin,Adult,154,1.0
+isoniazid / pyrazinamide / rifampin,OldAge,154,0.75
+pyrazinamide,Infant,279,0.3
+pyrazinamide,Adult,279,1.0
+pyrazinamide,OldAge,279,0.75
+isoniazid / rifampin,Infant,431,0.3
+isoniazid / rifampin,Adult,431,1.0
+isoniazid / rifampin,OldAge,431,0.75
+rifapentine,Infant,214,0.3
+rifapentine,Adult,214,1.0
+rifapentine,OldAge,214,0.75
+bcg,Infant,498,0.3
+bcg,Adult,498,1.0
+bcg,OldAge,498,0.75
+bcg vaccine,Infant,313,0.3
+bcg vaccine,Adult,313,1.0
+bcg vaccine,OldAge,313,0.75
+bedaquiline,Infant,204,0.3
+bedaquiline,Adult,204,1.0
+bedaquiline,OldAge,204,0.75
+aminosalicylic acid,Infant,313,0.3
+aminosalicylic acid,Adult,313,1.0
+aminosalicylic acid,OldAge,313,0.75
+pretomanid,Infant,469,0.3
+pretomanid,Adult,469,1.0
+pretomanid,OldAge,469,0.75
+"typhoid vaccine, live",Infant,116,0.3
+"typhoid vaccine, live",Adult,116,1.0
+"typhoid vaccine, live",OldAge,116,0.75
+"typhoid vaccine, inactivated",Infant,82,0.3
+"typhoid vaccine, inactivated",Adult,82,1.0
+"typhoid vaccine, inactivated",OldAge,82,0.75
+olsalazine,Infant,352,0.3
+olsalazine,Adult,352,1.0
+olsalazine,OldAge,352,0.75
+sodium phenylbutyrate,Infant,142,0.3
+sodium phenylbutyrate,Adult,142,1.0
+sodium phenylbutyrate,OldAge,142,0.75
+glycerol phenylbutyrate,Infant,254,0.3
+glycerol phenylbutyrate,Adult,254,1.0
+glycerol phenylbutyrate,OldAge,254,0.75
+potassium acid phosphate,Infant,252,0.3
+potassium acid phosphate,Adult,252,1.0
+potassium acid phosphate,OldAge,252,0.75
+valrubicin,Infant,108,0.3
+valrubicin,Adult,108,1.0
+valrubicin,OldAge,108,0.75
+durvalumab,Infant,422,0.3
+durvalumab,Adult,422,1.0
+durvalumab,OldAge,422,0.75
+enfortumab vedotin,Infant,456,0.3
+enfortumab vedotin,Adult,456,1.0
+enfortumab vedotin,OldAge,456,0.75
+varicella virus vaccine,Infant,190,0.3
+varicella virus vaccine,Adult,190,1.0
+varicella virus vaccine,OldAge,190,0.75
+polidocanol,Infant,331,0.3
+polidocanol,Adult,331,1.0
+polidocanol,OldAge,331,0.75
+sodium tetradecyl sulfate,Infant,100,0.3
+sodium tetradecyl sulfate,Adult,100,1.0
+sodium tetradecyl sulfate,OldAge,100,0.75
+antivenin (crotalidae) polyvalent,Infant,466,0.3
+antivenin (crotalidae) polyvalent,Adult,466,1.0
+antivenin (crotalidae) polyvalent,OldAge,466,0.75
+antivenin (micrurus fulvius),Infant,371,0.3
+antivenin (micrurus fulvius),Adult,371,1.0
+antivenin (micrurus fulvius),OldAge,371,0.75
+antivenin (black widow spider),Infant,388,0.3
+antivenin (black widow spider),Adult,388,1.0
+antivenin (black widow spider),OldAge,388,0.75
+betrixaban,Infant,72,0.3
+betrixaban,Adult,72,1.0
+betrixaban,OldAge,72,0.75
+"dextran, low molecular weight",Infant,124,0.3
+"dextran, low molecular weight",Adult,124,1.0
+"dextran, low molecular weight",OldAge,124,0.75
+vitamin a,Infant,69,0.3
+vitamin a,Adult,69,1.0
+vitamin a,OldAge,69,0.75
+beta-carotene,Infant,399,0.3
+beta-carotene,Adult,399,1.0
+beta-carotene,OldAge,399,0.75
+multivitamin with minerals,Infant,452,0.3
+multivitamin with minerals,Adult,452,1.0
+multivitamin with minerals,OldAge,452,0.75
+chromium picolinate,Infant,448,0.3
+chromium picolinate,Adult,448,1.0
+chromium picolinate,OldAge,448,0.75
+selenium,Infant,442,0.3
+selenium,Adult,442,1.0
+selenium,OldAge,442,0.75
+zinc sulfate,Infant,54,0.3
+zinc sulfate,Adult,54,1.0
+zinc sulfate,OldAge,54,0.75
+"multivitamin, prenatal",Infant,80,0.3
+"multivitamin, prenatal",Adult,80,1.0
+"multivitamin, prenatal",OldAge,80,0.75
+ocriplasmin,Infant,82,0.3
+ocriplasmin,Adult,82,1.0
+ocriplasmin,OldAge,82,0.75
+von willebrand factor,Infant,382,0.3
+von willebrand factor,Adult,382,1.0
+von willebrand factor,OldAge,382,0.75
+desipramine,Infant,477,0.3
+desipramine,Adult,477,1.0
+desipramine,OldAge,477,0.75
+zinc acetate,Infant,220,0.3
+zinc acetate,Adult,220,1.0
+zinc acetate,OldAge,220,0.75
+trientine,Infant,390,0.3
+trientine,Adult,390,1.0
+trientine,OldAge,390,0.75
+burosumab,Infant,80,0.3
+burosumab,Adult,80,1.0
+burosumab,OldAge,80,0.75
+yellow fever vaccine,Infant,139,0.3
+yellow fever vaccine,Adult,139,1.0
+yellow fever vaccine,OldAge,139,0.75

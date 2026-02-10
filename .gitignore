@@ -1,0 +1,12 @@
+venv/
+myvenv/
+__pycache__/
+*.pyc
+.env
+db.sqlite3
+
+# Ignore model files
+*.pkl
+*.npy
+
+

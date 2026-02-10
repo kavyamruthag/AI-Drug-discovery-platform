@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Disease Deficiency Predictor</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .card {
+            width: 420px;
+            background: #fff;
+            padding: 28px;
+            border-radius: 16px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.25);
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 6px;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #777;
+            margin-bottom: 20px;
+        }
+
+        input, button {
+            width: 100%;
+            padding: 12px;
+            margin-top: 10px;
+        }
+
+        button {
+            background: #667eea;
+            border: none;
+            color: white;
+            font-size: 15px;
+            cursor: pointer;
+        }
+
+        .result {
+            margin-top: 20px;
+            padding: 14px;
+            background: #f4f6fb;
+            border-left: 5px solid #667eea;
+            border-radius: 8px;
+        }
+
+        .metrics {
+            margin-top: 20px;
+            padding: 14px;
+            background: #f0fff4;
+            border-left: 5px solid #38a169;
+            border-radius: 8px;
+        }
+
+        .metric-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+            margin-top: 10px;
+        }
+
+        .metric-box {
+            background: white;
+            padding: 10px;
+            border-radius: 8px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="card">
+    <h2>🩺 Disease Deficiency Predictor</h2>
+    <p class="subtitle">AI-based classification</p>
+
+    <form method="POST">
+        {% csrf_token %}
+        <input type="text" name="disease" placeholder="Enter disease name" required>
+        <button type="submit">Predict</button>
+    </form>
+
+    {% if result %}
+        <div class="result">
+            <p><b>Disease:</b> {{ result.disease }}</p>
+            <p><b>Lack of Component:</b> {{ result.component }}</p>
+        </div>
+    {% endif %}
+
+    {% if metrics %}
+        <div class="metrics">
+            <b>Model Performance</b>
+            <div class="metric-grid">
+                <div class="metric-box">Accuracy<br>{{ metrics.accuracy }}%</div>
+                <div class="metric-box">Precision<br>{{ metrics.precision|floatformat:2 }}</div>
+                <div class="metric-box">Recall<br>{{ metrics.recall|floatformat:2 }}</div>
+                <div class="metric-box">F1 Score<br>{{ metrics.f1_score|floatformat:2 }}</div>
+            </div>
+        </div>
+    {% endif %}
+</div>
+
+</body>
+</html>

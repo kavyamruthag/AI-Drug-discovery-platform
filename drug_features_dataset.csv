@@ -1,0 +1,1466 @@
+Drug_name,absorption,solubility,toxicity
+C1 esterase inhibitor (human),High,Sparingly soluble,Highly toxic
+abacavir,Low,Water-soluble,Highly toxic
+abacavir / lamivudine,High,Water-soluble,Highly toxic
+abatacept,High,Water-soluble,Mildly toxic
+abiraterone,Low,Water-soluble,Moderately toxic
+abobotulinumtoxinA,Low,Poorly soluble,Mildly toxic
+acalabrutinib,High,Sparingly soluble,Mildly toxic
+acamprosate,Moderate,Water-soluble,Mildly toxic
+acarbose,High,Poorly soluble,Moderately toxic
+acebutolol,High,Water-soluble,Highly toxic
+acetaminophen,High,Sparingly soluble,Highly toxic
+acetaminophen / aspirin / caffeine,High,Poorly soluble,Highly toxic
+acetaminophen / butalbital,Low,Sparingly soluble,Moderately toxic
+acetaminophen / butalbital / caffeine / codeine,High,Sparingly soluble,Highly toxic
+acetaminophen / caffeine / pyrilamine,Moderate,Poorly soluble,Moderately toxic
+acetaminophen / chlorpheniramine,Low,Poorly soluble,Highly toxic
+acetaminophen / chlorpheniramine / dextromethorphan,Moderate,Poorly soluble,Highly toxic
+acetaminophen / chlorpheniramine / dextromethorphan / phenylephrine,Moderate,Poorly soluble,Mildly toxic
+acetaminophen / chlorpheniramine / dextromethorphan / pseudoephedrine,Moderate,Poorly soluble,Moderately toxic
+acetaminophen / chlorpheniramine / phenylephrine,Moderate,Poorly soluble,Mildly toxic
+acetaminophen / dextromethorphan / diphenhydramine,Low,Poorly soluble,Mildly toxic
+acetaminophen / dextromethorphan / doxylamine / phenylephrine,Low,Water-soluble,Mildly toxic
+acetaminophen / dextromethorphan / guaifenesin / phenylephrine,Moderate,Sparingly soluble,Moderately toxic
+acetaminophen / dextromethorphan / phenylephrine,Moderate,Poorly soluble,Moderately toxic
+acetaminophen / hydrocodone,Low,Water-soluble,Highly toxic
+acetaminophen / oxycodone,Low,Water-soluble,Mildly toxic
+acetaminophen / pamabrom,Low,Water-soluble,Highly toxic
+acetaminophen / pamabrom / pyrilamine,High,Sparingly soluble,Mildly toxic
+acetaminophen / pseudoephedrine,High,Poorly soluble,Moderately toxic
+acetazolamide,High,Water-soluble,Moderately toxic
+acetic acid,Moderate,Sparingly soluble,Moderately toxic
+acetic acid / aluminum acetate,High,Sparingly soluble,Mildly toxic
+acetic acid / hydrocortisone,Moderate,Sparingly soluble,Moderately toxic
+acetylcholine,Moderate,Water-soluble,Mildly toxic
+acetylcysteine,High,Poorly soluble,Highly toxic
+acitretin,Moderate,Water-soluble,Mildly toxic
+aclidinium,High,Water-soluble,Highly toxic
+acyclovir,High,Poorly soluble,Mildly toxic
+acyclovir / hydrocortisone,Low,Poorly soluble,Highly toxic
+adalimumab,High,Poorly soluble,Moderately toxic
+adapalene,Low,Sparingly soluble,Highly toxic
+adefovir,High,Poorly soluble,Moderately toxic
+adenosine,High,Water-soluble,Moderately toxic
+adenovirus vaccine,Low,Poorly soluble,Highly toxic
+afamelanotide,Low,Water-soluble,Mildly toxic
+aflibercept,High,Sparingly soluble,Mildly toxic
+agalsidase beta,Moderate,Water-soluble,Mildly toxic
+albendazole,Low,Water-soluble,Mildly toxic
+albumin human,Moderate,Poorly soluble,Mildly toxic
+albuterol,Moderate,Poorly soluble,Moderately toxic
+albuterol / ipratropium,Moderate,Water-soluble,Mildly toxic
+alcaftadine,Low,Poorly soluble,Moderately toxic
+alclometasone,Moderate,Sparingly soluble,Moderately toxic
+aldesleukin,Low,Sparingly soluble,Moderately toxic
+alemtuzumab,Moderate,Poorly soluble,Highly toxic
+alendronate,High,Sparingly soluble,Highly toxic
+alfuzosin,High,Poorly soluble,Moderately toxic
+alirocumab,Low,Water-soluble,Highly toxic
+alitretinoin,High,Water-soluble,Mildly toxic
+allantoin / camphor / phenol,High,Sparingly soluble,Mildly toxic
+allopurinol,Moderate,Poorly soluble,Moderately toxic
+allopurinol / lesinurad,Low,Poorly soluble,Mildly toxic
+almotriptan,Moderate,Sparingly soluble,Moderately toxic
+aloe polysaccharides / iodoquinol,Moderate,Water-soluble,Moderately toxic
+alpelisib,Moderate,Sparingly soluble,Mildly toxic
+alpha 1-proteinase inhibitor,Moderate,Water-soluble,Highly toxic
+alprazolam,Moderate,Poorly soluble,Mildly toxic
+alprostadil,Moderate,Water-soluble,Mildly toxic
+alteplase,Moderate,Sparingly soluble,Moderately toxic
+aluminum chloride hexahydrate,Low,Poorly soluble,Moderately toxic
+aluminum hydroxide,High,Sparingly soluble,Moderately toxic
+aluminum hydroxide / magnesium hydroxide / simethicone,Moderate,Sparingly soluble,Moderately toxic
+aluminum hydroxide / magnesium trisilicate,Moderate,Water-soluble,Highly toxic
+alvimopan,Moderate,Sparingly soluble,Highly toxic
+amantadine,Moderate,Water-soluble,Highly toxic
+ambrisentan,Moderate,Poorly soluble,Moderately toxic
+amifampridine,Moderate,Water-soluble,Moderately toxic
+amifostine,High,Poorly soluble,Moderately toxic
+amikacin,High,Water-soluble,Highly toxic
+amiloride,Moderate,Sparingly soluble,Moderately toxic
+aminocaproic acid,High,Water-soluble,Mildly toxic
+aminolevulinic acid,Low,Water-soluble,Mildly toxic
+aminosalicylic acid,Moderate,Poorly soluble,Moderately toxic
+amiodarone,Low,Sparingly soluble,Mildly toxic
+amitriptyline,Low,Water-soluble,Mildly toxic
+amlodipine,Moderate,Sparingly soluble,Highly toxic
+amlodipine / atorvastatin,High,Water-soluble,Moderately toxic
+ammoniated mercury,Low,Water-soluble,Moderately toxic
+ammonium chloride,Moderate,Sparingly soluble,Highly toxic
+ammonium lactate,Low,Water-soluble,Mildly toxic
+amoxicillin,Low,Sparingly soluble,Mildly toxic
+amoxicillin / clarithromycin / lansoprazole,Low,Water-soluble,Moderately toxic
+amoxicillin / clavulanate,Low,Poorly soluble,Mildly toxic
+amphetamine,High,Sparingly soluble,Highly toxic
+amphetamine / dextroamphetamine,Low,Water-soluble,Highly toxic
+amphotericin b,Low,Water-soluble,Moderately toxic
+amphotericin b lipid complex,Low,Poorly soluble,Highly toxic
+amphotericin b liposomal,High,Sparingly soluble,Highly toxic
+ampicillin,Low,Water-soluble,Moderately toxic
+ampicillin / sulbactam,Low,Poorly soluble,Highly toxic
+amyl nitrite,High,Water-soluble,Highly toxic
+anagrelide,High,Sparingly soluble,Highly toxic
+anakinra,High,Water-soluble,Mildly toxic
+anastrozole,Low,Water-soluble,Moderately toxic
+anidulafungin,High,Water-soluble,Moderately toxic
+anthrax immune globulin intravenous,High,Water-soluble,Moderately toxic
+anthrax vaccine adsorbed,Low,Poorly soluble,Mildly toxic
+anti-inhibitor coagulant complex,High,Poorly soluble,Mildly toxic
+antihemophilic factor,Low,Sparingly soluble,Moderately toxic
+antithrombin (recombinant),Moderate,Poorly soluble,Mildly toxic
+antithrombin iii,High,Poorly soluble,Moderately toxic
+antivenin (crotalidae) polyvalent,Moderate,Sparingly soluble,Mildly toxic
+antivenom (centruroides scorpion),Low,Poorly soluble,Highly toxic
+apixaban,High,Poorly soluble,Highly toxic
+apomorphine,Low,Sparingly soluble,Moderately toxic
+apraclonidine,Moderate,Sparingly soluble,Mildly toxic
+apremilast,Low,Sparingly soluble,Mildly toxic
+aprepitant,High,Water-soluble,Highly toxic
+argatroban,High,Water-soluble,Highly toxic
+aripiprazole,Moderate,Sparingly soluble,Mildly toxic
+armodafinil,Low,Sparingly soluble,Mildly toxic
+arsenic trioxide,High,Sparingly soluble,Mildly toxic
+artemether / lumefantrine,Moderate,Water-soluble,Mildly toxic
+ascorbic acid,High,Water-soluble,Mildly toxic
+asenapine,High,Poorly soluble,Mildly toxic
+asfotase alfa,Low,Poorly soluble,Moderately toxic
+asparaginase erwinia chrysanthemi,High,Sparingly soluble,Mildly toxic
+asparaginase escherichia coli,Low,Water-soluble,Highly toxic
+aspirin,High,Water-soluble,Moderately toxic
+aspirin / butalbital / caffeine,Moderate,Water-soluble,Mildly toxic
+aspirin / caffeine,High,Sparingly soluble,Highly toxic
+aspirin / caffeine / orphenadrine,Low,Poorly soluble,Moderately toxic
+aspirin / carisoprodol,Low,Sparingly soluble,Highly toxic
+aspirin / carisoprodol / codeine,Moderate,Poorly soluble,Mildly toxic
+aspirin / omeprazole,High,Poorly soluble,Mildly toxic
+atazanavir,High,Sparingly soluble,Mildly toxic
+atenolol,Moderate,Poorly soluble,Mildly toxic
+atezolizumab,High,Poorly soluble,Moderately toxic
+atomoxetine,High,Water-soluble,Moderately toxic
+atorvastatin,Low,Poorly soluble,Highly toxic
+atovaquone,High,Sparingly soluble,Mildly toxic
+atovaquone / proguanil,High,Sparingly soluble,Highly toxic
+atropine,Moderate,Poorly soluble,Moderately toxic
+atropine / difenoxin,Moderate,Water-soluble,Mildly toxic
+atropine / diphenoxylate,Low,Water-soluble,Mildly toxic
+atropine / edrophonium,High,Poorly soluble,Moderately toxic
+atropine / hyoscyamine / phenobarbital / scopolamine,High,Poorly soluble,Moderately toxic
+atropine / pralidoxime,High,Sparingly soluble,Moderately toxic
+auranofin,Low,Poorly soluble,Moderately toxic
+avanafil,Low,Water-soluble,Moderately toxic
+avapritinib,Moderate,Poorly soluble,Mildly toxic
+avelumab,Low,Sparingly soluble,Moderately toxic
+axitinib,High,Sparingly soluble,Mildly toxic
+azacitidine,High,Sparingly soluble,Mildly toxic
+azathioprine,Low,Sparingly soluble,Moderately toxic
+azelaic acid,High,Sparingly soluble,Moderately toxic
+azelastine,High,Poorly soluble,Mildly toxic
+azficel-t,Low,Poorly soluble,Moderately toxic
+azithromycin,Low,Poorly soluble,Moderately toxic
+aztreonam,High,Poorly soluble,Moderately toxic
+bacitracin,High,Sparingly soluble,Highly toxic
+bacitracin / hydrocortisone / neomycin / polymyxin b,High,Water-soluble,Mildly toxic
+bacitracin / neomycin / polymyxin b,Moderate,Poorly soluble,Highly toxic
+bacitracin / neomycin / polymyxin b / pramoxine,Moderate,Water-soluble,Moderately toxic
+bacitracin / polymyxin b,Moderate,Poorly soluble,Highly toxic
+baclofen,Low,Poorly soluble,Moderately toxic
+baloxavir marboxil,Moderate,Water-soluble,Highly toxic
+balsalazide,Low,Sparingly soluble,Moderately toxic
+balsam peru / castor oil,Low,Poorly soluble,Highly toxic
+barium sulfate,Moderate,Poorly soluble,Highly toxic
+basiliximab,Moderate,Poorly soluble,Highly toxic
+bcg,Moderate,Water-soluble,Mildly toxic
+becaplermin,High,Sparingly soluble,Highly toxic
+beclomethasone,Moderate,Water-soluble,Mildly toxic
+bedaquiline,High,Water-soluble,Moderately toxic
+belatacept,Low,Sparingly soluble,Highly toxic
+belimumab,High,Water-soluble,Moderately toxic
+belinostat,Moderate,Sparingly soluble,Moderately toxic
+belladonna,Low,Poorly soluble,Highly toxic
+benazepril,Low,Sparingly soluble,Mildly toxic
+bendamustine,Low,Poorly soluble,Highly toxic
+benzalkonium chloride,High,Water-soluble,Moderately toxic
+benzalkonium chloride / lidocaine,Moderate,Water-soluble,Moderately toxic
+benzethonium chloride,Low,Poorly soluble,Highly toxic
+benznidazole,Low,Water-soluble,Mildly toxic
+benzocaine,Low,Sparingly soluble,Mildly toxic
+benzocaine / butamben / tetracaine,High,Poorly soluble,Moderately toxic
+benzocaine / menthol,High,Water-soluble,Moderately toxic
+benzonatate,Moderate,Poorly soluble,Mildly toxic
+benzoyl peroxide,High,Sparingly soluble,Highly toxic
+benztropine,Low,Sparingly soluble,Moderately toxic
+benzyl alcohol,Moderate,Water-soluble,Mildly toxic
+benzylpenicilloyl-polylysine,Low,Sparingly soluble,Moderately toxic
+bepotastine,Low,Poorly soluble,Highly toxic
+beractant,High,Sparingly soluble,Mildly toxic
+besifloxacin,Moderate,Poorly soluble,Moderately toxic
+beta-carotene,High,Poorly soluble,Highly toxic
+betaine,High,Sparingly soluble,Moderately toxic
+betamethasone,Moderate,Water-soluble,Highly toxic
+betamethasone / calcipotriene,Low,Sparingly soluble,Highly toxic
+betamethasone / clotrimazole,Low,Poorly soluble,Mildly toxic
+bethanechol,Moderate,Poorly soluble,Highly toxic
+bevacizumab,Low,Sparingly soluble,Moderately toxic
+bexarotene,Moderate,Water-soluble,Highly toxic
+bezlotoxumab,Moderate,Water-soluble,Highly toxic
+bicalutamide,High,Poorly soluble,Mildly toxic
+bifidobacterium infantis / lactobacillus acidophilus,Moderate,Poorly soluble,Highly toxic
+bimatoprost,High,Water-soluble,Highly toxic
+bioflavonoids,Low,Sparingly soluble,Moderately toxic
+bisacodyl,Low,Poorly soluble,Mildly toxic
+bismuth subsalicylate,Low,Poorly soluble,Mildly toxic
+bisoprolol,Low,Water-soluble,Mildly toxic
+bleomycin,High,Sparingly soluble,Highly toxic
+blinatumomab,Low,Water-soluble,Mildly toxic
+boric acid,Moderate,Sparingly soluble,Highly toxic
+bortezomib,Moderate,Sparingly soluble,Highly toxic
+bosentan,Moderate,Sparingly soluble,Moderately toxic
+bosutinib,High,Poorly soluble,Moderately toxic
+botulism antitoxin,Low,Water-soluble,Moderately toxic
+bremelanotide,Low,Water-soluble,Moderately toxic
+brentuximab,Low,Sparingly soluble,Moderately toxic
+brexanolone,High,Poorly soluble,Highly toxic
+brimonidine,Moderate,Poorly soluble,Highly toxic
+brimonidine / brinzolamide,Moderate,Water-soluble,Mildly toxic
+brimonidine / timolol,Low,Poorly soluble,Highly toxic
+brinzolamide,Moderate,Poorly soluble,Highly toxic
+brodalumab,Moderate,Sparingly soluble,Moderately toxic
+brolucizumab,High,Poorly soluble,Highly toxic
+bromocriptine,High,Sparingly soluble,Moderately toxic
+brompheniramine / codeine,High,Water-soluble,Mildly toxic
+brompheniramine / dextromethorphan / pseudoephedrine,High,Poorly soluble,Mildly toxic
+brompheniramine / phenylephrine,Low,Water-soluble,Highly toxic
+budesonide,High,Water-soluble,Mildly toxic
+budesonide / formoterol,Moderate,Poorly soluble,Highly toxic
+bumetanide,Low,Poorly soluble,Mildly toxic
+bupivacaine,Moderate,Water-soluble,Moderately toxic
+buprenorphine,Moderate,Poorly soluble,Moderately toxic
+buprenorphine / naloxone,Moderate,Sparingly soluble,Moderately toxic
+bupropion,High,Sparingly soluble,Moderately toxic
+bupropion / naltrexone,High,Poorly soluble,Highly toxic
+buspirone,Low,Water-soluble,Mildly toxic
+busulfan,Low,Poorly soluble,Highly toxic
+butorphanol,High,Poorly soluble,Moderately toxic
+cabergoline,Moderate,Water-soluble,Highly toxic
+cabozantinib,Low,Water-soluble,Mildly toxic
+cadexomer iodine,High,Sparingly soluble,Highly toxic
+caffeine,High,Water-soluble,Mildly toxic
+caffeine / ergotamine,High,Sparingly soluble,Highly toxic
+calamine,Moderate,Water-soluble,Mildly toxic
+calcifediol,High,Poorly soluble,Mildly toxic
+calcipotriene,High,Sparingly soluble,Moderately toxic
+calcitonin,High,Sparingly soluble,Mildly toxic
+calcitriol,High,Sparingly soluble,Moderately toxic
+calcium / folic acid / ginger / pyridoxine,Low,Poorly soluble,Moderately toxic
+calcium / vitamin d,Low,Poorly soluble,Moderately toxic
+calcium acetate,High,Poorly soluble,Highly toxic
+calcium carbonate,Moderate,Poorly soluble,Highly toxic
+calcium chloride,Low,Poorly soluble,Highly toxic
+calcium citrate,High,Sparingly soluble,Highly toxic
+calcium gluconate,Low,Poorly soluble,Mildly toxic
+calcium lactate,Low,Sparingly soluble,Mildly toxic
+"calcium phosphate, tribasic",Moderate,Poorly soluble,Highly toxic
+calfactant,High,Water-soluble,Mildly toxic
+camphor / menthol,High,Sparingly soluble,Mildly toxic
+canagliflozin,Moderate,Water-soluble,Moderately toxic
+canakinumab,Moderate,Sparingly soluble,Moderately toxic
+candesartan,High,Water-soluble,Moderately toxic
+cangrelor,High,Poorly soluble,Moderately toxic
+cannabidiol,Moderate,Poorly soluble,Mildly toxic
+cantharidin,Low,Poorly soluble,Highly toxic
+capecitabine,Low,Sparingly soluble,Mildly toxic
+caplacizumab,Moderate,Water-soluble,Mildly toxic
+capsaicin,Low,Poorly soluble,Mildly toxic
+captopril,Moderate,Water-soluble,Moderately toxic
+carbachol,Low,Water-soluble,Moderately toxic
+carbamazepine,Low,Poorly soluble,Moderately toxic
+carbamide peroxide,High,Poorly soluble,Highly toxic
+carbidopa,High,Water-soluble,Mildly toxic
+carbidopa / levodopa,Low,Poorly soluble,Highly toxic
+carbinoxamine,Low,Poorly soluble,Moderately toxic
+carboplatin,High,Poorly soluble,Highly toxic
+carboprost,High,Sparingly soluble,Mildly toxic
+carfilzomib,High,Water-soluble,Mildly toxic
+carglumic acid,Moderate,Water-soluble,Moderately toxic
+carisoprodol,Low,Sparingly soluble,Moderately toxic
+carmustine,High,Water-soluble,Highly toxic
+carvedilol,Low,Poorly soluble,Moderately toxic
+caspofungin,Moderate,Water-soluble,Moderately toxic
+cefaclor,Moderate,Poorly soluble,Mildly toxic
+cefadroxil,High,Sparingly soluble,Moderately toxic
+cefazolin,Moderate,Poorly soluble,Moderately toxic
+cefdinir,Low,Water-soluble,Mildly toxic
+cefepime,High,Water-soluble,Mildly toxic
+cefixime,Low,Water-soluble,Highly toxic
+cefotaxime,Low,Sparingly soluble,Moderately toxic
+cefotetan,Moderate,Sparingly soluble,Mildly toxic
+cefoxitin,Moderate,Water-soluble,Highly toxic
+cefpodoxime,Moderate,Poorly soluble,Highly toxic
+ceftazidime,Moderate,Sparingly soluble,Moderately toxic
+ceftriaxone,Moderate,Water-soluble,Moderately toxic
+cefuroxime,High,Water-soluble,Highly toxic
+celecoxib,Low,Sparingly soluble,Mildly toxic
+cemiplimab,Low,Sparingly soluble,Highly toxic
+cenegermin,Low,Sparingly soluble,Moderately toxic
+cephalexin,Low,Poorly soluble,Mildly toxic
+cerliponase alfa,Moderate,Poorly soluble,Mildly toxic
+certolizumab,Low,Water-soluble,Highly toxic
+cetirizine,High,Sparingly soluble,Moderately toxic
+cetrorelix,High,Poorly soluble,Highly toxic
+cetuximab,Low,Sparingly soluble,Highly toxic
+cevimeline,Low,Water-soluble,Highly toxic
+chlophedianol / dexbrompheniramine,High,Poorly soluble,Mildly toxic
+chlorambucil,High,Poorly soluble,Mildly toxic
+chloramphenicol,Moderate,Poorly soluble,Moderately toxic
+chlordiazepoxide,High,Water-soluble,Moderately toxic
+chlordiazepoxide / clidinium,Moderate,Sparingly soluble,Highly toxic
+chlorhexidine,Moderate,Poorly soluble,Highly toxic
+chloroquine,Moderate,Water-soluble,Highly toxic
+chlorpheniramine,Moderate,Sparingly soluble,Moderately toxic
+chlorpheniramine / hydrocodone,Moderate,Water-soluble,Mildly toxic
+chlorpheniramine / hydrocodone / pseudoephedrine,Low,Sparingly soluble,Mildly toxic
+chlorpheniramine / ibuprofen / phenylephrine,High,Water-soluble,Highly toxic
+chlorpheniramine / methscopolamine / phenylephrine,Moderate,Sparingly soluble,Highly toxic
+chlorpromazine,High,Poorly soluble,Highly toxic
+chlorthalidone,High,Sparingly soluble,Highly toxic
+chlorzoxazone,Moderate,Water-soluble,Moderately toxic
+cholecalciferol,Low,Water-soluble,Mildly toxic
+"cholera vaccine, live",Moderate,Sparingly soluble,Highly toxic
+cholestyramine,Low,Poorly soluble,Moderately toxic
+cholic acid,High,Poorly soluble,Highly toxic
+choline c-11,Low,Sparingly soluble,Highly toxic
+chondroitin / glucosamine,Low,Sparingly soluble,Mildly toxic
+chorionic gonadotropin (hcg),Low,Water-soluble,Highly toxic
+chromic chloride hexahydrate,High,Poorly soluble,Mildly toxic
+chromium picolinate,High,Sparingly soluble,Mildly toxic
+ciclesonide,Low,Poorly soluble,Mildly toxic
+ciclopirox,Low,Sparingly soluble,Moderately toxic
+cidofovir,Moderate,Sparingly soluble,Moderately toxic
+cilastatin / imipenem,Low,Poorly soluble,Mildly toxic
+cilostazol,Moderate,Sparingly soluble,Highly toxic
+cimetidine,Low,Sparingly soluble,Mildly toxic
+cinacalcet,Moderate,Water-soluble,Highly toxic
+ciprofloxacin,High,Sparingly soluble,Mildly toxic
+ciprofloxacin / dexamethasone,Low,Sparingly soluble,Highly toxic
+ciprofloxacin / hydrocortisone,Low,Sparingly soluble,Moderately toxic
+cisatracurium,Low,Water-soluble,Highly toxic
+cisplatin,Low,Poorly soluble,Mildly toxic
+citalopram,Moderate,Water-soluble,Moderately toxic
+citric acid / magnesium oxide / sodium picosulfate,Low,Water-soluble,Highly toxic
+citric acid / potassium citrate,High,Poorly soluble,Highly toxic
+citric acid / potassium citrate / sodium citrate,High,Water-soluble,Highly toxic
+citric acid / sodium citrate,Low,Poorly soluble,Highly toxic
+cladribine,High,Water-soluble,Highly toxic
+clarithromycin,Low,Poorly soluble,Moderately toxic
+clidinium,Low,Sparingly soluble,Moderately toxic
+clindamycin,High,Water-soluble,Moderately toxic
+clioquinol,Low,Water-soluble,Moderately toxic
+clobazam,High,Water-soluble,Mildly toxic
+clobetasol,Moderate,Water-soluble,Moderately toxic
+clofazimine,Low,Sparingly soluble,Highly toxic
+clomiphene,Moderate,Water-soluble,Highly toxic
+clomipramine,High,Sparingly soluble,Moderately toxic
+clonazepam,Moderate,Sparingly soluble,Highly toxic
+clonidine,Moderate,Sparingly soluble,Moderately toxic
+clopidogrel,High,Sparingly soluble,Highly toxic
+clorazepate,Moderate,Poorly soluble,Mildly toxic
+clotrimazole,Moderate,Poorly soluble,Mildly toxic
+clozapine,High,Water-soluble,Moderately toxic
+coagulation factor Xa,Moderate,Poorly soluble,Moderately toxic
+coagulation factor ix,High,Poorly soluble,Moderately toxic
+coagulation factor viia,Moderate,Water-soluble,Highly toxic
+coagulation factor x,High,Water-soluble,Moderately toxic
+cobimetinib,High,Water-soluble,Mildly toxic
+codeine,Moderate,Poorly soluble,Highly toxic
+codeine / guaifenesin,Moderate,Poorly soluble,Moderately toxic
+codeine / phenylephrine / promethazine,Moderate,Water-soluble,Highly toxic
+codeine / promethazine,Low,Sparingly soluble,Highly toxic
+colchicine,Low,Water-soluble,Moderately toxic
+colesevelam,Low,Sparingly soluble,Highly toxic
+colestipol,High,Sparingly soluble,Mildly toxic
+colistimethate,Moderate,Water-soluble,Mildly toxic
+colistin sulfate / hydrocortisone / neomycin / thonzonium bromide,High,Water-soluble,Highly toxic
+collagenase,Low,Water-soluble,Moderately toxic
+collagenase clostridium histolyticum,Moderate,Poorly soluble,Highly toxic
+conestat alfa,High,Sparingly soluble,Mildly toxic
+conivaptan,Moderate,Poorly soluble,Highly toxic
+conjugated estrogens,High,Poorly soluble,Highly toxic
+conjugated estrogens / medroxyprogesterone,Moderate,Water-soluble,Mildly toxic
+corticorelin,Low,Poorly soluble,Highly toxic
+corticotropin,Low,Water-soluble,Highly toxic
+cortisone,Moderate,Sparingly soluble,Moderately toxic
+cosyntropin,High,Water-soluble,Moderately toxic
+crizanlizumab,Low,Poorly soluble,Mildly toxic
+crizotinib,Low,Poorly soluble,Mildly toxic
+cromolyn,Low,Water-soluble,Mildly toxic
+cyanocobalamin,Moderate,Water-soluble,Moderately toxic
+cyclobenzaprine,Moderate,Poorly soluble,Mildly toxic
+cyclopentolate,High,Sparingly soluble,Mildly toxic
+cyclophosphamide,High,Sparingly soluble,Mildly toxic
+cycloserine,High,Water-soluble,Moderately toxic
+cyclosporine,Moderate,Sparingly soluble,Highly toxic
+cyproheptadine,Moderate,Poorly soluble,Mildly toxic
+cysteamine,High,Water-soluble,Highly toxic
+cytarabine,High,Poorly soluble,Mildly toxic
+cytarabine liposomal / daunorubicin liposomal,Moderate,Poorly soluble,Highly toxic
+cytomegalovirus immune globulin,High,Sparingly soluble,Moderately toxic
+dabigatran,Low,Water-soluble,Moderately toxic
+dabrafenib,Moderate,Water-soluble,Mildly toxic
+dacarbazine,High,Sparingly soluble,Highly toxic
+dactinomycin,Moderate,Poorly soluble,Moderately toxic
+dalfampridine,Low,Poorly soluble,Mildly toxic
+dalfopristin / quinupristin,Moderate,Poorly soluble,Mildly toxic
+dalteparin,Moderate,Poorly soluble,Moderately toxic
+danazol,Moderate,Water-soluble,Moderately toxic
+dantrolene,Moderate,Water-soluble,Mildly toxic
+dapsone,Low,Sparingly soluble,Highly toxic
+daptomycin,Moderate,Sparingly soluble,Highly toxic
+daratumumab,Moderate,Water-soluble,Highly toxic
+darifenacin,High,Water-soluble,Mildly toxic
+dasabuvir / ombitasvir / paritaprevir / ritonavir,Moderate,Poorly soluble,Moderately toxic
+dasatinib,High,Poorly soluble,Mildly toxic
+daunorubicin,Low,Sparingly soluble,Moderately toxic
+decitabine,Low,Water-soluble,Highly toxic
+deferasirox,Low,Sparingly soluble,Highly toxic
+deferiprone,Low,Water-soluble,Moderately toxic
+deferoxamine,High,Poorly soluble,Moderately toxic
+defibrotide,Moderate,Sparingly soluble,Mildly toxic
+deflazacort,Low,Sparingly soluble,Highly toxic
+degarelix,Moderate,Water-soluble,Mildly toxic
+dehydroepiandrosterone,High,Poorly soluble,Mildly toxic
+demeclocycline,High,Sparingly soluble,Mildly toxic
+denosumab,High,Poorly soluble,Highly toxic
+deoxycholic acid,Low,Sparingly soluble,Mildly toxic
+desipramine,Moderate,Poorly soluble,Mildly toxic
+desirudin,Moderate,Water-soluble,Mildly toxic
+desmopressin,Moderate,Sparingly soluble,Mildly toxic
+desogestrel / ethinyl estradiol,High,Sparingly soluble,Mildly toxic
+desonide,Low,Poorly soluble,Mildly toxic
+desoximetasone,High,Poorly soluble,Highly toxic
+desvenlafaxine,High,Sparingly soluble,Mildly toxic
+dexamethasone,Moderate,Water-soluble,Moderately toxic
+dexamethasone / neomycin / polymyxin b,High,Poorly soluble,Mildly toxic
+dexamethasone / tobramycin,Moderate,Poorly soluble,Mildly toxic
+dexbrompheniramine,Low,Poorly soluble,Highly toxic
+dexbrompheniramine / phenylephrine,Moderate,Sparingly soluble,Highly toxic
+dexbrompheniramine / pseudoephedrine,Low,Sparingly soluble,Moderately toxic
+dexlansoprazole,Moderate,Sparingly soluble,Moderately toxic
+dexmedetomidine,High,Sparingly soluble,Highly toxic
+dexmethylphenidate,High,Water-soluble,Highly toxic
+dexrazoxane,Low,Water-soluble,Mildly toxic
+"dextran, high molecular weight",Low,Sparingly soluble,Highly toxic
+dextranomer / sodium hyaluronate,Low,Water-soluble,Moderately toxic
+dextroamphetamine,Moderate,Poorly soluble,Mildly toxic
+dextromethorphan,Moderate,Poorly soluble,Moderately toxic
+dextromethorphan / guaifenesin,Low,Poorly soluble,Mildly toxic
+dextromethorphan / guaifenesin / phenylephrine,High,Sparingly soluble,Highly toxic
+dextromethorphan / promethazine,Moderate,Poorly soluble,Moderately toxic
+dextromethorphan / pyrilamine,Moderate,Water-soluble,Mildly toxic
+dextromethorphan / quinidine,Moderate,Sparingly soluble,Mildly toxic
+diazepam,Low,Water-soluble,Highly toxic
+diazoxide,Low,Poorly soluble,Highly toxic
+dibucaine,Low,Poorly soluble,Highly toxic
+dichlorphenamide,Low,Poorly soluble,Moderately toxic
+diclofenac,Low,Sparingly soluble,Mildly toxic
+dicloxacillin,High,Water-soluble,Highly toxic
+dicyclomine,High,Sparingly soluble,Moderately toxic
+dienogest / estradiol,Low,Sparingly soluble,Moderately toxic
+diethylpropion,Moderate,Poorly soluble,Moderately toxic
+diflorasone,Low,Sparingly soluble,Highly toxic
+difluprednate,High,Sparingly soluble,Highly toxic
+digoxin,High,Poorly soluble,Mildly toxic
+dihydroergotamine,Moderate,Sparingly soluble,Mildly toxic
+diltiazem,High,Poorly soluble,Highly toxic
+dimenhydrinate,Low,Poorly soluble,Moderately toxic
+dimercaprol,Moderate,Poorly soluble,Moderately toxic
+dimethyl fumarate,Low,Poorly soluble,Moderately toxic
+dimethyl sulfoxide,Low,Sparingly soluble,Mildly toxic
+dinoprostone,Moderate,Poorly soluble,Moderately toxic
+diphenhydramine,Low,Poorly soluble,Mildly toxic
+"diphtheria and tetanus toxoids / pertussis, acellular",High,Sparingly soluble,Mildly toxic
+"diphtheria and tetanus toxoids / pertussis, acellular / poliovirus vaccine, inactivated / haemophilus b conjugate / hepatitis b vaccine",Low,Sparingly soluble,Moderately toxic
+"diphtheria toxoid / haemophilus b conjugate (prp-t) vaccine / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid",Moderate,Water-soluble,Moderately toxic
+"diphtheria toxoid / hepatitis b pediatric vaccine / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid",Moderate,Sparingly soluble,Highly toxic
+"diphtheria toxoid / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid",Moderate,Sparingly soluble,Highly toxic
+"diphtheria toxoid / pertussis, acellular / tetanus toxoid",Low,Water-soluble,Moderately toxic
+diphtheria toxoid / tetanus toxoid,Moderate,Sparingly soluble,Mildly toxic
+dipyridamole,Moderate,Sparingly soluble,Mildly toxic
+disopyramide,Low,Sparingly soluble,Mildly toxic
+disulfiram,High,Sparingly soluble,Mildly toxic
+divalproex sodium,Low,Water-soluble,Mildly toxic
+dobutamine,Moderate,Sparingly soluble,Highly toxic
+docetaxel,Moderate,Sparingly soluble,Moderately toxic
+docosanol,Low,Water-soluble,Highly toxic
+docusate,High,Poorly soluble,Mildly toxic
+docusate / senna,Moderate,Water-soluble,Mildly toxic
+dofetilide,Moderate,Poorly soluble,Mildly toxic
+donepezil,Moderate,Water-soluble,Mildly toxic
+donepezil / memantine,Low,Water-soluble,Moderately toxic
+doripenem,Moderate,Sparingly soluble,Mildly toxic
+dorzolamide,High,Poorly soluble,Moderately toxic
+dorzolamide / timolol,Moderate,Sparingly soluble,Mildly toxic
+doxapram,Moderate,Poorly soluble,Moderately toxic
+doxazosin,High,Water-soluble,Highly toxic
+doxepin,Moderate,Water-soluble,Mildly toxic
+doxercalciferol,Low,Poorly soluble,Moderately toxic
+doxorubicin,Low,Sparingly soluble,Highly toxic
+doxorubicin liposomal,Low,Sparingly soluble,Mildly toxic
+doxycycline,High,Sparingly soluble,Mildly toxic
+doxylamine,Moderate,Sparingly soluble,Mildly toxic
+doxylamine / pyridoxine,Low,Water-soluble,Moderately toxic
+dronabinol,High,Water-soluble,Moderately toxic
+dronedarone,Moderate,Water-soluble,Highly toxic
+droperidol,High,Water-soluble,Moderately toxic
+drospirenone / ethinyl estradiol,Low,Water-soluble,Moderately toxic
+drospirenone / ethinyl estradiol / levomefolate calcium,Low,Sparingly soluble,Mildly toxic
+droxidopa,Low,Sparingly soluble,Mildly toxic
+duloxetine,High,Sparingly soluble,Mildly toxic
+dutasteride,High,Sparingly soluble,Mildly toxic
+dutasteride / tamsulosin,Low,Water-soluble,Mildly toxic
+duvelisib,High,Water-soluble,Mildly toxic
+dyclonine,Low,Water-soluble,Mildly toxic
+dyphylline,Low,Poorly soluble,Highly toxic
+"ebola zaire vaccine, live",Moderate,Sparingly soluble,Highly toxic
+econazole,High,Sparingly soluble,Highly toxic
+eculizumab,Low,Water-soluble,Highly toxic
+edaravone,Low,Sparingly soluble,Mildly toxic
+edetate calcium disodium,High,Sparingly soluble,Highly toxic
+edoxaban,Moderate,Water-soluble,Mildly toxic
+efavirenz,Moderate,Poorly soluble,Highly toxic
+efavirenz / emtricitabine / tenofovir,Low,Poorly soluble,Moderately toxic
+efinaconazole,High,Poorly soluble,Highly toxic
+elapegademase,Moderate,Water-soluble,Highly toxic
+elbasvir / grazoprevir,High,Sparingly soluble,Mildly toxic
+eletriptan,High,Water-soluble,Highly toxic
+eliglustat,Low,Water-soluble,Moderately toxic
+elosulfase alfa,Moderate,Sparingly soluble,Mildly toxic
+eltrombopag,Low,Poorly soluble,Mildly toxic
+emapalumab,Moderate,Poorly soluble,Highly toxic
+emicizumab,Moderate,Water-soluble,Mildly toxic
+emollients,Moderate,Poorly soluble,Mildly toxic
+emtricitabine / tenofovir,Moderate,Water-soluble,Mildly toxic
+emtricitabine / tenofovir alafenamide,Moderate,Water-soluble,Mildly toxic
+enalapril,High,Sparingly soluble,Mildly toxic
+enasidenib,Low,Sparingly soluble,Mildly toxic
+enoxaparin,High,Sparingly soluble,Moderately toxic
+entacapone,Moderate,Water-soluble,Highly toxic
+entecavir,Low,Sparingly soluble,Moderately toxic
+entrectinib,Moderate,Poorly soluble,Mildly toxic
+enzalutamide,Low,Poorly soluble,Mildly toxic
+ephedrine,High,Water-soluble,Highly toxic
+epinastine,Low,Water-soluble,Moderately toxic
+epinephrine,Low,Sparingly soluble,Highly toxic
+epirubicin,Low,Water-soluble,Moderately toxic
+epoetin alfa,Low,Water-soluble,Mildly toxic
+epoprostenol,Low,Poorly soluble,Highly toxic
+eptifibatide,Moderate,Poorly soluble,Highly toxic
+erdafitinib,Low,Sparingly soluble,Mildly toxic
+ergocalciferol,Low,Water-soluble,Highly toxic
+ergoloid mesylates,High,Water-soluble,Moderately toxic
+eribulin,Low,Poorly soluble,Moderately toxic
+erlotinib,High,Water-soluble,Moderately toxic
+erythromycin,Moderate,Poorly soluble,Moderately toxic
+escitalopram,Low,Sparingly soluble,Mildly toxic
+esmolol,High,Poorly soluble,Highly toxic
+esomeprazole,High,Water-soluble,Moderately toxic
+esomeprazole / naproxen,Moderate,Sparingly soluble,Mildly toxic
+esterified estrogens,Low,Poorly soluble,Highly toxic
+esterified estrogens / methyltestosterone,Low,Poorly soluble,Highly toxic
+estradiol,High,Sparingly soluble,Mildly toxic
+estradiol / levonorgestrel,Low,Sparingly soluble,Mildly toxic
+estradiol / norethindrone,High,Poorly soluble,Moderately toxic
+estradiol / progesterone,Low,Water-soluble,Highly toxic
+estropipate,High,Poorly soluble,Highly toxic
+eszopiclone,Low,Sparingly soluble,Mildly toxic
+etanercept,Moderate,Poorly soluble,Highly toxic
+eteplirsen,Low,Sparingly soluble,Moderately toxic
+ethacrynic acid,Low,Sparingly soluble,Highly toxic
+ethambutol,Moderate,Water-soluble,Mildly toxic
+ethanolamine oleate,Low,Sparingly soluble,Mildly toxic
+ethinyl estradiol,Moderate,Sparingly soluble,Moderately toxic
+ethinyl estradiol / levonorgestrel,Low,Water-soluble,Moderately toxic
+ethinyl estradiol / norethindrone,High,Sparingly soluble,Highly toxic
+ethinyl estradiol / norgestimate,High,Water-soluble,Highly toxic
+ethinyl estradiol / norgestrel,Low,Water-soluble,Mildly toxic
+etidronate,Low,Sparingly soluble,Moderately toxic
+etodolac,Low,Sparingly soluble,Moderately toxic
+etomidate,High,Poorly soluble,Moderately toxic
+etoposide,Low,Water-soluble,Highly toxic
+everolimus,High,Poorly soluble,Moderately toxic
+evolocumab,Moderate,Sparingly soluble,Mildly toxic
+exemestane,High,Poorly soluble,Mildly toxic
+ezetimibe,High,Water-soluble,Highly toxic
+ezetimibe / simvastatin,Moderate,Poorly soluble,Highly toxic
+factor XIII,High,Water-soluble,Moderately toxic
+factor ix complex,Low,Sparingly soluble,Highly toxic
+famciclovir,Low,Sparingly soluble,Mildly toxic
+famotidine,High,Water-soluble,Moderately toxic
+famotidine / ibuprofen,Low,Sparingly soluble,Mildly toxic
+fat emulsion,High,Sparingly soluble,Moderately toxic
+febuxostat,Low,Sparingly soluble,Highly toxic
+fedratinib,Low,Sparingly soluble,Moderately toxic
+felbamate,High,Water-soluble,Moderately toxic
+felodipine,Low,Poorly soluble,Mildly toxic
+fenofibrate,High,Poorly soluble,Mildly toxic
+fenofibric acid,Low,Sparingly soluble,Moderately toxic
+fenoldopam,Low,Poorly soluble,Highly toxic
+fentanyl,Moderate,Poorly soluble,Highly toxic
+ferric citrate,Moderate,Sparingly soluble,Mildly toxic
+ferrous fumarate,High,Sparingly soluble,Highly toxic
+ferrous fumarate / folic acid,Moderate,Poorly soluble,Mildly toxic
+ferrous gluconate,High,Water-soluble,Highly toxic
+ferrous sulfate,Moderate,Sparingly soluble,Moderately toxic
+ferumoxytol,Low,Water-soluble,Mildly toxic
+fesoterodine,High,Poorly soluble,Mildly toxic
+fexofenadine,High,Sparingly soluble,Moderately toxic
+fibrin sealant,Low,Water-soluble,Mildly toxic
+fibrinogen,High,Sparingly soluble,Highly toxic
+fidaxomicin,High,Poorly soluble,Highly toxic
+filgrastim,Moderate,Water-soluble,Mildly toxic
+finasteride,High,Poorly soluble,Highly toxic
+fingolimod,Low,Poorly soluble,Mildly toxic
+flavoxate,Moderate,Sparingly soluble,Moderately toxic
+flecainide,Moderate,Water-soluble,Mildly toxic
+flibanserin,Low,Poorly soluble,Moderately toxic
+florbetaben f-18,Low,Poorly soluble,Highly toxic
+florbetapir F 18,Moderate,Water-soluble,Moderately toxic
+floxuridine,High,Poorly soluble,Highly toxic
+fluciclovine F 18,Moderate,Poorly soluble,Mildly toxic
+fluconazole,Low,Water-soluble,Highly toxic
+flucytosine,Moderate,Water-soluble,Mildly toxic
+fludarabine,Low,Water-soluble,Mildly toxic
+fludrocortisone,Moderate,Water-soluble,Moderately toxic
+flunisolide,High,Sparingly soluble,Moderately toxic
+fluocinolone,Moderate,Water-soluble,Moderately toxic
+fluocinolone / hydroquinone / tretinoin,Moderate,Sparingly soluble,Moderately toxic
+fluocinolone / neomycin,Low,Sparingly soluble,Highly toxic
+fluocinonide,Low,Sparingly soluble,Highly toxic
+fluoride,Low,Poorly soluble,Highly toxic
+fluorometholone,Moderate,Sparingly soluble,Mildly toxic
+fluorouracil,High,Sparingly soluble,Highly toxic
+fluoxetine,Low,Poorly soluble,Highly toxic
+fluoxymesterone,Low,Poorly soluble,Highly toxic
+flurazepam,Moderate,Poorly soluble,Moderately toxic
+flurbiprofen,Low,Water-soluble,Highly toxic
+flutamide,High,Poorly soluble,Mildly toxic
+flutemetamol f-18,High,Poorly soluble,Moderately toxic
+fluticasone,Low,Sparingly soluble,Mildly toxic
+fluticasone / salmeterol,Low,Poorly soluble,Highly toxic
+fluticasone / umeclidinium / vilanterol,Moderate,Water-soluble,Moderately toxic
+fluticasone / vilanterol,High,Poorly soluble,Mildly toxic
+fluvastatin,High,Water-soluble,Highly toxic
+fluvoxamine,Low,Poorly soluble,Mildly toxic
+folic acid,Moderate,Poorly soluble,Mildly toxic
+follicle stimulating hormone,High,Poorly soluble,Mildly toxic
+fomepizole,High,Poorly soluble,Highly toxic
+fondaparinux,Moderate,Water-soluble,Highly toxic
+formaldehyde,Moderate,Water-soluble,Mildly toxic
+formoterol,High,Sparingly soluble,Moderately toxic
+formoterol / mometasone,High,Water-soluble,Moderately toxic
+foscarnet,Moderate,Poorly soluble,Highly toxic
+fosfomycin,High,Sparingly soluble,Highly toxic
+fosinopril,Low,Sparingly soluble,Highly toxic
+furosemide,Low,Sparingly soluble,Highly toxic
+gabapentin,Moderate,Poorly soluble,Highly toxic
+gabapentin enacarbil,Moderate,Water-soluble,Moderately toxic
+gadobenate dimeglumine,Moderate,Poorly soluble,Highly toxic
+gadobutrol,Low,Sparingly soluble,Mildly toxic
+gadodiamide,High,Poorly soluble,Mildly toxic
+gadopentetate dimeglumine,Low,Poorly soluble,Moderately toxic
+gadoterate meglumine,High,Water-soluble,Mildly toxic
+gadoxetate disodium,Low,Water-soluble,Moderately toxic
+galantamine,High,Sparingly soluble,Moderately toxic
+gallium ga 68 dotatate,Low,Poorly soluble,Mildly toxic
+galsulfase,Moderate,Poorly soluble,Highly toxic
+ganciclovir,Low,Water-soluble,Mildly toxic
+ganirelix,High,Poorly soluble,Mildly toxic
+gatifloxacin,Low,Poorly soluble,Moderately toxic
+gefitinib,Low,Poorly soluble,Mildly toxic
+gemcitabine,Low,Water-soluble,Moderately toxic
+gemfibrozil,Moderate,Sparingly soluble,Highly toxic
+gemifloxacin,Low,Sparingly soluble,Highly toxic
+gemtuzumab,Moderate,Poorly soluble,Highly toxic
+gentamicin,Moderate,Sparingly soluble,Mildly toxic
+gentamicin / prednisolone,Low,Water-soluble,Moderately toxic
+gentian violet,Low,Water-soluble,Highly toxic
+gilteritinib,Low,Sparingly soluble,Moderately toxic
+glasdegib,High,Sparingly soluble,Moderately toxic
+glatiramer,Low,Poorly soluble,Highly toxic
+glecaprevir / pibrentasvir,Moderate,Sparingly soluble,Highly toxic
+glimepiride,Low,Poorly soluble,Moderately toxic
+glipizide,High,Poorly soluble,Highly toxic
+glucagon,Low,Water-soluble,Moderately toxic
+glucarpidase,High,Water-soluble,Moderately toxic
+glutamine,High,Water-soluble,Highly toxic
+glycerin,Low,Water-soluble,Mildly toxic
+glycopyrrolate,Moderate,Sparingly soluble,Highly toxic
+glycopyrronium,High,Water-soluble,Mildly toxic
+golimumab,Low,Sparingly soluble,Moderately toxic
+goserelin,Low,Water-soluble,Moderately toxic
+granisetron,Moderate,Sparingly soluble,Mildly toxic
+griseofulvin,High,Poorly soluble,Moderately toxic
+guaifenesin,High,Sparingly soluble,Mildly toxic
+guaifenesin / phenylephrine,Low,Sparingly soluble,Mildly toxic
+guaifenesin / pseudoephedrine,Low,Water-soluble,Moderately toxic
+guanfacine,Moderate,Sparingly soluble,Mildly toxic
+guanidine,Moderate,Poorly soluble,Highly toxic
+haemophilus b conjugate (prp-omp) vaccine,High,Poorly soluble,Highly toxic
+halobetasol,High,Water-soluble,Moderately toxic
+haloperidol,Low,Poorly soluble,Moderately toxic
+hemin,High,Sparingly soluble,Mildly toxic
+heparin,Moderate,Poorly soluble,Mildly toxic
+hepatitis a adult vaccine,Moderate,Water-soluble,Mildly toxic
+hepatitis a adult vaccine / hepatitis b adult vaccine,Low,Sparingly soluble,Mildly toxic
+hepatitis b immune globulin,Moderate,Water-soluble,Highly toxic
+hepatitis b pediatric vaccine,Moderate,Sparingly soluble,Highly toxic
+hetastarch,Moderate,Poorly soluble,Moderately toxic
+histrelin,Moderate,Water-soluble,Mildly toxic
+homatropine,Low,Water-soluble,Mildly toxic
+homatropine / hydrocodone,Low,Sparingly soluble,Moderately toxic
+human papillomavirus vaccine,High,Water-soluble,Mildly toxic
+hyaluronidase,Moderate,Sparingly soluble,Mildly toxic
+hyaluronidase / rituximab,High,Sparingly soluble,Mildly toxic
+hydralazine,Low,Sparingly soluble,Mildly toxic
+hydrochlorothiazide,Low,Sparingly soluble,Mildly toxic
+hydrochlorothiazide / lisinopril,Low,Poorly soluble,Moderately toxic
+hydrochlorothiazide / spironolactone,Low,Sparingly soluble,Mildly toxic
+hydrochlorothiazide / triamterene,Low,Water-soluble,Moderately toxic
+hydrocortisone,Low,Poorly soluble,Mildly toxic
+hydrocortisone / lidocaine,Low,Water-soluble,Highly toxic
+hydrocortisone / neomycin / polymyxin b,Moderate,Poorly soluble,Highly toxic
+hydrocortisone / pramoxine,High,Sparingly soluble,Highly toxic
+hydrogen peroxide,Low,Poorly soluble,Highly toxic
+hydroquinone,Moderate,Poorly soluble,Moderately toxic
+hydroxocobalamin,Moderate,Water-soluble,Moderately toxic
+hydroxychloroquine,High,Water-soluble,Mildly toxic
+hydroxyethyl starch,Low,Sparingly soluble,Highly toxic
+hydroxypropyl methylcellulose,High,Poorly soluble,Moderately toxic
+hydroxyquinoline,Low,Poorly soluble,Mildly toxic
+hydroxyurea,Moderate,Poorly soluble,Mildly toxic
+hydroxyzine,Moderate,Sparingly soluble,Moderately toxic
+hyoscyamine,Moderate,Sparingly soluble,Highly toxic
+ibandronate,Moderate,Sparingly soluble,Mildly toxic
+ibritumomab,High,Sparingly soluble,Highly toxic
+ibrutinib,Low,Sparingly soluble,Highly toxic
+ibuprofen,Low,Water-soluble,Highly toxic
+ibuprofen / pseudoephedrine,High,Poorly soluble,Mildly toxic
+ibutilide,Low,Poorly soluble,Highly toxic
+icatibant,Moderate,Poorly soluble,Mildly toxic
+icosapent,Low,Poorly soluble,Highly toxic
+idarubicin,Moderate,Poorly soluble,Mildly toxic
+idarucizumab,High,Poorly soluble,Highly toxic
+idelalisib,Low,Poorly soluble,Moderately toxic
+ifosfamide,High,Poorly soluble,Highly toxic
+iloperidone,Low,Water-soluble,Highly toxic
+iloprost,Moderate,Poorly soluble,Mildly toxic
+imatinib,High,Water-soluble,Mildly toxic
+imiglucerase,Low,Sparingly soluble,Highly toxic
+imipramine,Moderate,Poorly soluble,Moderately toxic
+imiquimod,High,Sparingly soluble,Moderately toxic
+immune globulin intramuscular,High,Sparingly soluble,Mildly toxic
+immune globulin intravenous,Low,Sparingly soluble,Moderately toxic
+immune globulin intravenous and subcutaneous,Low,Water-soluble,Highly toxic
+immune globulin subcutaneous,Low,Sparingly soluble,Mildly toxic
+incobotulinumtoxinA,Moderate,Sparingly soluble,Highly toxic
+indomethacin,Low,Sparingly soluble,Mildly toxic
+infliximab,High,Poorly soluble,Mildly toxic
+"influenza virus vaccine, h5n1",High,Poorly soluble,Mildly toxic
+"influenza virus vaccine, inactivated",Low,Water-soluble,Mildly toxic
+"influenza virus vaccine, live, trivalent",Low,Water-soluble,Moderately toxic
+ingenol,High,Poorly soluble,Highly toxic
+inotersen,Moderate,Water-soluble,Highly toxic
+insulin aspart,Low,Poorly soluble,Highly toxic
+insulin aspart / insulin degludec,Low,Sparingly soluble,Mildly toxic
+insulin glargine,High,Sparingly soluble,Moderately toxic
+insulin glulisine,Low,Water-soluble,Highly toxic
+insulin isophane / insulin regular,Moderate,Poorly soluble,Moderately toxic
+insulin lispro,High,Poorly soluble,Mildly toxic
+insulin regular,Low,Water-soluble,Highly toxic
+interferon alfa-2b,High,Poorly soluble,Moderately toxic
+interferon alfa-n3,Low,Sparingly soluble,Mildly toxic
+interferon beta-1a,Low,Water-soluble,Moderately toxic
+interferon beta-1b,Low,Water-soluble,Highly toxic
+interferon gamma-1b,Moderate,Poorly soluble,Highly toxic
+iobenguane I 123,Moderate,Water-soluble,Mildly toxic
+iobenguane I 131,High,Poorly soluble,Mildly toxic
+iodine,Low,Poorly soluble,Mildly toxic
+iodine / potassium iodide,Low,Poorly soluble,Moderately toxic
+iodixanol,Moderate,Poorly soluble,Moderately toxic
+iohexol,Low,Poorly soluble,Moderately toxic
+iopamidol,Moderate,Water-soluble,Mildly toxic
+iopromide,Low,Sparingly soluble,Highly toxic
+ioversol,High,Sparingly soluble,Highly toxic
+ipilimumab,Low,Water-soluble,Moderately toxic
+ipratropium,Low,Water-soluble,Moderately toxic
+irbesartan,Moderate,Sparingly soluble,Highly toxic
+irinotecan,Low,Sparingly soluble,Highly toxic
+irinotecan liposomal,Low,Sparingly soluble,Moderately toxic
+iron polysaccharide,Moderate,Sparingly soluble,Moderately toxic
+iron sucrose,High,Sparingly soluble,Highly toxic
+isavuconazonium,High,Poorly soluble,Mildly toxic
+isoniazid,Moderate,Water-soluble,Moderately toxic
+isoniazid / pyrazinamide / rifampin,Moderate,Poorly soluble,Highly toxic
+isoniazid / rifampin,Moderate,Sparingly soluble,Highly toxic
+isoproterenol,Moderate,Sparingly soluble,Highly toxic
+isosorbide dinitrate,Moderate,Sparingly soluble,Highly toxic
+isosorbide mononitrate,High,Poorly soluble,Mildly toxic
+isotretinoin,High,Poorly soluble,Highly toxic
+isoxsuprine,Moderate,Sparingly soluble,Moderately toxic
+isradipine,Low,Poorly soluble,Mildly toxic
+itraconazole,Moderate,Poorly soluble,Highly toxic
+ivacaftor,Low,Sparingly soluble,Mildly toxic
+ivacaftor / lumacaftor,Moderate,Poorly soluble,Moderately toxic
+ivermectin,Moderate,Water-soluble,Highly toxic
+ivosidenib,High,Water-soluble,Moderately toxic
+ixekizumab,Low,Water-soluble,Highly toxic
+"japanese enceph vacc sa14-14-2, inactivated",Low,Water-soluble,Highly toxic
+ketamine,High,Sparingly soluble,Highly toxic
+ketoconazole,High,Sparingly soluble,Highly toxic
+ketoprofen,High,Sparingly soluble,Highly toxic
+ketorolac,High,Water-soluble,Mildly toxic
+ketorolac / phenylephrine,Low,Water-soluble,Highly toxic
+ketotifen,Low,Poorly soluble,Highly toxic
+l-methylfolate,Moderate,Poorly soluble,Mildly toxic
+labetalol,Moderate,Water-soluble,Mildly toxic
+lactase,High,Water-soluble,Mildly toxic
+lactic acid,High,Water-soluble,Mildly toxic
+lactulose,High,Water-soluble,Mildly toxic
+lamivudine,Moderate,Poorly soluble,Mildly toxic
+lamivudine / zidovudine,Moderate,Water-soluble,Highly toxic
+lamotrigine,Moderate,Poorly soluble,Highly toxic
+lanadelumab,Moderate,Water-soluble,Moderately toxic
+lanolin,Moderate,Water-soluble,Highly toxic
+lansoprazole,Moderate,Water-soluble,Highly toxic
+lanthanum carbonate,Moderate,Poorly soluble,Mildly toxic
+laronidase,High,Poorly soluble,Mildly toxic
+larotrectinib,High,Sparingly soluble,Highly toxic
+latanoprost,High,Water-soluble,Moderately toxic
+ledipasvir / sofosbuvir,High,Sparingly soluble,Mildly toxic
+leflunomide,Moderate,Sparingly soluble,Highly toxic
+lenalidomide,Low,Poorly soluble,Highly toxic
+lenvatinib,Moderate,Poorly soluble,Moderately toxic
+lesinurad,Low,Sparingly soluble,Moderately toxic
+letermovir,High,Water-soluble,Mildly toxic
+letrozole,Moderate,Poorly soluble,Moderately toxic
+leucovorin,High,Water-soluble,Highly toxic
+leuprolide,Moderate,Water-soluble,Highly toxic
+levalbuterol,High,Sparingly soluble,Moderately toxic
+levetiracetam,Low,Sparingly soluble,Moderately toxic
+levobunolol,Low,Sparingly soluble,Moderately toxic
+levocarnitine,Low,Sparingly soluble,Moderately toxic
+levocetirizine,Moderate,Poorly soluble,Mildly toxic
+levodopa,Low,Poorly soluble,Moderately toxic
+levofloxacin,Moderate,Sparingly soluble,Mildly toxic
+levoleucovorin,Low,Poorly soluble,Highly toxic
+levonorgestrel,Low,Sparingly soluble,Moderately toxic
+levorphanol,Moderate,Water-soluble,Mildly toxic
+levothyroxine,Moderate,Water-soluble,Moderately toxic
+lidocaine,Low,Water-soluble,Highly toxic
+lifitegrast,Moderate,Sparingly soluble,Highly toxic
+linaclotide,Low,Water-soluble,Highly toxic
+lindane,Moderate,Poorly soluble,Moderately toxic
+linezolid,High,Water-soluble,Moderately toxic
+liothyronine,High,Water-soluble,Mildly toxic
+liraglutide,High,Water-soluble,Highly toxic
+lisdexamfetamine,High,Poorly soluble,Moderately toxic
+lisinopril,High,Sparingly soluble,Highly toxic
+lithium,Low,Poorly soluble,Highly toxic
+lodoxamide,High,Sparingly soluble,Mildly toxic
+lofexidine,High,Sparingly soluble,Mildly toxic
+lomitapide,High,Water-soluble,Mildly toxic
+lomustine,High,Sparingly soluble,Mildly toxic
+loperamide,Moderate,Poorly soluble,Highly toxic
+loperamide / simethicone,Low,Poorly soluble,Mildly toxic
+lopinavir / ritonavir,High,Sparingly soluble,Mildly toxic
+loratadine,High,Water-soluble,Mildly toxic
+loratadine / pseudoephedrine,High,Water-soluble,Mildly toxic
+lorazepam,Low,Poorly soluble,Highly toxic
+lorcaserin,Moderate,Water-soluble,Mildly toxic
+losartan,Low,Sparingly soluble,Highly toxic
+loteprednol,Moderate,Sparingly soluble,Moderately toxic
+loteprednol / tobramycin,High,Poorly soluble,Highly toxic
+lovastatin,High,Sparingly soluble,Highly toxic
+loxapine,Low,Poorly soluble,Mildly toxic
+lubiprostone,Low,Sparingly soluble,Moderately toxic
+lurasidone,Moderate,Poorly soluble,Moderately toxic
+luspatercept,Moderate,Water-soluble,Moderately toxic
+lusutrombopag,Low,Sparingly soluble,Moderately toxic
+lutein,Moderate,Sparingly soluble,Highly toxic
+lutetium lu 177 dotatate,Low,Poorly soluble,Moderately toxic
+lvp solution,Moderate,Poorly soluble,Highly toxic
+"lymphocyte immune globulin, anti-thy (equine)",Low,Sparingly soluble,Highly toxic
+macimorelin,Low,Poorly soluble,Highly toxic
+macitentan,Low,Sparingly soluble,Moderately toxic
+magnesium carbonate,Moderate,Water-soluble,Mildly toxic
+magnesium chloride,Moderate,Poorly soluble,Mildly toxic
+magnesium citrate,Moderate,Sparingly soluble,Moderately toxic
+magnesium gluconate,Low,Water-soluble,Mildly toxic
+magnesium hydroxide,Moderate,Water-soluble,Mildly toxic
+magnesium oxide,Moderate,Sparingly soluble,Highly toxic
+magnesium salicylate,Low,Poorly soluble,Highly toxic
+magnesium sulfate,High,Sparingly soluble,Moderately toxic
+magnesium sulfate / potassium sulfate / sodium sulfate,Low,Water-soluble,Moderately toxic
+malathion,Moderate,Sparingly soluble,Mildly toxic
+mannitol,Low,Poorly soluble,Highly toxic
+measles virus vaccine,High,Water-soluble,Moderately toxic
+measles virus vaccine / mumps virus vaccine / rubella virus vaccine,Low,Sparingly soluble,Moderately toxic
+measles virus vaccine / mumps virus vaccine / rubella virus vaccine / varicella virus vaccine,Moderate,Poorly soluble,Moderately toxic
+mebendazole,High,Water-soluble,Moderately toxic
+mecasermin,Moderate,Poorly soluble,Moderately toxic
+mechlorethamine,High,Water-soluble,Moderately toxic
+meclizine,High,Sparingly soluble,Mildly toxic
+medroxyprogesterone,Low,Poorly soluble,Highly toxic
+mefenamic acid,Low,Water-soluble,Highly toxic
+mefloquine,Moderate,Poorly soluble,Moderately toxic
+megestrol,Low,Poorly soluble,Highly toxic
+meloxicam,Low,Sparingly soluble,Highly toxic
+melphalan,High,Poorly soluble,Highly toxic
+memantine,Low,Water-soluble,Moderately toxic
+meningococcal conjugate vaccine,High,Water-soluble,Moderately toxic
+menthol,High,Water-soluble,Highly toxic
+menthol / zinc oxide,High,Water-soluble,Highly toxic
+meperidine,Moderate,Sparingly soluble,Moderately toxic
+mepivacaine,Moderate,Poorly soluble,Mildly toxic
+mepolizumab,Moderate,Sparingly soluble,Highly toxic
+mercaptopurine,High,Poorly soluble,Mildly toxic
+meropenem,Moderate,Poorly soluble,Highly toxic
+mesalamine,Moderate,Poorly soluble,Mildly toxic
+mesna,Low,Sparingly soluble,Mildly toxic
+metaxalone,Moderate,Poorly soluble,Mildly toxic
+metformin,Moderate,Sparingly soluble,Moderately toxic
+metformin / sitagliptin,High,Water-soluble,Mildly toxic
+methadone,High,Water-soluble,Mildly toxic
+methamphetamine,High,Poorly soluble,Mildly toxic
+methenamine,High,Sparingly soluble,Highly toxic
+methimazole,High,Water-soluble,Mildly toxic
+methocarbamol,High,Sparingly soluble,Highly toxic
+methotrexate,Moderate,Sparingly soluble,Mildly toxic
+methoxsalen,High,Poorly soluble,Mildly toxic
+methscopolamine,High,Water-soluble,Moderately toxic
+methyl aminolevulinate,Low,Poorly soluble,Highly toxic
+methyldopa,Moderate,Poorly soluble,Mildly toxic
+methylene blue,Moderate,Water-soluble,Highly toxic
+methylnaltrexone,Moderate,Water-soluble,Highly toxic
+methylphenidate,High,Sparingly soluble,Moderately toxic
+methylprednisolone,High,Water-soluble,Moderately toxic
+methyltestosterone,High,Sparingly soluble,Moderately toxic
+metoclopramide,Low,Sparingly soluble,Moderately toxic
+metolazone,High,Sparingly soluble,Moderately toxic
+metoprolol,Low,Water-soluble,Moderately toxic
+metreleptin,Moderate,Poorly soluble,Moderately toxic
+metronidazole,High,Sparingly soluble,Moderately toxic
+metyrapone,Low,Poorly soluble,Mildly toxic
+metyrosine,Low,Poorly soluble,Highly toxic
+mexiletine,High,Water-soluble,Moderately toxic
+micafungin,Moderate,Poorly soluble,Moderately toxic
+miconazole,Moderate,Poorly soluble,Highly toxic
+miconazole / zinc oxide,Moderate,Water-soluble,Mildly toxic
+midazolam,Low,Sparingly soluble,Highly toxic
+midodrine,Low,Poorly soluble,Highly toxic
+midostaurin,Low,Water-soluble,Moderately toxic
+mifepristone,Low,Poorly soluble,Highly toxic
+miglustat,Moderate,Poorly soluble,Highly toxic
+milnacipran,High,Sparingly soluble,Moderately toxic
+miltefosine,Low,Poorly soluble,Moderately toxic
+minocycline,Low,Water-soluble,Moderately toxic
+minoxidil,Moderate,Poorly soluble,Moderately toxic
+mirabegron,High,Sparingly soluble,Highly toxic
+mirtazapine,High,Sparingly soluble,Highly toxic
+misoprostol,Moderate,Water-soluble,Mildly toxic
+mitomycin,Moderate,Sparingly soluble,Mildly toxic
+mitotane,High,Poorly soluble,Highly toxic
+mitoxantrone,Low,Sparingly soluble,Mildly toxic
+modafinil,High,Water-soluble,Highly toxic
+moexipril,Moderate,Sparingly soluble,Mildly toxic
+mometasone,Low,Sparingly soluble,Moderately toxic
+montelukast,Low,Sparingly soluble,Mildly toxic
+morphine,Moderate,Water-soluble,Moderately toxic
+moxetumomab pasudotox,Moderate,Sparingly soluble,Moderately toxic
+moxidectin,Moderate,Sparingly soluble,Moderately toxic
+moxifloxacin,High,Poorly soluble,Moderately toxic
+multivitamin,High,Water-soluble,Mildly toxic
+multivitamin with iron,Low,Sparingly soluble,Highly toxic
+multivitamin with minerals,Moderate,Water-soluble,Moderately toxic
+mumps virus vaccine,Low,Sparingly soluble,Mildly toxic
+mupirocin,Low,Sparingly soluble,Moderately toxic
+muromonab-cd3,Low,Sparingly soluble,Mildly toxic
+mycophenolate mofetil,Low,Poorly soluble,Mildly toxic
+mycophenolic acid,Moderate,Poorly soluble,Mildly toxic
+nabilone,Low,Poorly soluble,Highly toxic
+nabumetone,Moderate,Water-soluble,Mildly toxic
+nadolol,Moderate,Water-soluble,Mildly toxic
+nafarelin,High,Poorly soluble,Highly toxic
+naldemedine,Moderate,Water-soluble,Highly toxic
+naloxegol,High,Sparingly soluble,Mildly toxic
+naloxone,Moderate,Sparingly soluble,Highly toxic
+naltrexone,Moderate,Sparingly soluble,Moderately toxic
+naphazoline,Moderate,Poorly soluble,Moderately toxic
+naphazoline / pheniramine,High,Water-soluble,Highly toxic
+naproxen,High,Poorly soluble,Highly toxic
+naproxen / pseudoephedrine,Low,Water-soluble,Mildly toxic
+naratriptan,High,Sparingly soluble,Highly toxic
+natamycin,High,Poorly soluble,Mildly toxic
+nebivolol,High,Water-soluble,Moderately toxic
+nedocromil,High,Water-soluble,Highly toxic
+nelarabine,Low,Sparingly soluble,Mildly toxic
+neomycin,High,Poorly soluble,Mildly toxic
+neomycin / polymyxin b / pramoxine,Moderate,Poorly soluble,Moderately toxic
+neostigmine,Moderate,Poorly soluble,Highly toxic
+nepafenac,High,Sparingly soluble,Moderately toxic
+nevirapine,High,Poorly soluble,Mildly toxic
+niacin,Moderate,Sparingly soluble,Mildly toxic
+niacinamide,Moderate,Sparingly soluble,Highly toxic
+nicotine,Low,Sparingly soluble,Mildly toxic
+nifedipine,Moderate,Water-soluble,Highly toxic
+nilotinib,Moderate,Poorly soluble,Moderately toxic
+nimodipine,High,Poorly soluble,Highly toxic
+nintedanib,Moderate,Sparingly soluble,Highly toxic
+niraparib,Low,Sparingly soluble,Mildly toxic
+nisoldipine,Moderate,Poorly soluble,Mildly toxic
+nitazoxanide,High,Sparingly soluble,Highly toxic
+nitisinone,High,Poorly soluble,Mildly toxic
+nitrofurantoin,Moderate,Water-soluble,Mildly toxic
+nitroglycerin,High,Sparingly soluble,Mildly toxic
+nitroprusside,Low,Poorly soluble,Highly toxic
+nivolumab,Low,Sparingly soluble,Mildly toxic
+norepinephrine,Moderate,Poorly soluble,Highly toxic
+norethindrone,Moderate,Poorly soluble,Mildly toxic
+nortriptyline,Moderate,Sparingly soluble,Moderately toxic
+nusinersen,High,Water-soluble,Mildly toxic
+nystatin,Low,Poorly soluble,Mildly toxic
+nystatin / triamcinolone,Low,Poorly soluble,Highly toxic
+obeticholic acid,High,Poorly soluble,Highly toxic
+obinutuzumab,Low,Water-soluble,Mildly toxic
+octreotide,Moderate,Water-soluble,Moderately toxic
+ofatumumab,Moderate,Sparingly soluble,Mildly toxic
+ofloxacin,Moderate,Water-soluble,Mildly toxic
+olanzapine,Low,Sparingly soluble,Moderately toxic
+olaparib,Moderate,Sparingly soluble,Highly toxic
+olaratumab,High,Water-soluble,Mildly toxic
+olmesartan,High,Sparingly soluble,Highly toxic
+olodaterol,Low,Water-soluble,Highly toxic
+olodaterol / tiotropium,High,Sparingly soluble,Moderately toxic
+olsalazine,High,Water-soluble,Moderately toxic
+omacetaxine,Low,Water-soluble,Highly toxic
+omalizumab,Moderate,Sparingly soluble,Mildly toxic
+omega-3 polyunsaturated fatty acids,Moderate,Poorly soluble,Highly toxic
+omeprazole,Moderate,Sparingly soluble,Mildly toxic
+omeprazole / sodium bicarbonate,Low,Water-soluble,Mildly toxic
+onabotulinumtoxinA,High,Poorly soluble,Moderately toxic
+onasemnogene abeparvovec,Moderate,Sparingly soluble,Mildly toxic
+ondansetron,Moderate,Sparingly soluble,Mildly toxic
+"ophthalmic irrigation, intraocular",Low,Sparingly soluble,Highly toxic
+opium,Moderate,Poorly soluble,Moderately toxic
+orlistat,Low,Water-soluble,Mildly toxic
+orphenadrine,High,Sparingly soluble,Mildly toxic
+oseltamivir,Low,Sparingly soluble,Moderately toxic
+ospemifene,Low,Sparingly soluble,Highly toxic
+oxacillin,Low,Sparingly soluble,Moderately toxic
+oxaliplatin,Low,Sparingly soluble,Moderately toxic
+oxandrolone,High,Water-soluble,Mildly toxic
+oxazepam,High,Water-soluble,Mildly toxic
+oxcarbazepine,Moderate,Sparingly soluble,Highly toxic
+oxybutynin,High,Poorly soluble,Mildly toxic
+oxycodone,High,Water-soluble,Mildly toxic
+oxymetazoline,Moderate,Poorly soluble,Moderately toxic
+oxymorphone,High,Water-soluble,Mildly toxic
+oxytocin,Low,Sparingly soluble,Highly toxic
+paclitaxel,Low,Water-soluble,Moderately toxic
+paclitaxel protein-bound,Moderate,Sparingly soluble,Highly toxic
+palbociclib,Moderate,Water-soluble,Moderately toxic
+palifermin,Moderate,Sparingly soluble,Mildly toxic
+paliperidone,Low,Sparingly soluble,Moderately toxic
+palivizumab,High,Sparingly soluble,Moderately toxic
+palonosetron,Low,Sparingly soluble,Mildly toxic
+pamabrom,Moderate,Poorly soluble,Mildly toxic
+pamidronate,High,Sparingly soluble,Highly toxic
+pancreatin,High,Poorly soluble,Highly toxic
+pancrelipase,Low,Poorly soluble,Mildly toxic
+panitumumab,Moderate,Sparingly soluble,Mildly toxic
+pantoprazole,Low,Poorly soluble,Mildly toxic
+papaverine,High,Water-soluble,Moderately toxic
+parenteral nutrition solution,Low,Sparingly soluble,Moderately toxic
+parenteral nutrition solution w / electrolytes,Low,Poorly soluble,Moderately toxic
+paromomycin,Moderate,Sparingly soluble,Mildly toxic
+paroxetine,Moderate,Sparingly soluble,Highly toxic
+pasireotide,High,Sparingly soluble,Mildly toxic
+patisiran,Low,Poorly soluble,Moderately toxic
+pazopanib,Low,Water-soluble,Moderately toxic
+pegademase bovine,Low,Water-soluble,Mildly toxic
+pegaptanib,High,Poorly soluble,Mildly toxic
+pegaspargase,High,Sparingly soluble,Moderately toxic
+pegfilgrastim,Moderate,Poorly soluble,Moderately toxic
+peginterferon alfa-2a,Moderate,Poorly soluble,Moderately toxic
+peginterferon alfa-2b,Moderate,Poorly soluble,Mildly toxic
+pegloticase,Low,Sparingly soluble,Moderately toxic
+pegvaliase,Low,Poorly soluble,Moderately toxic
+pegvisomant,Moderate,Sparingly soluble,Highly toxic
+pembrolizumab,Low,Poorly soluble,Mildly toxic
+pemetrexed,Moderate,Water-soluble,Highly toxic
+penciclovir,High,Poorly soluble,Highly toxic
+penicillamine,Moderate,Poorly soluble,Moderately toxic
+penicillin g benzathine,High,Water-soluble,Mildly toxic
+penicillin g benzathine / procaine penicillin,Low,Sparingly soluble,Moderately toxic
+penicillin g potassium,Moderate,Sparingly soluble,Mildly toxic
+penicillin g sodium,Low,Poorly soluble,Highly toxic
+penicillin v potassium,High,Water-soluble,Mildly toxic
+pentamidine,High,Sparingly soluble,Moderately toxic
+pentetate calcium trisodium,High,Poorly soluble,Moderately toxic
+pentetate zinc trisodium,Low,Water-soluble,Moderately toxic
+pentosan polysulfate sodium,Low,Sparingly soluble,Mildly toxic
+pentostatin,Low,Sparingly soluble,Highly toxic
+pentoxifylline,Low,Water-soluble,Highly toxic
+peramivir,High,Water-soluble,Mildly toxic
+perflutren,High,Water-soluble,Moderately toxic
+perindopril,Moderate,Water-soluble,Highly toxic
+permethrin,Moderate,Poorly soluble,Moderately toxic
+perphenazine,Low,Water-soluble,Mildly toxic
+phenazopyridine,High,Sparingly soluble,Moderately toxic
+phenobarbital,High,Sparingly soluble,Highly toxic
+phenoxybenzamine,High,Poorly soluble,Highly toxic
+phentermine,Moderate,Sparingly soluble,Moderately toxic
+phentermine / topiramate,Moderate,Sparingly soluble,Mildly toxic
+phentolamine,High,Water-soluble,Moderately toxic
+phenylephrine,High,Sparingly soluble,Mildly toxic
+phenytoin,High,Poorly soluble,Moderately toxic
+physostigmine,Moderate,Water-soluble,Highly toxic
+phytonadione,High,Water-soluble,Mildly toxic
+pilocarpine,High,Poorly soluble,Mildly toxic
+pimecrolimus,Low,Water-soluble,Mildly toxic
+pimozide,Low,Water-soluble,Highly toxic
+pioglitazone,Moderate,Poorly soluble,Moderately toxic
+piperacillin,High,Water-soluble,Highly toxic
+piperacillin / tazobactam,High,Poorly soluble,Mildly toxic
+piperonyl butoxide / pyrethrins,Low,Poorly soluble,Moderately toxic
+pirfenidone,Moderate,Sparingly soluble,Highly toxic
+piroxicam,Low,Sparingly soluble,Mildly toxic
+pitavastatin,Low,Water-soluble,Mildly toxic
+plecanatide,Low,Water-soluble,Highly toxic
+pneumococcal 13-valent vaccine,Low,Poorly soluble,Highly toxic
+pneumococcal 23-polyvalent vaccine,High,Water-soluble,Highly toxic
+podofilox,High,Poorly soluble,Mildly toxic
+podophyllum resin,Low,Poorly soluble,Highly toxic
+"poliovirus vaccine, inactivated",Moderate,Water-soluble,Mildly toxic
+poly-l-lactic acid,Moderate,Poorly soluble,Highly toxic
+poly-ureaurethane,Moderate,Sparingly soluble,Mildly toxic
+polyethylene glycol 3350,Moderate,Water-soluble,Mildly toxic
+polyethylene glycol 3350 with electrolytes,Low,Sparingly soluble,Moderately toxic
+polymyxin b / trimethoprim,High,Water-soluble,Highly toxic
+pomalidomide,Moderate,Poorly soluble,Highly toxic
+ponatinib,Low,Water-soluble,Mildly toxic
+poractant,Moderate,Sparingly soluble,Mildly toxic
+porfimer,Moderate,Poorly soluble,Mildly toxic
+posaconazole,Low,Water-soluble,Moderately toxic
+potassium bicarbonate / potassium chloride,High,Water-soluble,Moderately toxic
+potassium chloride,High,Water-soluble,Mildly toxic
+potassium citrate,Low,Sparingly soluble,Highly toxic
+potassium gluconate,High,Sparingly soluble,Highly toxic
+potassium iodide,Low,Water-soluble,Moderately toxic
+potassium phosphate,Low,Poorly soluble,Moderately toxic
+potassium phosphate / sodium phosphate,Low,Poorly soluble,Mildly toxic
+prabotulinumtoxinA,High,Sparingly soluble,Highly toxic
+pralatrexate,Low,Poorly soluble,Mildly toxic
+pralidoxime,Moderate,Sparingly soluble,Moderately toxic
+pramipexole,High,Water-soluble,Highly toxic
+pramoxine,High,Sparingly soluble,Highly toxic
+pramoxine / zinc acetate,High,Sparingly soluble,Moderately toxic
+prasugrel,High,Water-soluble,Mildly toxic
+pravastatin,Moderate,Poorly soluble,Mildly toxic
+praziquantel,High,Sparingly soluble,Highly toxic
+prazosin,High,Sparingly soluble,Moderately toxic
+prednisolone,Low,Water-soluble,Highly toxic
+prednisolone / sulfacetamide sodium,High,Poorly soluble,Moderately toxic
+prednisone,Moderate,Sparingly soluble,Mildly toxic
+pregabalin,Moderate,Water-soluble,Moderately toxic
+primaquine,Moderate,Sparingly soluble,Mildly toxic
+primidone,Moderate,Water-soluble,Moderately toxic
+probenecid,High,Poorly soluble,Highly toxic
+procainamide,High,Poorly soluble,Mildly toxic
+procaine penicillin,Moderate,Poorly soluble,Highly toxic
+procarbazine,Moderate,Poorly soluble,Highly toxic
+prochlorperazine,High,Sparingly soluble,Mildly toxic
+progesterone,Moderate,Sparingly soluble,Mildly toxic
+promethazine,Low,Poorly soluble,Highly toxic
+propafenone,Moderate,Poorly soluble,Highly toxic
+propantheline,Moderate,Poorly soluble,Highly toxic
+propofol,Low,Sparingly soluble,Highly toxic
+propranolol,Low,Poorly soluble,Mildly toxic
+propylthiouracil,High,Poorly soluble,Mildly toxic
+protamine,High,Poorly soluble,Highly toxic
+protein c,Low,Water-soluble,Moderately toxic
+prothrombin complex,Low,Poorly soluble,Moderately toxic
+prucalopride,High,Water-soluble,Mildly toxic
+pseudoephedrine,Moderate,Water-soluble,Highly toxic
+pseudoephedrine / triprolidine,Low,Poorly soluble,Highly toxic
+psyllium,High,Water-soluble,Mildly toxic
+pyrantel,Moderate,Poorly soluble,Moderately toxic
+pyrazinamide,Low,Sparingly soluble,Moderately toxic
+pyridostigmine,Moderate,Sparingly soluble,Moderately toxic
+pyridoxine,High,Sparingly soluble,Mildly toxic
+pyrimethamine,Low,Sparingly soluble,Moderately toxic
+pyrithione zinc,Moderate,Water-soluble,Mildly toxic
+quetiapine,Low,Poorly soluble,Mildly toxic
+quinapril,Moderate,Poorly soluble,Highly toxic
+quinidine,High,Poorly soluble,Moderately toxic
+rabeprazole,High,Sparingly soluble,Mildly toxic
+"rabies immune globulin, human",Low,Sparingly soluble,Moderately toxic
+"rabies vaccine, human diploid cell",Moderate,Poorly soluble,Moderately toxic
+"rabies vaccine, purified chick embryo cell",Low,Sparingly soluble,Highly toxic
+raloxifene,Low,Poorly soluble,Moderately toxic
+raltegravir,Moderate,Poorly soluble,Highly toxic
+ramipril,Moderate,Poorly soluble,Mildly toxic
+ramucirumab,Moderate,Poorly soluble,Moderately toxic
+ranibizumab,High,Poorly soluble,Mildly toxic
+ranitidine,Low,Poorly soluble,Moderately toxic
+ranolazine,Low,Poorly soluble,Mildly toxic
+rasagiline,High,Sparingly soluble,Moderately toxic
+rasburicase,Moderate,Poorly soluble,Moderately toxic
+regadenoson,High,Poorly soluble,Moderately toxic
+regorafenib,High,Sparingly soluble,Moderately toxic
+resorcinol,High,Sparingly soluble,Moderately toxic
+retapamulin,Low,Sparingly soluble,Moderately toxic
+rho (d) immune globulin,High,Poorly soluble,Moderately toxic
+ribavirin,Low,Water-soluble,Moderately toxic
+rifabutin,Low,Water-soluble,Moderately toxic
+rifampin,Low,Sparingly soluble,Mildly toxic
+rifapentine,Moderate,Water-soluble,Highly toxic
+rifaximin,Low,Sparingly soluble,Moderately toxic
+rilonacept,Low,Poorly soluble,Highly toxic
+riluzole,Moderate,Water-soluble,Moderately toxic
+rimabotulinumtoxinB,Low,Poorly soluble,Moderately toxic
+rimantadine,High,Water-soluble,Mildly toxic
+riociguat,High,Poorly soluble,Mildly toxic
+risedronate,Low,Water-soluble,Highly toxic
+risperidone,Moderate,Poorly soluble,Mildly toxic
+ritonavir,High,Poorly soluble,Mildly toxic
+rituximab,Moderate,Water-soluble,Highly toxic
+rivaroxaban,Moderate,Poorly soluble,Mildly toxic
+rivastigmine,High,Poorly soluble,Moderately toxic
+rizatriptan,Moderate,Poorly soluble,Highly toxic
+rocuronium,High,Water-soluble,Highly toxic
+roflumilast,Moderate,Water-soluble,Moderately toxic
+romidepsin,High,Poorly soluble,Mildly toxic
+romiplostim,Low,Poorly soluble,Highly toxic
+ropinirole,High,Water-soluble,Highly toxic
+ropivacaine,High,Water-soluble,Moderately toxic
+rosiglitazone,High,Poorly soluble,Moderately toxic
+rosuvastatin,High,Poorly soluble,Mildly toxic
+rotavirus vaccine,Moderate,Poorly soluble,Highly toxic
+rotigotine,Low,Sparingly soluble,Mildly toxic
+rubidium chloride rb-82,High,Water-soluble,Mildly toxic
+rufinamide,Moderate,Sparingly soluble,Moderately toxic
+ruxolitinib,Low,Water-soluble,Highly toxic
+saccharomyces boulardii lyo,Low,Water-soluble,Highly toxic
+sacrosidase,Low,Water-soluble,Highly toxic
+salicylic acid,Low,Water-soluble,Moderately toxic
+salicylic acid / sulfur,High,Water-soluble,Moderately toxic
+salicylic acid / urea,High,Water-soluble,Moderately toxic
+saliva substitutes,Moderate,Water-soluble,Moderately toxic
+salmeterol,Moderate,Sparingly soluble,Moderately toxic
+sapropterin,Moderate,Poorly soluble,Highly toxic
+sargramostim,Low,Poorly soluble,Mildly toxic
+scopolamine,Low,Sparingly soluble,Highly toxic
+secnidazole,High,Sparingly soluble,Mildly toxic
+secukinumab,Low,Sparingly soluble,Moderately toxic
+selegiline,Low,Sparingly soluble,Mildly toxic
+selenium,Low,Water-soluble,Highly toxic
+selenium sulfide,Moderate,Poorly soluble,Highly toxic
+semaglutide,Moderate,Water-soluble,Mildly toxic
+sertraline,High,Poorly soluble,Moderately toxic
+sevelamer,Low,Poorly soluble,Moderately toxic
+sildenafil,Low,Sparingly soluble,Highly toxic
+silodosin,High,Water-soluble,Mildly toxic
+siltuximab,Low,Sparingly soluble,Moderately toxic
+silver,Low,Water-soluble,Moderately toxic
+silver nitrate,Moderate,Poorly soluble,Highly toxic
+silver sulfadiazine,High,Sparingly soluble,Moderately toxic
+simethicone,High,Sparingly soluble,Mildly toxic
+simvastatin,High,Poorly soluble,Highly toxic
+sincalide,High,Poorly soluble,Highly toxic
+sinecatechins,Moderate,Poorly soluble,Mildly toxic
+sirolimus,Moderate,Sparingly soluble,Highly toxic
+sitagliptin,Low,Water-soluble,Moderately toxic
+smallpox and monkeypox vaccine,Low,Sparingly soluble,Moderately toxic
+smallpox vaccine,Low,Water-soluble,Mildly toxic
+sodium acetate,Low,Sparingly soluble,Moderately toxic
+sodium benzoate / sodium phenylacetate,Moderate,Sparingly soluble,Mildly toxic
+sodium bicarbonate,High,Poorly soluble,Mildly toxic
+sodium chloride,Moderate,Water-soluble,Moderately toxic
+sodium chondroitin sulfate / sodium hyaluronate,Low,Sparingly soluble,Mildly toxic
+sodium hyaluronate,Moderate,Sparingly soluble,Moderately toxic
+sodium hypochlorite,High,Poorly soluble,Highly toxic
+sodium iodide-i-131,High,Poorly soluble,Highly toxic
+sodium nitrite,Moderate,Water-soluble,Mildly toxic
+sodium nitrite / sodium thiosulfate,Moderate,Sparingly soluble,Moderately toxic
+sodium oxybate,Moderate,Water-soluble,Moderately toxic
+sodium phenylbutyrate,Low,Sparingly soluble,Highly toxic
+sodium polystyrene sulfonate,Moderate,Water-soluble,Highly toxic
+sodium thiosulfate,Moderate,Poorly soluble,Moderately toxic
+sodium zirconium cyclosilicate,Moderate,Sparingly soluble,Mildly toxic
+sofosbuvir,High,Water-soluble,Highly toxic
+sofosbuvir / velpatasvir,High,Poorly soluble,Mildly toxic
+sofosbuvir / velpatasvir / voxilaprevir,Low,Poorly soluble,Mildly toxic
+solifenacin,Low,Water-soluble,Highly toxic
+solriamfetol,High,Sparingly soluble,Mildly toxic
+somatropin,High,Sparingly soluble,Mildly toxic
+sonidegib,High,Poorly soluble,Moderately toxic
+sorafenib,Moderate,Sparingly soluble,Mildly toxic
+sotalol,Moderate,Sparingly soluble,Moderately toxic
+spinosad,High,Sparingly soluble,Highly toxic
+spironolactone,Moderate,Poorly soluble,Highly toxic
+sterile talc,Moderate,Water-soluble,Moderately toxic
+stiripentol,Low,Sparingly soluble,Highly toxic
+streptomycin,High,Poorly soluble,Mildly toxic
+streptozocin,High,Poorly soluble,Mildly toxic
+succimer,Moderate,Water-soluble,Mildly toxic
+sucralfate,High,Sparingly soluble,Highly toxic
+sucroferric oxyhydroxide,Low,Sparingly soluble,Mildly toxic
+sugammadex,Low,Water-soluble,Highly toxic
+sulconazole,Low,Water-soluble,Mildly toxic
+sulfacetamide sodium,High,Poorly soluble,Moderately toxic
+sulfacetamide sodium / sulfur,High,Poorly soluble,Highly toxic
+sulfamethoxazole / trimethoprim,High,Water-soluble,Highly toxic
+sulfasalazine,High,Sparingly soluble,Mildly toxic
+sulindac,High,Poorly soluble,Highly toxic
+sumatriptan,Low,Poorly soluble,Highly toxic
+sunitinib,Moderate,Sparingly soluble,Moderately toxic
+tacrolimus,Low,Poorly soluble,Moderately toxic
+tadalafil,High,Sparingly soluble,Mildly toxic
+tafamidis,Low,Sparingly soluble,Moderately toxic
+tafenoquine,High,Sparingly soluble,Mildly toxic
+tafluprost,High,Water-soluble,Mildly toxic
+taliglucerase alfa,Low,Water-soluble,Mildly toxic
+talimogene laherparepvec,High,Water-soluble,Highly toxic
+tamoxifen,Moderate,Sparingly soluble,Moderately toxic
+tamsulosin,High,Sparingly soluble,Mildly toxic
+tapentadol,Moderate,Water-soluble,Moderately toxic
+tavaborole,Moderate,Poorly soluble,Mildly toxic
+tazarotene,High,Sparingly soluble,Moderately toxic
+tazemetostat,Low,Poorly soluble,Moderately toxic
+tbo-filgrastim,Moderate,Poorly soluble,Mildly toxic
+tecovirimat,Low,Sparingly soluble,Highly toxic
+teduglutide,Moderate,Sparingly soluble,Moderately toxic
+tegaserod,High,Poorly soluble,Highly toxic
+telmisartan,High,Poorly soluble,Highly toxic
+temazepam,Moderate,Water-soluble,Mildly toxic
+temozolomide,High,Water-soluble,Mildly toxic
+temsirolimus,Moderate,Sparingly soluble,Mildly toxic
+teniposide,High,Water-soluble,Moderately toxic
+tenofovir,Low,Water-soluble,Mildly toxic
+tenofovir alafenamide,High,Water-soluble,Mildly toxic
+terazosin,Low,Water-soluble,Moderately toxic
+terbinafine,High,Poorly soluble,Moderately toxic
+terbutaline,Low,Sparingly soluble,Mildly toxic
+terconazole,High,Water-soluble,Mildly toxic
+teriflunomide,Low,Poorly soluble,Mildly toxic
+teriparatide,Moderate,Poorly soluble,Mildly toxic
+testosterone,Moderate,Poorly soluble,Highly toxic
+tetanus immune globulin,Low,Water-soluble,Highly toxic
+tetrabenazine,High,Water-soluble,Mildly toxic
+tetracaine,Low,Sparingly soluble,Highly toxic
+tetracycline,High,Water-soluble,Moderately toxic
+tetrahydrozoline,Moderate,Water-soluble,Highly toxic
+tetrofosmin,High,Poorly soluble,Highly toxic
+thalidomide,Moderate,Sparingly soluble,Mildly toxic
+theophylline,High,Water-soluble,Highly toxic
+thiamine,High,Water-soluble,Highly toxic
+thiotepa,High,Poorly soluble,Highly toxic
+thrombin,Low,Poorly soluble,Highly toxic
+thyroid desiccated,Low,Water-soluble,Moderately toxic
+thyrotropin alpha,Moderate,Sparingly soluble,Mildly toxic
+ticagrelor,Moderate,Sparingly soluble,Mildly toxic
+ticlopidine,Low,Poorly soluble,Moderately toxic
+timolol,Moderate,Poorly soluble,Highly toxic
+tinidazole,Low,Water-soluble,Moderately toxic
+tioconazole,High,Poorly soluble,Highly toxic
+tiotropium,Moderate,Water-soluble,Moderately toxic
+tipiracil / trifluridine,Moderate,Sparingly soluble,Mildly toxic
+tirofiban,Low,Sparingly soluble,Mildly toxic
+tisagenlecleucel,Moderate,Water-soluble,Mildly toxic
+tizanidine,Moderate,Poorly soluble,Highly toxic
+tobramycin,High,Sparingly soluble,Highly toxic
+tocilizumab,Moderate,Poorly soluble,Moderately toxic
+tolmetin,High,Sparingly soluble,Moderately toxic
+tolnaftate,Low,Water-soluble,Mildly toxic
+tolterodine,Moderate,Water-soluble,Highly toxic
+tolvaptan,High,Water-soluble,Moderately toxic
+topiramate,Low,Sparingly soluble,Highly toxic
+topotecan,Moderate,Poorly soluble,Highly toxic
+torsemide,Low,Poorly soluble,Mildly toxic
+trabectedin,Moderate,Poorly soluble,Mildly toxic
+trace elements,Low,Sparingly soluble,Highly toxic
+tramadol,Low,Sparingly soluble,Highly toxic
+trametinib,High,Sparingly soluble,Highly toxic
+trandolapril,Low,Sparingly soluble,Highly toxic
+tranexamic acid,Moderate,Sparingly soluble,Mildly toxic
+trastuzumab,Moderate,Poorly soluble,Moderately toxic
+travoprost,High,Sparingly soluble,Mildly toxic
+trazodone,Moderate,Sparingly soluble,Moderately toxic
+treprostinil,Moderate,Poorly soluble,Highly toxic
+tretinoin,Moderate,Sparingly soluble,Moderately toxic
+triamcinolone,Low,Poorly soluble,Mildly toxic
+triamterene,Low,Poorly soluble,Mildly toxic
+trientine,Moderate,Water-soluble,Highly toxic
+trifluridine,High,Water-soluble,Mildly toxic
+trihexyphenidyl,Low,Water-soluble,Highly toxic
+trimethoprim,High,Water-soluble,Mildly toxic
+triprolidine,Moderate,Sparingly soluble,Mildly toxic
+triptorelin,Moderate,Water-soluble,Highly toxic
+trolamine salicylate,Low,Poorly soluble,Moderately toxic
+tropicamide,Moderate,Sparingly soluble,Mildly toxic
+trospium,Low,Water-soluble,Moderately toxic
+trypan blue,Moderate,Poorly soluble,Mildly toxic
+"typhoid vaccine, live",Moderate,Sparingly soluble,Mildly toxic
+ulipristal,Low,Sparingly soluble,Mildly toxic
+umeclidinium,Low,Water-soluble,Mildly toxic
+umeclidinium / vilanterol,Low,Sparingly soluble,Moderately toxic
+undecylenic acid,Moderate,Poorly soluble,Moderately toxic
+urea,Moderate,Sparingly soluble,Mildly toxic
+uridine,High,Poorly soluble,Mildly toxic
+urofollitropin,Low,Sparingly soluble,Moderately toxic
+urokinase,Moderate,Water-soluble,Highly toxic
+ursodiol,Moderate,Poorly soluble,Highly toxic
+ustekinumab,Low,Sparingly soluble,Moderately toxic
+valacyclovir,High,Sparingly soluble,Mildly toxic
+valbenazine,Low,Sparingly soluble,Mildly toxic
+valganciclovir,High,Poorly soluble,Highly toxic
+valproic acid,Moderate,Poorly soluble,Highly toxic
+valrubicin,High,Poorly soluble,Moderately toxic
+valsartan,Moderate,Water-soluble,Highly toxic
+vancomycin,Low,Water-soluble,Moderately toxic
+vandetanib,Low,Poorly soluble,Highly toxic
+vardenafil,Low,Sparingly soluble,Highly toxic
+varenicline,High,Water-soluble,Highly toxic
+varicella zoster immune globulin,Moderate,Poorly soluble,Mildly toxic
+vasopressin,Low,Sparingly soluble,Mildly toxic
+vedolizumab,Low,Water-soluble,Mildly toxic
+venetoclax,Moderate,Sparingly soluble,Highly toxic
+venlafaxine,Low,Sparingly soluble,Moderately toxic
+verapamil,Moderate,Sparingly soluble,Moderately toxic
+verteporfin,Moderate,Sparingly soluble,Moderately toxic
+vestronidase alfa,Moderate,Water-soluble,Moderately toxic
+vinblastine,Moderate,Water-soluble,Mildly toxic
+vincristine,Moderate,Water-soluble,Mildly toxic
+vincristine liposome,High,Poorly soluble,Highly toxic
+vismodegib,Low,Water-soluble,Highly toxic
+vitamin a & d,High,Sparingly soluble,Moderately toxic
+vitamin e,Low,Water-soluble,Mildly toxic
+"vitamins a, d, and e",High,Sparingly soluble,Moderately toxic
+vorapaxar,Moderate,Poorly soluble,Highly toxic
+voretigene neparvovec,Low,Sparingly soluble,Highly toxic
+voriconazole,Low,Sparingly soluble,Moderately toxic
+vorinostat,High,Sparingly soluble,Highly toxic
+warfarin,High,Poorly soluble,Moderately toxic
+xylometazoline,Low,Water-soluble,Mildly toxic
+zanamivir,High,Water-soluble,Moderately toxic
+zidovudine,High,Poorly soluble,Mildly toxic
+zinc acetate,High,Sparingly soluble,Mildly toxic
+zinc oxide,Moderate,Water-soluble,Highly toxic
+ziprasidone,Moderate,Poorly soluble,Highly toxic
+zoledronic acid,High,Water-soluble,Highly toxic
+zolmitriptan,High,Poorly soluble,Moderately toxic
+zolpidem,Moderate,Sparingly soluble,Moderately toxic
+zonisamide,Moderate,Water-soluble,Highly toxic
+zoster vaccine live,Low,Poorly soluble,Moderately toxic
+"zoster vaccine, inactivated",Low,Water-soluble,Highly toxic

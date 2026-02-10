@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Project Resources</title>
+<style>
+  body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%);
+    min-height: 100vh;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 50px 20px;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 3rem;
+    color: #4b2be3;
+    margin-bottom: 10px;
+  }
+
+  p.description {
+    text-align: center;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto 50px;
+    font-size: 1.1rem;
+  }
+
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 30px;
+  }
+
+  .card {
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 25px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    padding: 25px 20px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    border-left: 6px solid #4b2be3;
+  }
+
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+  }
+
+  .card h2 {
+    margin-top: 0;
+    font-size: 1.5rem;
+    color: #333;
+    display: flex;
+    align-items: center;
+  }
+
+  .card h2 span.icon {
+    font-size: 2rem;
+    margin-right: 10px;
+  }
+
+  .card p {
+    color: #555;
+    line-height: 1.5;
+    margin-bottom: 15px;
+  }
+
+  .card .file-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .card .file-info span {
+    font-weight: 600;
+    color: #333;
+  }
+
+  .card .file-info a {
+    text-decoration: none;
+    background-color: #4b2be3;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 15px;
+    font-size: 0.9rem;
+    transition: background 0.3s;
+  }
+
+  .card .file-info a:hover {
+    background-color: #3721a5;
+  }
+
+  /* Colored left border based on type */
+  .dataset { border-left-color: #3b82f6; }
+  .model { border-left-color: #16a34a; }
+  .script { border-left-color: #6b7280; }
+  .template { border-left-color: #9333ea; }
+
+</style>
+</head>
+<body>
+
+<div class="container">
+  <h1>📂 Project Resources</h1>
+  <p class="description">
+    Explore all important files used in the Drug Discovery project. Each card provides a detailed description, explains the purpose of the file, and includes a direct link to view or download it. These resources include datasets, trained models, scripts, and HTML templates that together make the project functional and easy to understand.
+  </p>
+
+  <div class="cards">
+
+    
+
+    <!-- Model Card -->
+    <div class="card model">
+      <h2><span class="icon">🧠</span>Drug Prediction Model</h2>
+      <p>The drug_model.pkl file contains a pre-trained XGBoost machine learning model that predicts potential drug treatments based on input disease or protein deficiencies. This model has been trained using the drug dataset and has learned complex relationships between diseases and available drug treatments. By leveraging this model, researchers or developers can quickly identify candidate drugs for a given disease, saving time and improving efficiency in drug discovery workflows.
+
+Purpose: Prediction | Type: PKL | Trained on: Drug dataset | Used for automated drug recommendation</p>
+      <p class="file-info">
+        <span>drug_model.pkl</span>
+        <a href="{% url 'view_file' 'drug_model.pkl' %}">Download</a>
+      </p>
+    </div>
+
+    <!-- Embedding Model Card -->
+    <div class="card model">
+      <h2><span class="icon">🧠</span>Embedding Model</h2>
+      <p>The embedding_model.pkl file contains a pre-trained SentenceTransformer model that converts textual disease descriptions into dense numerical vectors. These embeddings allow the system to measure semantic similarity between user input and known disease descriptions, improving the accuracy of predictions. It is a crucial component for handling natural language inputs and making the model context-aware for unseen or complex disease descriptions.
+
+Purpose: Feature extraction | Type: PKL | Model: SBERT | Helps compare textual similarity between diseases</p>
+        <p class="file-info">
+        <span>embedding_model.pkl</span>
+        <a href="{% url 'view_file' 'embedding_model.pkl' %}">Download</a>
+      </p>
+    </div>
+    <div class="card model">
+      <h2><span class="icon">🧠</span>mlb model</h2>
+      <p>The mlb.pkl file usually contains a MultiLabelBinarizer object from scikit-learn. Its purpose is handling multi-label outputs in machine learning, which is exactly what your drug prediction project needs.Purpose: Convert drug names to binary format for training and back to names for prediction.
+
+Problem it solves: Multi-label classification for diseases → multiple drugs.
+
+File mlb.pkl: Contains the fitted binarizer to decode predictions after training.Machine learning models cannot work with strings directly. They need numbers.
+
+MultiLabelBinarizer converts these lists into vectors</p>
+       <p class="file-info">
+        <span>mlb.pkl</span>
+        <a href="{% url 'view_file' 'mlb.pkl' %}">Download</a>
+      </p>
+    </div>
+
+    <!-- Script Card -->
+    <div class="card script">
+      <h2><span class="icon">💻</span>Training Script</h2>
+      <p>The train_model.py script contains the complete Python code for training the drug prediction model. It loads the dataset, preprocesses the data, trains the XGBoost model, evaluates its performance, and saves the trained model to a PKL file. This script can be modified for retraining with new datasets or improving model performance, making it a flexible and reusable tool for experimentation and research.
+
+Purpose: Model training | Type: PY | Dependencies: XGBoost, Pandas, NumPy | Supports retraining and evaluation</p>
+      <p class="file-info">
+        <span>train_model.py</span>
+        <a href="{% url 'view_file' 'train_model.py' %}">View</a>
+      </p>
+    </div>
+
+    
+
+  </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Drug Side Effect Predictor</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+            font-family: "Segoe UI", Arial, sans-serif;
+        }
+
+        body {
+            margin: 0;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+        }
+
+        .card {
+            width: 420px;
+            background: #ffffff;
+            border-radius: 18px;
+            padding: 30px 28px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.25);
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 6px;
+            color: #333;
+        }
+
+        .subtitle {
+            text-align: center;
+            font-size: 14px;
+            color: #777;
+            margin-bottom: 25px;
+        }
+
+        input {
+            width: 100%;
+            padding: 12px 14px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            font-size: 15px;
+            outline: none;
+        }
+
+        input:focus {
+            border-color: #667eea;
+        }
+
+        button {
+            width: 100%;
+            margin-top: 15px;
+            padding: 12px;
+            border-radius: 8px;
+            border: none;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+
+        button:hover {
+            opacity: 0.95;
+        }
+
+        .result {
+            margin-top: 22px;
+            padding: 16px;
+            border-radius: 10px;
+            background: #f5f7ff;
+            border-left: 5px solid #667eea;
+        }
+
+        .result p {
+            margin: 6px 0;
+            font-size: 15px;
+        }
+
+        .metrics {
+            margin-top: 22px;
+            padding: 16px;
+            border-radius: 10px;
+            background: #f0fff4;
+            border-left: 5px solid #38a169;
+        }
+
+        .metrics-title {
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+            gap: 10px;
+        }
+
+        .metric-box {
+            background: #ffffff;
+            border-radius: 8px;
+            padding: 10px;
+            text-align: center;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+
+        .metric-box h4 {
+            margin: 0;
+            font-size: 13px;
+            color: #555;
+        }
+
+        .metric-box p {
+            margin-top: 6px;
+            font-size: 17px;
+            font-weight: bold;
+            color: #2d3748;
+        }
+
+        .error {
+            margin-top: 15px;
+            padding: 12px;
+            border-radius: 8px;
+            background: #ffe5e5;
+            color: #b00020;
+            font-weight: 500;
+            text-align: center;
+        }
+
+        .footer {
+            margin-top: 20px;
+            text-align: center;
+            font-size: 12px;
+            color: #999;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="card">
+    <h2>💊 Drug Side Effect Predictor</h2>
+    <p class="subtitle">AI-based probability prediction</p>
+
+    <form method="POST">
+        {% csrf_token %}
+        <input type="text" name="drug" placeholder="Enter drug name" required>
+        <button type="submit">Predict</button>
+    </form>
+
+    {% if result %}
+        {% if result.error %}
+            <div class="error">{{ result.error }}</div>
+        {% else %}
+            <div class="result">
+                <p><strong>Drug:</strong> {{ result.drug }}</p>
+                <p><strong>Side Effect Probability:</strong> {{ result.probability }}%</p>
+            </div>
+        {% endif %}
+    {% endif %}
+
+    {% if metrics %}
+        <div class="metrics">
+            <div class="metrics-title">Model Performance</div>
+            <div class="metrics-grid">
+                <div class="metric-box">
+                    <h4>MAE</h4>
+                    <p>{{ metrics.MAE|floatformat:2 }}</p>
+                </div>
+                <div class="metric-box">
+                    <h4>RMSE</h4>
+                    <p>{{ metrics.RMSE|floatformat:2 }}</p>
+                </div>
+                <div class="metric-box">
+                    <h4>R²</h4>
+                    <p>{{ metrics.R2|floatformat:2 }}</p>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+
+    <div class="footer">
+        ML Regression Model · Random Forest
+    </div>
+</div>
+
+</body>
+</html>

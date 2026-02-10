@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>User Profile</title>
+  <style>
+    body {font-family: Arial, sans-serif; background-color: #f4f6f9; margin: 0; padding: 0;}
+    .container {width: 90%; max-width: 800px; margin: 40px auto; background: #fff;
+      padding: 30px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);}
+    h2 {text-align: center; margin-bottom: 20px; color: #333;}
+    .profile-pic {display: flex; justify-content: center; margin-bottom: 20px;}
+    .profile-pic img {border-radius: 50%; width: 120px; height: 120px; border: 3px solid #007bff;}
+    .info {margin: 20px 0;}
+    .info p {font-size: 16px; margin: 8px 0;}
+    .info strong {color: #007bff;}
+    .buttons {display: flex; justify-content: center; gap: 15px; margin: 20px 0;}
+    .btn {padding: 10px 20px; background: #007bff; color: #fff; text-decoration: none;
+      border-radius: 6px; transition: 0.3s;}
+    .btn:hover {background: #0056b3;}
+    .stats {display: flex; justify-content: space-between; margin-top: 30px;}
+    .card {flex: 1; margin: 0 10px; background: #f8f9fa; padding: 20px; text-align: center;
+      border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);}
+    .card h3 {margin-bottom: 10px; color: #333;}
+    .card p {font-size: 20px; font-weight: bold; color: #007bff;}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>👤 User Profile</h2>
+
+    <!-- Profile Picture -->
+    <div class="profile-pic">
+      <img src="https://ui-avatars.com/api/?name={{ request.user.username }}" alt="Profile Picture">
+    </div>
+
+    <!-- User Info -->
+    <div class="info">
+      <p><strong>Username:</strong> {{ request.user.username }}</p>
+      <p><strong>Email:</strong> {{ request.user.email }}</p>
+      <p><strong>Joined on:</strong> {{ request.user.date_joined }}</p>
+      <p><strong>Last Login:</strong> {{ request.user.last_login }}</p>
+      <p><strong>Status:</strong> {% if request.user.is_active %} ✅ Active {% else %} ❌ Inactive {% endif %}</p>
+    </div>
+
+    <!-- Buttons -->
+    <div class="buttons">
+      <a href="/profile/edit/" class="btn">✏️ Edit Profile</a>
+      <a href="change-password/" class="btn">🔑 Change Password</a>
+      <a href="/logout/" class="btn" style="background:#dc3545;">🚪 Logout</a>
+    </div>
+</body>
+</html>

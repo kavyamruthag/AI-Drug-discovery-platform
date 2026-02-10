@@ -1,0 +1,1616 @@
+Drug_name,Lipophilicity_LogP,Binding_Affinity_kcal_per_mol
+C1 esterase inhibitor (human),1.5,-6.5
+abacavir,1.2,-6.8
+abacavir / lamivudine,1.2,-6.8
+abatacept,2.1,-7.4
+abciximab,1.8,-6.1
+abiraterone,1.5,-6.5
+abobotulinumtoxinA,1.5,-6.5
+acalabrutinib,1.5,-6.5
+acamprosate,1.5,-6.5
+acarbose,1.5,-6.5
+acebutolol,1.5,-6.5
+acetaminophen,1.5,-6.5
+acetaminophen / aspirin / caffeine,1.2,-6.5
+acetaminophen / butalbital,1.5,-6.5
+acetaminophen / butalbital / caffeine,1.5,-6.5
+acetaminophen / butalbital / caffeine / codeine,1.5,-6.5
+acetaminophen / caffeine / pyrilamine,1.5,-6.5
+acetaminophen / chlorpheniramine,1.5,-6.5
+acetaminophen / chlorpheniramine / dextromethorphan,1.5,-6.5
+acetaminophen / chlorpheniramine / dextromethorphan / phenylephrine,1.5,-6.5
+acetaminophen / chlorpheniramine / dextromethorphan / pseudoephedrine,1.5,-6.5
+acetaminophen / chlorpheniramine / phenylephrine,1.5,-6.5
+acetaminophen / dextromethorphan / diphenhydramine,1.5,-6.5
+acetaminophen / dextromethorphan / doxylamine / phenylephrine,1.5,-6.5
+acetaminophen / dextromethorphan / guaifenesin / phenylephrine,1.5,-6.5
+acetaminophen / dextromethorphan / phenylephrine,1.5,-6.5
+acetaminophen / hydrocodone,1.5,-6.5
+acetaminophen / oxycodone,1.5,-6.5
+acetaminophen / pamabrom,1.5,-6.5
+acetaminophen / pamabrom / pyrilamine,1.5,-6.5
+acetaminophen / phenylephrine,1.5,-6.5
+acetaminophen / pseudoephedrine,1.5,-6.5
+acetazolamide,1.5,-6.5
+acetic acid,1.5,-6.5
+acetic acid / aluminum acetate,1.5,-6.5
+acetic acid / hydrocortisone,1.5,-6.5
+acetylcholine,1.5,-6.5
+acetylcysteine,1.5,-6.5
+acitretin,1.5,-6.5
+aclidinium,1.5,-6.5
+acyclovir,1.5,-6.5
+acyclovir / hydrocortisone,1.5,-6.5
+adalimumab,1.5,-6.5
+adapalene,1.5,-6.5
+adefovir,1.5,-6.5
+adenosine,1.5,-6.5
+adenovirus vaccine,1.5,-6.5
+afamelanotide,1.5,-6.5
+aflibercept,1.5,-6.5
+agalsidase beta,1.5,-6.5
+albendazole,1.5,-6.5
+albumin human,1.5,-6.5
+albuterol,1.5,-6.5
+albuterol / ipratropium,1.5,-6.5
+alcaftadine,1.5,-6.5
+alclometasone,1.5,-6.5
+aldesleukin,1.5,-6.5
+alemtuzumab,1.5,-6.5
+alendronate,1.5,-6.5
+alfuzosin,1.5,-6.5
+alglucosidase alfa,1.5,-6.5
+alirocumab,1.5,-6.5
+alitretinoin,1.5,-6.5
+allantoin / camphor / phenol,1.5,-6.5
+allopurinol,1.5,-6.5
+allopurinol / lesinurad,1.5,-6.5
+almotriptan,1.5,-6.5
+aloe polysaccharides / iodoquinol,1.5,-6.5
+alpelisib,1.5,-6.5
+alpha 1-proteinase inhibitor,1.5,-6.5
+alprazolam,1.5,-6.5
+alprostadil,1.5,-6.5
+alteplase,1.5,-6.5
+aluminum chloride hexahydrate,1.5,-6.5
+aluminum hydroxide,1.5,-6.5
+aluminum hydroxide / magnesium hydroxide,1.5,-6.5
+aluminum hydroxide / magnesium hydroxide / simethicone,1.5,-6.5
+aluminum hydroxide / magnesium trisilicate,1.5,-6.5
+alvimopan,1.5,-6.5
+amantadine,1.5,-6.5
+ambrisentan,1.5,-6.5
+amifampridine,1.5,-6.5
+amifostine,1.5,-6.5
+amikacin,1.5,-6.5
+amikacin liposome,1.5,-6.5
+amiloride,1.5,-6.5
+aminocaproic acid,1.5,-6.5
+aminolevulinic acid,1.5,-6.5
+aminosalicylic acid,1.5,-6.5
+amiodarone,1.5,-6.5
+amitriptyline,1.5,-6.5
+amitriptyline / perphenazine,1.5,-6.5
+amlodipine,1.5,-6.5
+amlodipine / atorvastatin,1.5,-6.5
+ammoniated mercury,1.5,-6.5
+ammonium chloride,1.5,-6.5
+ammonium lactate,1.5,-6.5
+amoxicillin,1.5,-6.5
+amoxicillin / clarithromycin / lansoprazole,1.5,-6.5
+amoxicillin / clarithromycin / omeprazole,1.5,-6.5
+amoxicillin / clavulanate,1.5,-6.5
+amphetamine,1.5,-6.5
+amphetamine / dextroamphetamine,1.5,-6.5
+amphotericin b,1.5,-6.5
+amphotericin b lipid complex,1.5,-6.5
+amphotericin b liposomal,1.5,-6.5
+ampicillin,1.5,-6.5
+ampicillin / sulbactam,1.5,-6.5
+amyl nitrite,1.5,-6.5
+anagrelide,1.5,-6.5
+anakinra,1.5,-6.5
+anastrozole,1.5,-6.5
+anidulafungin,1.5,-6.5
+anthrax immune globulin intravenous,1.5,-6.5
+anthrax vaccine adsorbed,1.5,-6.5
+anti-inhibitor coagulant complex,1.5,-6.5
+anti-thymocyte globulin (rabbit),1.5,-6.5
+antihemophilic factor,1.5,-6.5
+antihemophilic factor / von willebrand factor,1.5,-6.5
+antithrombin (recombinant),1.5,-6.5
+antithrombin iii,1.5,-6.5
+antivenin (black widow spider),1.5,-6.5
+antivenin (crotalidae) polyvalent,1.5,-6.5
+antivenin (micrurus fulvius),1.5,-6.5
+antivenom (centruroides scorpion),1.5,-6.5
+apixaban,1.5,-6.5
+apomorphine,1.5,-6.5
+apraclonidine,1.5,-6.5
+apremilast,1.5,-6.5
+aprepitant,1.5,-6.5
+argatroban,1.5,-6.5
+aripiprazole,1.5,-6.5
+armodafinil,1.5,-6.5
+arsenic trioxide,1.5,-6.5
+artemether / lumefantrine,1.5,-6.5
+articaine / epinephrine,1.5,-6.5
+ascorbic acid,1.5,-6.5
+asenapine,1.5,-6.5
+asfotase alfa,1.5,-6.5
+asparaginase erwinia chrysanthemi,1.5,-6.5
+asparaginase escherichia coli,1.5,-6.5
+aspirin,1.2,-6.5
+aspirin / butalbital / caffeine,1.2,-6.5
+aspirin / caffeine,1.2,-6.5
+aspirin / caffeine / orphenadrine,1.2,-6.5
+aspirin / carisoprodol,1.2,-6.5
+aspirin / carisoprodol / codeine,1.2,-6.5
+aspirin / dipyridamole,1.2,-6.5
+aspirin / omeprazole,1.2,-6.5
+atazanavir,1.5,-6.5
+atenolol,1.5,-6.5
+atezolizumab,1.5,-6.5
+atomoxetine,1.5,-6.5
+atorvastatin,1.5,-6.5
+atovaquone,1.5,-6.5
+atovaquone / proguanil,1.5,-6.5
+atracurium,1.5,-6.5
+atropine,1.5,-6.5
+atropine / difenoxin,1.5,-6.5
+atropine / diphenoxylate,1.5,-6.5
+atropine / edrophonium,1.5,-6.5
+atropine / hyoscyamine / phenobarbital / scopolamine,1.5,-6.5
+atropine / pralidoxime,1.5,-6.5
+auranofin,1.5,-6.5
+avanafil,1.5,-6.5
+avapritinib,1.5,-6.5
+avatrombopag,1.5,-6.5
+avelumab,1.5,-6.5
+axicabtagene ciloleucel,1.5,-6.5
+axitinib,1.5,-6.5
+azacitidine,1.5,-6.5
+azathioprine,1.5,-6.5
+azelaic acid,1.5,-6.5
+azelastine,1.5,-6.5
+azficel-t,1.5,-6.5
+azithromycin,1.5,-6.5
+aztreonam,1.5,-6.5
+bacitracin,1.5,-6.5
+bacitracin / hydrocortisone / neomycin / polymyxin b,1.5,-6.5
+bacitracin / neomycin / polymyxin b,1.5,-6.5
+bacitracin / neomycin / polymyxin b / pramoxine,1.5,-6.5
+bacitracin / polymyxin b,1.5,-6.5
+baclofen,1.5,-6.5
+baloxavir marboxil,1.5,-6.5
+balsalazide,1.5,-6.5
+balsam peru / castor oil,1.5,-6.5
+balsam peru / castor oil / trypsin,1.5,-6.5
+barium sulfate,1.5,-6.5
+basiliximab,1.5,-6.5
+bazedoxifene / conjugated estrogens,1.5,-6.5
+bcg,1.5,-6.5
+bcg vaccine,1.5,-6.5
+becaplermin,1.5,-6.5
+beclomethasone,1.5,-6.5
+bedaquiline,1.5,-6.5
+belatacept,1.5,-6.5
+belimumab,1.5,-6.5
+belinostat,1.5,-6.5
+belladonna,1.5,-6.5
+benazepril,1.5,-6.5
+bendamustine,1.5,-6.5
+benzalkonium chloride,1.5,-6.5
+benzalkonium chloride / lidocaine,1.5,-6.5
+benzethonium chloride,1.5,-6.5
+benznidazole,1.5,-6.5
+benzocaine,1.5,-6.5
+benzocaine / butamben / tetracaine,1.5,-6.5
+benzocaine / menthol,1.5,-6.5
+benzoin,1.5,-6.5
+benzonatate,1.5,-6.5
+benzoyl peroxide,1.5,-6.5
+benztropine,1.5,-6.5
+benzyl alcohol,1.5,-6.5
+benzylpenicilloyl-polylysine,1.5,-6.5
+bepotastine,1.5,-6.5
+beractant,1.5,-6.5
+besifloxacin,1.5,-6.5
+beta-carotene,1.5,-6.5
+betaine,1.5,-6.5
+betamethasone,1.5,-6.5
+betamethasone / calcipotriene,1.5,-6.5
+betamethasone / clotrimazole,1.5,-6.5
+bethanechol,1.5,-6.5
+betrixaban,1.5,-6.5
+bevacizumab,1.5,-6.5
+bexarotene,1.5,-6.5
+bezlotoxumab,1.5,-6.5
+bicalutamide,1.5,-6.5
+bifidobacterium infantis / lactobacillus acidophilus,1.5,-6.5
+bimatoprost,1.5,-6.5
+bioflavonoids,1.5,-6.5
+biotin,1.5,-6.5
+bisacodyl,1.5,-6.5
+bismuth subcitrate potassium / metronidazole / tetracycline,1.5,-6.5
+bismuth subsalicylate,1.5,-6.5
+bisoprolol,1.5,-6.5
+bivalirudin,1.5,-6.5
+bleomycin,1.5,-6.5
+blinatumomab,1.5,-6.5
+boric acid,1.5,-6.5
+bortezomib,1.5,-6.5
+bosentan,1.5,-6.5
+bosutinib,1.5,-6.5
+botulism antitoxin,1.5,-6.5
+botulism immune globulin,1.5,-6.5
+bremelanotide,1.5,-6.5
+brentuximab,1.5,-6.5
+brexanolone,1.5,-6.5
+brimonidine,1.5,-6.5
+brimonidine / brinzolamide,1.5,-6.5
+brimonidine / timolol,1.5,-6.5
+brinzolamide,1.5,-6.5
+brodalumab,1.5,-6.5
+brolucizumab,1.5,-6.5
+bromfenac,1.5,-6.5
+bromocriptine,1.5,-6.5
+brompheniramine / codeine,1.5,-6.5
+brompheniramine / dextromethorphan / pseudoephedrine,1.5,-6.5
+brompheniramine / phenylephrine,1.5,-6.5
+budesonide,1.5,-6.5
+budesonide / formoterol,1.5,-6.5
+bumetanide,1.5,-6.5
+bupivacaine,1.5,-6.5
+buprenorphine,1.5,-6.5
+buprenorphine / naloxone,1.5,-6.5
+bupropion,1.5,-6.5
+bupropion / naltrexone,1.5,-6.5
+burosumab,1.5,-6.5
+buspirone,1.5,-6.5
+busulfan,1.5,-6.5
+butorphanol,1.5,-6.5
+cabergoline,1.5,-6.5
+cabozantinib,1.5,-6.5
+cadexomer iodine,1.5,-6.5
+caffeine,1.5,-6.5
+caffeine / ergotamine,1.5,-6.5
+caffeine / sodium benzoate,1.5,-6.5
+calamine,1.5,-6.5
+calcifediol,1.5,-6.5
+calcipotriene,1.5,-6.5
+calcitonin,1.5,-6.5
+calcitriol,1.5,-6.5
+calcium / folic acid / ginger / pyridoxine,1.5,-6.5
+calcium / vitamin d,1.5,-6.5
+calcium acetate,1.5,-6.5
+calcium carbonate,1.5,-6.5
+calcium chloride,1.5,-6.5
+calcium citrate,1.5,-6.5
+calcium gluconate,1.5,-6.5
+calcium lactate,1.5,-6.5
+"calcium phosphate, tribasic",1.5,-6.5
+calfactant,1.5,-6.5
+camphor / menthol,1.5,-6.5
+canagliflozin,1.5,-6.5
+canagliflozin / metformin,-1.4,-5.4
+canakinumab,1.5,-6.5
+candesartan,1.5,-6.5
+cangrelor,1.5,-6.5
+cannabidiol,1.5,-6.5
+cantharidin,1.5,-6.5
+capecitabine,1.5,-6.5
+caplacizumab,1.5,-6.5
+capsaicin,1.5,-6.5
+captopril,1.5,-6.5
+carbachol,1.5,-6.5
+carbamazepine,1.5,-6.5
+carbamide peroxide,1.5,-6.5
+carbidopa,1.5,-6.5
+carbidopa / entacapone / levodopa,1.5,-6.5
+carbidopa / levodopa,1.5,-6.5
+carbinoxamine,1.5,-6.5
+carboplatin,1.5,-6.5
+carboprost,1.5,-6.5
+carfilzomib,1.5,-6.5
+carglumic acid,1.5,-6.5
+carisoprodol,1.5,-6.5
+carmustine,1.5,-6.5
+carvedilol,1.5,-6.5
+caspofungin,1.5,-6.5
+cefaclor,1.5,-6.5
+cefadroxil,1.5,-6.5
+cefazolin,1.5,-6.5
+cefdinir,1.5,-6.5
+cefepime,1.5,-6.5
+cefixime,1.5,-6.5
+cefotaxime,1.5,-6.5
+cefotetan,1.5,-6.5
+cefoxitin,1.5,-6.5
+cefpodoxime,1.5,-6.5
+ceftazidime,1.5,-6.5
+ceftriaxone,1.5,-6.5
+cefuroxime,1.5,-6.5
+celecoxib,1.5,-6.5
+cemiplimab,1.5,-6.5
+cenegermin,1.5,-6.5
+cephalexin,1.5,-6.5
+cerliponase alfa,1.5,-6.5
+certolizumab,1.5,-6.5
+cetirizine,1.5,-6.5
+cetrorelix,1.5,-6.5
+cetuximab,1.5,-6.5
+cevimeline,1.5,-6.5
+chenodeoxycholic acid,1.5,-6.5
+chlophedianol / dexbrompheniramine,1.5,-6.5
+chlorambucil,1.5,-6.5
+chloramphenicol,1.5,-6.5
+chlordiazepoxide,1.5,-6.5
+chlordiazepoxide / clidinium,1.5,-6.5
+chlorhexidine,1.5,-6.5
+chloroprocaine,1.5,-6.5
+chloroquine,1.5,-6.5
+chlorpheniramine,1.5,-6.5
+chlorpheniramine / hydrocodone,1.5,-6.5
+chlorpheniramine / hydrocodone / pseudoephedrine,1.5,-6.5
+chlorpheniramine / ibuprofen / phenylephrine,3.5,-8.1
+chlorpheniramine / methscopolamine / phenylephrine,1.5,-6.5
+chlorpromazine,1.5,-6.5
+chlorthalidone,1.5,-6.5
+chlorzoxazone,1.5,-6.5
+cholecalciferol,1.5,-6.5
+cholecalciferol / genistein / zinc glycinate,1.5,-6.5
+"cholera vaccine, live",1.5,-6.5
+cholestyramine,1.5,-6.5
+cholic acid,1.5,-6.5
+choline c-11,1.5,-6.5
+chondroitin / glucosamine,1.5,-6.5
+chorionic gonadotropin (hcg),1.5,-6.5
+chromic chloride hexahydrate,1.5,-6.5
+chromium picolinate,1.5,-6.5
+ciclesonide,1.5,-6.5
+ciclopirox,1.5,-6.5
+cidofovir,1.5,-6.5
+cilastatin / imipenem,1.5,-6.5
+cilostazol,1.5,-6.5
+cimetidine,1.5,-6.5
+cinacalcet,1.5,-6.5
+ciprofloxacin,1.5,-6.5
+ciprofloxacin / dexamethasone,1.5,-6.5
+ciprofloxacin / hydrocortisone,1.5,-6.5
+cisatracurium,1.5,-6.5
+cisplatin,1.5,-6.5
+citalopram,1.5,-6.5
+citric acid / magnesium oxide / sodium picosulfate,1.5,-6.5
+citric acid / potassium citrate,1.5,-6.5
+citric acid / potassium citrate / sodium citrate,1.5,-6.5
+citric acid / sodium citrate,1.5,-6.5
+cladribine,1.5,-6.5
+clarithromycin,1.5,-6.5
+clevidipine,1.5,-6.5
+clidinium,1.5,-6.5
+clindamycin,1.5,-6.5
+clioquinol,1.5,-6.5
+clobazam,1.5,-6.5
+clobetasol,1.5,-6.5
+clofazimine,1.5,-6.5
+clomiphene,1.5,-6.5
+clomipramine,1.5,-6.5
+clonazepam,1.5,-6.5
+clonidine,1.5,-6.5
+clopidogrel,1.5,-6.5
+clorazepate,1.5,-6.5
+clotrimazole,1.5,-6.5
+clozapine,1.5,-6.5
+coagulation factor Xa,1.5,-6.5
+coagulation factor ix,1.5,-6.5
+coagulation factor viia,1.5,-6.5
+coagulation factor x,1.5,-6.5
+coal tar,1.5,-6.5
+cobimetinib,1.5,-6.5
+cocaine,1.5,-6.5
+codeine,1.5,-6.5
+codeine / guaifenesin,1.5,-6.5
+codeine / phenylephrine / promethazine,1.5,-6.5
+codeine / promethazine,1.5,-6.5
+colchicine,1.5,-6.5
+colchicine / probenecid,1.5,-6.5
+colesevelam,1.5,-6.5
+colestipol,1.5,-6.5
+colistimethate,1.5,-6.5
+colistin sulfate / hydrocortisone / neomycin / thonzonium bromide,1.5,-6.5
+collagenase,1.5,-6.5
+collagenase clostridium histolyticum,1.5,-6.5
+conestat alfa,1.5,-6.5
+conivaptan,1.5,-6.5
+conjugated estrogens,1.5,-6.5
+conjugated estrogens / medroxyprogesterone,1.5,-6.5
+copanlisib,1.5,-6.5
+corticorelin,1.5,-6.5
+corticotropin,1.5,-6.5
+cortisone,1.5,-6.5
+cosyntropin,1.5,-6.5
+crizanlizumab,1.5,-6.5
+crizotinib,1.5,-6.5
+cromolyn,1.5,-6.5
+crotamiton,1.5,-6.5
+cyanocobalamin,1.5,-6.5
+cyclobenzaprine,1.5,-6.5
+cyclopentolate,1.5,-6.5
+cyclophosphamide,1.5,-6.5
+cycloserine,1.5,-6.5
+cyclosporine,1.5,-6.5
+cyproheptadine,1.5,-6.5
+cysteamine,1.5,-6.5
+cytarabine,1.5,-6.5
+cytarabine liposomal / daunorubicin liposomal,1.5,-6.5
+cytomegalovirus immune globulin,1.5,-6.5
+dabigatran,1.5,-6.5
+dabrafenib,1.5,-6.5
+dacarbazine,1.5,-6.5
+daclizumab,1.5,-6.5
+dactinomycin,1.5,-6.5
+dalfampridine,1.5,-6.5
+dalfopristin / quinupristin,1.5,-6.5
+dalteparin,1.5,-6.5
+danazol,1.5,-6.5
+dantrolene,1.5,-6.5
+dapsone,1.5,-6.5
+daptomycin,1.5,-6.5
+daratumumab,1.5,-6.5
+darbepoetin alfa,1.5,-6.5
+darifenacin,1.5,-6.5
+dasabuvir / ombitasvir / paritaprevir / ritonavir,1.5,-6.5
+dasatinib,1.5,-6.5
+daunorubicin,1.5,-6.5
+decitabine,1.5,-6.5
+deferasirox,1.5,-6.5
+deferiprone,1.5,-6.5
+deferoxamine,1.5,-6.5
+defibrotide,1.5,-6.5
+deflazacort,1.5,-6.5
+degarelix,1.5,-6.5
+dehydroepiandrosterone,1.5,-6.5
+demeclocycline,1.5,-6.5
+denosumab,1.5,-6.5
+deoxycholic acid,1.5,-6.5
+desipramine,1.5,-6.5
+desirudin,1.5,-6.5
+desmopressin,1.5,-6.5
+desogestrel / ethinyl estradiol,1.5,-6.5
+desonide,1.5,-6.5
+desoximetasone,1.5,-6.5
+desvenlafaxine,1.5,-6.5
+deutetrabenazine,1.5,-6.5
+dexamethasone,1.5,-6.5
+dexamethasone / neomycin / polymyxin b,1.5,-6.5
+dexamethasone / tobramycin,1.5,-6.5
+dexbrompheniramine,1.5,-6.5
+dexbrompheniramine / phenylephrine,1.5,-6.5
+dexbrompheniramine / pseudoephedrine,1.5,-6.5
+dexlansoprazole,1.5,-6.5
+dexmedetomidine,1.5,-6.5
+dexmethylphenidate,1.5,-6.5
+dexrazoxane,1.5,-6.5
+"dextran, high molecular weight",1.5,-6.5
+"dextran, low molecular weight",1.5,-6.5
+dextranomer / sodium hyaluronate,1.5,-6.5
+dextroamphetamine,1.5,-6.5
+dextromethorphan,1.5,-6.5
+dextromethorphan / guaifenesin,1.5,-6.5
+dextromethorphan / guaifenesin / phenylephrine,1.5,-6.5
+dextromethorphan / promethazine,1.5,-6.5
+dextromethorphan / pyrilamine,1.5,-6.5
+dextromethorphan / quinidine,1.5,-6.5
+diazepam,1.5,-6.5
+diazoxide,1.5,-6.5
+dibucaine,1.5,-6.5
+dichlorphenamide,1.5,-6.5
+diclofenac,1.5,-6.5
+diclofenac / misoprostol,1.5,-6.5
+dicloxacillin,1.5,-6.5
+dicyclomine,1.5,-6.5
+dienogest / estradiol,1.5,-6.5
+diethylpropion,1.5,-6.5
+diflorasone,1.5,-6.5
+difluprednate,1.5,-6.5
+digoxin,1.5,-6.5
+digoxin immune fab,1.5,-6.5
+dihydroergotamine,1.5,-6.5
+diltiazem,1.5,-6.5
+dimenhydrinate,1.5,-6.5
+dimercaprol,1.5,-6.5
+dimethyl fumarate,1.5,-6.5
+dimethyl sulfoxide,1.5,-6.5
+dinoprostone,1.5,-6.5
+dinutuximab,1.5,-6.5
+diphenhydramine,1.5,-6.5
+"diphtheria and tetanus toxoids / pertussis, acellular",1.5,-6.5
+"diphtheria and tetanus toxoids / pertussis, acellular / poliovirus vaccine, inactivated / haemophilus b conjugate / hepatitis b vaccine",1.5,-6.5
+"diphtheria toxoid / haemophilus b conjugate (prp-t) vaccine / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid",1.5,-6.5
+"diphtheria toxoid / hepatitis b pediatric vaccine / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid",1.5,-6.5
+"diphtheria toxoid / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid",1.5,-6.5
+"diphtheria toxoid / pertussis, acellular / tetanus toxoid",1.5,-6.5
+diphtheria toxoid / tetanus toxoid,1.5,-6.5
+dipyridamole,1.5,-6.5
+disopyramide,1.5,-6.5
+disulfiram,1.5,-6.5
+divalproex sodium,1.5,-6.5
+dobutamine,1.5,-6.5
+docetaxel,1.5,-6.5
+docosanol,1.5,-6.5
+docusate,1.5,-6.5
+docusate / senna,1.5,-6.5
+dofetilide,1.5,-6.5
+donepezil,1.5,-6.5
+donepezil / memantine,1.5,-6.5
+dopamine,1.5,-6.5
+doripenem,1.5,-6.5
+dornase alfa,1.5,-6.5
+dorzolamide,1.5,-6.5
+dorzolamide / timolol,1.5,-6.5
+doxapram,1.5,-6.5
+doxazosin,1.5,-6.5
+doxepin,1.5,-6.5
+doxercalciferol,1.5,-6.5
+doxorubicin,1.5,-6.5
+doxorubicin liposomal,1.5,-6.5
+doxycycline,1.5,-6.5
+doxylamine,1.5,-6.5
+doxylamine / pyridoxine,1.5,-6.5
+dronabinol,1.5,-6.5
+dronedarone,1.5,-6.5
+droperidol,1.5,-6.5
+drospirenone / ethinyl estradiol,1.5,-6.5
+drospirenone / ethinyl estradiol / levomefolate calcium,1.5,-6.5
+droxidopa,1.5,-6.5
+duloxetine,1.5,-6.5
+dupilumab,1.5,-6.5
+durvalumab,1.5,-6.5
+dutasteride,1.5,-6.5
+dutasteride / tamsulosin,1.5,-6.5
+duvelisib,1.5,-6.5
+dyclonine,1.5,-6.5
+dyphylline,1.5,-6.5
+"ebola zaire vaccine, live",1.5,-6.5
+ecallantide,1.5,-6.5
+echothiophate iodide,1.5,-6.5
+econazole,1.5,-6.5
+eculizumab,1.5,-6.5
+edaravone,1.5,-6.5
+edetate calcium disodium,1.5,-6.5
+edoxaban,1.5,-6.5
+efavirenz,1.5,-6.5
+efavirenz / emtricitabine / tenofovir,1.5,-6.5
+efinaconazole,1.5,-6.5
+eflornithine,1.5,-6.5
+elapegademase,1.5,-6.5
+elbasvir / grazoprevir,1.5,-6.5
+electrolyte replacement solutions,1.5,-6.5
+eletriptan,1.5,-6.5
+eliglustat,1.5,-6.5
+elosulfase alfa,1.5,-6.5
+eltrombopag,1.5,-6.5
+emapalumab,1.5,-6.5
+emicizumab,1.5,-6.5
+emollients,1.5,-6.5
+empagliflozin,1.5,-6.5
+emtricitabine,1.5,-6.5
+emtricitabine / tenofovir,1.5,-6.5
+emtricitabine / tenofovir alafenamide,1.5,-6.5
+enalapril,1.5,-6.5
+enasidenib,1.5,-6.5
+enfortumab vedotin,1.5,-6.5
+enoxaparin,1.5,-6.5
+entacapone,1.5,-6.5
+entecavir,1.5,-6.5
+entrectinib,1.5,-6.5
+enzalutamide,1.5,-6.5
+ephedrine,1.5,-6.5
+epinastine,1.5,-6.5
+epinephrine,1.5,-6.5
+epinephrine / lidocaine,1.5,-6.5
+epirubicin,1.5,-6.5
+epoetin alfa,1.5,-6.5
+epoetin beta-methoxy polyethylene glycol,1.5,-6.5
+epoprostenol,1.5,-6.5
+eptifibatide,1.5,-6.5
+erdafitinib,1.5,-6.5
+ergocalciferol,1.5,-6.5
+ergoloid mesylates,1.5,-6.5
+eribulin,1.5,-6.5
+erlotinib,1.5,-6.5
+ertapenem,1.5,-6.5
+erythromycin,1.5,-6.5
+escitalopram,1.5,-6.5
+esmolol,1.5,-6.5
+esomeprazole,1.5,-6.5
+esomeprazole / naproxen,1.5,-6.5
+esterified estrogens,1.5,-6.5
+esterified estrogens / methyltestosterone,1.5,-6.5
+estradiol,1.5,-6.5
+estradiol / levonorgestrel,1.5,-6.5
+estradiol / norethindrone,1.5,-6.5
+estradiol / progesterone,1.5,-6.5
+estropipate,1.5,-6.5
+eszopiclone,1.5,-6.5
+etanercept,1.5,-6.5
+etelcalcetide,1.5,-6.5
+eteplirsen,1.5,-6.5
+ethacrynic acid,1.5,-6.5
+ethambutol,1.5,-6.5
+ethanolamine oleate,1.5,-6.5
+ethinyl estradiol,1.5,-6.5
+ethinyl estradiol / levonorgestrel,1.5,-6.5
+ethinyl estradiol / norethindrone,1.5,-6.5
+ethinyl estradiol / norgestimate,1.5,-6.5
+ethinyl estradiol / norgestrel,1.5,-6.5
+etidronate,1.5,-6.5
+etodolac,1.5,-6.5
+etomidate,1.5,-6.5
+etoposide,1.5,-6.5
+everolimus,1.5,-6.5
+evolocumab,1.5,-6.5
+exemestane,1.5,-6.5
+ezetimibe,1.5,-6.5
+ezetimibe / simvastatin,1.5,-6.5
+factor XIII,1.5,-6.5
+factor ix complex,1.5,-6.5
+famciclovir,1.5,-6.5
+famotidine,1.5,-6.5
+famotidine / ibuprofen,3.5,-8.1
+fat emulsion,1.5,-6.5
+febuxostat,1.5,-6.5
+fedratinib,1.5,-6.5
+felbamate,1.5,-6.5
+felodipine,1.5,-6.5
+fenofibrate,1.5,-6.5
+fenofibric acid,1.5,-6.5
+fenoldopam,1.5,-6.5
+fentanyl,1.5,-6.5
+ferric citrate,1.5,-6.5
+ferrous fumarate,1.5,-6.5
+ferrous fumarate / folic acid,1.5,-6.5
+ferrous gluconate,1.5,-6.5
+ferrous sulfate,1.5,-6.5
+ferumoxytol,1.5,-6.5
+fesoterodine,1.5,-6.5
+fexofenadine,1.5,-6.5
+fibrin sealant,1.5,-6.5
+fibrinogen,1.5,-6.5
+fidaxomicin,1.5,-6.5
+filgrastim,1.5,-6.5
+finasteride,1.5,-6.5
+fingolimod,1.5,-6.5
+flavoxate,1.5,-6.5
+flecainide,1.5,-6.5
+flibanserin,1.5,-6.5
+florbetaben f-18,1.5,-6.5
+florbetapir F 18,1.5,-6.5
+floxuridine,1.5,-6.5
+fluciclovine F 18,1.5,-6.5
+fluconazole,1.5,-6.5
+flucytosine,1.5,-6.5
+fludarabine,1.5,-6.5
+fludrocortisone,1.5,-6.5
+flumazenil,1.5,-6.5
+flunisolide,1.5,-6.5
+fluocinolone,1.5,-6.5
+fluocinolone / hydroquinone / tretinoin,1.5,-6.5
+fluocinolone / neomycin,1.5,-6.5
+fluocinonide,1.5,-6.5
+fluoride,1.5,-6.5
+fluorometholone,1.5,-6.5
+fluorouracil,1.5,-6.5
+fluoxetine,1.5,-6.5
+fluoxymesterone,1.5,-6.5
+fluphenazine,1.5,-6.5
+flurazepam,1.5,-6.5
+flurbiprofen,1.5,-6.5
+flutamide,1.5,-6.5
+flutemetamol f-18,1.5,-6.5
+fluticasone,1.5,-6.5
+fluticasone / salmeterol,1.5,-6.5
+fluticasone / umeclidinium / vilanterol,1.5,-6.5
+fluticasone / vilanterol,1.5,-6.5
+fluvastatin,1.5,-6.5
+fluvoxamine,1.5,-6.5
+folic acid,1.5,-6.5
+follicle stimulating hormone,1.5,-6.5
+fomepizole,1.5,-6.5
+fondaparinux,1.5,-6.5
+formaldehyde,1.5,-6.5
+formoterol,1.5,-6.5
+formoterol / mometasone,1.5,-6.5
+foscarnet,1.5,-6.5
+fosfomycin,1.5,-6.5
+fosinopril,1.5,-6.5
+fosphenytoin,1.5,-6.5
+fulvestrant,1.5,-6.5
+furosemide,1.5,-6.5
+gabapentin,1.5,-6.5
+gabapentin enacarbil,1.5,-6.5
+gadobenate dimeglumine,1.5,-6.5
+gadobutrol,1.5,-6.5
+gadodiamide,1.5,-6.5
+gadopentetate dimeglumine,1.5,-6.5
+gadoterate meglumine,1.5,-6.5
+gadoteridol,1.5,-6.5
+gadoxetate disodium,1.5,-6.5
+galantamine,1.5,-6.5
+gallium ga 68 dotatate,1.5,-6.5
+gallium ga-68 dotatoc,1.5,-6.5
+galsulfase,1.5,-6.5
+ganciclovir,1.5,-6.5
+ganirelix,1.5,-6.5
+gatifloxacin,1.5,-6.5
+gefitinib,1.5,-6.5
+gemcitabine,1.5,-6.5
+gemfibrozil,1.5,-6.5
+gemifloxacin,1.5,-6.5
+gemtuzumab,1.5,-6.5
+gentamicin,1.5,-6.5
+gentamicin / prednisolone,1.5,-6.5
+gentian violet,1.5,-6.5
+gilteritinib,1.5,-6.5
+givosiran,1.5,-6.5
+glasdegib,1.5,-6.5
+glatiramer,1.5,-6.5
+glecaprevir / pibrentasvir,1.5,-6.5
+glimepiride,1.5,-6.5
+glipizide,1.5,-6.5
+glucagon,1.5,-6.5
+glucarpidase,1.5,-6.5
+glutamine,1.5,-6.5
+glycerin,1.5,-6.5
+glycerol phenylbutyrate,1.5,-6.5
+glycopyrrolate,1.5,-6.5
+glycopyrronium,1.5,-6.5
+golimumab,1.5,-6.5
+golodirsen,1.5,-6.5
+goserelin,1.5,-6.5
+granisetron,1.5,-6.5
+griseofulvin,1.5,-6.5
+guaifenesin,1.5,-6.5
+guaifenesin / phenylephrine,1.5,-6.5
+guaifenesin / pseudoephedrine,1.5,-6.5
+guanfacine,1.5,-6.5
+guanidine,1.5,-6.5
+haemophilus b conjugate (prp-omp) vaccine,1.5,-6.5
+haemophilus b conjugate (prp-t) vaccine,1.5,-6.5
+halobetasol,1.5,-6.5
+haloperidol,1.5,-6.5
+hemin,1.5,-6.5
+heparin,1.5,-6.5
+heparin flush,1.5,-6.5
+hepatitis a adult vaccine,1.5,-6.5
+hepatitis a adult vaccine / hepatitis b adult vaccine,1.5,-6.5
+hepatitis a pediatric vaccine,1.5,-6.5
+hepatitis b adult vaccine,1.5,-6.5
+hepatitis b immune globulin,1.5,-6.5
+hepatitis b pediatric vaccine,1.5,-6.5
+hetastarch,1.5,-6.5
+histrelin,1.5,-6.5
+homatropine,1.5,-6.5
+homatropine / hydrocodone,1.5,-6.5
+human papillomavirus vaccine,1.5,-6.5
+hyaluronidase,1.5,-6.5
+hyaluronidase / immune globulin,1.5,-6.5
+hyaluronidase / rituximab,1.5,-6.5
+hydralazine,1.5,-6.5
+hydrochlorothiazide,1.5,-6.5
+hydrochlorothiazide / lisinopril,1.5,-6.5
+hydrochlorothiazide / spironolactone,1.5,-6.5
+hydrochlorothiazide / triamterene,1.5,-6.5
+hydrocodone,1.5,-6.5
+hydrocortisone,1.5,-6.5
+hydrocortisone / lidocaine,1.5,-6.5
+hydrocortisone / neomycin / polymyxin b,1.5,-6.5
+hydrocortisone / pramoxine,1.5,-6.5
+hydrogen peroxide,1.5,-6.5
+hydromorphone,1.5,-6.5
+hydroquinone,1.5,-6.5
+hydroxocobalamin,1.5,-6.5
+hydroxychloroquine,1.5,-6.5
+hydroxyethyl starch,1.5,-6.5
+hydroxyprogesterone,1.5,-6.5
+hydroxypropyl methylcellulose,1.5,-6.5
+hydroxyquinoline,1.5,-6.5
+hydroxyurea,1.5,-6.5
+hydroxyzine,1.5,-6.5
+hyoscyamine,1.5,-6.5
+ibandronate,1.5,-6.5
+ibritumomab,1.5,-6.5
+ibrutinib,1.5,-6.5
+ibuprofen,3.5,-8.1
+ibuprofen / pseudoephedrine,3.5,-8.1
+ibutilide,1.5,-6.5
+icatibant,1.5,-6.5
+icosapent,1.5,-6.5
+idarubicin,1.5,-6.5
+idarucizumab,1.5,-6.5
+idelalisib,1.5,-6.5
+idursulfase,1.5,-6.5
+ifosfamide,1.5,-6.5
+iloperidone,1.5,-6.5
+iloprost,1.5,-6.5
+imatinib,1.5,-6.5
+imiglucerase,1.5,-6.5
+imipramine,1.5,-6.5
+imiquimod,1.5,-6.5
+immune globulin intramuscular,1.5,-6.5
+immune globulin intravenous,1.5,-6.5
+immune globulin intravenous and subcutaneous,1.5,-6.5
+immune globulin subcutaneous,1.5,-6.5
+incobotulinumtoxinA,1.5,-6.5
+indomethacin,1.5,-6.5
+infliximab,1.5,-6.5
+"influenza virus vaccine, h5n1",1.5,-6.5
+"influenza virus vaccine, inactivated",1.5,-6.5
+"influenza virus vaccine, live, trivalent",1.5,-6.5
+ingenol,1.5,-6.5
+inotersen,1.5,-6.5
+insulin aspart,1.5,-6.5
+insulin aspart / insulin degludec,1.5,-6.5
+insulin degludec,1.5,-6.5
+insulin glargine,1.5,-6.5
+insulin glulisine,1.5,-6.5
+insulin isophane,1.5,-6.5
+insulin isophane / insulin regular,1.5,-6.5
+insulin lispro,1.5,-6.5
+insulin regular,1.5,-6.5
+interferon alfa-2b,1.5,-6.5
+interferon alfa-n3,1.5,-6.5
+interferon beta-1a,1.5,-6.5
+interferon beta-1b,1.5,-6.5
+interferon gamma-1b,1.5,-6.5
+iobenguane I 123,1.5,-6.5
+iobenguane I 131,1.5,-6.5
+iodine,1.5,-6.5
+iodine / potassium iodide,1.5,-6.5
+iodixanol,1.5,-6.5
+iohexol,1.5,-6.5
+iopamidol,1.5,-6.5
+iopromide,1.5,-6.5
+ioversol,1.5,-6.5
+ipilimumab,1.5,-6.5
+ipratropium,1.5,-6.5
+irbesartan,1.5,-6.5
+irinotecan,1.5,-6.5
+irinotecan liposomal,1.5,-6.5
+iron polysaccharide,1.5,-6.5
+iron sucrose,1.5,-6.5
+isavuconazonium,1.5,-6.5
+isoniazid,1.5,-6.5
+isoniazid / pyrazinamide / rifampin,1.5,-6.5
+isoniazid / rifampin,1.5,-6.5
+isopropyl alcohol,1.5,-6.5
+isoproterenol,1.5,-6.5
+isosorbide dinitrate,1.5,-6.5
+isosorbide mononitrate,1.5,-6.5
+isotretinoin,1.5,-6.5
+isoxsuprine,1.5,-6.5
+isradipine,1.5,-6.5
+itraconazole,1.5,-6.5
+ivacaftor,1.5,-6.5
+ivacaftor / lumacaftor,1.5,-6.5
+ivermectin,1.5,-6.5
+ivosidenib,1.5,-6.5
+ixekizumab,1.5,-6.5
+"japanese enceph vacc sa14-14-2, inactivated",1.5,-6.5
+ketamine,1.5,-6.5
+ketoconazole,1.5,-6.5
+ketoprofen,1.5,-6.5
+ketorolac,1.5,-6.5
+ketorolac / phenylephrine,1.5,-6.5
+ketotifen,1.5,-6.5
+l-methylfolate,1.5,-6.5
+labetalol,1.5,-6.5
+lactase,1.5,-6.5
+lactic acid,1.5,-6.5
+lactulose,1.5,-6.5
+lamivudine,-0.9,-5.9
+lamivudine / zidovudine,-0.9,-5.9
+lamotrigine,1.5,-6.5
+lanadelumab,1.5,-6.5
+lanolin,1.5,-6.5
+lanreotide,1.5,-6.5
+lansoprazole,1.5,-6.5
+lanthanum carbonate,1.5,-6.5
+laronidase,1.5,-6.5
+larotrectinib,1.5,-6.5
+latanoprost,1.5,-6.5
+latanoprostene bunod,1.5,-6.5
+ledipasvir / sofosbuvir,1.5,-6.5
+leflunomide,1.5,-6.5
+lenalidomide,1.5,-6.5
+lenvatinib,1.5,-6.5
+lesinurad,1.5,-6.5
+letermovir,1.5,-6.5
+letrozole,1.5,-6.5
+leucovorin,1.5,-6.5
+leuprolide,1.5,-6.5
+levalbuterol,1.5,-6.5
+levetiracetam,1.5,-6.5
+levobunolol,1.5,-6.5
+levocarnitine,1.5,-6.5
+levocetirizine,1.5,-6.5
+levodopa,1.5,-6.5
+levofloxacin,1.5,-6.5
+levoleucovorin,1.5,-6.5
+levonorgestrel,1.5,-6.5
+levorphanol,1.5,-6.5
+levothyroxine,1.5,-6.5
+lidocaine,1.5,-6.5
+lidocaine / prilocaine,1.5,-6.5
+lifitegrast,1.5,-6.5
+linaclotide,1.5,-6.5
+lindane,1.5,-6.5
+linezolid,1.5,-6.5
+liothyronine,1.5,-6.5
+liotrix,1.5,-6.5
+liraglutide,1.5,-6.5
+lisdexamfetamine,1.5,-6.5
+lisinopril,1.5,-6.5
+lithium,1.5,-6.5
+lodoxamide,1.5,-6.5
+lofexidine,1.5,-6.5
+lomitapide,1.5,-6.5
+lomustine,1.5,-6.5
+loperamide,1.5,-6.5
+loperamide / simethicone,1.5,-6.5
+lopinavir / ritonavir,1.5,-6.5
+loratadine,1.5,-6.5
+loratadine / pseudoephedrine,1.5,-6.5
+lorazepam,1.5,-6.5
+lorcaserin,1.5,-6.5
+losartan,1.5,-6.5
+loteprednol,1.5,-6.5
+loteprednol / tobramycin,1.5,-6.5
+lovastatin,1.5,-6.5
+loxapine,1.5,-6.5
+lubiprostone,1.5,-6.5
+lurasidone,1.5,-6.5
+luspatercept,1.5,-6.5
+lusutrombopag,1.5,-6.5
+lutein,1.5,-6.5
+lutetium lu 177 dotatate,1.5,-6.5
+lvp solution,1.5,-6.5
+"lymphocyte immune globulin, anti-thy (equine)",1.5,-6.5
+macimorelin,1.5,-6.5
+macitentan,1.5,-6.5
+magnesium amino acids chelate,1.5,-6.5
+magnesium carbonate,1.5,-6.5
+magnesium chloride,1.5,-6.5
+magnesium citrate,1.5,-6.5
+magnesium gluconate,1.5,-6.5
+magnesium hydroxide,1.5,-6.5
+magnesium oxide,1.5,-6.5
+magnesium salicylate,1.5,-6.5
+magnesium sulfate,1.5,-6.5
+magnesium sulfate / potassium sulfate / sodium sulfate,1.5,-6.5
+malathion,1.5,-6.5
+mannitol,1.5,-6.5
+measles virus vaccine,1.5,-6.5
+measles virus vaccine / mumps virus vaccine / rubella virus vaccine,1.5,-6.5
+measles virus vaccine / mumps virus vaccine / rubella virus vaccine / varicella virus vaccine,1.5,-6.5
+mebendazole,1.5,-6.5
+mecasermin,1.5,-6.5
+mechlorethamine,1.5,-6.5
+meclizine,1.5,-6.5
+medroxyprogesterone,1.5,-6.5
+mefenamic acid,1.5,-6.5
+mefloquine,1.5,-6.5
+megestrol,1.5,-6.5
+meloxicam,1.5,-6.5
+melphalan,1.5,-6.5
+memantine,1.5,-6.5
+meningococcal conjugate vaccine,1.5,-6.5
+meningococcal group B vaccine,1.5,-6.5
+menotropins,1.5,-6.5
+menthol,1.5,-6.5
+menthol / zinc oxide,1.5,-6.5
+meperidine,1.5,-6.5
+mepivacaine,1.5,-6.5
+mepolizumab,1.5,-6.5
+mercaptopurine,1.5,-6.5
+meropenem,1.5,-6.5
+mesalamine,1.5,-6.5
+mesna,1.5,-6.5
+metaxalone,1.5,-6.5
+metformin,-1.4,-5.4
+metformin / sitagliptin,-1.4,-5.4
+methacholine,1.5,-6.5
+methadone,1.5,-6.5
+methamphetamine,1.5,-6.5
+methazolamide,1.5,-6.5
+methenamine,1.5,-6.5
+methimazole,1.5,-6.5
+methocarbamol,1.5,-6.5
+methohexital,1.5,-6.5
+methotrexate,1.5,-6.5
+methoxsalen,1.5,-6.5
+methscopolamine,1.5,-6.5
+methyl aminolevulinate,1.5,-6.5
+methyldopa,1.5,-6.5
+methylene blue,1.5,-6.5
+methylergonovine,1.5,-6.5
+methylnaltrexone,1.5,-6.5
+methylphenidate,1.5,-6.5
+methylprednisolone,1.5,-6.5
+methyltestosterone,1.5,-6.5
+metoclopramide,1.5,-6.5
+metolazone,1.5,-6.5
+metoprolol,1.5,-6.5
+metreleptin,1.5,-6.5
+metronidazole,1.5,-6.5
+metyrapone,1.5,-6.5
+metyrosine,1.5,-6.5
+mexiletine,1.5,-6.5
+micafungin,1.5,-6.5
+miconazole,1.5,-6.5
+miconazole / zinc oxide,1.5,-6.5
+midazolam,1.5,-6.5
+midodrine,1.5,-6.5
+midostaurin,1.5,-6.5
+mifepristone,1.5,-6.5
+migalastat,1.5,-6.5
+miglustat,1.5,-6.5
+milnacipran,1.5,-6.5
+miltefosine,1.5,-6.5
+minocycline,1.5,-6.5
+minoxidil,1.5,-6.5
+mirabegron,1.5,-6.5
+mirtazapine,1.5,-6.5
+misoprostol,1.5,-6.5
+mitomycin,1.5,-6.5
+mitotane,1.5,-6.5
+mitoxantrone,1.5,-6.5
+modafinil,1.5,-6.5
+moexipril,1.5,-6.5
+mogamulizumab,1.5,-6.5
+mometasone,1.5,-6.5
+montelukast,1.5,-6.5
+morphine,1.5,-6.5
+moxetumomab pasudotox,1.5,-6.5
+moxidectin,1.5,-6.5
+moxifloxacin,1.5,-6.5
+multivitamin,1.5,-6.5
+multivitamin with iron,1.5,-6.5
+multivitamin with minerals,1.5,-6.5
+"multivitamin, prenatal",1.5,-6.5
+mumps virus vaccine,1.5,-6.5
+mupirocin,1.5,-6.5
+muromonab-cd3,1.5,-6.5
+mycophenolate mofetil,1.5,-6.5
+mycophenolic acid,1.5,-6.5
+nabilone,1.5,-6.5
+nabumetone,1.5,-6.5
+nadolol,1.5,-6.5
+nafarelin,1.5,-6.5
+naldemedine,1.5,-6.5
+naloxegol,1.5,-6.5
+naloxone,1.5,-6.5
+naltrexone,1.5,-6.5
+naphazoline,1.5,-6.5
+naphazoline / pheniramine,1.5,-6.5
+naproxen,1.5,-6.5
+naproxen / pseudoephedrine,1.5,-6.5
+naratriptan,1.5,-6.5
+natalizumab,1.5,-6.5
+natamycin,1.5,-6.5
+nebivolol,1.5,-6.5
+nedocromil,1.5,-6.5
+nelarabine,1.5,-6.5
+neomycin,1.5,-6.5
+neomycin / polymyxin b / pramoxine,1.5,-6.5
+neostigmine,1.5,-6.5
+nepafenac,1.5,-6.5
+neratinib,1.5,-6.5
+nevirapine,1.5,-6.5
+niacin,1.5,-6.5
+niacinamide,1.5,-6.5
+nicotine,1.5,-6.5
+nifedipine,1.5,-6.5
+nilotinib,1.5,-6.5
+nimodipine,1.5,-6.5
+nintedanib,1.5,-6.5
+niraparib,1.5,-6.5
+nisoldipine,1.5,-6.5
+nitazoxanide,1.5,-6.5
+nitisinone,1.5,-6.5
+nitric oxide,1.5,-6.5
+nitrofurantoin,1.5,-6.5
+nitroglycerin,1.5,-6.5
+nitroprusside,1.5,-6.5
+nivolumab,1.5,-6.5
+norepinephrine,1.5,-6.5
+norethindrone,1.5,-6.5
+nortriptyline,1.5,-6.5
+nusinersen,1.5,-6.5
+nystatin,1.5,-6.5
+nystatin / triamcinolone,1.5,-6.5
+obeticholic acid,1.5,-6.5
+obinutuzumab,1.5,-6.5
+ocriplasmin,1.5,-6.5
+octreotide,1.5,-6.5
+ofatumumab,1.5,-6.5
+ofloxacin,1.5,-6.5
+olanzapine,1.5,-6.5
+olaparib,1.5,-6.5
+olaratumab,1.5,-6.5
+olmesartan,1.5,-6.5
+olodaterol,1.5,-6.5
+olodaterol / tiotropium,1.5,-6.5
+olopatadine,1.5,-6.5
+olsalazine,1.5,-6.5
+omacetaxine,1.5,-6.5
+omalizumab,1.5,-6.5
+omega-3 polyunsaturated fatty acids,1.5,-6.5
+omeprazole,1.5,-6.5
+omeprazole / sodium bicarbonate,1.5,-6.5
+onabotulinumtoxinA,1.5,-6.5
+onasemnogene abeparvovec,1.5,-6.5
+ondansetron,1.5,-6.5
+"ophthalmic irrigation, intraocular",1.5,-6.5
+opium,1.5,-6.5
+orlistat,1.5,-6.5
+orphenadrine,1.5,-6.5
+oseltamivir,1.5,-6.5
+ospemifene,1.5,-6.5
+oxacillin,1.5,-6.5
+oxaliplatin,1.5,-6.5
+oxandrolone,1.5,-6.5
+oxaprozin,1.5,-6.5
+oxazepam,1.5,-6.5
+oxcarbazepine,1.5,-6.5
+oxybutynin,1.5,-6.5
+oxycodone,1.5,-6.5
+oxymetazoline,1.5,-6.5
+oxymetholone,1.5,-6.5
+oxymorphone,1.5,-6.5
+oxytocin,1.5,-6.5
+ozenoxacin,1.5,-6.5
+paclitaxel,1.5,-6.5
+paclitaxel protein-bound,1.5,-6.5
+palbociclib,1.5,-6.5
+palifermin,1.5,-6.5
+paliperidone,1.5,-6.5
+palivizumab,1.5,-6.5
+palonosetron,1.5,-6.5
+pamabrom,1.5,-6.5
+pamidronate,1.5,-6.5
+pancreatin,1.5,-6.5
+pancrelipase,1.5,-6.5
+panitumumab,1.5,-6.5
+pantoprazole,1.5,-6.5
+papaverine,1.5,-6.5
+parathyroid hormone,1.5,-6.5
+parenteral nutrition solution,1.5,-6.5
+parenteral nutrition solution w / electrolytes,1.5,-6.5
+paricalcitol,1.5,-6.5
+paromomycin,1.5,-6.5
+paroxetine,1.5,-6.5
+pasireotide,1.5,-6.5
+patiromer,1.5,-6.5
+patisiran,1.5,-6.5
+pazopanib,1.5,-6.5
+pegademase bovine,1.5,-6.5
+pegaptanib,1.5,-6.5
+pegaspargase,1.5,-6.5
+pegfilgrastim,1.5,-6.5
+peginterferon alfa-2a,1.5,-6.5
+peginterferon alfa-2b,1.5,-6.5
+pegloticase,1.5,-6.5
+pegvaliase,1.5,-6.5
+pegvisomant,1.5,-6.5
+pembrolizumab,1.5,-6.5
+pemetrexed,1.5,-6.5
+penciclovir,1.5,-6.5
+penicillamine,1.5,-6.5
+penicillin g benzathine,1.5,-6.5
+penicillin g benzathine / procaine penicillin,1.5,-6.5
+penicillin g potassium,1.5,-6.5
+penicillin g sodium,1.5,-6.5
+penicillin v potassium,1.5,-6.5
+pentamidine,1.5,-6.5
+pentetate calcium trisodium,1.5,-6.5
+pentetate zinc trisodium,1.5,-6.5
+pentobarbital,1.5,-6.5
+pentosan polysulfate sodium,1.5,-6.5
+pentostatin,1.5,-6.5
+pentoxifylline,1.5,-6.5
+peramivir,1.5,-6.5
+perflutren,1.5,-6.5
+perindopril,1.5,-6.5
+permethrin,1.5,-6.5
+perphenazine,1.5,-6.5
+pexidartinib,1.5,-6.5
+phenazopyridine,1.5,-6.5
+phendimetrazine,1.5,-6.5
+phenobarbital,1.5,-6.5
+phenol,1.5,-6.5
+phenoxybenzamine,1.5,-6.5
+phentermine,1.5,-6.5
+phentermine / topiramate,1.5,-6.5
+phentolamine,1.5,-6.5
+phenylephrine,1.5,-6.5
+phenytoin,1.5,-6.5
+physostigmine,1.5,-6.5
+phytonadione,1.5,-6.5
+pilocarpine,1.5,-6.5
+pimavanserin,1.5,-6.5
+pimecrolimus,1.5,-6.5
+pimozide,1.5,-6.5
+pioglitazone,1.5,-6.5
+piperacillin,1.5,-6.5
+piperacillin / tazobactam,1.5,-6.5
+piperonyl butoxide / pyrethrins,1.5,-6.5
+pirfenidone,1.5,-6.5
+piroxicam,1.5,-6.5
+pitavastatin,1.5,-6.5
+plecanatide,1.5,-6.5
+pneumococcal 13-valent vaccine,1.5,-6.5
+pneumococcal 23-polyvalent vaccine,1.5,-6.5
+podofilox,1.5,-6.5
+podophyllum resin,1.5,-6.5
+polatuzumab vedotin,1.5,-6.5
+polidocanol,1.5,-6.5
+"poliovirus vaccine, inactivated",1.5,-6.5
+poly-l-lactic acid,1.5,-6.5
+poly-ureaurethane,1.5,-6.5
+polyethylene glycol 3350,1.5,-6.5
+polyethylene glycol 3350 with electrolytes,1.5,-6.5
+polymyxin b / trimethoprim,1.5,-6.5
+pomalidomide,1.5,-6.5
+ponatinib,1.5,-6.5
+poractant,1.5,-6.5
+porfimer,1.5,-6.5
+posaconazole,1.5,-6.5
+potassium acid phosphate,1.5,-6.5
+potassium bicarbonate,1.5,-6.5
+potassium bicarbonate / potassium chloride,1.5,-6.5
+potassium chloride,1.5,-6.5
+potassium citrate,1.5,-6.5
+potassium gluconate,1.5,-6.5
+potassium iodide,1.5,-6.5
+potassium phosphate,1.5,-6.5
+potassium phosphate / sodium phosphate,1.5,-6.5
+povidone iodine,1.5,-6.5
+prabotulinumtoxinA,1.5,-6.5
+pralatrexate,1.5,-6.5
+pralidoxime,1.5,-6.5
+pramipexole,1.5,-6.5
+pramoxine,1.5,-6.5
+pramoxine / zinc acetate,1.5,-6.5
+prasugrel,1.5,-6.5
+pravastatin,1.5,-6.5
+praziquantel,1.5,-6.5
+prazosin,1.5,-6.5
+prednisolone,1.5,-6.5
+prednisolone / sulfacetamide sodium,1.5,-6.5
+prednisone,1.5,-6.5
+pregabalin,1.5,-6.5
+pretomanid,1.5,-6.5
+primaquine,1.5,-6.5
+primidone,1.5,-6.5
+probenecid,1.5,-6.5
+procainamide,1.5,-6.5
+procaine penicillin,1.5,-6.5
+procarbazine,1.5,-6.5
+prochlorperazine,1.5,-6.5
+progesterone,1.5,-6.5
+promethazine,1.5,-6.5
+propafenone,1.5,-6.5
+propantheline,1.5,-6.5
+proparacaine,1.5,-6.5
+propofol,1.5,-6.5
+propranolol,1.5,-6.5
+propylthiouracil,1.5,-6.5
+protamine,1.5,-6.5
+protein c,1.5,-6.5
+prothrombin complex,1.5,-6.5
+prucalopride,1.5,-6.5
+prussian blue,1.5,-6.5
+pseudoephedrine,1.5,-6.5
+pseudoephedrine / triprolidine,1.5,-6.5
+psyllium,1.5,-6.5
+pyrantel,1.5,-6.5
+pyrazinamide,1.5,-6.5
+pyridostigmine,1.5,-6.5
+pyridoxine,1.5,-6.5
+pyrimethamine,1.5,-6.5
+pyrithione zinc,1.5,-6.5
+quetiapine,1.5,-6.5
+quinapril,1.5,-6.5
+quinidine,1.5,-6.5
+rabeprazole,1.5,-6.5
+"rabies immune globulin, human",1.5,-6.5
+"rabies vaccine, human diploid cell",1.5,-6.5
+"rabies vaccine, purified chick embryo cell",1.5,-6.5
+raloxifene,1.5,-6.5
+raltegravir,1.5,-6.5
+ramipril,1.5,-6.5
+ramucirumab,1.5,-6.5
+ranibizumab,1.5,-6.5
+ranitidine,1.5,-6.5
+ranolazine,1.5,-6.5
+rasagiline,1.5,-6.5
+rasburicase,1.5,-6.5
+ravulizumab,1.5,-6.5
+regadenoson,1.5,-6.5
+regorafenib,1.5,-6.5
+resorcinol,1.5,-6.5
+retapamulin,1.5,-6.5
+rho (d) immune globulin,1.5,-6.5
+ribavirin,1.5,-6.5
+riboflavin,1.5,-6.5
+rifabutin,1.5,-6.5
+rifampin,1.5,-6.5
+rifapentine,1.5,-6.5
+rifaximin,1.5,-6.5
+rilonacept,1.5,-6.5
+riluzole,1.5,-6.5
+rimabotulinumtoxinB,1.5,-6.5
+rimantadine,1.5,-6.5
+riociguat,1.5,-6.5
+risedronate,1.5,-6.5
+risperidone,1.5,-6.5
+ritonavir,1.5,-6.5
+rituximab,1.5,-6.5
+rivaroxaban,1.5,-6.5
+rivastigmine,1.5,-6.5
+rizatriptan,1.5,-6.5
+rocuronium,1.5,-6.5
+roflumilast,1.5,-6.5
+romidepsin,1.5,-6.5
+romiplostim,1.5,-6.5
+ropinirole,1.5,-6.5
+ropivacaine,1.5,-6.5
+rosiglitazone,1.5,-6.5
+rosuvastatin,1.5,-6.5
+rotavirus vaccine,1.5,-6.5
+rotigotine,1.5,-6.5
+rubidium chloride rb-82,1.5,-6.5
+rufinamide,1.5,-6.5
+ruxolitinib,1.5,-6.5
+saccharomyces boulardii lyo,1.5,-6.5
+sacrosidase,1.5,-6.5
+salicylic acid,1.5,-6.5
+salicylic acid / sulfur,1.5,-6.5
+salicylic acid / urea,1.5,-6.5
+saliva substitutes,1.5,-6.5
+salmeterol,1.5,-6.5
+sapropterin,1.5,-6.5
+sargramostim,1.5,-6.5
+scopolamine,1.5,-6.5
+sebelipase alfa,1.5,-6.5
+secnidazole,1.5,-6.5
+secobarbital,1.5,-6.5
+secukinumab,1.5,-6.5
+selegiline,1.5,-6.5
+selenium,1.5,-6.5
+selenium sulfide,1.5,-6.5
+semaglutide,1.5,-6.5
+sertraline,1.5,-6.5
+sevelamer,1.5,-6.5
+sildenafil,1.5,-6.5
+silodosin,1.5,-6.5
+siltuximab,1.5,-6.5
+silver,1.5,-6.5
+silver nitrate,1.5,-6.5
+silver sulfadiazine,1.5,-6.5
+simethicone,1.5,-6.5
+simvastatin,1.5,-6.5
+sincalide,1.5,-6.5
+sinecatechins,1.5,-6.5
+sirolimus,1.5,-6.5
+sitagliptin,1.5,-6.5
+smallpox and monkeypox vaccine,1.5,-6.5
+smallpox vaccine,1.5,-6.5
+sodium acetate,1.5,-6.5
+sodium benzoate / sodium phenylacetate,1.5,-6.5
+sodium bicarbonate,1.5,-6.5
+sodium chloride,1.5,-6.5
+sodium chondroitin sulfate / sodium hyaluronate,1.5,-6.5
+sodium hyaluronate,1.5,-6.5
+sodium hypochlorite,1.5,-6.5
+sodium iodide-i-131,1.5,-6.5
+sodium nitrite,1.5,-6.5
+sodium nitrite / sodium thiosulfate,1.5,-6.5
+sodium oxybate,1.5,-6.5
+sodium phenylbutyrate,1.5,-6.5
+sodium phosphate,1.5,-6.5
+sodium polystyrene sulfonate,1.5,-6.5
+sodium tetradecyl sulfate,1.5,-6.5
+sodium thiosulfate,1.5,-6.5
+sodium zirconium cyclosilicate,1.5,-6.5
+sofosbuvir,1.5,-6.5
+sofosbuvir / velpatasvir,1.5,-6.5
+sofosbuvir / velpatasvir / voxilaprevir,1.5,-6.5
+solifenacin,1.5,-6.5
+solriamfetol,1.5,-6.5
+somatropin,1.5,-6.5
+sonidegib,1.5,-6.5
+sorafenib,1.5,-6.5
+sotalol,1.5,-6.5
+spinosad,1.5,-6.5
+spironolactone,1.5,-6.5
+sterile talc,1.5,-6.5
+stiripentol,1.5,-6.5
+streptomycin,1.5,-6.5
+streptozocin,1.5,-6.5
+succimer,1.5,-6.5
+succinylcholine,1.5,-6.5
+sucralfate,1.5,-6.5
+sucroferric oxyhydroxide,1.5,-6.5
+sugammadex,1.5,-6.5
+sulconazole,1.5,-6.5
+sulfacetamide sodium,1.5,-6.5
+sulfacetamide sodium / sulfur,1.5,-6.5
+sulfadiazine,1.5,-6.5
+sulfamethoxazole / trimethoprim,1.5,-6.5
+sulfasalazine,1.5,-6.5
+sulindac,1.5,-6.5
+sumatriptan,1.5,-6.5
+sunitinib,1.5,-6.5
+tacrolimus,1.5,-6.5
+tadalafil,1.5,-6.5
+tafamidis,1.5,-6.5
+tafenoquine,1.5,-6.5
+tafluprost,1.5,-6.5
+taliglucerase alfa,1.5,-6.5
+talimogene laherparepvec,1.5,-6.5
+tamoxifen,1.5,-6.5
+tamsulosin,1.5,-6.5
+tapentadol,1.5,-6.5
+tasimelteon,1.5,-6.5
+tavaborole,1.5,-6.5
+tazarotene,1.5,-6.5
+tazemetostat,1.5,-6.5
+tbo-filgrastim,1.5,-6.5
+tecovirimat,1.5,-6.5
+teduglutide,1.5,-6.5
+tegaserod,1.5,-6.5
+telmisartan,1.5,-6.5
+telotristat,1.5,-6.5
+temazepam,1.5,-6.5
+temozolomide,1.5,-6.5
+temsirolimus,1.5,-6.5
+teniposide,1.5,-6.5
+tenofovir,1.5,-6.5
+tenofovir alafenamide,1.5,-6.5
+teprotumumab,1.5,-6.5
+terazosin,1.5,-6.5
+terbinafine,1.5,-6.5
+terbutaline,1.5,-6.5
+terconazole,1.5,-6.5
+teriflunomide,1.5,-6.5
+teriparatide,1.5,-6.5
+tesamorelin,1.5,-6.5
+testosterone,1.5,-6.5
+tetanus immune globulin,1.5,-6.5
+tetrabenazine,1.5,-6.5
+tetracaine,1.5,-6.5
+tetracycline,1.5,-6.5
+tetrahydrozoline,1.5,-6.5
+tetrahydrozoline / zinc sulfate,1.5,-6.5
+tetrofosmin,1.5,-6.5
+thalidomide,1.5,-6.5
+theophylline,1.5,-6.5
+thiamine,1.5,-6.5
+thioguanine,1.5,-6.5
+thiotepa,1.5,-6.5
+thiothixene,1.5,-6.5
+thrombin,1.5,-6.5
+thyroid desiccated,1.5,-6.5
+thyrotropin alpha,1.5,-6.5
+ticagrelor,1.5,-6.5
+ticlopidine,1.5,-6.5
+tigecycline,1.5,-6.5
+timolol,1.5,-6.5
+tinidazole,1.5,-6.5
+tioconazole,1.5,-6.5
+tiopronin,1.5,-6.5
+tiotropium,1.5,-6.5
+tipiracil / trifluridine,1.5,-6.5
+tirofiban,1.5,-6.5
+tisagenlecleucel,1.5,-6.5
+tizanidine,1.5,-6.5
+tobramycin,1.5,-6.5
+tocilizumab,1.5,-6.5
+tolmetin,1.5,-6.5
+tolnaftate,1.5,-6.5
+tolterodine,1.5,-6.5
+tolvaptan,1.5,-6.5
+topiramate,1.5,-6.5
+topotecan,1.5,-6.5
+torsemide,1.5,-6.5
+trabectedin,1.5,-6.5
+trace elements,1.5,-6.5
+tramadol,1.5,-6.5
+trametinib,1.5,-6.5
+trandolapril,1.5,-6.5
+tranexamic acid,1.5,-6.5
+trastuzumab,1.5,-6.5
+travoprost,1.5,-6.5
+trazodone,1.5,-6.5
+treprostinil,1.5,-6.5
+tretinoin,1.5,-6.5
+triamcinolone,1.5,-6.5
+triamterene,1.5,-6.5
+triclabendazole,1.5,-6.5
+trientine,1.5,-6.5
+trifluridine,1.5,-6.5
+trihexyphenidyl,1.5,-6.5
+trimethoprim,1.5,-6.5
+triprolidine,1.5,-6.5
+triptorelin,1.5,-6.5
+trolamine salicylate,1.5,-6.5
+tropicamide,1.5,-6.5
+trospium,1.5,-6.5
+trypan blue,1.5,-6.5
+tuberculin purified protein derivative,1.5,-6.5
+"typhoid vaccine, inactivated",1.5,-6.5
+"typhoid vaccine, live",1.5,-6.5
+ulipristal,1.5,-6.5
+umeclidinium,1.5,-6.5
+umeclidinium / vilanterol,1.5,-6.5
+undecylenic acid,1.5,-6.5
+urea,1.5,-6.5
+uridine,1.5,-6.5
+urofollitropin,1.5,-6.5
+urokinase,1.5,-6.5
+ursodiol,1.5,-6.5
+ustekinumab,1.5,-6.5
+valacyclovir,1.5,-6.5
+valbenazine,1.5,-6.5
+valganciclovir,1.5,-6.5
+valproic acid,1.5,-6.5
+valrubicin,1.5,-6.5
+valsartan,1.5,-6.5
+vancomycin,1.5,-6.5
+vandetanib,1.5,-6.5
+vardenafil,1.5,-6.5
+varenicline,1.5,-6.5
+varicella virus vaccine,1.5,-6.5
+varicella zoster immune globulin,1.5,-6.5
+vasopressin,1.5,-6.5
+vecuronium,1.5,-6.5
+vedolizumab,1.5,-6.5
+velaglucerase alfa,1.5,-6.5
+vemurafenib,1.5,-6.5
+venetoclax,1.5,-6.5
+venlafaxine,1.5,-6.5
+verapamil,1.5,-6.5
+verteporfin,1.5,-6.5
+vestronidase alfa,1.5,-6.5
+vinblastine,1.5,-6.5
+vincristine,1.5,-6.5
+vincristine liposome,1.5,-6.5
+vismodegib,1.5,-6.5
+vitamin a,1.5,-6.5
+vitamin a & d,1.5,-6.5
+vitamin e,1.5,-6.5
+"vitamins a, d, and e",1.5,-6.5
+von willebrand factor,1.5,-6.5
+vorapaxar,1.5,-6.5
+voretigene neparvovec,1.5,-6.5
+voriconazole,1.5,-6.5
+vorinostat,1.5,-6.5
+warfarin,1.5,-6.5
+xylometazoline,1.5,-6.5
+yellow fever vaccine,1.5,-6.5
+zanamivir,1.5,-6.5
+zanubrutinib,1.5,-6.5
+zidovudine,1.5,-6.5
+zinc acetate,1.5,-6.5
+zinc oxide,1.5,-6.5
+zinc sulfate,1.5,-6.5
+ziprasidone,1.5,-6.5
+zoledronic acid,1.5,-6.5
+zolmitriptan,1.5,-6.5
+zolpidem,1.5,-6.5
+zonisamide,1.5,-6.5
+zoster vaccine live,1.5,-6.5
+"zoster vaccine, inactivated",1.5,-6.5

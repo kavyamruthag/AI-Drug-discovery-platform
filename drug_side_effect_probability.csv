@@ -1,0 +1,1616 @@
+Drug_name,Side_Effect_Probability(%)
+C1 esterase inhibitor (human),30.0
+abacavir,51.81818181818182
+abacavir / lamivudine,30.0
+abatacept,70.0
+abciximab,
+abiraterone,70.0
+abobotulinumtoxinA,40.0
+acalabrutinib,70.0
+acamprosate,30.0
+acarbose,30.0
+acebutolol,50.0
+acetaminophen,55.6
+acetaminophen / aspirin / caffeine,70.0
+acetaminophen / butalbital,70.0
+acetaminophen / butalbital / caffeine,
+acetaminophen / butalbital / caffeine / codeine,70.0
+acetaminophen / caffeine / pyrilamine,70.0
+acetaminophen / chlorpheniramine,54.0
+acetaminophen / chlorpheniramine / dextromethorphan,50.0
+acetaminophen / chlorpheniramine / dextromethorphan / phenylephrine,50.0
+acetaminophen / chlorpheniramine / dextromethorphan / pseudoephedrine,43.333333333333336
+acetaminophen / chlorpheniramine / phenylephrine,50.0
+acetaminophen / dextromethorphan / diphenhydramine,30.0
+acetaminophen / dextromethorphan / doxylamine / phenylephrine,50.0
+acetaminophen / dextromethorphan / guaifenesin / phenylephrine,70.0
+acetaminophen / dextromethorphan / phenylephrine,70.0
+acetaminophen / hydrocodone,47.142857142857146
+acetaminophen / oxycodone,70.0
+acetaminophen / pamabrom,50.0
+acetaminophen / pamabrom / pyrilamine,46.0
+acetaminophen / phenylephrine,
+acetaminophen / pseudoephedrine,30.0
+acetazolamide,52.22222222222222
+acetic acid,43.333333333333336
+acetic acid / aluminum acetate,43.333333333333336
+acetic acid / hydrocortisone,50.0
+acetylcholine,70.0
+acetylcysteine,46.0
+acitretin,62.0
+aclidinium,43.333333333333336
+acyclovir,47.77777777777778
+acyclovir / hydrocortisone,70.0
+adalimumab,45.0
+adapalene,30.0
+adefovir,30.0
+adenosine,38.0
+adenovirus vaccine,70.0
+afamelanotide,30.0
+aflibercept,30.0
+agalsidase beta,70.0
+albendazole,52.608695652173914
+albumin human,50.0
+albuterol,50.0
+albuterol / ipratropium,70.0
+alcaftadine,70.0
+alclometasone,70.0
+aldesleukin,59.09090909090909
+alemtuzumab,43.333333333333336
+alendronate,47.77777777777778
+alfuzosin,46.0
+alglucosidase alfa,
+alirocumab,70.0
+alitretinoin,30.0
+allantoin / camphor / phenol,70.0
+allopurinol,51.81818181818182
+allopurinol / lesinurad,30.0
+almotriptan,60.0
+aloe polysaccharides / iodoquinol,70.0
+alpelisib,70.0
+alpha 1-proteinase inhibitor,50.0
+alprazolam,51.05263157894737
+alprostadil,54.0
+alteplase,43.333333333333336
+aluminum chloride hexahydrate,43.333333333333336
+aluminum hydroxide,56.666666666666664
+aluminum hydroxide / magnesium hydroxide,
+aluminum hydroxide / magnesium hydroxide / simethicone,59.09090909090909
+aluminum hydroxide / magnesium trisilicate,70.0
+alvimopan,70.0
+amantadine,46.0
+ambrisentan,43.333333333333336
+amifampridine,50.0
+amifostine,50.0
+amikacin,54.0
+amikacin liposome,
+amiloride,70.0
+aminocaproic acid,30.0
+aminolevulinic acid,70.0
+aminosalicylic acid,30.0
+amiodarone,47.142857142857146
+amitriptyline,50.0
+amitriptyline / perphenazine,
+amlodipine,51.53846153846154
+amlodipine / atorvastatin,47.77777777777778
+ammoniated mercury,70.0
+ammonium chloride,50.0
+ammonium lactate,46.0
+amoxicillin,54.21052631578947
+amoxicillin / clarithromycin / lansoprazole,30.0
+amoxicillin / clarithromycin / omeprazole,
+amoxicillin / clavulanate,52.5
+amphetamine,62.0
+amphetamine / dextroamphetamine,60.0
+amphotericin b,56.08695652173913
+amphotericin b lipid complex,42.30769230769231
+amphotericin b liposomal,52.857142857142854
+ampicillin,50.0
+ampicillin / sulbactam,47.142857142857146
+amyl nitrite,30.0
+anagrelide,70.0
+anakinra,60.0
+anastrozole,48.46153846153846
+anidulafungin,43.333333333333336
+anthrax immune globulin intravenous,43.333333333333336
+anthrax vaccine adsorbed,30.0
+anti-inhibitor coagulant complex,70.0
+anti-thymocyte globulin (rabbit),
+antihemophilic factor,30.0
+antihemophilic factor / von willebrand factor,
+antithrombin (recombinant),30.0
+antithrombin iii,70.0
+antivenin (black widow spider),
+antivenin (crotalidae) polyvalent,30.0
+antivenin (micrurus fulvius),
+antivenom (centruroides scorpion),43.333333333333336
+apixaban,34.44444444444444
+apomorphine,70.0
+apraclonidine,50.0
+apremilast,30.0
+aprepitant,30.0
+argatroban,70.0
+aripiprazole,49.0
+armodafinil,47.142857142857146
+arsenic trioxide,56.666666666666664
+artemether / lumefantrine,70.0
+articaine / epinephrine,
+ascorbic acid,56.666666666666664
+asenapine,53.333333333333336
+asfotase alfa,30.0
+asparaginase erwinia chrysanthemi,54.0
+asparaginase escherichia coli,43.333333333333336
+aspirin,51.132075471698116
+aspirin / butalbital / caffeine,41.42857142857143
+aspirin / caffeine,30.0
+aspirin / caffeine / orphenadrine,43.333333333333336
+aspirin / carisoprodol,70.0
+aspirin / carisoprodol / codeine,40.0
+aspirin / dipyridamole,
+aspirin / omeprazole,30.0
+atazanavir,70.0
+atenolol,50.0
+atezolizumab,46.0
+atomoxetine,60.0
+atorvastatin,55.26315789473684
+atovaquone,50.0
+atovaquone / proguanil,30.0
+atracurium,
+atropine,63.333333333333336
+atropine / difenoxin,43.333333333333336
+atropine / diphenoxylate,40.0
+atropine / edrophonium,70.0
+atropine / hyoscyamine / phenobarbital / scopolamine,43.333333333333336
+atropine / pralidoxime,30.0
+auranofin,30.0
+avanafil,50.0
+avapritinib,30.0
+avatrombopag,
+avelumab,56.666666666666664
+axicabtagene ciloleucel,
+axitinib,30.0
+azacitidine,70.0
+azathioprine,48.94736842105263
+azelaic acid,70.0
+azelastine,50.0
+azficel-t,46.0
+azithromycin,51.276595744680854
+aztreonam,70.0
+bacitracin,38.0
+bacitracin / hydrocortisone / neomycin / polymyxin b,40.0
+bacitracin / neomycin / polymyxin b,47.142857142857146
+bacitracin / neomycin / polymyxin b / pramoxine,56.666666666666664
+bacitracin / polymyxin b,56.666666666666664
+baclofen,46.36363636363637
+baloxavir marboxil,70.0
+balsalazide,70.0
+balsam peru / castor oil,70.0
+balsam peru / castor oil / trypsin,
+barium sulfate,70.0
+basiliximab,30.0
+bazedoxifene / conjugated estrogens,
+bcg,30.0
+bcg vaccine,
+becaplermin,50.0
+beclomethasone,30.0
+bedaquiline,30.0
+belatacept,70.0
+belimumab,50.0
+belinostat,70.0
+belladonna,50.0
+benazepril,50.0
+bendamustine,50.0
+benzalkonium chloride,70.0
+benzalkonium chloride / lidocaine,50.0
+benzethonium chloride,43.333333333333336
+benznidazole,56.666666666666664
+benzocaine,35.714285714285715
+benzocaine / butamben / tetracaine,70.0
+benzocaine / menthol,30.0
+benzoin,
+benzonatate,50.0
+benzoyl peroxide,50.0
+benztropine,38.0
+benzyl alcohol,43.333333333333336
+benzylpenicilloyl-polylysine,30.0
+bepotastine,30.0
+beractant,70.0
+besifloxacin,30.0
+beta-carotene,30.0
+betaine,47.142857142857146
+betamethasone,57.69230769230769
+betamethasone / calcipotriene,46.0
+betamethasone / clotrimazole,53.529411764705884
+bethanechol,46.0
+betrixaban,
+bevacizumab,50.0
+bexarotene,56.666666666666664
+bezlotoxumab,70.0
+bicalutamide,70.0
+bifidobacterium infantis / lactobacillus acidophilus,30.0
+bimatoprost,50.0
+bioflavonoids,70.0
+biotin,
+bisacodyl,50.0
+bismuth subcitrate potassium / metronidazole / tetracycline,
+bismuth subsalicylate,52.22222222222222
+bisoprolol,40.0
+bivalirudin,
+bleomycin,41.111111111111114
+blinatumomab,70.0
+boric acid,58.57142857142857
+bortezomib,58.0
+bosentan,70.0
+bosutinib,30.0
+botulism antitoxin,30.0
+botulism immune globulin,
+bremelanotide,43.333333333333336
+brentuximab,54.0
+brexanolone,50.0
+brimonidine,30.0
+brimonidine / brinzolamide,30.0
+brimonidine / timolol,30.0
+brinzolamide,70.0
+brodalumab,50.0
+brolucizumab,70.0
+bromfenac,
+bromocriptine,70.0
+brompheniramine / codeine,56.666666666666664
+brompheniramine / dextromethorphan / pseudoephedrine,50.0
+brompheniramine / phenylephrine,30.0
+budesonide,43.333333333333336
+budesonide / formoterol,47.142857142857146
+bumetanide,43.333333333333336
+bupivacaine,43.333333333333336
+buprenorphine,62.0
+buprenorphine / naloxone,70.0
+bupropion,51.1764705882353
+bupropion / naltrexone,30.0
+burosumab,
+buspirone,57.69230769230769
+busulfan,56.666666666666664
+butorphanol,70.0
+cabergoline,70.0
+cabozantinib,43.333333333333336
+cadexomer iodine,56.666666666666664
+caffeine,47.142857142857146
+caffeine / ergotamine,70.0
+caffeine / sodium benzoate,
+calamine,70.0
+calcifediol,56.666666666666664
+calcipotriene,70.0
+calcitonin,54.0
+calcitriol,50.0
+calcium / folic acid / ginger / pyridoxine,70.0
+calcium / vitamin d,70.0
+calcium acetate,70.0
+calcium carbonate,63.333333333333336
+calcium chloride,46.0
+calcium citrate,30.0
+calcium gluconate,50.0
+calcium lactate,30.0
+"calcium phosphate, tribasic",70.0
+calfactant,70.0
+camphor / menthol,30.0
+canagliflozin,30.0
+canagliflozin / metformin,
+canakinumab,48.18181818181818
+candesartan,50.0
+cangrelor,30.0
+cannabidiol,50.0
+cantharidin,52.857142857142854
+capecitabine,54.34782608695652
+caplacizumab,30.0
+capsaicin,62.0
+captopril,50.0
+carbachol,70.0
+carbamazepine,50.74074074074074
+carbamide peroxide,70.0
+carbidopa,43.333333333333336
+carbidopa / entacapone / levodopa,
+carbidopa / levodopa,54.0
+carbinoxamine,50.0
+carboplatin,58.57142857142857
+carboprost,70.0
+carfilzomib,56.666666666666664
+carglumic acid,70.0
+carisoprodol,56.666666666666664
+carmustine,41.76470588235294
+carvedilol,53.1578947368421
+caspofungin,60.0
+cefaclor,70.0
+cefadroxil,46.0
+cefazolin,38.0
+cefdinir,46.8421052631579
+cefepime,50.0
+cefixime,70.0
+cefotaxime,46.36363636363637
+cefotetan,30.0
+cefoxitin,50.0
+cefpodoxime,56.666666666666664
+ceftazidime,52.857142857142854
+ceftriaxone,47.391304347826086
+cefuroxime,50.0
+celecoxib,50.0
+cemiplimab,56.666666666666664
+cenegermin,70.0
+cephalexin,47.5
+cerliponase alfa,56.666666666666664
+certolizumab,70.0
+cetirizine,62.0
+cetrorelix,70.0
+cetuximab,44.54545454545455
+cevimeline,70.0
+chenodeoxycholic acid,
+chlophedianol / dexbrompheniramine,50.0
+chlorambucil,43.333333333333336
+chloramphenicol,53.333333333333336
+chlordiazepoxide,43.333333333333336
+chlordiazepoxide / clidinium,70.0
+chlorhexidine,50.0
+chloroprocaine,
+chloroquine,47.142857142857146
+chlorpheniramine,52.857142857142854
+chlorpheniramine / hydrocodone,50.0
+chlorpheniramine / hydrocodone / pseudoephedrine,70.0
+chlorpheniramine / ibuprofen / phenylephrine,43.333333333333336
+chlorpheniramine / methscopolamine / phenylephrine,30.0
+chlorpromazine,45.38461538461539
+chlorthalidone,70.0
+chlorzoxazone,60.0
+cholecalciferol,43.333333333333336
+cholecalciferol / genistein / zinc glycinate,
+"cholera vaccine, live",30.0
+cholestyramine,48.18181818181818
+cholic acid,70.0
+choline c-11,50.0
+chondroitin / glucosamine,45.0
+chorionic gonadotropin (hcg),60.0
+chromic chloride hexahydrate,70.0
+chromium picolinate,70.0
+ciclesonide,30.0
+ciclopirox,50.0
+cidofovir,56.666666666666664
+cilastatin / imipenem,48.46153846153846
+cilostazol,30.0
+cimetidine,58.57142857142857
+cinacalcet,56.666666666666664
+ciprofloxacin,49.75308641975309
+ciprofloxacin / dexamethasone,43.333333333333336
+ciprofloxacin / hydrocortisone,40.0
+cisatracurium,50.0
+cisplatin,48.0
+citalopram,50.3921568627451
+citric acid / magnesium oxide / sodium picosulfate,70.0
+citric acid / potassium citrate,46.0
+citric acid / potassium citrate / sodium citrate,70.0
+citric acid / sodium citrate,55.0
+cladribine,43.333333333333336
+clarithromycin,50.0
+clevidipine,
+clidinium,70.0
+clindamycin,54.76190476190476
+clioquinol,50.0
+clobazam,70.0
+clobetasol,49.2
+clofazimine,70.0
+clomiphene,70.0
+clomipramine,47.142857142857146
+clonazepam,48.8235294117647
+clonidine,56.34146341463415
+clopidogrel,50.0
+clorazepate,70.0
+clotrimazole,52.22222222222222
+clozapine,43.333333333333336
+coagulation factor Xa,70.0
+coagulation factor ix,60.0
+coagulation factor viia,43.333333333333336
+coagulation factor x,50.0
+coal tar,
+cobimetinib,70.0
+cocaine,
+codeine,70.0
+codeine / guaifenesin,70.0
+codeine / phenylephrine / promethazine,30.0
+codeine / promethazine,56.666666666666664
+colchicine,55.714285714285715
+colchicine / probenecid,
+colesevelam,50.0
+colestipol,30.0
+colistimethate,30.0
+colistin sulfate / hydrocortisone / neomycin / thonzonium bromide,50.0
+collagenase,45.0
+collagenase clostridium histolyticum,50.0
+conestat alfa,30.0
+conivaptan,43.333333333333336
+conjugated estrogens,51.81818181818182
+conjugated estrogens / medroxyprogesterone,50.0
+copanlisib,
+corticorelin,50.0
+corticotropin,51.53846153846154
+cortisone,59.09090909090909
+cosyntropin,30.0
+crizanlizumab,43.333333333333336
+crizotinib,56.666666666666664
+cromolyn,55.0
+crotamiton,
+cyanocobalamin,70.0
+cyclobenzaprine,44.73684210526316
+cyclopentolate,70.0
+cyclophosphamide,48.55072463768116
+cycloserine,30.0
+cyclosporine,54.0
+cyproheptadine,45.38461538461539
+cysteamine,70.0
+cytarabine,50.0
+cytarabine liposomal / daunorubicin liposomal,52.857142857142854
+cytomegalovirus immune globulin,70.0
+dabigatran,54.0
+dabrafenib,43.333333333333336
+dacarbazine,50.0
+daclizumab,
+dactinomycin,51.05263157894737
+dalfampridine,50.0
+dalfopristin / quinupristin,40.0
+dalteparin,60.0
+danazol,40.0
+dantrolene,50.0
+dapsone,48.18181818181818
+daptomycin,52.857142857142854
+daratumumab,55.0
+darbepoetin alfa,
+darifenacin,54.61538461538461
+dasabuvir / ombitasvir / paritaprevir / ritonavir,70.0
+dasatinib,70.0
+daunorubicin,46.666666666666664
+decitabine,42.0
+deferasirox,43.333333333333336
+deferiprone,46.0
+deferoxamine,70.0
+defibrotide,70.0
+deflazacort,30.0
+degarelix,70.0
+dehydroepiandrosterone,50.0
+demeclocycline,70.0
+denosumab,43.333333333333336
+deoxycholic acid,70.0
+desipramine,70.0
+desirudin,70.0
+desmopressin,43.333333333333336
+desogestrel / ethinyl estradiol,50.0
+desonide,60.76923076923077
+desoximetasone,50.0
+desvenlafaxine,48.18181818181818
+deutetrabenazine,
+dexamethasone,46.27906976744186
+dexamethasone / neomycin / polymyxin b,47.142857142857146
+dexamethasone / tobramycin,38.0
+dexbrompheniramine,30.0
+dexbrompheniramine / phenylephrine,60.0
+dexbrompheniramine / pseudoephedrine,30.0
+dexlansoprazole,60.0
+dexmedetomidine,30.0
+dexmethylphenidate,50.0
+dexrazoxane,50.0
+"dextran, high molecular weight",30.0
+"dextran, low molecular weight",
+dextranomer / sodium hyaluronate,43.333333333333336
+dextroamphetamine,52.22222222222222
+dextromethorphan,70.0
+dextromethorphan / guaifenesin,56.666666666666664
+dextromethorphan / guaifenesin / phenylephrine,30.0
+dextromethorphan / promethazine,30.0
+dextromethorphan / pyrilamine,30.0
+dextromethorphan / quinidine,30.0
+diazepam,47.89473684210526
+diazoxide,70.0
+dibucaine,43.333333333333336
+dichlorphenamide,70.0
+diclofenac,53.39622641509434
+diclofenac / misoprostol,
+dicloxacillin,52.22222222222222
+dicyclomine,40.0
+dienogest / estradiol,70.0
+diethylpropion,70.0
+diflorasone,70.0
+difluprednate,70.0
+digoxin,47.142857142857146
+digoxin immune fab,
+dihydroergotamine,70.0
+diltiazem,50.0
+dimenhydrinate,43.333333333333336
+dimercaprol,70.0
+dimethyl fumarate,70.0
+dimethyl sulfoxide,30.0
+dinoprostone,52.857142857142854
+dinutuximab,
+diphenhydramine,53.63636363636363
+"diphtheria and tetanus toxoids / pertussis, acellular",30.0
+"diphtheria and tetanus toxoids / pertussis, acellular / poliovirus vaccine, inactivated / haemophilus b conjugate / hepatitis b vaccine",43.333333333333336
+"diphtheria toxoid / haemophilus b conjugate (prp-t) vaccine / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid",43.333333333333336
+"diphtheria toxoid / hepatitis b pediatric vaccine / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid",62.0
+"diphtheria toxoid / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid",50.0
+"diphtheria toxoid / pertussis, acellular / tetanus toxoid",70.0
+diphtheria toxoid / tetanus toxoid,30.0
+dipyridamole,63.333333333333336
+disopyramide,70.0
+disulfiram,70.0
+divalproex sodium,42.8
+dobutamine,30.0
+docetaxel,50.0
+docosanol,70.0
+docusate,43.333333333333336
+docusate / senna,70.0
+dofetilide,70.0
+donepezil,45.0
+donepezil / memantine,30.0
+dopamine,
+doripenem,70.0
+dornase alfa,
+dorzolamide,30.0
+dorzolamide / timolol,70.0
+doxapram,30.0
+doxazosin,61.111111111111114
+doxepin,47.5
+doxercalciferol,70.0
+doxorubicin,47.2972972972973
+doxorubicin liposomal,43.333333333333336
+doxycycline,52.857142857142854
+doxylamine,35.714285714285715
+doxylamine / pyridoxine,50.0
+dronabinol,50.0
+dronedarone,56.666666666666664
+droperidol,30.0
+drospirenone / ethinyl estradiol,56.666666666666664
+drospirenone / ethinyl estradiol / levomefolate calcium,46.0
+droxidopa,30.0
+duloxetine,48.53658536585366
+dupilumab,
+durvalumab,
+dutasteride,54.0
+dutasteride / tamsulosin,62.0
+duvelisib,30.0
+dyclonine,70.0
+dyphylline,46.0
+"ebola zaire vaccine, live",70.0
+ecallantide,
+echothiophate iodide,
+econazole,51.05263157894737
+eculizumab,56.666666666666664
+edaravone,50.0
+edetate calcium disodium,30.0
+edoxaban,43.333333333333336
+efavirenz,70.0
+efavirenz / emtricitabine / tenofovir,58.0
+efinaconazole,70.0
+eflornithine,
+elapegademase,50.0
+elbasvir / grazoprevir,70.0
+electrolyte replacement solutions,
+eletriptan,54.0
+eliglustat,30.0
+elosulfase alfa,30.0
+eltrombopag,46.0
+emapalumab,56.666666666666664
+emicizumab,70.0
+emollients,30.0
+empagliflozin,
+emtricitabine,
+emtricitabine / tenofovir,50.0
+emtricitabine / tenofovir alafenamide,56.666666666666664
+enalapril,59.09090909090909
+enasidenib,41.42857142857143
+enfortumab vedotin,
+enoxaparin,46.470588235294116
+entacapone,70.0
+entecavir,70.0
+entrectinib,30.0
+enzalutamide,50.0
+ephedrine,58.57142857142857
+epinastine,30.0
+epinephrine,53.333333333333336
+epinephrine / lidocaine,
+epirubicin,70.0
+epoetin alfa,38.0
+epoetin beta-methoxy polyethylene glycol,
+epoprostenol,30.0
+eptifibatide,50.0
+erdafitinib,30.0
+ergocalciferol,54.0
+ergoloid mesylates,46.0
+eribulin,70.0
+erlotinib,52.857142857142854
+ertapenem,
+erythromycin,46.52173913043478
+escitalopram,46.96969696969697
+esmolol,70.0
+esomeprazole,52.5
+esomeprazole / naproxen,30.0
+esterified estrogens,50.0
+esterified estrogens / methyltestosterone,43.333333333333336
+estradiol,45.0
+estradiol / levonorgestrel,30.0
+estradiol / norethindrone,70.0
+estradiol / progesterone,70.0
+estropipate,50.0
+eszopiclone,46.0
+etanercept,48.94736842105263
+etelcalcetide,
+eteplirsen,30.0
+ethacrynic acid,43.333333333333336
+ethambutol,43.333333333333336
+ethanolamine oleate,30.0
+ethinyl estradiol,50.0
+ethinyl estradiol / levonorgestrel,52.22222222222222
+ethinyl estradiol / norethindrone,43.333333333333336
+ethinyl estradiol / norgestimate,47.77777777777778
+ethinyl estradiol / norgestrel,30.0
+etidronate,40.0
+etodolac,47.77777777777778
+etomidate,70.0
+etoposide,45.38461538461539
+everolimus,45.0
+evolocumab,52.22222222222222
+exemestane,70.0
+ezetimibe,45.0
+ezetimibe / simvastatin,47.142857142857146
+factor XIII,30.0
+factor ix complex,70.0
+famciclovir,54.0
+famotidine,54.0
+famotidine / ibuprofen,30.0
+fat emulsion,30.0
+febuxostat,30.0
+fedratinib,38.0
+felbamate,70.0
+felodipine,43.333333333333336
+fenofibrate,43.333333333333336
+fenofibric acid,47.77777777777778
+fenoldopam,70.0
+fentanyl,42.0
+ferric citrate,70.0
+ferrous fumarate,56.666666666666664
+ferrous fumarate / folic acid,70.0
+ferrous gluconate,43.333333333333336
+ferrous sulfate,38.0
+ferumoxytol,56.666666666666664
+fesoterodine,65.0
+fexofenadine,63.333333333333336
+fibrin sealant,50.0
+fibrinogen,50.0
+fidaxomicin,56.666666666666664
+filgrastim,50.0
+finasteride,50.0
+fingolimod,70.0
+flavoxate,40.0
+flecainide,51.81818181818182
+flibanserin,30.0
+florbetaben f-18,70.0
+florbetapir F 18,70.0
+floxuridine,30.0
+fluciclovine F 18,70.0
+fluconazole,55.26315789473684
+flucytosine,46.0
+fludarabine,52.5
+fludrocortisone,40.0
+flumazenil,
+flunisolide,50.0
+fluocinolone,41.42857142857143
+fluocinolone / hydroquinone / tretinoin,30.0
+fluocinolone / neomycin,70.0
+fluocinonide,53.333333333333336
+fluoride,70.0
+fluorometholone,30.0
+fluorouracil,47.6
+fluoxetine,52.857142857142854
+fluoxymesterone,30.0
+fluphenazine,
+flurazepam,46.0
+flurbiprofen,30.0
+flutamide,70.0
+flutemetamol f-18,70.0
+fluticasone,46.470588235294116
+fluticasone / salmeterol,56.666666666666664
+fluticasone / umeclidinium / vilanterol,46.0
+fluticasone / vilanterol,52.22222222222222
+fluvastatin,60.0
+fluvoxamine,45.0
+folic acid,50.0
+follicle stimulating hormone,56.666666666666664
+fomepizole,56.666666666666664
+fondaparinux,47.142857142857146
+formaldehyde,70.0
+formoterol,30.0
+formoterol / mometasone,40.0
+foscarnet,60.0
+fosfomycin,43.333333333333336
+fosinopril,54.0
+fosphenytoin,
+fulvestrant,
+furosemide,47.142857142857146
+gabapentin,46.42857142857143
+gabapentin enacarbil,50.0
+gadobenate dimeglumine,30.0
+gadobutrol,50.0
+gadodiamide,30.0
+gadopentetate dimeglumine,70.0
+gadoterate meglumine,30.0
+gadoteridol,
+gadoxetate disodium,30.0
+galantamine,70.0
+gallium ga 68 dotatate,70.0
+gallium ga-68 dotatoc,
+galsulfase,70.0
+ganciclovir,50.0
+ganirelix,70.0
+gatifloxacin,30.0
+gefitinib,70.0
+gemcitabine,43.333333333333336
+gemfibrozil,50.0
+gemifloxacin,30.0
+gemtuzumab,50.0
+gentamicin,50.0
+gentamicin / prednisolone,70.0
+gentian violet,50.0
+gilteritinib,38.888888888888886
+givosiran,
+glasdegib,50.0
+glatiramer,70.0
+glecaprevir / pibrentasvir,56.666666666666664
+glimepiride,70.0
+glipizide,56.666666666666664
+glucagon,70.0
+glucarpidase,70.0
+glutamine,46.0
+glycerin,30.0
+glycerol phenylbutyrate,
+glycopyrrolate,43.333333333333336
+glycopyrronium,50.0
+golimumab,50.0
+golodirsen,
+goserelin,58.57142857142857
+granisetron,50.0
+griseofulvin,48.333333333333336
+guaifenesin,54.0
+guaifenesin / phenylephrine,56.666666666666664
+guaifenesin / pseudoephedrine,30.0
+guanfacine,41.42857142857143
+guanidine,30.0
+haemophilus b conjugate (prp-omp) vaccine,70.0
+haemophilus b conjugate (prp-t) vaccine,
+halobetasol,70.0
+haloperidol,55.88235294117647
+hemin,30.0
+heparin,52.22222222222222
+heparin flush,
+hepatitis a adult vaccine,70.0
+hepatitis a adult vaccine / hepatitis b adult vaccine,30.0
+hepatitis a pediatric vaccine,
+hepatitis b adult vaccine,
+hepatitis b immune globulin,30.0
+hepatitis b pediatric vaccine,30.0
+hetastarch,70.0
+histrelin,30.0
+homatropine,30.0
+homatropine / hydrocodone,50.0
+human papillomavirus vaccine,30.0
+hyaluronidase,50.0
+hyaluronidase / immune globulin,
+hyaluronidase / rituximab,70.0
+hydralazine,50.0
+hydrochlorothiazide,30.0
+hydrochlorothiazide / lisinopril,43.333333333333336
+hydrochlorothiazide / spironolactone,43.333333333333336
+hydrochlorothiazide / triamterene,43.333333333333336
+hydrocodone,
+hydrocortisone,46.774193548387096
+hydrocortisone / lidocaine,50.0
+hydrocortisone / neomycin / polymyxin b,42.30769230769231
+hydrocortisone / pramoxine,43.333333333333336
+hydrogen peroxide,70.0
+hydromorphone,
+hydroquinone,50.0
+hydroxocobalamin,70.0
+hydroxychloroquine,47.77777777777778
+hydroxyethyl starch,70.0
+hydroxyprogesterone,
+hydroxypropyl methylcellulose,50.0
+hydroxyquinoline,30.0
+hydroxyurea,50.0
+hydroxyzine,46.0
+hyoscyamine,36.666666666666664
+ibandronate,50.0
+ibritumomab,52.857142857142854
+ibrutinib,54.0
+ibuprofen,51.917808219178085
+ibuprofen / pseudoephedrine,30.0
+ibutilide,30.0
+icatibant,50.0
+icosapent,70.0
+idarubicin,51.81818181818182
+idarucizumab,70.0
+idelalisib,55.45454545454545
+idursulfase,
+ifosfamide,55.0
+iloperidone,30.0
+iloprost,50.0
+imatinib,51.53846153846154
+imiglucerase,30.0
+imipramine,43.333333333333336
+imiquimod,51.53846153846154
+immune globulin intramuscular,56.666666666666664
+immune globulin intravenous,55.714285714285715
+immune globulin intravenous and subcutaneous,50.0
+immune globulin subcutaneous,56.666666666666664
+incobotulinumtoxinA,47.142857142857146
+indomethacin,48.18181818181818
+infliximab,56.08695652173913
+"influenza virus vaccine, h5n1",70.0
+"influenza virus vaccine, inactivated",70.0
+"influenza virus vaccine, live, trivalent",50.0
+ingenol,50.0
+inotersen,70.0
+insulin aspart,30.0
+insulin aspart / insulin degludec,30.0
+insulin degludec,
+insulin glargine,70.0
+insulin glulisine,48.18181818181818
+insulin isophane,
+insulin isophane / insulin regular,30.0
+insulin lispro,52.857142857142854
+insulin regular,59.333333333333336
+interferon alfa-2b,60.0
+interferon alfa-n3,50.0
+interferon beta-1a,30.0
+interferon beta-1b,30.0
+interferon gamma-1b,50.0
+iobenguane I 123,70.0
+iobenguane I 131,30.0
+iodine,70.0
+iodine / potassium iodide,30.0
+iodixanol,46.0
+iohexol,48.18181818181818
+iopamidol,30.0
+iopromide,50.0
+ioversol,41.42857142857143
+ipilimumab,50.0
+ipratropium,38.0
+irbesartan,30.0
+irinotecan,50.0
+irinotecan liposomal,70.0
+iron polysaccharide,70.0
+iron sucrose,70.0
+isavuconazonium,43.333333333333336
+isoniazid,43.333333333333336
+isoniazid / pyrazinamide / rifampin,30.0
+isoniazid / rifampin,30.0
+isopropyl alcohol,
+isoproterenol,30.0
+isosorbide dinitrate,52.857142857142854
+isosorbide mononitrate,54.0
+isotretinoin,50.0
+isoxsuprine,70.0
+isradipine,30.0
+itraconazole,50.57142857142857
+ivacaftor,30.0
+ivacaftor / lumacaftor,30.0
+ivermectin,56.666666666666664
+ivosidenib,70.0
+ixekizumab,70.0
+"japanese enceph vacc sa14-14-2, inactivated",30.0
+ketamine,70.0
+ketoconazole,50.76923076923077
+ketoprofen,30.0
+ketorolac,43.333333333333336
+ketorolac / phenylephrine,30.0
+ketotifen,70.0
+l-methylfolate,52.22222222222222
+labetalol,54.0
+lactase,70.0
+lactic acid,30.0
+lactulose,50.0
+lamivudine,50.0
+lamivudine / zidovudine,70.0
+lamotrigine,54.0
+lanadelumab,30.0
+lanolin,56.666666666666664
+lanreotide,
+lansoprazole,49.130434782608695
+lanthanum carbonate,70.0
+laronidase,70.0
+larotrectinib,70.0
+latanoprost,30.0
+latanoprostene bunod,
+ledipasvir / sofosbuvir,50.0
+leflunomide,30.0
+lenalidomide,54.0
+lenvatinib,50.0
+lesinurad,30.0
+letermovir,30.0
+letrozole,40.0
+leucovorin,55.45454545454545
+leuprolide,41.42857142857143
+levalbuterol,47.77777777777778
+levetiracetam,47.77777777777778
+levobunolol,70.0
+levocarnitine,50.0
+levocetirizine,56.666666666666664
+levodopa,56.666666666666664
+levofloxacin,46.92307692307692
+levoleucovorin,30.0
+levonorgestrel,40.0
+levorphanol,70.0
+levothyroxine,56.666666666666664
+lidocaine,46.0
+lidocaine / prilocaine,
+lifitegrast,60.0
+linaclotide,56.666666666666664
+lindane,45.0
+linezolid,47.77777777777778
+liothyronine,47.142857142857146
+liotrix,
+liraglutide,70.0
+lisdexamfetamine,52.857142857142854
+lisinopril,60.0
+lithium,53.1578947368421
+lodoxamide,70.0
+lofexidine,30.0
+lomitapide,30.0
+lomustine,40.0
+loperamide,30.0
+loperamide / simethicone,30.0
+lopinavir / ritonavir,70.0
+loratadine,56.666666666666664
+loratadine / pseudoephedrine,30.0
+lorazepam,52.06896551724138
+lorcaserin,50.0
+losartan,54.0
+loteprednol,50.0
+loteprednol / tobramycin,50.0
+lovastatin,53.1578947368421
+loxapine,47.77777777777778
+lubiprostone,62.0
+lurasidone,51.81818181818182
+luspatercept,30.0
+lusutrombopag,30.0
+lutein,50.0
+lutetium lu 177 dotatate,30.0
+lvp solution,70.0
+"lymphocyte immune globulin, anti-thy (equine)",70.0
+macimorelin,70.0
+macitentan,50.0
+magnesium amino acids chelate,
+magnesium carbonate,50.0
+magnesium chloride,30.0
+magnesium citrate,30.0
+magnesium gluconate,70.0
+magnesium hydroxide,54.0
+magnesium oxide,40.0
+magnesium salicylate,70.0
+magnesium sulfate,43.333333333333336
+magnesium sulfate / potassium sulfate / sodium sulfate,70.0
+malathion,43.333333333333336
+mannitol,30.0
+measles virus vaccine,30.0
+measles virus vaccine / mumps virus vaccine / rubella virus vaccine,50.0
+measles virus vaccine / mumps virus vaccine / rubella virus vaccine / varicella virus vaccine,50.0
+mebendazole,54.61538461538461
+mecasermin,70.0
+mechlorethamine,70.0
+meclizine,43.333333333333336
+medroxyprogesterone,52.4
+mefenamic acid,30.0
+mefloquine,70.0
+megestrol,45.38461538461539
+meloxicam,51.1764705882353
+melphalan,41.42857142857143
+memantine,38.0
+meningococcal conjugate vaccine,30.0
+meningococcal group B vaccine,
+menotropins,
+menthol,70.0
+menthol / zinc oxide,40.0
+meperidine,30.0
+mepivacaine,30.0
+mepolizumab,70.0
+mercaptopurine,50.0
+meropenem,50.0
+mesalamine,46.0
+mesna,30.0
+metaxalone,40.0
+metformin,52.857142857142854
+metformin / sitagliptin,43.333333333333336
+methacholine,
+methadone,43.333333333333336
+methamphetamine,43.333333333333336
+methazolamide,
+methenamine,48.18181818181818
+methimazole,70.0
+methocarbamol,50.0
+methohexital,
+methotrexate,50.44444444444444
+methoxsalen,56.666666666666664
+methscopolamine,50.0
+methyl aminolevulinate,30.0
+methyldopa,70.0
+methylene blue,30.0
+methylergonovine,
+methylnaltrexone,50.0
+methylphenidate,56.666666666666664
+methylprednisolone,44.73684210526316
+methyltestosterone,38.0
+metoclopramide,47.142857142857146
+metolazone,70.0
+metoprolol,50.645161290322584
+metreleptin,70.0
+metronidazole,47.241379310344826
+metyrapone,30.0
+metyrosine,70.0
+mexiletine,50.0
+micafungin,40.0
+miconazole,50.689655172413794
+miconazole / zinc oxide,40.0
+midazolam,43.333333333333336
+midodrine,56.666666666666664
+midostaurin,50.0
+mifepristone,50.0
+migalastat,
+miglustat,70.0
+milnacipran,50.0
+miltefosine,30.0
+minocycline,50.57142857142857
+minoxidil,43.333333333333336
+mirabegron,50.0
+mirtazapine,55.0
+misoprostol,60.0
+mitomycin,50.0
+mitotane,30.0
+mitoxantrone,58.57142857142857
+modafinil,46.0
+moexipril,38.0
+mogamulizumab,
+mometasone,51.53846153846154
+montelukast,45.38461538461539
+morphine,70.0
+moxetumomab pasudotox,70.0
+moxidectin,70.0
+moxifloxacin,52.608695652173914
+multivitamin,50.0
+multivitamin with iron,30.0
+multivitamin with minerals,30.0
+"multivitamin, prenatal",
+mumps virus vaccine,30.0
+mupirocin,46.0
+muromonab-cd3,70.0
+mycophenolate mofetil,55.714285714285715
+mycophenolic acid,70.0
+nabilone,70.0
+nabumetone,49.25925925925926
+nadolol,55.714285714285715
+nafarelin,70.0
+naldemedine,70.0
+naloxegol,54.0
+naloxone,50.0
+naltrexone,50.0
+naphazoline,70.0
+naphazoline / pheniramine,70.0
+naproxen,53.42857142857143
+naproxen / pseudoephedrine,70.0
+naratriptan,54.0
+natalizumab,
+natamycin,30.0
+nebivolol,38.0
+nedocromil,70.0
+nelarabine,50.0
+neomycin,58.57142857142857
+neomycin / polymyxin b / pramoxine,50.0
+neostigmine,70.0
+nepafenac,70.0
+neratinib,
+nevirapine,30.0
+niacin,42.0
+niacinamide,50.0
+nicotine,70.0
+nifedipine,50.0
+nilotinib,70.0
+nimodipine,46.0
+nintedanib,70.0
+niraparib,56.666666666666664
+nisoldipine,56.666666666666664
+nitazoxanide,52.857142857142854
+nitisinone,30.0
+nitric oxide,
+nitrofurantoin,47.77777777777778
+nitroglycerin,56.666666666666664
+nitroprusside,30.0
+nivolumab,55.45454545454545
+norepinephrine,56.666666666666664
+norethindrone,50.0
+nortriptyline,48.94736842105263
+nusinersen,70.0
+nystatin,51.81818181818182
+nystatin / triamcinolone,56.666666666666664
+obeticholic acid,70.0
+obinutuzumab,50.0
+ocriplasmin,
+octreotide,51.81818181818182
+ofatumumab,50.0
+ofloxacin,54.61538461538461
+olanzapine,44.54545454545455
+olaparib,54.0
+olaratumab,54.0
+olmesartan,30.0
+olodaterol,56.666666666666664
+olodaterol / tiotropium,43.333333333333336
+olopatadine,
+olsalazine,70.0
+omacetaxine,30.0
+omalizumab,50.0
+omega-3 polyunsaturated fatty acids,56.666666666666664
+omeprazole,56.0
+omeprazole / sodium bicarbonate,55.0
+onabotulinumtoxinA,48.333333333333336
+onasemnogene abeparvovec,30.0
+ondansetron,51.53846153846154
+"ophthalmic irrigation, intraocular",30.0
+opium,43.333333333333336
+orlistat,46.0
+orphenadrine,60.0
+oseltamivir,50.0
+ospemifene,70.0
+oxacillin,50.0
+oxaliplatin,62.0
+oxandrolone,40.0
+oxaprozin,
+oxazepam,56.666666666666664
+oxcarbazepine,51.666666666666664
+oxybutynin,43.333333333333336
+oxycodone,70.0
+oxymetazoline,30.0
+oxymetholone,
+oxymorphone,70.0
+oxytocin,50.0
+ozenoxacin,
+paclitaxel,59.333333333333336
+paclitaxel protein-bound,30.0
+palbociclib,56.666666666666664
+palifermin,70.0
+paliperidone,44.11764705882353
+palivizumab,30.0
+palonosetron,30.0
+pamabrom,50.0
+pamidronate,56.666666666666664
+pancreatin,54.0
+pancrelipase,70.0
+panitumumab,60.0
+pantoprazole,44.11764705882353
+papaverine,43.333333333333336
+parathyroid hormone,
+parenteral nutrition solution,40.0
+parenteral nutrition solution w / electrolytes,50.0
+paricalcitol,
+paromomycin,47.5
+paroxetine,52.0
+pasireotide,30.0
+patiromer,
+patisiran,30.0
+pazopanib,52.857142857142854
+pegademase bovine,70.0
+pegaptanib,30.0
+pegaspargase,70.0
+pegfilgrastim,30.0
+peginterferon alfa-2a,70.0
+peginterferon alfa-2b,58.0
+pegloticase,30.0
+pegvaliase,70.0
+pegvisomant,70.0
+pembrolizumab,49.130434782608695
+pemetrexed,46.0
+penciclovir,50.0
+penicillamine,30.0
+penicillin g benzathine,54.0
+penicillin g benzathine / procaine penicillin,30.0
+penicillin g potassium,50.95238095238095
+penicillin g sodium,44.11764705882353
+penicillin v potassium,55.714285714285715
+pentamidine,50.0
+pentetate calcium trisodium,70.0
+pentetate zinc trisodium,70.0
+pentobarbital,
+pentosan polysulfate sodium,30.0
+pentostatin,43.333333333333336
+pentoxifylline,30.0
+peramivir,36.666666666666664
+perflutren,50.0
+perindopril,54.0
+permethrin,52.857142857142854
+perphenazine,30.0
+pexidartinib,
+phenazopyridine,50.0
+phendimetrazine,
+phenobarbital,50.0
+phenol,
+phenoxybenzamine,30.0
+phentermine,70.0
+phentermine / topiramate,43.333333333333336
+phentolamine,30.0
+phenylephrine,45.0
+phenytoin,48.18181818181818
+physostigmine,70.0
+phytonadione,50.0
+pilocarpine,60.0
+pimavanserin,
+pimecrolimus,56.666666666666664
+pimozide,70.0
+pioglitazone,54.0
+piperacillin,40.0
+piperacillin / tazobactam,45.0
+piperonyl butoxide / pyrethrins,56.666666666666664
+pirfenidone,70.0
+piroxicam,30.0
+pitavastatin,70.0
+plecanatide,43.333333333333336
+pneumococcal 13-valent vaccine,70.0
+pneumococcal 23-polyvalent vaccine,70.0
+podofilox,70.0
+podophyllum resin,50.0
+polatuzumab vedotin,
+polidocanol,
+"poliovirus vaccine, inactivated",70.0
+poly-l-lactic acid,70.0
+poly-ureaurethane,70.0
+polyethylene glycol 3350,56.666666666666664
+polyethylene glycol 3350 with electrolytes,30.0
+polymyxin b / trimethoprim,50.0
+pomalidomide,43.333333333333336
+ponatinib,62.0
+poractant,56.666666666666664
+porfimer,30.0
+posaconazole,50.0
+potassium acid phosphate,
+potassium bicarbonate,
+potassium bicarbonate / potassium chloride,30.0
+potassium chloride,30.0
+potassium citrate,56.666666666666664
+potassium gluconate,50.0
+potassium iodide,30.0
+potassium phosphate,30.0
+potassium phosphate / sodium phosphate,70.0
+povidone iodine,
+prabotulinumtoxinA,30.0
+pralatrexate,70.0
+pralidoxime,30.0
+pramipexole,58.57142857142857
+pramoxine,70.0
+pramoxine / zinc acetate,56.666666666666664
+prasugrel,70.0
+pravastatin,50.0
+praziquantel,51.666666666666664
+prazosin,50.0
+prednisolone,44.285714285714285
+prednisolone / sulfacetamide sodium,56.666666666666664
+prednisone,53.60655737704918
+pregabalin,50.0
+pretomanid,
+primaquine,60.0
+primidone,40.0
+probenecid,50.0
+procainamide,50.0
+procaine penicillin,56.666666666666664
+procarbazine,58.57142857142857
+prochlorperazine,70.0
+progesterone,53.333333333333336
+promethazine,53.529411764705884
+propafenone,52.857142857142854
+propantheline,70.0
+proparacaine,
+propofol,70.0
+propranolol,50.0
+propylthiouracil,70.0
+protamine,30.0
+protein c,30.0
+prothrombin complex,30.0
+prucalopride,43.333333333333336
+prussian blue,
+pseudoephedrine,70.0
+pseudoephedrine / triprolidine,50.0
+psyllium,46.0
+pyrantel,50.0
+pyrazinamide,30.0
+pyridostigmine,56.666666666666664
+pyridoxine,50.0
+pyrimethamine,40.0
+pyrithione zinc,30.0
+quetiapine,53.829787234042556
+quinapril,50.0
+quinidine,56.666666666666664
+rabeprazole,55.45454545454545
+"rabies immune globulin, human",30.0
+"rabies vaccine, human diploid cell",70.0
+"rabies vaccine, purified chick embryo cell",30.0
+raloxifene,60.0
+raltegravir,30.0
+ramipril,58.57142857142857
+ramucirumab,62.0
+ranibizumab,46.0
+ranitidine,50.0
+ranolazine,54.0
+rasagiline,70.0
+rasburicase,70.0
+ravulizumab,
+regadenoson,30.0
+regorafenib,42.0
+resorcinol,30.0
+retapamulin,30.0
+rho (d) immune globulin,50.0
+ribavirin,43.333333333333336
+riboflavin,
+rifabutin,30.0
+rifampin,44.54545454545455
+rifapentine,70.0
+rifaximin,47.142857142857146
+rilonacept,46.0
+riluzole,56.666666666666664
+rimabotulinumtoxinB,43.333333333333336
+rimantadine,70.0
+riociguat,70.0
+risedronate,70.0
+risperidone,50.0
+ritonavir,38.888888888888886
+rituximab,53.63636363636363
+rivaroxaban,47.77777777777778
+rivastigmine,46.0
+rizatriptan,50.0
+rocuronium,30.0
+roflumilast,50.0
+romidepsin,36.666666666666664
+romiplostim,30.0
+ropinirole,56.666666666666664
+ropivacaine,30.0
+rosiglitazone,40.0
+rosuvastatin,58.96551724137931
+rotavirus vaccine,30.0
+rotigotine,56.666666666666664
+rubidium chloride rb-82,50.0
+rufinamide,70.0
+ruxolitinib,61.111111111111114
+saccharomyces boulardii lyo,70.0
+sacrosidase,30.0
+salicylic acid,46.0
+salicylic acid / sulfur,30.0
+salicylic acid / urea,30.0
+saliva substitutes,70.0
+salmeterol,30.0
+sapropterin,70.0
+sargramostim,54.0
+scopolamine,46.0
+sebelipase alfa,
+secnidazole,70.0
+secobarbital,
+secukinumab,70.0
+selegiline,30.0
+selenium,30.0
+selenium sulfide,56.666666666666664
+semaglutide,70.0
+sertraline,54.0
+sevelamer,70.0
+sildenafil,52.857142857142854
+silodosin,50.0
+siltuximab,50.0
+silver,70.0
+silver nitrate,50.0
+silver sulfadiazine,30.0
+simethicone,50.0
+simvastatin,54.34782608695652
+sincalide,50.0
+sinecatechins,56.666666666666664
+sirolimus,30.0
+sitagliptin,30.0
+smallpox and monkeypox vaccine,50.0
+smallpox vaccine,30.0
+sodium acetate,30.0
+sodium benzoate / sodium phenylacetate,30.0
+sodium bicarbonate,51.81818181818182
+sodium chloride,55.0
+sodium chondroitin sulfate / sodium hyaluronate,30.0
+sodium hyaluronate,30.0
+sodium hypochlorite,70.0
+sodium iodide-i-131,43.333333333333336
+sodium nitrite,30.0
+sodium nitrite / sodium thiosulfate,70.0
+sodium oxybate,40.0
+sodium phenylbutyrate,70.0
+sodium phosphate,
+sodium polystyrene sulfonate,70.0
+sodium tetradecyl sulfate,
+sodium thiosulfate,70.0
+sodium zirconium cyclosilicate,70.0
+sofosbuvir,43.333333333333336
+sofosbuvir / velpatasvir,70.0
+sofosbuvir / velpatasvir / voxilaprevir,70.0
+solifenacin,36.666666666666664
+solriamfetol,50.0
+somatropin,62.0
+sonidegib,50.0
+sorafenib,38.888888888888886
+sotalol,56.666666666666664
+spinosad,50.0
+spironolactone,53.333333333333336
+sterile talc,70.0
+stiripentol,50.0
+streptomycin,55.0
+streptozocin,40.0
+succimer,70.0
+succinylcholine,
+sucralfate,35.0
+sucroferric oxyhydroxide,30.0
+sugammadex,70.0
+sulconazole,30.0
+sulfacetamide sodium,30.0
+sulfacetamide sodium / sulfur,30.0
+sulfadiazine,
+sulfamethoxazole / trimethoprim,50.95238095238095
+sulfasalazine,47.5
+sulindac,58.0
+sumatriptan,46.0
+sunitinib,43.333333333333336
+tacrolimus,48.18181818181818
+tadalafil,50.0
+tafamidis,30.0
+tafenoquine,30.0
+tafluprost,50.0
+taliglucerase alfa,70.0
+talimogene laherparepvec,46.0
+tamoxifen,61.111111111111114
+tamsulosin,45.0
+tapentadol,70.0
+tasimelteon,
+tavaborole,50.0
+tazarotene,47.142857142857146
+tazemetostat,70.0
+tbo-filgrastim,70.0
+tecovirimat,70.0
+teduglutide,30.0
+tegaserod,30.0
+telmisartan,30.0
+telotristat,
+temazepam,43.333333333333336
+temozolomide,56.666666666666664
+temsirolimus,40.0
+teniposide,50.0
+tenofovir,51.81818181818182
+tenofovir alafenamide,50.0
+teprotumumab,
+terazosin,45.0
+terbinafine,51.46341463414634
+terbutaline,60.0
+terconazole,43.333333333333336
+teriflunomide,30.0
+teriparatide,30.0
+tesamorelin,
+testosterone,43.333333333333336
+tetanus immune globulin,50.0
+tetrabenazine,70.0
+tetracaine,43.333333333333336
+tetracycline,50.869565217391305
+tetrahydrozoline,30.0
+tetrahydrozoline / zinc sulfate,
+tetrofosmin,30.0
+thalidomide,50.0
+theophylline,62.0
+thiamine,38.0
+thioguanine,
+thiotepa,56.666666666666664
+thiothixene,
+thrombin,70.0
+thyroid desiccated,56.666666666666664
+thyrotropin alpha,30.0
+ticagrelor,30.0
+ticlopidine,70.0
+tigecycline,
+timolol,30.0
+tinidazole,50.0
+tioconazole,50.0
+tiopronin,
+tiotropium,50.0
+tipiracil / trifluridine,30.0
+tirofiban,70.0
+tisagenlecleucel,70.0
+tizanidine,40.0
+tobramycin,52.857142857142854
+tocilizumab,38.888888888888886
+tolmetin,70.0
+tolnaftate,51.05263157894737
+tolterodine,46.0
+tolvaptan,50.0
+topiramate,58.0
+topotecan,34.44444444444444
+torsemide,45.0
+trabectedin,70.0
+trace elements,56.666666666666664
+tramadol,50.0
+trametinib,30.0
+trandolapril,46.0
+tranexamic acid,55.0
+trastuzumab,61.111111111111114
+travoprost,50.0
+trazodone,47.5
+treprostinil,56.666666666666664
+tretinoin,50.0
+triamcinolone,49.25925925925926
+triamterene,70.0
+triclabendazole,
+trientine,70.0
+trifluridine,50.0
+trihexyphenidyl,30.0
+trimethoprim,50.0
+triprolidine,50.0
+triptorelin,50.0
+trolamine salicylate,55.0
+tropicamide,56.666666666666664
+trospium,47.77777777777778
+trypan blue,70.0
+tuberculin purified protein derivative,
+"typhoid vaccine, inactivated",
+"typhoid vaccine, live",70.0
+ulipristal,50.0
+umeclidinium,46.0
+umeclidinium / vilanterol,56.666666666666664
+undecylenic acid,40.0
+urea,46.0
+uridine,30.0
+urofollitropin,30.0
+urokinase,48.18181818181818
+ursodiol,54.0
+ustekinumab,50.0
+valacyclovir,52.22222222222222
+valbenazine,30.0
+valganciclovir,56.666666666666664
+valproic acid,52.857142857142854
+valrubicin,70.0
+valsartan,50.0
+vancomycin,50.95238095238095
+vandetanib,70.0
+vardenafil,56.666666666666664
+varenicline,30.0
+varicella virus vaccine,
+varicella zoster immune globulin,50.0
+vasopressin,54.0
+vecuronium,
+vedolizumab,50.0
+velaglucerase alfa,
+vemurafenib,
+venetoclax,63.333333333333336
+venlafaxine,50.40816326530612
+verapamil,70.0
+verteporfin,70.0
+vestronidase alfa,70.0
+vinblastine,50.0
+vincristine,51.81818181818182
+vincristine liposome,70.0
+vismodegib,62.0
+vitamin a,
+vitamin a & d,41.42857142857143
+vitamin e,48.18181818181818
+"vitamins a, d, and e",43.333333333333336
+von willebrand factor,
+vorapaxar,30.0
+voretigene neparvovec,30.0
+voriconazole,42.0
+vorinostat,70.0
+warfarin,44.73684210526316
+xylometazoline,50.0
+yellow fever vaccine,
+zanamivir,60.0
+zanubrutinib,
+zidovudine,43.333333333333336
+zinc acetate,70.0
+zinc oxide,52.857142857142854
+zinc sulfate,
+ziprasidone,44.11764705882353
+zoledronic acid,58.57142857142857
+zolmitriptan,43.333333333333336
+zolpidem,50.0
+zonisamide,47.77777777777778
+zoster vaccine live,70.0
+"zoster vaccine, inactivated",70.0

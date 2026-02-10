@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Drug Risk & Property Analysis</title>
+    <style>
+        body {
+            background: linear-gradient(120deg, #667eea, #764ba2);
+            font-family: Arial, sans-serif;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .card {
+            background: white;
+            padding: 35px;
+            border-radius: 16px;
+            width: 460px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.25);
+        }
+        h2 { text-align: center; margin-bottom: 20px; }
+        input, button {
+            width: 100%;
+            padding: 12px;
+            margin-bottom: 12px;
+            border-radius: 8px;
+            font-size: 15px;
+        }
+        button {
+            background: #667eea;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        .error {
+            color: red;
+            text-align: center;
+            margin-top: 10px;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 10px;
+            background: #f8fafc;
+        }
+        .row {
+            display: flex;
+            justify-content: space-between;
+            margin: 6px 0;
+            font-weight: 600;
+        }
+        .low { color: green; }
+        .high { color: red; }
+        .acc {
+            margin-top: 12px;
+            text-align: center;
+            font-weight: bold;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h2>Drug Property & Risk Analysis</h2>
+
+    <form method="POST">
+        {% csrf_token %}
+        <input type="text" name="drug" placeholder="Enter drug name (e.g., abacavir)" required>
+        <button type="submit">Analyze Drug</button>
+    </form>
+
+    {% if error %}
+        <div class="error">{{ error }}</div>
+    {% endif %}
+
+    {% if result %}
+        <div class="result">
+            <div class="row"><span>Drug</span><span>{{ result.name }}</span></div>
+            <div class="row"><span>Lipophilicity (LogP)</span><span>{{ result.logp }}</span></div>
+            <div class="row"><span>Binding Affinity</span><span>{{ result.affinity }}</span></div>
+            
+
+            <div class="acc">
+                Model Accuracy: {{ result.accuracy }}
+            </div>
+        </div>
+    {% endif %}
+</div>
+
+</body>
+</html>

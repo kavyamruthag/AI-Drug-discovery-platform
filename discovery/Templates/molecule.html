@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Drug Structure Visualization</title>
+</head>
+<body>
+
+<h2>Drug Structure Visualization System</h2>
+
+<form method="POST">
+    {% csrf_token %}
+    <input type="text" name="drug" placeholder="Enter drug name" required>
+    <button type="submit">Show Structure</button>
+</form>
+
+{% if error %}
+    <p style="color:red;">{{ error }}</p>
+{% endif %}
+
+{% if cid %}
+    <h3>Drug: {{ drug }}</h3>
+
+    <h4>2D Structure</h4>
+    <img src="https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{{ cid }}/PNG" width="300">
+
+    <h4>3D Structure</h4>
+    <img src="https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{{ cid }}/PNG?record_type=3d" width="300">
+{% endif %}
+
+</body>
+</html>

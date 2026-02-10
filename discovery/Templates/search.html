@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>AI Drug Discovery</title>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<style>
+    body {
+        font-family: 'Roboto', sans-serif;
+        background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+        color: #333;
+        min-height: 100vh;
+        margin: 0;
+        padding: 0;
+    }
+    .container {
+        max-width: 900px;
+        margin: 60px auto;
+        background: #fff;
+        border-radius: 16px;
+        padding: 40px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        text-align: center;
+    }
+    h1 {
+        font-size: 2.5em;
+        margin-bottom: 10px;
+        color: #2575fc;
+    }
+    p.subtitle {
+        font-size: 1.1em;
+        color: #555;
+        margin-bottom: 30px;
+    }
+    form {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+    input[type="text"], select {
+        padding: 14px 20px;
+        border-radius: 10px;
+        border: 1px solid #ccc;
+        font-size: 1em;
+    }
+    button {
+        padding: 14px 25px;
+        background: #6a11cb;
+        color: white;
+        font-size: 1em;
+        border: none;
+        border-radius: 10px;
+        cursor: pointer;
+        transition: 0.3s;
+    }
+    button:hover {
+        background: #2575fc;
+    }
+    .result h2 {
+        color: #6a11cb;
+        font-size: 1.8em;
+        margin-bottom: 20px;
+    }
+    .drug-card {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 5px;
+        background: #f1f4ff;
+        border-radius: 12px;
+        padding: 15px 20px;
+        margin: 10px 0;
+        font-weight: 500;
+        font-size: 1.1em;
+        transition: transform 0.3s, box-shadow 0.3s;
+        text-align: left;
+    }
+    .drug-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+    }
+    .drug-card i {
+        color: #2575fc;
+        font-size: 1.3em;
+        margin-right: 8px;
+    }
+    .info-text {
+        color: #555;
+        margin-top: 20px;
+        font-size: 0.95em;
+    }
+    .warning {
+        color: red;
+        font-weight: bold;
+        margin-top: 20px;
+        font-size: 1.1em;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <h1>AI Drug Discovery</h1>
+    <p class="subtitle">Enter a disease or symptom to predict suitable drugs with properties</p>
+
+    <form method="POST">
+        {% csrf_token %}
+        <input type="text" name="disease" placeholder="Enter disease or symptom" value="{{ matched_disease }}" required>
+        <button type="submit"><i class="fas fa-stethoscope"></i> Predict Drugs</button>
+    </form>
+
+    {% if warning_message %}
+        <div class="warning">
+            {{ warning_message }}
+        </div>
+    {% endif %}
+    
+
+    {% if drugs_info %}
+        <div class="result">
+            <h2>Predicted drugs for "<strong>{{ matched_disease }}</strong>"</h2>
+            {% if deficiency_component %}
+            <p class="info-text">
+                <strong>Deficient component in body:</strong> {{ deficiency_component }}
+            </p>
+            {% endif %}
+            {% for drug in drugs_info %}
+                <div class="drug-card">
+                    <strong>{{ drug.Drug_name }}</strong>
+                    <span>Absorption: {{ drug.Absorption }}</span>
+                    <span>Solubility: {{ drug.Solubility }}</span>
+                    <span>Toxicity: {{ drug.Toxicity }}</span>
+                </div>
+            {% endfor %}
+            <p class="info-text">Predictions are AI-based and for educational purposes only.</p>
+        </div>
+    {% endif %}
+</div>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const form = document.querySelector('form'); 
+  if (!form) return;
+
+  form.addEventListener('submit', function (e) {
+    try {
+      const input = form.querySelector('input[name="disease"]');
+      if (!input) return;
+      const disease = encodeURIComponent(input.value.trim());
+      if (!disease) return;
+
+      // Send GET request to save_search (avoids CSRF)
+      fetch('/save_search/?disease=' + disease, {
+        method: 'GET',
+        credentials: 'same-origin'
+      });
+    } catch (err) {
+      console.warn('save_search failed', err);
+    }
+  });
+});
+
+</script>
+</body>
+
+</html>
+
+

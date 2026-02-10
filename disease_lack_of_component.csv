@@ -1,0 +1,1509 @@
+Disease,Lack_of_Component
+Alkylating Agent Cystitis,Antibodies
+Abdominal Distension,Digestive Enzymes
+Abdominal Distension Prior to Abdominal X-ray,Digestive Enzymes
+Abdominal Radiological Procedure,Digestive Enzymes
+Abnormal Uterine Bleeding,Electrolytes
+Abortion,Electrolytes
+Ectopic Pregnancy,Electrolytes
+CNS Infection,Antibodies
+Seizures (Convulsions),Electrolytes
+Angina,Oxygen
+Fecal Incontinence,Electrolytes
+Acetaminophen Overdose,Electrolytes
+Tendonitis,Electrolytes
+GERD,Digestive Enzymes
+Acidosis,Electrolytes
+Muscle Pain,Electrolytes
+Acne,Electrolytes
+Rosacea,Electrolytes
+HIV Infection,Antibodies
+Methemoglobinemia,Electrolytes
+Acromegaly,Electrolytes
+Erythromelalgia,Electrolytes
+Actinic Keratosis,Electrolytes
+Actinomycosis,Electrolytes
+"Asthma, acute",Oxygen
+Urinary Tract Infection,Antibodies
+Acute Lymphocytic Leukemia,Electrolytes
+Acute Coronary Syndrome,Electrolytes
+"Acute Coronary Syndrome, Prophylaxis",Electrolytes
+Glomerulonephritis,Erythropoietin
+Acute Myeloid Leukemia,Electrolytes
+Porphyria,Electrolytes
+Acute Lymphoblastic Leukemia,Electrolytes
+Acute Myeloblastic Leukemia,Electrolytes
+Acute Nonlymphocytic Leukemia,Electrolytes
+Acute Otitis Externa,Electrolytes
+Acute Promyelocytic Leukemia,Electrolytes
+Respiratory Distress Syndrome,Oxygen
+Sinusitis,Electrolytes
+Anxiety and Stress,GABA
+Adenosine Deaminase Deficiency,Electrolytes
+Adams-Stokes Syndrome,Electrolytes
+ADHD (Attention Deficit Hyperactivity Disorder),Electrolytes
+Addison's Disease,Electrolytes
+Renal Cell Carcinoma,Erythropoietin
+Adenovirus Prophylaxis,Electrolytes
+Frozen Shoulder,Electrolytes
+Dercum's Disease,Electrolytes
+Adjunct to Antibiotic Therapy,Electrolytes
+Polycystic Kidney Disease,Erythropoietin
+Adrenal Cortical Carcinoma,Erythropoietin
+Adrenal Insufficiency,Erythropoietin
+Adrenocortical Insufficiency,Electrolytes
+Adrenogenital Syndrome,Electrolytes
+Adult Human Growth Hormone Deficiency,Electrolytes
+Still's Disease,Electrolytes
+Atrial Fibrillation,Electrolytes
+Trypanosomiasis,Electrolytes
+Aggressive Behavior,Electrolytes
+Agitated State,Electrolytes
+Agitation,Electrolytes
+Myelofibrosis,Electrolytes
+Agoraphobia,Electrolytes
+Neutropenia,Electrolytes
+AIDS Related Wasting,Electrolytes
+Akathisia,Electrolytes
+Alcohol Dependence,Electrolytes
+Alcoholism,Electrolytes
+Alcohol Withdrawal,Electrolytes
+Alcoholic Liver Damage,Albumin
+Vaginal pH Imbalance,Electrolytes
+Alkalosis,Electrolytes
+Allergic Asthma,Oxygen
+"Conjunctivitis, Allergic",IgE
+Atopic Dermatitis,Collagen Type I
+Allergic Reactions,IgE
+Allergic Rhinitis,IgE
+Allergic Urticaria,IgE
+Allergies,Electrolytes
+Alopecia,Electrolytes
+Thalassemia,Electrolytes
+Alpha-1 Proteinase Inhibitor Deficiency,Electrolytes
+Alport Syndrome,Electrolytes
+Amyotrophic Lateral Sclerosis,Electrolytes
+Soft Tissue Sarcoma,Electrolytes
+Alzheimer's Disease,Electrolytes
+Amebiasis,Electrolytes
+Amenorrhea,Electrolytes
+Amyloid Cardiomyopathy,Electrolytes
+Amyloidogenic Transthyretin Amyloidosis,Electrolytes
+Amyloidosis,Electrolytes
+Aspiration Pneumonia,Oxygen
+Anal Cancer,Electrolytes
+Anal Fissure and Fistula,Electrolytes
+Anal Itching,Electrolytes
+Anaphylaxis,Electrolytes
+Anaplastic Astrocytoma,Electrolytes
+Anaplastic Oligodendroglioma,Electrolytes
+Thyroid Cancer,Thyroxine
+Hookworm Infection (Necator or Ancylostoma),Antibodies
+Cutaneous Larva Migrans,Electrolytes
+Androgenetic Alopecia,Electrolytes
+Anemia,Hemoglobin
+Anemia Associated with Chronic Renal Failure,Hemoglobin
+Anemia Associated with Iron Deficiency,Hemoglobin
+"Anemia, Drug Induced",Hemoglobin
+Anemia Prior to Surgery,Hemoglobin
+"Anemia, Chemotherapy Induced",Hemoglobin
+Iron Deficiency Anemia,Hemoglobin
+"Anemia, Megaloblastic",Hemoglobin
+"Anemia, Sickle Cell",Hemoglobin
+Anesthesia,Electrolytes
+Anesthetic Adjunct,Electrolytes
+Angina Pectoris Prophylaxis,Oxygen
+Angioblastoma,Electrolytes
+Angiocardiography,Electrolytes
+Angioedema,Electrolytes
+Magnetic Resonance Angiography,Electrolytes
+Peripheral Angiography,Electrolytes
+Renal Angiomyolipoma,Erythropoietin
+Angiostrongylosis,Electrolytes
+Edema,Electrolytes
+Diffuse Idiopathic Skeletal Hyperostosis,Electrolytes
+Ankylosing Spondylitis,Electrolytes
+Anorexia,Electrolytes
+Anorexia Nervosa,Electrolytes
+Anorexia/Feeding Problems,Electrolytes
+Anthrax,Electrolytes
+Anthrax Prophylaxis,Electrolytes
+Anti NMDA Receptor Encephalitis,Electrolytes
+Ethylene Glycol Poisoning,Electrolytes
+Pseudomembranous Colitis,Digestive Enzymes
+Anticholinergic Syndrome,Electrolytes
+Anticholinesterase Overdose,Electrolytes
+Anticholinesterase Poisoning,Electrolytes
+Anticoagulation During Pregnancy,Electrolytes
+"Sexual Dysfunction, SSRI Induced",Electrolytes
+Antiphospholipid Syndrome,Electrolytes
+Antithrombin III Deficiency,Electrolytes
+Anxiety,GABA
+Generalized Anxiety Disorder,GABA
+Aortic Aneurysm,Electrolytes
+Aortic Stenosis,Electrolytes
+Prosthetic Heart Valves - Thrombosis Prophylaxis,Electrolytes
+Aortography,Electrolytes
+Auditory Processing Disorder,Electrolytes
+"Aphthous Stomatitis, Recurrent",Electrolytes
+Aphthous Ulcer,Gastric Mucus
+Aplastic Anemia,Hemoglobin
+Apnea of Prematurity,Electrolytes
+Appendectomy,Electrolytes
+Appendicitis,Electrolytes
+Occipital Neuralgia,Electrolytes
+Arrhythmia,Electrolytes
+Arsenic Poisoning,Electrolytes
+Atherosclerosis,Electrolytes
+Arteriosclerotic Dementia,Acetylcholine
+Coronary Artery Disease,Electrolytes
+Rheumatoid Arthritis,Collagen Type I
+Osteoarthritis,Collagen Type I
+Reiter's Syndrome,Electrolytes
+Arthrography,Electrolytes
+Pulmonary Fibrosis,Electrolytes
+Ascariasis,Electrolytes
+Ascites,Electrolytes
+Aseptic Necrosis,Electrolytes
+Asperger Syndrome,Electrolytes
+"Aspergillosis, Aspergilloma",Electrolytes
+"Aspergillosis, Invasive",Electrolytes
+Asthma,Oxygen
+"Asthma, Maintenance",Oxygen
+Asystole,Electrolytes
+Tinea Pedis,Electrolytes
+Eczema,Collagen Type I
+Atrial Flutter,Antibodies
+Atrial Tachycardia,Electrolytes
+Atrophic Urethritis,Electrolytes
+Atrophic Vaginitis,Electrolytes
+Autism,Antibodies
+Autoimmune Hemolytic Anemia,Hemoglobin
+Autoimmune Hepatitis,Liver Enzymes
+Autoimmune Neutropenia,Immune Cells
+AV Heart Block,Electrolytes
+Avian Influenza,Antibodies
+B Cell Lymphoma,Electrolytes
+B12 Nutritional Deficiency,Electrolytes
+Babesiosis,Electrolytes
+Back Pain,Electrolytes
+Bacteremia,Electrolytes
+"Conjunctivitis, Bacterial",Electrolytes
+Campylobacter Gastroenteritis,Electrolytes
+Bacterial Endocarditis Prevention (Bacterial Endocarditis Prophylaxis),Electrolytes
+Bacterial Infection,Antibodies
+Bacterial Skin Infection,Antibodies
+Bacterial Vaginitis,Electrolytes
+Vertigo,Electrolytes
+Balanoposthitis,Electrolytes
+Balantidium coli,Electrolytes
+Tinea Barbae,Electrolytes
+Barium Meal Transit,Electrolytes
+Barium Poisoning,Electrolytes
+Mitral Valve Prolapse,Electrolytes
+Barrett's Esophagus,Electrolytes
+Bartonellosis,Electrolytes
+Bartter Syndrome,Electrolytes
+Basal Cell Carcinoma,Electrolytes
+Migraine,Magnesium
+Body Dysmorphic Disorder,Electrolytes
+Binge Eating Disorder,Electrolytes
+Dermal Ulcer,Gastric Mucus
+Enuresis,Electrolytes
+Beef Tapeworm Infection (Taenia saginata),Antibodies
+Behcet's Disease,Electrolytes
+Bejel,Electrolytes
+Gas,Electrolytes
+Benign Essential Tremor,Electrolytes
+Muscle Twitching (Fasciculations),Electrolytes
+Pseudotumor Cerebri,Electrolytes
+Chronic Fatigue Syndrome,Electrolytes
+Benign Prostatic Hyperplasia,Electrolytes
+Benzodiazepine Overdose,Electrolytes
+Benzodiazepine Withdrawal,Electrolytes
+IgA Nephropathy,Electrolytes
+Beriberi,Vitamin B1
+Berylliosis,Electrolytes
+Beta Thalassemia,Electrolytes
+Neurofibromatosis,Electrolytes
+Bile Acid Synthesis Disorders,Electrolytes
+Primary Biliary Cholangitis,Electrolytes
+Bipolar Disorder,Electrolytes
+Birth Control (Contraception),Electrolytes
+Hemangioma,Electrolytes
+Urinary Tract Stones,Electrolytes
+Bladder Cancer,Electrolytes
+Overactive Bladder,Electrolytes
+Bladder Infection,Antibodies
+Interstitial Cystitis,Antibodies
+Urinary Incontinence,Electrolytes
+Blastomycosis,Electrolytes
+Bleeding Disorder,Electrolytes
+Blepharitis,Electrolytes
+Blepharoconjunctivitis,Electrolytes
+Blepharospasm,Electrolytes
+Nasal Congestion,Electrolytes
+Blood Cell Transplantation,Electrolytes
+Deep Vein Thrombosis,Electrolytes
+Blood Disorders,Electrolytes
+Burning Mouth Syndrome (Glossopyrosis),Electrolytes
+Body Imaging,Electrolytes
+Lice,Electrolytes
+Tinea Corporis,Electrolytes
+Osteosarcoma,Electrolytes
+Bone infection (Osteomyelitis),Antibodies
+Bone Marrow Transplantation,Osteocalcin
+"Bone Marrow Transplantation, Failure or Engraftment Delay",Osteocalcin
+"Bone Marrow Transplantation, Myeloid Reconstruction",Osteocalcin
+Osteolytic Bone Metastases of Solid Tumors,Osteocalcin
+"Breast Cancer, Bone Metastases",Osteocalcin
+Osteoporosis,Calcium
+Borderline Personality Disorder,Electrolytes
+Botulism,Electrolytes
+Botulism Prophylaxis,Electrolytes
+Bowel Preparation,Electrolytes
+Bradyarrhythmia,Electrolytes
+Brain Tumor,Electrolytes
+Head Injury,Electrolytes
+Breakthrough Pain,Electrolytes
+Breast Cancer,Electrolytes
+"Breast Cancer, Adjuvant",Electrolytes
+"Breast Cancer, Male",Electrolytes
+"Breast Cancer, Metastatic",Electrolytes
+"Breast Cancer, Palliative",Electrolytes
+"Breast Cancer, Prevention",Electrolytes
+Lactation Augmentation,Electrolytes
+Osteogenesis Imperfecta,Electrolytes
+Bronchiectasis,Electrolytes
+Respiratory Syncytial Virus,Oxygen
+Bronchitis,Oxygen
+COPD,Oxygen
+Bronchogenic Carcinoma,Electrolytes
+Pneumonia,Oxygen
+Bronchopulmonary Dysplasia,Electrolytes
+Bronchospasm During Anesthesia,Electrolytes
+Bronchospasm Prophylaxis,Electrolytes
+Brucellosis,Electrolytes
+Bruxism,Electrolytes
+Plague,Electrolytes
+Thrombotic/Thromboembolic Disorder,Electrolytes
+Bulimia,Electrolytes
+Bullous Pemphigoid,Electrolytes
+"Burns, External",Electrolytes
+Minor Burns,Electrolytes
+"Burns, Nitrogen Retention",Electrolytes
+Bursitis,Electrolytes
+Post Traumatic Stress Disorder,Electrolytes
+Clostridioides difficile Infection,Antibodies
+Methicillin-Resistant Staphylococcus Aureus Infection,Antibodies
+Cachexia,Electrolytes
+Calcium Oxalate Calculi with Hyperuricosuria,Electrolytes
+Cancer,Electrolytes
+Cervical Cancer,Electrolytes
+Chronic Eosinophilic Leukemia,Electrolytes
+Chronic Lymphocytic Leukemia,Electrolytes
+Chronic Myelogenous Leukemia,Electrolytes
+Colorectal Cancer,Electrolytes
+Conjunctival Mucosa-Associated Lymphoid Tissue Lymphoma,Electrolytes
+Cutaneous T-cell Lymphoma,Electrolytes
+Dermatofibrosarcoma Protuberans,Electrolytes
+Endometrial Cancer,Electrolytes
+Fallopian Tube Cancer,Electrolytes
+Stomach Cancer,Electrolytes
+Hairy Cell Leukemia,Keratin
+Hodgkin's Lymphoma,Electrolytes
+Kaposi's Sarcoma,Electrolytes
+Leukemia,Electrolytes
+Non-Small Cell Lung Cancer,Electrolytes
+Small Cell Lung Cancer,Electrolytes
+Lymphoma,Electrolytes
+Multiple Myeloma,Electrolytes
+Malignant Pleural Mesothelioma,Electrolytes
+Melanoma,Electrolytes
+Meningeal Leukemia,Electrolytes
+Wilms' Tumor (Nephroblastoma),Electrolytes
+Non-Hodgkin's Lymphoma,Electrolytes
+Osteogenic Sarcoma,Electrolytes
+Ovarian Cancer,Electrolytes
+Pancreatic Cancer,Electrolytes
+Prostate Cancer,Electrolytes
+Skin Cancer,Collagen Type I
+Squamous Cell Carcinoma,Electrolytes
+Testicular Cancer,Electrolytes
+Esophageal Candidiasis,Electrolytes
+Candida Urinary Tract Infection,Antibodies
+Candidemia,Electrolytes
+Cutaneous Candidiasis,Electrolytes
+Oral Thrush,Electrolytes
+Vaginal Yeast Infection,Antibodies
+Facial Wrinkles,Electrolytes
+Capecitabine Overdose,Electrolytes
+Capillariasis,Electrolytes
+Cryopyrin-Associated Periodic Syndromes,Electrolytes
+Cytokine Release Syndrome,Electrolytes
+Skin or Soft Tissue Infection,Antibodies
+Carcinoid Syndrome,Electrolytes
+Carcinoid Syndrome Diarrhea,Electrolytes
+Carcinoid Tumor,Electrolytes
+Cardiac Arrest,Electrolytes
+Cardiac Arrhythmia,Electrolytes
+Echocardiography,Electrolytes
+Cardiomyopathy Prophylaxis,Electrolytes
+Hypertrophic Cardiomyopathy,Electrolytes
+Cardiothoracic Surgery,Electrolytes
+Cardiovascular Risk Reduction,Electrolytes
+Carnitine Deficiency,Electrolytes
+Carpal Tunnel Syndrome,Electrolytes
+Multicentric Castleman’s Disease,Electrolytes
+Cataplexy,Electrolytes
+Schizophrenia,Dopamine
+Reflex Sympathetic Dystrophy Syndrome,Electrolytes
+Celiac Disease,Electrolytes
+Diabetes Insipidus,Insulin
+Cerebral Arteriography,Electrolytes
+Cerebral Edema,Electrolytes
+Cerebral Spasticity,Electrolytes
+Cerebral Thrombosis/Embolism,Electrolytes
+Ischemic Stroke,Electrolytes
+Cerebrovascular Insufficiency,Electrolytes
+Ear Wax Impaction,Electrolytes
+Cervical Dystonia (Spasmodic Torticollis),Electrolytes
+Radiculopathy,Electrolytes
+Cervical Ripening,Electrolytes
+Cervicitis,Electrolytes
+Cesarean Section,Electrolytes
+Chancroid,Electrolytes
+Menopausal Disorders,Electrolytes
+Muscle Spasm (Involuntary Hypertonicity),Electrolytes
+Chemotherapy Toxicity,Electrolytes
+Heart Failure (Congestive Heart Failure),Potassium
+Chiari Malformation,Electrolytes
+Varicella-Zoster,Electrolytes
+Chlamydia Infection,Antibodies
+Nongonococcal Urethritis,Electrolytes
+Cholecystitis,Antibodies
+Cholera,Electrolytes
+Cholera Prophylaxis,Electrolytes
+Hyperbilirubinemia,Electrolytes
+High Cholesterol,Electrolytes
+Choriocarcinoma,Electrolytes
+Chorioditis,Electrolytes
+Trophoblastic Disease,Electrolytes
+Chorioretinitis,Electrolytes
+Factor IX Deficiency,Electrolytes
+Chromomycosis,Electrolytes
+Chronic Active Hepatitis,Liver Enzymes
+Dementia,Acetylcholine
+Chronic Central Venous Catheterization,Electrolytes
+Cough,Electrolytes
+New Daily Persistent Headache,Electrolytes
+Persistent Depressive Disorder,Electrolytes
+"Diarrhea, Chronic",Electrolytes
+Chronic Granulomatous Disease,Electrolytes
+Hepatitis B,Liver Enzymes
+Hepatitis C,Liver Enzymes
+Chronic Idiopathic Constipation,Digestive Enzymes
+Chronic Inflammatory Demyelinating Polyradiculoneuropathy,Electrolytes
+Lyme Disease,Electrolytes
+Hashimoto's disease (Chronic Lymphocytic Thyroiditis),Thyroxine
+Chronic Otitis Media,Electrolytes
+Tic Disorder,Electrolytes
+Chronic Mucocutaneous Candidiasis,Electrolytes
+Chronic Myofascial Pain,Electrolytes
+"COPD, Acute",Oxygen
+"COPD, Maintenance",Oxygen
+Postural Orthostatic Tachycardia Syndrome,Electrolytes
+Chronic Pain,Electrolytes
+Chronic Pancreatitis,Pancreatic Enzymes
+Prostatitis,Electrolytes
+Renal Failure,Erythropoietin
+Chronic Rhinosinusitis with Nasal Polyps,Electrolytes
+Chronic Spasticity,Electrolytes
+Eosinophilic Granulomatosis with Polyangiitis,Electrolytes
+Systemic Sclerosis,Electrolytes
+Neuronal Ceroid Lipofuscinosis,Electrolytes
+Major Depressive Disorder,Electrolytes
+Liver Fluke (Clornorchis sinensis),Albumin
+Prevention of Clostridioides difficile Infection Recurrence,Antibodies
+Closure of Colostomy,Electrolytes
+Cluster Headaches,Electrolytes
+Cluster-Tic Syndrome,Electrolytes
+CMV Gastroenteritis,Electrolytes
+CMV Infection,Antibodies
+CMV Prophylaxis,Electrolytes
+CMV Retinitis,Electrolytes
+CNS Magnetic Resonance Imaging,Electrolytes
+Coccidioidomycosis,Electrolytes
+"Coccidioidomycosis, Meningitis",Electrolytes
+Cogan's Syndrome,Electrolytes
+Cold Symptoms,Electrolytes
+Cold Sores (Herpes Simplex Labialis),Electrolytes
+Noninfectious Colitis,Digestive Enzymes
+Ulcerative Colitis,Gastric Mucus
+Ichthyosis,Electrolytes
+Warts,Electrolytes
+Skin and Structure Infection,Antibodies
+Computed Tomography,Electrolytes
+Condylomata Acuminata,Electrolytes
+Congenital Fibrinogen Deficiency,Electrolytes
+Herpes Simplex - Congenital,Electrolytes
+Myotonia Congenita,Electrolytes
+Nephrotic Syndrome,Electrolytes
+Congenital Syphilis,Electrolytes
+Conjunctivitis,Electrolytes
+Constipation,Digestive Enzymes
+"Constipation, Acute",Digestive Enzymes
+"Constipation, Chronic",Digestive Enzymes
+"Constipation, Drug Induced",Digestive Enzymes
+Opioid-Induced Constipation,Digestive Enzymes
+Induced Hypotension,Electrolytes
+Neurosis,Electrolytes
+Corneal Cystine Crystal Accumulation,Electrolytes
+Corneal Refractive Surgery,Electrolytes
+Corneal Ulcer,Gastric Mucus
+Coronary Arteriography,Electrolytes
+Costochondritis,Electrolytes
+Cough and Nasal Congestion,Electrolytes
+Scleroderma,Electrolytes
+Crohn's Disease,Electrolytes
+"Crohn's Disease, Acute",Electrolytes
+"Crohn's Disease, Maintenance",Electrolytes
+Croup,Electrolytes
+Crow's Feet,Electrolytes
+"Cryptococcal Meningitis, Immunocompetent Host",Electrolytes
+"Cryptococcal Meningitis, Immunosuppressed Host",Electrolytes
+Cryptococcosis,Electrolytes
+Cryptosporidiosis,Electrolytes
+Cushing's Syndrome,Electrolytes
+Merkel Cell Carcinoma,Electrolytes
+Cutaneous Bacillus anthracis,Electrolytes
+Cutaneous Fungal Infection,Antibodies
+Leishmaniasis,Electrolytes
+Cutaneous Mastocytosis,Electrolytes
+Cutaneous Sporotrichosis,Electrolytes
+Minor Cuts,Electrolytes
+Cyanide Poisoning,Electrolytes
+Cyclic Vomiting Syndrome,Electrolytes
+Cyclitis,Electrolytes
+Cyclothymic Disorder,Electrolytes
+Cystic Fibrosis,Electrolytes
+Cysticercus cellulosae,Electrolytes
+Cystinuria,Electrolytes
+Prevention of Bladder infection (Cystitis Prophylaxis),Antibodies
+Cystourethrography,Electrolytes
+Dandruff,Electrolytes
+Narcolepsy,Electrolytes
+Synovitis,Electrolytes
+Deep Neck Infection,Antibodies
+Deep Vein Thrombosis Prophylaxis after Abdominal Surgery,Digestive Enzymes
+Deep Vein Thrombosis Prophylaxis after Hip Replacement Surgery,Electrolytes
+Deep Vein Thrombosis Prophylaxis after Knee Replacement Surgery,Electrolytes
+Deep Vein Thrombosis Prophylaxis after Orthopedic Surgery,Electrolytes
+"Deep Vein Thrombosis, First Event",Electrolytes
+"Deep Vein Thrombosis, Prophylaxis",Electrolytes
+"Deep Vein Thrombosis, Recurrent Event",Electrolytes
+Deep Vein Thrombosis/Pulmonary Embolism Prophylaxis Following Hip Replacement Surgery,Electrolytes
+Dehydration,Electrolytes
+Gastroparesis,Electrolytes
+"Delayed Puberty, Male",Electrolytes
+Paranoid Disorder,Electrolytes
+Lewy Body Dementia,Acetylcholine
+Herpetic Keratitis,Electrolytes
+Dengue Fever,Antibodies
+Oral and Dental Conditions,Electrolytes
+Dental Abscess,Electrolytes
+Toothache,Electrolytes
+Depression,Serotonin
+Neurotic Depression,Serotonin
+Postpartum Depression,Serotonin
+Depressive Psychosis,Electrolytes
+"Dermal Necrosis, Prophylaxis",Electrolytes
+"Dermal Necrosis, Treatment",Electrolytes
+Excoriation Disorder,Electrolytes
+Dermatitis,Collagen Type I
+Dermatitis Herpetiformis,Collagen Type I
+Diaper Rash,Collagen Type I
+Dermatographism,Electrolytes
+Photoaging of the Skin (Dermatoheliosis),Collagen Type I
+Dermatologic Lesion,Electrolytes
+Dermatological Disorders,Electrolytes
+Dermatomyositis,Electrolytes
+Dermatophytosis,Electrolytes
+Urinary Frequency,Electrolytes
+"Diabetes, Type 2",Insulin
+Diabetes Mellitus,Insulin
+"Diabetes, Type 1",Insulin
+"Diabetes, Type 3c",Insulin
+Nonketotic Hyperosmolar Syndrome,Electrolytes
+Diabetic Ketoacidosis,Electrolytes
+Diabetic Kidney Disease (Diabetic Nephropathy),Erythropoietin
+Diabetic Macular Edema,Electrolytes
+Diabetic Peripheral Neuropathy,Electrolytes
+Diabetic Retinopathy,Electrolytes
+Diagnosis and Investigation,Electrolytes
+Diagnostic Bronchograms,Electrolytes
+Diarrhea,Electrolytes
+"Diarrhea, Acute",Electrolytes
+Dissociative Identity Disorder,Electrolytes
+Dientamoeba fragilis,Electrolytes
+Dietary Fiber Supplementation,Electrolytes
+Dietary Supplementation,Electrolytes
+Insomnia,Electrolytes
+Esophageal Spasm,Electrolytes
+Diffuse Large B-Cell Lymphoma,Electrolytes
+Digital Subtraction Angiography,Electrolytes
+Digitalis Glycoside Toxicity,Electrolytes
+Diphtheria,Electrolytes
+Diphtheria Prophylaxis,Electrolytes
+Fish Tapeworm Infection (Diphyllobothrium latum),Antibodies
+Dog Tapeworm Infection (Dipylidium caninum),Antibodies
+Systemic Lupus Erythematosus,Electrolytes
+"Tuberculosis, Extrapulmonary",Electrolytes
+Diverticulitis,Electrolytes
+Submental Fullness,Electrolytes
+Dracunculiasis,Electrolytes
+Dravet Syndrome,Electrolytes
+Excessive Salivation,Electrolytes
+Drowsiness (Hypersomnia),Electrolytes
+Drug Induced Vitamin/Mineral Deficiency,Electrolytes
+High Blood Pressure (Hypertension),Nitric Oxide
+Dry Eye Disease (Keratoconjunctivitis Sicca),Electrolytes
+Xerostomia,Electrolytes
+Dry Skin (Xerosis),Collagen Type I
+Duchenne Muscular Dystrophy,Electrolytes
+Dumping Syndrome,Electrolytes
+Duodenal Ulcer,Gastric Mucus
+Duodenal Ulcer Prophylaxis,Gastric Mucus
+Gastritis/Duodenitis,Digestive Enzymes
+Dupuytren's contracture,Electrolytes
+Dwarf Tapeworm Infection (Hymenolepis nana),Antibodies
+Dysautonomia,Electrolytes
+Infectious Diarrhea,Electrolytes
+Dyslipidemia,Electrolytes
+Period Pain (Dysmenorrhea),Electrolytes
+Dyspareunia,Electrolytes
+Indigestion,Electrolytes
+Dystonia,Electrolytes
+Dysuria,Electrolytes
+Traveler's Diarrhea,Electrolytes
+Otitis Media,Electrolytes
+Otitis Externa,Electrolytes
+Lambert-Eaton Myasthenic Syndrome,Electrolytes
+Ebola Zaire Disease Prophylaxis,Electrolytes
+Mononucleosis,Electrolytes
+Echinococcus,Electrolytes
+Emergency Contraception (Postcoital Contraception),Electrolytes
+Erectile Dysfunction,Electrolytes
+Eosinophilic Esophagitis,Electrolytes
+Ehrlichiosis,Electrolytes
+Restless Legs Syndrome,Electrolytes
+Electromechanical Dissociation,Electrolytes
+Encephalopathy,Electrolytes
+Endocarditis,Electrolytes
+Endometrial Hyperplasia,Electrolytes
+"Endometrial Hyperplasia, Prophylaxis",Electrolytes
+Endometriosis,Electrolytes
+Endometritis,Electrolytes
+Endoscopy or Radiology Premedication,Electrolytes
+Enterobiasis,Electrolytes
+Enterocolitis,Digestive Enzymes
+"Epicondylitis, Tennis Elbow",Electrolytes
+"Epididymitis, Non-Specific",Electrolytes
+"Epididymitis, Sexually Transmitted",Electrolytes
+Epiglottitis,Electrolytes
+Epilepsy,GABA
+Epithelioid Sarcoma,Electrolytes
+Erdheim-Chester Disease,Electrolytes
+Erosive Esophagitis,Electrolytes
+Skin Rash,Collagen Type I
+Erythema Mulitforme,Electrolytes
+Erythroblastopenia,Electrolytes
+Psoriasis,Collagen Type I
+Esophageal Carcinoma,Electrolytes
+Esophageal Variceal Hemorrhage Prophylaxis,Electrolytes
+Esophageal Varices,Electrolytes
+Esophageal Varices with Bleeding,Electrolytes
+Eustachian Tube Dysfunction,Electrolytes
+Eumycetoma,Electrolytes
+Euvolemic Hyponatremia,Electrolytes
+Evan's Syndrome,Electrolytes
+Ewing's Sarcoma,Electrolytes
+Hyperekplexia,Electrolytes
+Hyperhidrosis,Electrolytes
+Exchange Transfusion,Electrolytes
+Expectoration (Mucolysis),Electrolytes
+Exposure to Hepatitis B Virus,Liver Enzymes
+Peritoneal Cancer,Electrolytes
+Laryngopharyngeal Reflux,Antibodies
+Extrapyramidal Reaction,Electrolytes
+Extravasation,Electrolytes
+Factor VII Deficiency,Electrolytes
+Eye Conditions,Electrolytes
+Eye Redness,Electrolytes
+Eye Redness/Itching,Electrolytes
+Eyelash Hypotrichosis,Electrolytes
+Hordeolum,Electrolytes
+Fabry Disease,Electrolytes
+Facial Lipoatrophy,Electrolytes
+Factor X Deficiency,Electrolytes
+Factor XIII Deficiency,Electrolytes
+Failure to Thrive,Electrolytes
+Familial Adenomatous Polyposis,Electrolytes
+Familial Cold Autoinflammatory Syndrome,Electrolytes
+Tumor Necrosis Factor Receptor Associated Periodic Syndrome,Electrolytes
+"High Cholesterol, Familial Heterozygous",Electrolytes
+"High Cholesterol, Familial Homozygous",Electrolytes
+Familial Hypophosphatemia,Electrolytes
+Familial Mediterranean Fever,Antibodies
+Fascioliasis,Electrolytes
+"Fasciolopsis buski, Intestinal Fluke",Antibodies
+Fatigue,Electrolytes
+Nonalcoholic Fatty Liver Disease,Albumin
+Febrile Neutropenia,Electrolytes
+Felty's Syndrome,Electrolytes
+Female Infertility,Electrolytes
+Hypoactive Sexual Desire Disorder,Electrolytes
+Fever,Antibodies
+Fibrinolytic Bleeding,Electrolytes
+Fibrocystic Breast Disease,Electrolytes
+Fibromatosis,Electrolytes
+Fibromyalgia,Electrolytes
+"Filariasis, Elephantiasis",Electrolytes
+Influenza,Antibodies
+Influenza Prophylaxis,Antibodies
+Fluorouracil Overdose,Antibodies
+Focal Segmental Glomerulosclerosis,Electrolytes
+Folic Acid Antagonist Overdose,Electrolytes
+Folic Acid Deficiency,Electrolytes
+Follicle Stimulation,Electrolytes
+Follicular Lymphoma,Electrolytes
+Foot Care,Electrolytes
+Forehead Lines,Electrolytes
+"Hyperlipoproteinemia Type IIa, Elevated LDL",Electrolytes
+"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",Electrolytes
+"Hyperlipoproteinemia Type III, Elevated beta-VLDL   IDL",Electrolytes
+"Hyperlipoproteinemia Type IV, Elevated VLDL",Electrolytes
+"Hyperlipoproteinemia Type V, Elevated Chylomicrons   VLDL",Electrolytes
+Functional Gastric Disorder,Electrolytes
+Ovarian Cysts,Electrolytes
+Fungal Endocarditis,Electrolytes
+Fungal Infections,Antibodies
+Fungal Infection Prevention,Antibodies
+Fungal Infection Prophylaxis,Antibodies
+"Onychomycosis, Fingernail",Keratin
+Tinea Cruris,Electrolytes
+"Fungal Infection, Internal and Disseminated",Antibodies
+Onychomycosis,Electrolytes
+Tinea Capitis,Electrolytes
+"Onychomycosis, Toenail",Keratin
+Fungal Meningitis,Electrolytes
+Fungal Peritonitis,Electrolytes
+Fungal Pneumonia,Oxygen
+Fusariosis,Electrolytes
+"Fusospirochetosis, Trench Mouth",Electrolytes
+Gallbladder Contraction,Electrolytes
+Gallbladder Disease,Electrolytes
+Gastric Cancer,Electrolytes
+Stomach Ulcer (Gastric Ulcer),Gastric Mucus
+Gastric Ulcer Maintenance Treatment,Gastric Mucus
+Gastric Ulcer Prophylaxis,Gastric Mucus
+Gastrinoma,Electrolytes
+Gastroenteritis,Electrolytes
+Gastrointestinal Candidiasis,Electrolytes
+Gastrointestinal Decontamination,Electrolytes
+Gastrointestinal Hemorrhage,Electrolytes
+Gastrointestinal Perforation,Electrolytes
+Gastrointestinal Stromal Tumor,Electrolytes
+Gastrointestinal Surgery,Electrolytes
+Gastrointestinal Tract Examination,Electrolytes
+Gaucher Disease,Electrolytes
+Glioblastoma Multiforme,Electrolytes
+Giant Cell Tumor of Bone,Osteocalcin
+Tenosynovial Giant Cell Tumor,Electrolytes
+Gender Dysphoria,Electrolytes
+Gestational Diabetes,Insulin
+Giant Cell Arteritis,Electrolytes
+Giardiasis,Electrolytes
+Gingivitis,Electrolytes
+Gitelman Syndrome,Electrolytes
+Glanders,Electrolytes
+Infectious Mononucleosis,Electrolytes
+Glanzmann's Disease,Electrolytes
+Glaucoma,Electrolytes
+"Glaucoma, Narrow Angle",Electrolytes
+"Glaucoma, Open Angle",Electrolytes
+Glaucoma/Intraocular Hypertension,Nitric Oxide
+Malignant Glioma,Electrolytes
+Glucagonoma,Electrolytes
+Gnathostomiasis,Electrolytes
+"Gold Poisoning, Severe",Electrolytes
+Gonadotropin Inhibition,Electrolytes
+"Gonococcal Infection, Disseminated",Antibodies
+"Gonococcal Infection, Uncomplicated",Antibodies
+Gout,Electrolytes
+"Gout, Acute",Electrolytes
+"Gout, Prophylaxis",Electrolytes
+Gouty Arthritis,Collagen Type I
+Graft-versus-host disease,Electrolytes
+Gram Negative Infection,Antibodies
+Granuloma Annulare,Electrolytes
+Granuloma Inguinale,Electrolytes
+Granulomatosis with Polyangiitis,Electrolytes
+Tympanostomy Tube Placement Surgery,Electrolytes
+Strep Throat (Streptococcal Pharyngitis),Electrolytes
+Growth Hormone Reserve Test,Electrolytes
+"Growth Retardation, Chronic Renal Failure",Erythropoietin
+GTP-CH Deficiency,Electrolytes
+Mucopolysaccharidosis Type VII,Electrolytes
+Gynecological Conditions,Electrolytes
+Swine Flu,Antibodies
+Hereditary Angioedema,Electrolytes
+Hemophagocytic Lymphohistiocytosis,Electrolytes
+Haemophilus influenzae Prophylaxis,Antibodies
+Hangover,Electrolytes
+Hepatocellular Carcinoma,Electrolytes
+Head and Neck Cancer,Electrolytes
+Head Imaging,Electrolytes
+Head Lice,Electrolytes
+Headache,Electrolytes
+Heart Attack (Myocardial Infarction),Electrolytes
+Heat Stress,Electrolytes
+Menorrhagia,Electrolytes
+Helicobacter Pylori Infection,Antibodies
+Hemochromatosis,Electrolytes
+Hemolytic Anemia,Hemoglobin
+Hemolytic Uremic Syndrome,Electrolytes
+Hemophilia A,Electrolytes
+Hemophilia A with Inhibitors,Electrolytes
+Hemophilia B,Electrolytes
+Hemorrhagic Cystitis Prophylaxis,Antibodies
+Hemorrhoids,Electrolytes
+Hemosiderosis,Electrolytes
+Hemostasis,Electrolytes
+Heparin Overdose,Electrolytes
+Hepatic Coma,Electrolytes
+Hepatic Encephalopathy,Electrolytes
+Hepatic Tumor,Electrolytes
+Hepatic Veno-Occlusive Disease,Electrolytes
+Hepatitis A,Liver Enzymes
+Hepatitis A Prophylaxis,Liver Enzymes
+Hepatitis B Prevention (Hepatitis B Prophylaxis),Liver Enzymes
+Herbal Supplementation,Electrolytes
+Hereditary Orotic Aciduria,Electrolytes
+Hereditary Tyrosinemia Type 1,Electrolytes
+Hiatal Hernia,Electrolytes
+Herniated Disk,Electrolytes
+Ramsay Hunt Syndrome,Electrolytes
+Herpes Simplex,Electrolytes
+Herpes Simplex Dendritic Keratitis,Electrolytes
+Herpes Simplex Encephalitis,Electrolytes
+"Herpes Simplex, Mucocutaneous/Immunocompetent Host",Electrolytes
+"Herpes Simplex, Mucocutaneous/Immunocompromised Host",Electrolytes
+"Herpes Simplex, Suppression",Electrolytes
+Herpes Zoster,Electrolytes
+Herpes Zoster Iridocyclitis,Electrolytes
+"Herpes Zoster, Prophylaxis",Electrolytes
+"Heterophyes heterophyes, Intestinal Fluke",Antibodies
+"Heterotopic Ossification, Spinal Cord Injury",Electrolytes
+"Heterotopic Ossification, Total Hip Arthroplasty",Electrolytes
+Hiccups,Electrolytes
+Hidradenitis Suppurativa,Electrolytes
+Hyperimmunoglobulin D Syndrome,Electrolytes
+High Risk Percutaneous Transluminal Angioplasty,Electrolytes
+Hypertriglyceridemia,Electrolytes
+Hirsutism,Antibodies
+Histiocytosis,Electrolytes
+Histoplasmosis,Electrolytes
+"Histoplasmosis, Immunocompenent Host",Electrolytes
+"Histoplasmosis, Meningitis",Electrolytes
+Urticaria,Electrolytes
+Hot Flashes,Electrolytes
+Human Papilloma Virus,Electrolytes
+Human Papillomavirus Prophylaxis,Electrolytes
+Huntington's Disease,Electrolytes
+Mucopolysaccharidosis Type I,Electrolytes
+Hydatid Disease,Electrolytes
+Hydrocephalus,Electrolytes
+Hyperammonemia,Electrolytes
+Hypercalcemia,Electrolytes
+Hypercalcemia of Malignancy,Electrolytes
+Hypereosinophilic Syndrome,Electrolytes
+Hyperhomocysteinemia,Electrolytes
+Hyperkalemia,Electrolytes
+Hyperkalemic Periodic Paralysis,Electrolytes
+Hyperlipoproteinemia,Electrolytes
+Hypermagnesemia,Electrolytes
+Hyperparathyroidism Secondary to Renal Impairment,Thyroxine
+Hyperphosphatemia,Electrolytes
+Hyperphosphatemia of Renal Failure,Erythropoietin
+Hyperprolactinemia,Electrolytes
+Hypertensive Emergency,Electrolytes
+Hyperthyroidism,Thyroxine
+Hyperuricemia Secondary to Chemotherapy,Electrolytes
+Hypocalcemia,Electrolytes
+Hypodermoclysis,Electrolytes
+Hypoestrogenism,Electrolytes
+Hypoglycemia,Electrolytes
+"Hypogonadism, Male",Electrolytes
+Hypokalemia,Electrolytes
+Hypokalemic Periodic Paralysis,Electrolytes
+Hypomagnesemia,Electrolytes
+Mania,Electrolytes
+Hyponatremia,Electrolytes
+Hypoparathyroidism,Thyroxine
+Hypophosphatasia,Electrolytes
+Hypophosphatemia,Electrolytes
+Hypopituitarism,Electrolytes
+Hypoproteinemia,Electrolytes
+"Hypoprothrombinemia, Anticoagulant Induced",Electrolytes
+"Hypoprothrombinemia, Not Associated with Anticoagulant Therapy",Electrolytes
+"Hypoprothrombinemia, Prophylaxis",Electrolytes
+Hypotension,Electrolytes
+Underactive Thyroid (Hypothyroidism),Thyroxine
+"Hypothyroidism, After Thyroid Removal (Hypothyroidism, Post-Thyroidectomy)",Thyroxine
+Respiratory Depression,Serotonin
+Hypovolemia,Electrolytes
+Hysterectomy,Electrolytes
+Hysterosalpingography,Electrolytes
+Inflammatory Bowel Disease,Electrolytes
+Irritable Bowel Syndrome,Electrolytes
+ICU Agitation,Electrolytes
+Idiopathic Hypertrophic Subaortic Stenosis,Electrolytes
+Idiopathic Pulmonary Fibrosis,Electrolytes
+Idiopathic Short Stature,Electrolytes
+Idiopathic Thrombocytopenic Purpura,Electrolytes
+Intermittent Explosive Disorder,Electrolytes
+Waldenström Macroglobulinemia,Electrolytes
+Immunodeficiency,Electrolytes
+Immunosuppression,Electrolytes
+Insulin Resistance Syndrome (Metabolic Syndrome),Electrolytes
+Impetigo,Electrolytes
+Inclusion Conjunctivitis,Electrolytes
+Infection Prophylaxis,Antibodies
+Whipworm Infection,Antibodies
+Inflammatory Conditions,Electrolytes
+Influenza A,Antibodies
+Inhibition of Intraoperative Miosis,Electrolytes
+Insect Bites,Electrolytes
+"Insomnia, Stimulant-Associated",Electrolytes
+Insulinoma,Electrolytes
+Intermittent Claudication,Electrolytes
+Interstitial Lung Disease,Electrolytes
+Intertrigo,Electrolytes
+Intestinal Arterial Insufficiency,Electrolytes
+Intra- or Post-op SVT or Hypertension,Nitric Oxide
+Intra-arterial Digital Subtraction Angiography,Electrolytes
+Intraabdominal Infection,Antibodies
+Intraocular Hypertension,Nitric Oxide
+Intravenous Digital Subtraction Angiography,Electrolytes
+Intravenous Urography,Electrolytes
+"Mucormycosis, Invasive",Electrolytes
+Iridocyclitis,Electrolytes
+Iritis,Electrolytes
+Iron Overload,Electrolytes
+"Iron Poisoning, Acute",Electrolytes
+"Iron Poisoning, Chronic",Electrolytes
+"Ischemic Stroke, Prophylaxis",Electrolytes
+Pruritus,Electrolytes
+IV Catheter Clot,Electrolytes
+Japanese Encephalitis Virus Prophylaxis,Electrolytes
+Jet Lag,Electrolytes
+Joint Infection,Antibodies
+Juvenile Rheumatoid Arthritis,Collagen Type I
+Juvenile Idiopathic Arthritis,Collagen Type I
+Kawasaki Disease (Mucocutaneous Lymph Node Syndrome),Electrolytes
+Keloids,Electrolytes
+Keratitis,Electrolytes
+Keratoconjunctivitis,Electrolytes
+Keratosis,Electrolytes
+Kidney Infections (Pyelonephritis),Erythropoietin
+Nephrolithiasis,Electrolytes
+Klinefelter Syndrome,Electrolytes
+Linear IgA Disease,Electrolytes
+Labor Induction,Electrolytes
+Labor Pain,Electrolytes
+Lactation Suppression,Electrolytes
+Lactose Intolerance,Electrolytes
+Lymphangioleiomyomatosis,Electrolytes
+Langerhans' Cell Histiocytosis,Electrolytes
+"Lead Poisoning, Mild",Electrolytes
+"Lead Poisoning, Severe",Electrolytes
+Plantar Fibromatosis,Electrolytes
+Left Ventricular Dysfunction,Electrolytes
+Left Ventriculography,Electrolytes
+Legionella Pneumonia,Oxygen
+Lemierre's Syndrome,Electrolytes
+Lennox-Gastaut Syndrome,Electrolytes
+Leprosy,Electrolytes
+"Leprosy, Borderline",Electrolytes
+"Leprosy, Dapsone-Resistant",Electrolytes
+"Leprosy, Dapsone-Sensitive",Electrolytes
+"Leprosy, Erythema Nodosum Leprosum",Electrolytes
+"Leprosy, Lepromatous",Electrolytes
+"Leprosy, Tuberculoid",Electrolytes
+Leptospirosis,Electrolytes
+Leukocytoclastic Vasculitis,Electrolytes
+Lhermitte's Sign,Electrolytes
+Lichen Planus,Electrolytes
+Lichen Sclerosus,Electrolytes
+Lichen Simplex Chronicus,Electrolytes
+Light Anesthesia,Electrolytes
+Light Sedation,Electrolytes
+Lipodystrophy,Electrolytes
+Liposarcoma,Electrolytes
+Lithium Tremor,Electrolytes
+Liver Magnetic Resonance Imaging,Albumin
+Liver Metastasis in Adenocarcinoma,Albumin
+Local Anesthesia,Electrolytes
+Loeffler's Syndrome (Pulmonary Eosinophilia),Electrolytes
+Loiasis,Electrolytes
+Long QT Syndrome,Electrolytes
+Lower Limb Spasticity,Electrolytes
+Toxic Epidermal Necrolysis,Electrolytes
+"Lyme Disease, Arthritis",Collagen Type I
+"Lyme Disease, Carditis",Electrolytes
+"Lyme Disease, Erythema Chronicum Migrans",Electrolytes
+"Lyme Disease, Neurologic",Electrolytes
+Lymphocytic Colitis,Digestive Enzymes
+Lymphogranuloma Venereum,Electrolytes
+Lysosomal Acid Lipase Deficiency,Electrolytes
+Macrophage Activation Syndrome,Electrolytes
+Macular Degeneration,Electrolytes
+Macular Edema,Electrolytes
+Malaria,Electrolytes
+Malaria Prevention (Malaria Prophylaxis),Electrolytes
+Malignant Hyperthermia,Electrolytes
+Malignant Pleural Effusion,Electrolytes
+Manscaping Pain,Electrolytes
+Mantle Cell Lymphoma,Electrolytes
+Systemic Mastocytosis,Electrolytes
+McCune-Albright Syndrome,Electrolytes
+Mild Cognitive Impairment,Electrolytes
+Mixed Connective Tissue Disease,Electrolytes
+Myelodysplastic Syndrome,Electrolytes
+Measles,Electrolytes
+Measles Prophylaxis,Electrolytes
+Medical Procedures,Electrolytes
+"Melanoma, Metastatic",Electrolytes
+Melasma,Electrolytes
+Melioidosis,Electrolytes
+Meniere's Disease,Electrolytes
+Meningitis,Electrolytes
+"Meningitis, Haemophilus influenzae",Antibodies
+"Meningitis, Listeriosis",Electrolytes
+"Meningitis, Meningococcal",Electrolytes
+"Meningitis, Pneumococcal",Electrolytes
+"Meningitis, Streptococcus Group B",Electrolytes
+Meningococcal Meningitis Prophylaxis,Electrolytes
+Menstrual Disorders,Electrolytes
+Mercury Poisoning,Electrolytes
+Metabolic Acidosis,Electrolytes
+"Metagonimus yokogawai, Intestinal Fluke",Antibodies
+Methanol Poisoning,Electrolytes
+Methotrexate Overdosage,Electrolytes
+Methotrexate Rescue,Electrolytes
+Microscopic polyangiitis,Electrolytes
+Microsporidiosis,Electrolytes
+Migraine Prevention (Migraine Prophylaxis),Magnesium
+Transient Ischemic Attack,Electrolytes
+Minor Skin Conditions,Collagen Type I
+Minor Skin Irritation,Collagen Type I
+Molluscum Contagiosum,Electrolytes
+Moniliformis Infection,Antibodies
+Monkeypox Prophylaxis,Electrolytes
+Nausea/Vomiting of Pregnancy,Electrolytes
+Mucopolysaccharidosis Type IV,Electrolytes
+Motion Sickness,Electrolytes
+Mountain Sickness / Altitude Sickness,Electrolytes
+Multiple Sclerosis,Electrolytes
+Muckle Wells Syndrome,Electrolytes
+Mucopolysaccharidosis Type II,Electrolytes
+Mucopolysaccharidosis Type VI,Electrolytes
+Mucositis,Electrolytes
+Multifocal Motor Neuropathy,Electrolytes
+Multiple Endocrine Adenomas,Electrolytes
+Osteolytic Bone Lesions of Multiple Myeloma,Osteocalcin
+Mumps Prophylaxis,Electrolytes
+Myasthenia Gravis,Electrolytes
+"Mycobacterium avium-intracellulare, Prophylaxis",Electrolytes
+"Mycobacterium avium-intracellulare, Treatment",Electrolytes
+Mycobacterium kansasii,Electrolytes
+Mycoplasma Pneumonia,Oxygen
+Mycosis Fungoides,Electrolytes
+Myelodysplastic Diseases,Electrolytes
+Myelography,Electrolytes
+Spina bifida,Electrolytes
+Myeloproliferative Disorders,Electrolytes
+"Myocardial Infarction, Prophylaxis",Electrolytes
+Myopathy,Electrolytes
+Myopic Choroidal Neovascularization,Electrolytes
+Myxedema,Electrolytes
+Myxedema Coma,Electrolytes
+Nail Dystrophy,Keratin
+Naophyetus salmincola,Electrolytes
+Neonatal Abstinence Syndrome,Electrolytes
+Nasal Carriage of Staphylococcus aureus,Electrolytes
+Nasal Polyps,Electrolytes
+"Nasal Polyps, Prevention",Electrolytes
+Nausea/Vomiting,Electrolytes
+"Nausea/Vomiting, Chemotherapy Induced",Electrolytes
+"Nausea/Vomiting, Postoperative",Electrolytes
+"Nausea/Vomiting, Radiation Induced",Electrolytes
+Neck Pain,Electrolytes
+Necrobiosis Lipoidica Diabeticorum,Electrolytes
+Neonatal Conjunctivitis,Electrolytes
+Neoplastic Diseases,Electrolytes
+Nephrocalcinosis,Electrolytes
+Nephropathic Cystinosis,Electrolytes
+Nephropathy,Electrolytes
+Nerve Agent Poisoning,Electrolytes
+Nerve Agent Pretreatment,Electrolytes
+Neuralgia,Electrolytes
+Neuritis,Electrolytes
+Neuroblastoma,Electrolytes
+Neurocysticercosis,Electrolytes
+Neuroendocrine Carcinoma,Electrolytes
+Neuroleptic Malignant Syndrome,Electrolytes
+Neurological Disorders,Electrolytes
+Neuromyelitis Optica,Electrolytes
+Neuropathic Pain,Electrolytes
+Peripheral Neuropathy,Electrolytes
+Neurosarcoidosis,Electrolytes
+Neurosurgery,Electrolytes
+Neurosyphilis,Electrolytes
+Neurotrophic Keratitis,Electrolytes
+Neutropenia Associated with AIDS or Zidovudine,Electrolytes
+Neutropenia Associated with Chemotherapy,Electrolytes
+Neutropenia Associated with Radiation,Electrolytes
+Niacin Deficiency,Electrolytes
+Niacin Flush,Antibodies
+Niemann-Pick Disease,Electrolytes
+Nocturnal Leg Cramps,Electrolytes
+Night Terrors,Electrolytes
+Nightmares,Electrolytes
+Nocardiosis,Electrolytes
+Nocturia,Electrolytes
+Periodic Limb Movement Disorder,Electrolytes
+Non-24-Hour Sleep Wake Disorder,Electrolytes
+Nonobstructive Oliguria,Electrolytes
+Nonoccupational Exposure,Electrolytes
+Noonan's Syndrome,Electrolytes
+Nosocomial Pneumonia,Oxygen
+NSAID-Induced Gastric Ulcer,Gastric Mucus
+NSAID-Induced Ulcer Prophylaxis,Gastric Mucus
+Total Parenteral Nutrition,Electrolytes
+Obesity,Electrolytes
+Obsessive Compulsive Disorder,Electrolytes
+Obstructive Sleep Apnea/Hypopnea Syndrome,Electrolytes
+Occupational Exposure,Electrolytes
+Ocular Fungal Infection,Antibodies
+Ocular Rosacea,Electrolytes
+Oppositional Defiant Disorder,Electrolytes
+Oligospermia,Electrolytes
+Oliguria,Electrolytes
+"Onchocerciasis, River Blindness",Electrolytes
+Oophorectomy,Electrolytes
+Ophthalmic Surgery,Electrolytes
+Ophthalmic Surgical Staining,Electrolytes
+Ophthalmic Viscoelastic Agent,Electrolytes
+Opiate Adjunct,Electrolytes
+Opiate Dependence,Electrolytes
+Opiate Dependence - Induction,Electrolytes
+Opiate Dependence - Maintenance,Electrolytes
+Opiate Withdrawal,Electrolytes
+Opioid Overdose,Electrolytes
+"Opisthorchis viverrini, Liver Fluke",Albumin
+Optic Neuritis,Electrolytes
+Oral Allergy Syndrome,IgE
+Orbicularis Oculi,Electrolytes
+"Organ Transplant, Rejection Prophylaxis",Electrolytes
+"Organ Transplant, Rejection Reversal",Electrolytes
+Organophosphate Poisoning,Electrolytes
+Ornithosis,Electrolytes
+Osteomalacia,Vitamin D
+Osteopenia,Electrolytes
+Osteopetrosis,Electrolytes
+Ovulation Induction,Electrolytes
+Paget's Disease,Electrolytes
+Pulmonary Hypertension,Nitric Oxide
+Pain,Electrolytes
+Pain/Fever,Electrolytes
+Pancreatic Exocrine Dysfunction,Electrolytes
+Pancreatic Secretion,Electrolytes
+Pancreatitis,Pancreatic Enzymes
+PANDAS Syndrome,Electrolytes
+Panic Disorder,Electrolytes
+Paracoccidioidomycosis,Electrolytes
+Paraganglioma,Electrolytes
+"Paragonimus westermani, Lung Fluke",Antibodies
+Parkinson's Disease,Dopamine
+Parkinson's Disease Psychosis,Dopamine
+Parkinsonian Tremor,Dopamine
+Parkinsonism,Dopamine
+Paronychia,Electrolytes
+Paroxysmal Supraventricular Tachycardia,Electrolytes
+Paroxysmal Nocturnal Hemoglobinuria,Electrolytes
+Patency Maintenance of Indwelling Intravenous Devices,Electrolytes
+Patent Ductus Arteriosus,Electrolytes
+Pathological Hypersecretory Conditions,Electrolytes
+Pathological Hypersecretory Disorder,Electrolytes
+Pseudobulbar Affect,Electrolytes
+Polycystic Ovary Syndrome,Electrolytes
+Pediatric Angiocardiography,Electrolytes
+Pediatric Growth Hormone Deficiency,Electrolytes
+Pellagra,Vitamin B3
+Pelvic Infections,Antibodies
+Pelvic Inflammatory Disease,Electrolytes
+Pemphigoid,Electrolytes
+Pemphigus,Electrolytes
+Pemphigus Vulgaris,Electrolytes
+Penicillin Sensitization Testing,Electrolytes
+Peptic Ulcer,Gastric Mucus
+Percutaneous Coronary Intervention,Electrolytes
+Performance Anxiety,GABA
+Perimenopausal Symptoms,Electrolytes
+Periodontitis,Electrolytes
+Perioral Dermatitis,Collagen Type I
+Peripheral Arterial Disease,Electrolytes
+Peripheral Arteriography,Electrolytes
+Peripheral Progenitor Cell Transplantation,Electrolytes
+Peripheral T-cell Lymphoma,Electrolytes
+Peritoneal dialysis,Electrolytes
+Peritonitis,Electrolytes
+Pernicious Anemia,Hemoglobin
+Postherpetic Neuralgia,Electrolytes
+Pertussis,Electrolytes
+Pertussis Prophylaxis,Electrolytes
+Positron Emission Tomography Imaging,Electrolytes
+Peyronie's Disease,Electrolytes
+Pharyngitis,Electrolytes
+Phenylketonuria,Electrolytes
+Pheochromocytoma,Electrolytes
+Pheochromocytoma Diagnosis,Electrolytes
+Social Anxiety Disorder,GABA
+Physical Urticaria,Electrolytes
+Pinworm Infection (Enterobius vermicularis),Antibodies
+Pituitary Adenoma,Electrolytes
+Pityriasis rubra pilaris,Electrolytes
+Tinea Versicolor,Electrolytes
+Plague Prophylaxis,Electrolytes
+Plantar Fasciitis,Electrolytes
+Plaque Psoriasis,Collagen Type I
+Platelet Aggregation Inhibition,Electrolytes
+Pleural Effusion,Electrolytes
+Primary Mediastinal Large B-cell Lymphoma,Electrolytes
+Premenstrual Dysphoric Disorder,Electrolytes
+Premenstrual Syndrome,Electrolytes
+Pneumococcal Disease Prophylaxis,Electrolytes
+Pneumocystis Pneumonia,Oxygen
+Pneumocystis Pneumonia Prophylaxis,Oxygen
+Pneumonia with Cystic Fibrosis,Oxygen
+Poison Ivy,Electrolytes
+Poison Oak,Electrolytes
+Poison Sumac,Electrolytes
+Poliomyelitis Prophylaxis,Electrolytes
+Polychondritis,Electrolytes
+Polycythemia Vera,Electrolytes
+Polymyalgia Rheumatica,Electrolytes
+Polymyositis/Dermatomyositis,Electrolytes
+Pompe disease,Electrolytes
+Pork Tapeworm Infection (Taenia solium),Antibodies
+Portal Hypertension,Nitric Oxide
+Post-Cholecystectomy Diarrhea,Electrolytes
+Rhinorrhea,Electrolytes
+Post-Polio Syndrome,Electrolytes
+Postanesthetic Shivering,Electrolytes
+Postmenopausal Symptoms,Electrolytes
+Postoperative Albumin Loss,Electrolytes
+Postoperative Gas Pains,Electrolytes
+Postoperative Ileus,Electrolytes
+Postoperative Increased Intraocular Pressure,Electrolytes
+Postoperative Ocular Inflammation,Electrolytes
+Postoperative Pain,Electrolytes
+Postpartum Bleeding,Electrolytes
+Postpartum Breast Pain,Electrolytes
+Pouchitis,Electrolytes
+Prader-Willi Syndrome,Electrolytes
+Pre-Exposure Prophylaxis,Electrolytes
+Precocious Puberty,Electrolytes
+Premature Ejaculation,Electrolytes
+Premature Labor,Electrolytes
+Premature Ventricular Depolarizations,Electrolytes
+"Skin Disinfection, Preoperative",Antibodies
+Prepubertal Cryptorchidism,Electrolytes
+Prevention of Atherothrombotic Events,Electrolytes
+Prevention of Cardiovascular Disease,Electrolytes
+Prevention of Dental Caries,Electrolytes
+Prevention of Falls,Electrolytes
+Prevention of Fractures,Osteocalcin
+Prevention of Hypokalemia,Electrolytes
+Prevention of Osteoporosis,Calcium
+Prevention of Perinatal Group B Streptococcal Disease,Electrolytes
+Prevention of Phototoxicity in Erythropoietic Protoporphyria,Electrolytes
+Prevention of Radiographic Contrast Nephropathy,Electrolytes
+Prevention of Sunburn,Electrolytes
+Prevention of Thromboembolism in Atrial Fibrillation,Electrolytes
+Primary Hyperaldosteronism,Electrolytes
+Primary Hyperaldosteronism Diagnosis,Electrolytes
+Primary Hyperparathyroidism,Thyroxine
+Primary IGF-1 Deficiency,Electrolytes
+Primary Immunodeficiency Syndrome,Electrolytes
+Primary Nocturnal Enuresis,Electrolytes
+Primary Ovarian Failure,Electrolytes
+Primary Periodic Paralysis,Electrolytes
+Proctitis,Electrolytes
+Production of Miosis,Electrolytes
+Progesterone Insufficiency,Electrolytes
+Transurethral Prostatectomy,Electrolytes
+"Prosthetic Heart Valves, Mechanical Valves - Thrombosis Prophylaxis",Electrolytes
+"Prosthetic Heart Valves, Tissue Valves - Thrombosis Prophylaxis",Electrolytes
+Protein C Deficiency,Electrolytes
+Protein S Deficiency,Electrolytes
+Pruritus of Partial Biliary Obstruction,Electrolytes
+Pseudoallescheriosis,Electrolytes
+"Pseudogout, Prophylaxis",Electrolytes
+Pseudohypoparathyroidism,Thyroxine
+Psittacosis,Electrolytes
+Psoriatic Arthritis,Collagen Type I
+Somatoform Pain Disorder,Electrolytes
+Psychosis,Electrolytes
+Pubertal Gynecomastia,Electrolytes
+Pudendal Neuralgia,Electrolytes
+Pulmonary Edema,Electrolytes
+Pulmonary Embolism,Electrolytes
+"Pulmonary Embolism, First Event",Electrolytes
+"Pulmonary Embolism, Recurrent Event",Electrolytes
+Pulmonary Tuberculosis,Electrolytes
+Pupillary Dilation,Electrolytes
+Pyoderma Gangrenosum,Electrolytes
+Q Fever,Antibodies
+Rabbit Fever (Tularemia),Antibodies
+Rabies Prophylaxis,Electrolytes
+Radiation Emergency,Electrolytes
+Radiographic Exam,Electrolytes
+Radionuclide Myocardial Perfusion Study,Electrolytes
+Rat-bite Fever,Antibodies
+Raynaud's Syndrome,Electrolytes
+Reactive Perforating Collangenosis,Electrolytes
+Reduction of Perinatal Transmission of HIV,Electrolytes
+"Refraction, Assessment",Electrolytes
+Rejection Prophylaxis,Electrolytes
+Rejection Reversal,Electrolytes
+Renal Arteriography,Erythropoietin
+Renal Osteodystrophy,Erythropoietin
+Renal Transplant,Erythropoietin
+Renal Tubular Acidosis,Erythropoietin
+Respiratory Failure,Oxygen
+Upper Respiratory Tract Infection,Antibodies
+Retinal Disorders,Electrolytes
+Retinopathy,Electrolytes
+Retinopathy Prophylaxis,Electrolytes
+"Revascularization Procedures, Prophylaxis",Electrolytes
+Reversal of Acquired Coagulation Factor Deficiency,Electrolytes
+Reversal of Anesthesia,Electrolytes
+Reversal of Anticoagulation,Electrolytes
+Reversal of Dabigatran Anticoagulation,Electrolytes
+Reversal of Neuromuscular Blockade,Electrolytes
+Reversal of Nondepolarizing Muscle Relaxants,Electrolytes
+Reversal of Opioid Sedation,Electrolytes
+Reversal of Sedation,Electrolytes
+"Reversible Airways Disease, Maintenance",Electrolytes
+Rh-Isoimmunization,Electrolytes
+Rhabdomyosarcoma,Electrolytes
+Rheumatic Fever,Antibodies
+Rheumatic Fever Prophylaxis,Antibodies
+Rhinitis,Electrolytes
+Rickets,Vitamin D
+Rickettsial Infection,Antibodies
+Rubella,Electrolytes
+Rubella Prophylaxis,Electrolytes
+Salivary Gland Cancer,Electrolytes
+Salmonella Enteric Fever,Antibodies
+Salmonella Gastroenteritis,Electrolytes
+SAPHO Syndrome,Electrolytes
+Sarcoidosis,Electrolytes
+Small Bowel Bacterial Overgrowth,Electrolytes
+Scabies,Electrolytes
+Streptococcal Infection,Antibodies
+Schilling Test,Electrolytes
+Schistosoma haematobium,Electrolytes
+Schistosoma japonicum,Electrolytes
+Schistosoma mansoni,Electrolytes
+Schistosoma mekongi,Electrolytes
+Schizoaffective Disorder,Electrolytes
+Schnitzler Syndrome,Electrolytes
+Sciatica,Electrolytes
+Systemic Sclerosis-Associated Interstitial Lung Disease,Electrolytes
+Venomous Scorpion Bite,Electrolytes
+Scrapes,Electrolytes
+Scurvy,Vitamin C
+Seasonal Affective Disorder,Electrolytes
+Seasonal Allergic Conjunctivitis,IgE
+Seborrheic Dermatitis,Collagen Type I
+Seborrheic Keratosis,Electrolytes
+Secondary Cutaneous Bacterial Infections,Antibodies
+Secondary Hyperparathyroidism,Thyroxine
+Sedation,Electrolytes
+Subependymal Giant Cell Astrocytoma,Electrolytes
+Seizure Prevention (Seizure Prophylaxis),Electrolytes
+Seizure Prophylaxis During or Following Neurosurgery,Electrolytes
+Sepsis,Antibodies
+Septicemia,Electrolytes
+Serosal Cavity Neoplastic Disease,Electrolytes
+Serum Sickness,Electrolytes
+Severe Mood Dysregulation,Electrolytes
+Small Fiber Neuropathy,Electrolytes
+Shift Work Sleep Disorder,Electrolytes
+Shigellosis,Electrolytes
+Shock,Electrolytes
+Short Bowel Syndrome,Electrolytes
+Short Stature for Age,Electrolytes
+Shunt Infection,Antibodies
+SIADH,Electrolytes
+Sialorrhea,Electrolytes
+Sinus Symptoms,Electrolytes
+Sitosterolemia,Electrolytes
+Sjogren's Syndrome,Electrolytes
+Skin Pigmentation Disorder,Collagen Type I
+Sleep Paralysis,Electrolytes
+Small Bowel or Pancreatic Fistula,Electrolytes
+Small Intestine Intubation,Electrolytes
+Smallpox,Electrolytes
+Smallpox Prophylaxis,Electrolytes
+Smallpox Vaccine Reaction,Electrolytes
+Smoking Cessation,Electrolytes
+Vasospasm,Electrolytes
+Solid Tumors,Electrolytes
+Sore Throat,Electrolytes
+Spasticity,Electrolytes
+Spinal Muscular Atrophy,Electrolytes
+Spinal Spasticity,Electrolytes
+Spleen Removal (Splenectomy),Electrolytes
+Spondyloarthritis,Collagen Type I
+Spondylolisthesis,Electrolytes
+Sporotrichosis,Electrolytes
+Status Epilepticus,Electrolytes
+STD Prophylaxis,Electrolytes
+Stem Cell Transplant Conditioning,Electrolytes
+Steroid Responsive Inflammatory Conditions,Electrolytes
+Stevens-Johnson Syndrome,Electrolytes
+Stomatitis,Electrolytes
+Strabismus,Electrolytes
+Stress Ulcer Prophylaxis,Gastric Mucus
+Strongyloidiasis,Electrolytes
+Subarachnoid Hemorrhage,Electrolytes
+Subcorneal Pustular Dermatosis,Electrolytes
+Subcutaneous Urography,Electrolytes
+Sucrase-Isomaltase Deficiency,Electrolytes
+Sunburn,Electrolytes
+Superficial Siderosis,Electrolytes
+Supraventricular Tachycardia,Electrolytes
+Surgical Prophylaxis,Electrolytes
+Sweet's Syndrome,Electrolytes
+"Syphilis, Early",Electrolytes
+"Syphilis, Latent",Electrolytes
+Syphilitic Aortic Aneurysm,Electrolytes
+Syringomyelia,Electrolytes
+Systemic Candidiasis,Electrolytes
+Systemic Fungal Infection,Antibodies
+Ventricular Tachycardia,Electrolytes
+Takayasu's Arteritis,Electrolytes
+Tapering Regimen,Electrolytes
+Tardive Dyskinesia,Collagen Type I
+Temporal Arteritis,Electrolytes
+Temporomandibular Joint Disorder,Electrolytes
+Tertiary Syphilis,Electrolytes
+Tetanus,Electrolytes
+Tetanus Prophylaxis,Electrolytes
+Vitamin B1 Deficiency,Electrolytes
+Thrombocythemia,Electrolytes
+Thrombocytopenia,Electrolytes
+Thrombocytopenia Idiopathic,Electrolytes
+Thromboembolic Disorder,Electrolytes
+Thromboembolic Stroke Prophylaxis,Electrolytes
+Thrombotic Thrombocytopenic Purpura,Electrolytes
+Thyroid Eye Disease,Thyroxine
+Thyroid Storm,Thyroxine
+Thyroid Suppression Test,Thyroxine
+Thyrotoxicosis,Electrolytes
+Trigeminal Neuralgia,Electrolytes
+Tinnitus,Electrolytes
+Tonsillitis/Pharyngitis,Electrolytes
+Topical Disinfection,Antibodies
+Tourette's Syndrome,Electrolytes
+Toxoplasmosis,Electrolytes
+"Toxoplasmosis, Prophylaxis",Electrolytes
+Trachoma,Electrolytes
+Transcobalamin II Deficiency,Electrolytes
+Transverse Myelitis,Electrolytes
+Trichinosis,Electrolytes
+Trichomoniasis,Electrolytes
+Trichostrongylosis,Electrolytes
+Trichotillomania,Electrolytes
+Tuberous Sclerosis,Electrolytes
+TSH Suppression,Electrolytes
+"Tuberculosis, Active",Electrolytes
+"Tuberculosis, HIV Positive",Electrolytes
+"Tuberculosis, Latent",Electrolytes
+"Tuberculosis, Prophylaxis",Electrolytes
+"Tuberculosis, Resistant",Electrolytes
+Tuberculous Meningitis,Electrolytes
+Turner Syndrome,Electrolytes
+Typhoid Fever,Antibodies
+Typhoid Prophylaxis,Electrolytes
+Undifferentiated Connective Tissue Disease,Electrolytes
+"Ulcerative Colitis, Active",Gastric Mucus
+"Ulcerative Colitis, Maintenance",Gastric Mucus
+Ulcerative Proctitis,Gastric Mucus
+Upper GI Hemorrhage,Electrolytes
+Upper Limb Spasticity,Electrolytes
+Urea Cycle Disorders,Electrolytes
+Urinary Acidification,Electrolytes
+Urinary Alkalinization,Electrolytes
+Urinary Retention,Electrolytes
+Urinary Tract Tumors,Electrolytes
+Urography,Electrolytes
+Urothelial Carcinoma,Electrolytes
+Uterine Bleeding,Electrolytes
+Uterine Fibroids,Electrolytes
+Uterine Leiomyomata,Electrolytes
+Uveitis,Electrolytes
+"Uveitis, Posterior",Electrolytes
+Vaccination and Prophylaxis,Electrolytes
+Vaginal Dryness,Electrolytes
+"Varicella-Zoster, Prophylaxis",Electrolytes
+Varicose Veins,Electrolytes
+Vascular Magnetic Resonance Imaging,Electrolytes
+Vasoactive Intestinal Peptide Tumor,Electrolytes
+Vasomotor Rhinitis,Electrolytes
+Venography,Electrolytes
+Venomous Snake Bite,Electrolytes
+Venomous Spider Bite,Electrolytes
+Venous Thromboembolism,Electrolytes
+Ventricular Arrhythmia,Electrolytes
+Ventricular Fibrillation,Electrolytes
+Visceral Arteriography,Electrolytes
+"Visceral Larva Migrans, Toxicariasis",Electrolytes
+Vitamin A Deficiency,Electrolytes
+Vitamin B12 Deficiency,Electrolytes
+Vitamin D Deficiency,Electrolytes
+Vitamin D Insufficiency,Electrolytes
+Vitamin E Deficiency,Electrolytes
+Vitamin K Deficiency,Electrolytes
+Vitamin/Mineral Supplementation and Deficiency,Electrolytes
+Vitamin/Mineral Supplementation during Pregnancy/Lactation,Electrolytes
+Vitrectomy,Electrolytes
+Vitreomacular Adhesion,Electrolytes
+von Willebrand Disease,Electrolytes
+Vulvodynia,Electrolytes
+Weight Loss,Electrolytes
+Wernicke's Encephalopathy,Electrolytes
+West Syndrome,Electrolytes
+Wilson's Disease,Electrolytes
+Wolff-Parkinson-White Syndrome,Dopamine
+Wound Cleansing (Wound Debridement),Collagen Type I
+Wound Infection,Antibodies
+X-Linked Hypophosphatemia,Electrolytes
+Yellow Fever Prophylaxis,Antibodies
+Zinc Deficiency,Electrolytes
+Zollinger-Ellison Syndrome,Electrolytes
