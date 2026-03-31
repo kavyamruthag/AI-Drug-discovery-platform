@@ -71,7 +71,7 @@ y_pred = model.predict(X_test)
 metrics = {
     "MAE": round(mean_absolute_error(y_test, y_pred), 3),
     "MSE": round(mean_squared_error(y_test, y_pred), 3),
-    "R2": round(r2_score(y_test, y_pred), 3)
+    
 }
 
 print("FINAL REALISTIC METRICS")

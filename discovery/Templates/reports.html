@@ -2,110 +2,214 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Reports - AI Drug Discovery</title>
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+<title>Project Reports - AI Drug Discovery</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
 <style>
-    body {
-        font-family: 'Roboto', sans-serif;
-        background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
-        color: #fff;
-        margin: 0;
-        padding: 0;
-        display: flex;
-        justify-content: center;
-        align-items: flex-start;
-        min-height: 100vh;
-        padding-top: 60px;
-    }
-    .container {
-        background: rgba(255, 255, 255, 0.95);
-        color: #333;
-        border-radius: 16px;
-        padding: 40px;
-        max-width: 800px;
-        text-align: center;
-        box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-        animation: fadeIn 1s ease;
-    }
-    @keyframes fadeIn {
-        from { opacity: 0; transform: translateY(-20px);}
-        to { opacity: 1; transform: translateY(0);}
-    }
-    h1 {
-        color: #2575fc;
-        font-size: 2.5em;
-        margin-bottom: 20px;
-    }
-    p {
-        font-size: 1.1em;
-        margin-bottom: 15px;
-    }
-    ul {
-        text-align: left;
-        margin: 20px 0;
-        padding-left: 20px;
-    }
-    li {
-        margin-bottom: 10px;
-        font-weight: 500;
-    }
-    .download-btn {
-        display: inline-block;
-        padding: 15px 30px;
-        background: #6a11cb;
-        color: white;
-        font-size: 1.1em;
-        font-weight: 600;
-        border-radius: 12px;
-        text-decoration: none;
-        transition: 0.3s;
-        margin-top: 25px;
-        box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-    }
-    .download-btn:hover {
-        background: #2575fc;
-        transform: translateY(-3px);
-        box-shadow: 0 8px 20px rgba(0,0,0,0.25);
-    }
-    .summary-section {
-        background: #f1f4ff;
-        color: #333;
-        border-radius: 12px;
-        padding: 20px 25px;
-        margin-top: 30px;
-        text-align: left;
-        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-    }
-    .summary-section h2 {
-        color: #6a11cb;
-        margin-bottom: 15px;
-    }
-    .summary-section p {
-        margin-bottom: 10px;
-        font-size: 1em;
-    }
+
+body{
+    margin:0;
+    font-family:'Inter',sans-serif;
+    background:linear-gradient(135deg,#0f2027,#203a43,#2c5364);
+    color:white;
+}
+
+/* HEADER */
+.header{
+    text-align:center;
+    padding:60px 20px 30px;
+}
+
+.header h1{
+    font-size:42px;
+    margin:0;
+    background:linear-gradient(90deg,#00f5ff,#00ff99);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+}
+
+.header p{
+    margin-top:10px;
+    font-size:16px;
+    letter-spacing:2px;
+    color:#00eaff;
+}
+
+/* CONTAINER */
+.container{
+    max-width:1000px;
+    margin:0 auto 60px;
+    padding:0 20px;
+}
+
+/* DATASET CARD */
+.dataset-card{
+    background:rgba(255,255,255,0.05);
+    border-radius:20px;
+    padding:20px 25px;
+    margin-bottom:20px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    backdrop-filter:blur(15px);
+    border:1px solid rgba(255,255,255,0.1);
+    box-shadow:0 0 20px rgba(0,255,255,0.1);
+    transition:0.3s;
+}
+
+.dataset-card:hover{
+    transform:translateY(-5px);
+    box-shadow:0 0 30px rgba(0,255,255,0.4);
+}
+
+.dataset-info{
+    display:flex;
+    align-items:center;
+    gap:20px;
+}
+
+.icon-circle{
+    width:55px;
+    height:55px;
+    border-radius:50%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:20px;
+    color:white;
+}
+
+.dataset-text h3{
+    margin:0;
+    font-size:18px;
+}
+
+.dataset-text p{
+    margin:5px 0 0;
+    font-size:13px;
+    color:#c2f7ff;
+}
+
+/* DOWNLOAD BUTTON */
+.download-btn{
+    padding:10px 25px;
+    border-radius:25px;
+    font-weight:600;
+    text-decoration:none;
+    color:white;
+    transition:0.3s;
+}
+
+.btn-red{background:linear-gradient(90deg,#ff416c,#ff4b2b);}
+.btn-blue{background:linear-gradient(90deg,#2193b0,#6dd5ed);}
+.btn-green{background:linear-gradient(90deg,#00b09b,#96c93d);}
+.btn-purple{background:linear-gradient(90deg,#7f00ff,#e100ff);}
+.btn-orange{background:linear-gradient(90deg,#f7971e,#ffd200);}
+
+.download-btn:hover{
+    transform:scale(1.05);
+}
+
+/* STATS SECTION */
+.stats{
+    display:flex;
+    justify-content:space-between;
+    margin-top:50px;
+    gap:20px;
+}
+
+.stat-card{
+    flex:1;
+    background:rgba(255,255,255,0.05);
+    padding:25px;
+    border-radius:20px;
+    text-align:center;
+    backdrop-filter:blur(10px);
+    border:1px solid rgba(255,255,255,0.1);
+}
+
+.stat-card h2{
+    margin:0;
+    font-size:28px;
+    background:linear-gradient(90deg,#00f5ff,#00ff99);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+}
+
+.stat-card p{
+    margin-top:5px;
+    font-size:14px;
+    color:#b0faff;
+}
+
+@media(max-width:768px){
+    .stats{flex-direction:column;}
+    .dataset-card{flex-direction:column;gap:15px;}
+}
+
 </style>
 </head>
-<body>
-<div class="container">
-    <h1>Project Reports</h1>
-    <p>Download your AI Drug Discovery datasets and see a summary of the project:</p>
-    
-    <!-- Download CSV -->
-    <a href="{% url 'download_report' %}" class="download-btn">Download Dataset CSV</a>
 
-    <!-- Summary Section -->
-    <div class="summary-section">
-        <h2>Project Summary</h2>
-        <p>This AI Drug Discovery platform predicts potential drugs based on user-input diseases or symptoms using trained machine learning models and embeddings.</p>
-        <p>Key features:</p>
-        <ul>
-            <li>Predicts suitable drugs along with properties: Absorption, Solubility, and Toxicity.</li>
-            <li>Provides analytics for all previously searched diseases, including property trends.</li>
-            <li>Allows downloading of complete datasets for further research and reporting.</li>
-            <li>Designed for educational and research purposes to understand AI-driven drug predictions.</li>
-        </ul>
-    </div>
+<body>
+
+<div class="header">
+    <h1>Project Resources</h1>
+    <p>AI DRUG DISCOVERY</p>
 </div>
+
+<div class="container">
+
+    {% for file in files %}
+    <div class="dataset-card">
+
+        <div class="dataset-info">
+
+            {% if forloop.counter == 1 %}
+            <div class="icon-circle" style="background:#ff416c;"><i class="fa-solid fa-heart-pulse"></i></div>
+            {% elif forloop.counter == 2 %}
+            <div class="icon-circle" style="background:#2193b0;"><i class="fa-solid fa-flask"></i></div>
+            {% elif forloop.counter == 3 %}
+            <div class="icon-circle" style="background:#00b09b;"><i class="fa-solid fa-dna"></i></div>
+            {% elif forloop.counter == 4 %}
+            <div class="icon-circle" style="background:#7f00ff;"><i class="fa-solid fa-user"></i></div>
+            {% else %}
+            <div class="icon-circle" style="background:#f7971e;"><i class="fa-solid fa-virus"></i></div>
+            {% endif %}
+
+            <div class="dataset-text">
+                <h3>{{ file }}</h3>
+                <p>AI Dataset • CSV Format</p>
+            </div>
+
+        </div>
+
+        {% if forloop.counter == 1 %}
+        <a href="{% url 'download_csv' file %}" class="download-btn btn-red">Download</a>
+        {% elif forloop.counter == 2 %}
+        <a href="{% url 'download_csv' file %}" class="download-btn btn-blue">Download</a>
+        {% elif forloop.counter == 3 %}
+        <a href="{% url 'download_csv' file %}" class="download-btn btn-green">Download</a>
+        {% elif forloop.counter == 4 %}
+        <a href="{% url 'download_csv' file %}" class="download-btn btn-purple">Download</a>
+        {% else %}
+        <a href="{% url 'download_csv' file %}" class="download-btn btn-orange">Download</a>
+        {% endif %}
+
+    </div>
+    {% endfor %}
+
+    <!-- Stats Section -->
+    <div class="stats">
+        <div class="stat-card">
+            <h2>5</h2>
+            <p>Total Files</p>
+        </div>
+        
+    </div>
+
+</div>
+
 </body>
 </html>

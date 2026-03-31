@@ -1,68 +1,189 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Admin Dashboard</title>
-    <style>
-        body { font-family: Arial, sans-serif; background: #f4f7f9; margin: 0; }
-        header { background: #2c3e50; color: white; padding: 20px; text-align: center; }
-        .stats { display: flex; justify-content: space-around; padding: 20px; }
-        .stat-card { background: white; padding: 20px; border-radius: 10px;
-                     box-shadow: 0 2px 6px rgba(0,0,0,0.2); width: 20%; text-align: center; }
-        .stat-card h2 { margin: 0; color: #3498db; }
-        .table-section { padding: 20px; }
-        table { width: 100%; border-collapse: collapse; background: white;
-                border-radius: 10px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.2);}
-        th, td { padding: 12px; border-bottom: 1px solid #ddd; text-align: center; }
-        th { background: #3498db; color: white; }
-    </style>
+<meta charset="UTF-8">
+<title>Admin Dashboard - AI Drug Discovery</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+
+body{
+    margin:0;
+    font-family:'Inter',sans-serif;
+    background:linear-gradient(135deg,#0f2027,#203a43,#2c5364);
+    color:white;
+}
+
+/* HEADER */
+header{
+    text-align:center;
+    padding:50px 20px 30px;
+}
+
+header h1{
+    margin:0;
+    font-size:38px;
+    background:linear-gradient(90deg,#00f5ff,#00ff99);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+}
+
+header p{
+    margin-top:10px;
+    color:#bdfcff;
+    font-size:14px;
+}
+
+/* STATS SECTION */
+.stats{
+    display:flex;
+    justify-content:center;
+    gap:30px;
+    padding:30px 20px;
+    flex-wrap:wrap;
+}
+
+.stat-card{
+    background:rgba(255,255,255,0.05);
+    backdrop-filter:blur(15px);
+    padding:25px 30px;
+    border-radius:20px;
+    border:1px solid rgba(255,255,255,0.1);
+    box-shadow:0 0 20px rgba(0,255,255,0.15);
+    width:220px;
+    text-align:center;
+    transition:0.3s;
+}
+
+.stat-card:hover{
+    transform:translateY(-5px);
+    box-shadow:0 0 30px rgba(0,255,255,0.4);
+}
+
+.stat-card h2{
+    margin:0;
+    font-size:32px;
+    background:linear-gradient(90deg,#00f5ff,#00ff99);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+}
+
+.stat-card p{
+    margin-top:8px;
+    font-size:14px;
+    color:#bdfcff;
+}
+
+/* TABLE SECTION */
+.table-section{
+    max-width:1000px;
+    margin:40px auto 60px;
+    padding:0 20px;
+}
+
+.table-section h2{
+    margin-bottom:20px;
+    font-size:22px;
+    color:#00f5ff;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    background:rgba(255,255,255,0.05);
+    backdrop-filter:blur(15px);
+    border-radius:20px;
+    overflow:hidden;
+    border:1px solid rgba(255,255,255,0.1);
+}
+
+th,td{
+    padding:15px;
+    text-align:center;
+    font-size:14px;
+}
+
+th{
+    background:rgba(0,255,255,0.1);
+    color:#00f5ff;
+    font-weight:600;
+}
+
+td{
+    border-bottom:1px solid rgba(255,255,255,0.08);
+    color:#e0f7ff;
+}
+
+tr:hover{
+    background:rgba(0,255,255,0.08);
+}
+
+.empty-row{
+    padding:20px;
+    text-align:center;
+    color:#ff6b6b;
+}
+
+@media(max-width:768px){
+    .stats{flex-direction:column;align-items:center;}
+}
+
+</style>
 </head>
+
 <body>
-    <header>
-        <h1>Admin Dashboard</h1>
-        <p>Track Users and System Activity</p>
-    </header>
 
-    <!-- Statistics Cards -->
-    <div class="stats">
-        <div class="stat-card">
-            <h2>{{ total_users }}</h2>
-            <p>Total Users</p>
-        </div>
-        <div class="stat-card">
-            <h2>{{ today_users }}</h2>
-            <p>Logged in Today</p>
-        </div>
-        <div class="stat-card">
-            <h2>{{ active_sessions }}</h2>
-            <p>Currently Active</p>
-        </div>
-        
+<header>
+    <h1>Admin Dashboard</h1>
+    <p>Track Users and System Activity</p>
+</header>
+
+<!-- Statistics Cards -->
+<div class="stats">
+    <div class="stat-card">
+        <h2>{{ total_users }}</h2>
+        <p>Total Users</p>
     </div>
 
-    <!-- Recent Users Table -->
-    <div class="table-section">
-        <h2>Recent User Logins</h2>
-        <table>
-            <thead>
-                <tr>
-                    <th>Username</th>
-                    <th>Email</th>
-                    <th>Last Login</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% for user in recent_users %}
-                <tr>
-                    <td>{{ user.username }}</td>
-                    <td>{{ user.email }}</td>
-                    <td>{{ user.last_login }}</td>
-                </tr>
-                {% empty %}
-                <tr><td colspan="3">No recent logins</td></tr>
-                {% endfor %}
-            </tbody>
-        </table>
+    <div class="stat-card">
+        <h2>{{ today_users }}</h2>
+        <p>Logged in Today</p>
     </div>
+
+    <div class="stat-card">
+        <h2>{{ active_sessions }}</h2>
+        <p>Currently Active</p>
+    </div>
+</div>
+
+<!-- Recent Users Table -->
+<div class="table-section">
+    <h2>Recent User Logins</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Username</th>
+                <th>Email</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            {% for user in recent_users %}
+            <tr>
+                <td>{{ user.username }}</td>
+                <td>{{ user.email }}</td>
+                
+            </tr>
+            {% empty %}
+            <tr>
+                <td colspan="3" class="empty-row">No recent logins</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
 </body>
 </html>

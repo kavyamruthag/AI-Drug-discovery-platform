@@ -1,137 +1,160 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AI-Driven Drug Discovery</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap" rel="stylesheet">
+
   <style>
-    body {
+    * {
       margin: 0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      line-height: 1.6;
-      background-color: #f9f9f9;
-      color: #333;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
     }
-    /* Navbar */
+
+    body {
+      background: radial-gradient(circle at top left, #0f2027, #203a43, #2c5364);
+      color: white;
+      overflow-x: hidden;
+    }
+
     nav {
-      background: #2c3e50;
-      color: #fff;
-      padding: 1rem 2rem;
       display: flex;
       justify-content: space-between;
       align-items: center;
+      padding: 20px 60px;
+      background: rgba(255, 255, 255, 0.05);
+      backdrop-filter: blur(10px);
     }
+
     nav h1 {
-      margin: 0;
+      color: #00e0ff;
+      font-weight: 700;
     }
+
     nav ul {
       list-style: none;
       display: flex;
-      margin: 0;
-      padding: 0;
+      gap: 30px;
     }
-    nav ul li {
-      margin-left: 20px;
-    }
+
     nav ul li a {
-      color: #fff;
       text-decoration: none;
-      font-weight: bold;
+      color: white;
+      transition: 0.3s;
     }
+
     nav ul li a:hover {
-      text-decoration: underline;
+      color: #00e0ff;
     }
 
-    /* Hero Section */
     .hero {
-      background: url("https://images.unsplash.com/photo-1581091870634-0ef46eaf3fef") center/cover no-repeat;
-      height: 70vh;
-      color: white;
       display: flex;
-      flex-direction: column;
-      justify-content: center;
       align-items: center;
-      text-align: center;
-      background-blend-mode: darken;
-      background-color: rgba(0, 0, 0, 0.55);
-    }
-    .hero h2 {
-      font-size: 3rem;
-      margin-bottom: 1rem;
-    }
-    .hero p {
-      font-size: 1.3rem;
-      margin-bottom: 1.5rem;
-    }
-    .hero a {
-      padding: 12px 25px;
-      background: #27ae60;
-      color: white;
-      text-decoration: none;
-      border-radius: 8px;
-      font-weight: bold;
-    }
-    .hero a:hover {
-      background: #2ecc71;
+      justify-content: space-between;
+      padding: 80px 60px;
+      min-height: 85vh;
     }
 
-    /* About Section */
-    .about {
-      padding: 50px 20px;
-      text-align: center;
-      background: white;
+    .hero-text {
+      flex: 1;
     }
-    .about h2 {
+
+    .hero-text h2 {
+      font-size: 55px;
+      font-weight: 800;
+      background: linear-gradient(90deg, #00e0ff, #00ff94);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
       margin-bottom: 20px;
-      color: #2c3e50;
     }
-    .about p {
-      max-width: 800px;
+
+    .hero-text p {
+      font-size: 20px;
+      max-width: 600px;
+      opacity: 0.85;
+      margin-bottom: 35px;
+    }
+
+    .hero-text a {
+      padding: 14px 35px;
+      border-radius: 50px;
+      text-decoration: none;
+      background: linear-gradient(90deg, #00e0ff, #00ff94);
+      color: black;
+      font-weight: 600;
+      transition: 0.3s;
+    }
+
+    .hero-text a:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 20px #00e0ff;
+    }
+
+    .hero-image {
+      flex: 1;
+      text-align: center;
+    }
+
+    .hero-image img {
+      width: 85%;
+      max-width: 480px;
+      border-radius: 20px;
+      box-shadow: 0 0 40px rgba(0, 224, 255, 0.4);
+    }
+
+    .about {
+      text-align: center;
+      padding: 80px 20px;
+      max-width: 900px;
       margin: auto;
-      font-size: 1.1rem;
     }
 
-    /* Features Section */
-    .features {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 20px;
-      padding: 50px 20px;
-      background: #ecf0f1;
-    }
-    .feature-card {
-      background: white;
-      padding: 20px;
-      border-radius: 12px;
-      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-      text-align: center;
-      transition: transform 0.3s ease;
-    }
-    .feature-card:hover {
-      transform: translateY(-8px);
-    }
-    .feature-card img {
-      width: 80px;
-      height: 80px;
-      margin-bottom: 15px;
-    }
-    .feature-card h3 {
-      margin-bottom: 10px;
-      color: #27ae60;
+    .about h2 {
+      color: #00e0ff;
+      margin-bottom: 25px;
+      font-size: 32px;
     }
 
-    /* Footer */
+    .about p {
+      font-size: 18px;
+      opacity: 0.85;
+      line-height: 1.8;
+    }
+
     footer {
-      background: #2c3e50;
-      color: white;
       text-align: center;
-      padding: 15px 0;
-      margin-top: 20px;
+      padding: 20px;
+      background: rgba(255, 255, 255, 0.05);
+      margin-top: 60px;
+      font-size: 14px;
+      opacity: 0.8;
+    }
+
+    @media(max-width:900px) {
+      .hero {
+        flex-direction: column;
+        text-align: center;
+      }
+
+      .hero-text h2 {
+        font-size: 40px;
+      }
+
+      .hero-image {
+        margin-top: 40px;
+      }
     }
   </style>
 </head>
+
 <body>
-  <!-- Navbar -->
+
   <nav>
     <h1>AI Drug Discovery</h1>
     <ul>
@@ -142,51 +165,39 @@
     </ul>
   </nav>
 
-  <!-- Hero Section -->
   <section class="hero">
-    <h2>AI-Powered Disease-to-Drug Discovery</h2>
-    <p>Input a disease. Get potential new drugs. Faster. Smarter. Affordable.</p>
-    <a href="/register/">Get Started</a>
+
+    <div class="hero-text">
+      <h2>AI-Powered Disease to Drug Discovery</h2>
+      <p>
+        Accelerating pharmaceutical innovation using artificial intelligence.
+        Predict drug candidates, analyze biological interactions,
+        evaluate side effects, and optimize dosages with precision.
+      </p>
+      <a href="/register/">Get Started</a>
+    </div>
+
+    <div class="hero-image">
+      <img src="{% static 'images/drug_structure.png' %}" alt="Drug Molecule">
+    </div>
+
   </section>
 
-  <!-- About Section -->
   <section class="about">
-    <h2>About Our Platform</h2>
+    <h2>About the Platform</h2>
     <p>
-      Our platform leverages AI to discover potential drugs for diseases in record time. 
-      By analyzing biological data, predicting molecular interactions, and simulating outcomes, 
-      we transform the way medicine is developed. Enter a disease, and our AI suggests 
-      new drug candidates that could combat it effectively.
+      Our AI-driven system analyzes biomedical datasets, molecular structures,
+      and disease pathways to recommend potential drug candidates.
+      By combining machine learning with pharmaceutical research,
+      we reduce discovery time from years to hours while improving
+      accuracy and affordability.
     </p>
   </section>
 
-  <!-- Features Section -->
-  <section class="features">
-    <div class="feature-card">
-      <img src="https://cdn-icons-png.flaticon.com/512/2921/2921822.png" alt="Disease Input">
-      <h3>Disease Input</h3>
-      <p>Start by entering the name of the disease you want to target.</p>
-    </div>
-    <div class="feature-card">
-      <img src="https://cdn-icons-png.flaticon.com/512/2913/2913465.png" alt="AI Analysis">
-      <h3>AI Analysis</h3>
-      <p>Our AI models analyze vast biomedical datasets to find relevant drug candidates.</p>
-    </div>
-    <div class="feature-card">
-      <img src="https://cdn-icons-png.flaticon.com/512/2995/2995620.png" alt="Drug Prediction">
-      <h3>Drug Prediction</h3>
-      <p>Generates potential new drugs tailored for the given disease.</p>
-    </div>
-    <div class="feature-card">
-      <img src="https://cdn-icons-png.flaticon.com/512/3063/3063820.png" alt="Faster Discovery">
-      <h3>Faster Discovery</h3>
-      <p>Reduces years of trial-and-error into hours with AI-driven predictions.</p>
-    </div>
-  </section>
-
-  <!-- Footer -->
   <footer>
-    <p>© 2025 AI Drug Discovery Platform | Designed with AI</p>
+    © 2025 AI Drug Discovery Platform | Powered by Artificial Intelligence
   </footer>
+
 </body>
+
 </html>

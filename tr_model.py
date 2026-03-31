@@ -1,66 +1,93 @@
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import LabelEncoder
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 import joblib
+import os
 
-# Load datasets
-features_df = pd.read_csv("drug_features_dataset.csv")
-prob_df = pd.read_csv("drug_side_effect_probability.csv")
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+from sklearn.feature_extraction.text import TfidfVectorizer
 
-# Merge features + labels
-df = features_df.merge(prob_df, on="Drug_name")
-df = df.dropna()
+# --------------------------------------------------
+# Load Dataset
+# --------------------------------------------------
 
-# Encode categorical features
-le_abs = LabelEncoder()
-le_sol = LabelEncoder()
-le_tox = LabelEncoder()
+data = pd.read_csv("drug_side_effect_probability.csv")
 
-df["abs_enc"] = le_abs.fit_transform(df["absorption"])
-df["sol_enc"] = le_sol.fit_transform(df["solubility"])
-df["tox_enc"] = le_tox.fit_transform(df["toxicity"])
+data.columns = ["Drug_Name", "Side_Effect_Probability"]
 
-# Features and target
-X = df[["abs_enc", "sol_enc", "tox_enc"]]
-y = df["Side_Effect_Probability(%)"]
+# Clean data
+data = data.dropna()
+data["Side_Effect_Probability"] = pd.to_numeric(
+    data["Side_Effect_Probability"], errors="coerce"
+)
+data = data.dropna()
 
-# 80–20 split
+# --------------------------------------------------
+# TF-IDF Feature Engineering
+# --------------------------------------------------
+
+vectorizer = TfidfVectorizer(
+    ngram_range=(1, 2),
+    stop_words="english"
+)
+
+X = vectorizer.fit_transform(data["Drug_Name"])
+y = data["Side_Effect_Probability"]
+
+print("Feature count:", X.shape[1])
+
+# --------------------------------------------------
+# Train/Test Split
+# --------------------------------------------------
+
 X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.2, random_state=42
 )
 
-# Train Random Forest Regressor
+# --------------------------------------------------
+# Train Model
+# --------------------------------------------------
+
 model = RandomForestRegressor(
     n_estimators=300,
-    max_depth=10,
-    min_samples_split=5,
-    random_state=42
+    random_state=42,
+    n_jobs=-1
 )
 
 model.fit(X_train, y_train)
 
-# Predictions
-y_pred = np.clip(model.predict(X_test), 0, 100)
+# --------------------------------------------------
+# Evaluate
+# --------------------------------------------------
 
-# Metrics
+y_pred = model.predict(X_test)
+
 mae = mean_absolute_error(y_test, y_pred)
 rmse = np.sqrt(mean_squared_error(y_test, y_pred))
 r2 = r2_score(y_test, y_pred)
 
-print("MAE :", round(mae, 2))
-print("RMSE:", round(rmse, 2))
-print("R2  :", round(r2, 3))
+print("\n📊 Model Performance")
+print("Train R2 :", round(model.score(X_train, y_train), 3))
+print("Test R2  :", round(r2, 3))
+print("MAE      :", round(mae, 2))
+print("RMSE     :", round(rmse, 2))
 
-# Save model and encoders
-joblib.dump(model, "rf_probability_model.pkl")
-joblib.dump(le_abs, "le_abs.pkl")
-joblib.dump(le_sol, "le_sol.pkl")
-joblib.dump(le_tox, "le_tox.pkl")
+# --------------------------------------------------
+# Save NEW Model Files (New Names)
+# --------------------------------------------------
 
-metrics = {"MAE": mae, "RMSE": rmse, "R2": r2}
-joblib.dump(metrics, "regression_metrics.pkl")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-print("✅ Model and metrics saved")
+joblib.dump(model, os.path.join(BASE_DIR, "drug_rf_tfidf_model.pkl"))
+joblib.dump(vectorizer, os.path.join(BASE_DIR, "drug_tfidf_vectorizer.pkl"))
+
+metrics = {
+    "MAE": round(mae, 2),
+    "RMSE": round(rmse, 2),
+    
+}
+
+joblib.dump(metrics, os.path.join(BASE_DIR, "drug_model_metrics.pkl"))
+
+print("\n✅ New model, vectorizer, and metrics saved successfully!")

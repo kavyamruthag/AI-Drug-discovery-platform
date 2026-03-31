@@ -150,29 +150,67 @@ def change_password_view(request):
 
     
     
+from django.shortcuts import render, redirect
+from django.contrib.auth.models import User
+from django.contrib.auth import authenticate, login
+from django.contrib import messages
+from django.utils import timezone
+from django.contrib.sessions.models import Session
+
+
+from django.shortcuts import render, redirect
+from django.contrib import messages
+from django.utils import timezone
+from django.contrib.auth.models import User
+from django.contrib.sessions.models import Session
+
+# FIXED ADMIN CREDENTIALS
+ADMIN_ID = "admin"
+ADMIN_PASSWORD = "admin123"
+
+
+def admin_login(request):
+
+    if request.method == "POST":
+        username = request.POST.get("username")
+        password = request.POST.get("password")
+
+        if username == ADMIN_ID and password == ADMIN_PASSWORD:
+            request.session['admin_logged_in'] = True
+            return redirect("admin_dashboard")
+        else:
+            messages.error(request, "Invalid Admin ID or Password")
+
+    return render(request, "admin_login.html")
+
+
 def admin_dashboard(request):
-    # Count total users
+
+    # BLOCK ACCESS IF NOT ADMIN
+    if not request.session.get("admin_logged_in"):
+        return redirect("admin_login")
+
     total_users = User.objects.count()
 
-    # Users who logged in today
-    today_users = User.objects.filter(last_login__date=now().date()).count()
+    today_users = User.objects.filter(
+        last_login__date=timezone.now().date()
+    ).count()
 
-    # Active sessions (currently logged-in users)
-    active_sessions = Session.objects.filter(expire_date__gte=now()).count()
+    active_sessions = Session.objects.filter(
+        expire_date__gte=timezone.now()
+    ).count()
 
-    # Recent 5 users
-    recent_users = User.objects.order_by('-last_login')[:5]
-
-      # Replace with actual DB query later
+    recent_users = User.objects.order_by("-last_login")[:5]
 
     context = {
         "total_users": total_users,
         "today_users": today_users,
         "active_sessions": active_sessions,
         "recent_users": recent_users,
-        
     }
+
     return render(request, "admin_page.html", context)
+
 
 # Load trained models
 
@@ -375,15 +413,31 @@ def analytics_view(request):
 import os
 import pandas as pd
 from django.shortcuts import render
+from django.http import HttpResponse, Http404
 from django.conf import settings
 
+
+# ✅ Allowed CSV files (only these will be downloadable)
+ALLOWED_CSV_FILES = [
+    "drug_disease.csv",
+    "drug_side_effect_probability.csv",
+    "drug_properties_with_binding_affinity.csv",
+    "drug_features_dataset.csv",
+    "drug_age_dosage.csv",
+    "disease_lack_of_component.csv",
+]
+
+
+# -----------------------------------
+# Reports Page (Preview First Dataset)
+# -----------------------------------
 def reports_view(request):
-    dataset_path = os.path.join(settings.BASE_DIR, "drug_disease.csv")
+
+    # Preview one dataset (you can change which one to preview)
+    dataset_path = os.path.join(settings.BASE_DIR, "drug_features_dataset.csv")
 
     if os.path.exists(dataset_path):
         df = pd.read_csv(dataset_path)
-
-        # Convert DataFrame to list of lists for template
         dataset_rows = df.values.tolist()
         dataset_columns = df.columns.tolist()
     else:
@@ -392,25 +446,29 @@ def reports_view(request):
 
     return render(request, "reports.html", {
         "dataset_rows": dataset_rows,
-        "dataset_columns": dataset_columns
+        "dataset_columns": dataset_columns,
+        "files": ALLOWED_CSV_FILES
     })
 
-import os
-from django.http import HttpResponse
-from django.conf import settings
 
-from django.http import HttpResponse
-import pandas as pd
-import os
+# -----------------------------------
+# Download Selected CSV File
+# -----------------------------------
+def download_csv(request, filename):
 
-def download_report(request):
-    BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    dataset_path = os.path.join(BASE_DIR, "drug_disease.csv")
+    # Security check
+    if filename not in ALLOWED_CSV_FILES:
+        raise Http404("File not allowed")
 
-    df = pd.read_csv(dataset_path)
-    response = HttpResponse(df.to_csv(index=False), content_type='text/csv')
-    response['Content-Disposition'] = 'attachment; filename="drug_dataset.csv"'
-    return response
+    file_path = os.path.join(settings.BASE_DIR, filename)
+
+    if not os.path.exists(file_path):
+        raise Http404("File not found")
+
+    with open(file_path, "rb") as f:
+        response = HttpResponse(f.read(), content_type="text/csv")
+        response['Content-Disposition'] = f'attachment; filename="{filename}"'
+        return response
 from django.shortcuts import render
 from django.http import HttpResponse, Http404
 import os
@@ -431,6 +489,10 @@ FILE_PATHS = {
     # scripts
     'train_model.py': os.path.join(settings.BASE_DIR, 'train_model.py'),
     'predict_view.py': os.path.join(settings.BASE_DIR, 'predict_view.py'),
+    'tr_model.py': os.path.join(settings.BASE_DIR, 'tr_model.py'),
+    'train_composition.py': os.path.join(settings.BASE_DIR, 'train_composition.py'),
+    'train_features.py': os.path.join(settings.BASE_DIR, 'train_features.py'),
+    'td_model.py': os.path.join(settings.BASE_DIR, 'td_model.py'),
     
     # templates
     
@@ -460,18 +522,42 @@ def view_file(request, filename):
         content = f.read()
 
     return render(request, 'view_file.html', {'filename': filename, 'content': content})
-
 from django.shortcuts import render
-from .predict_side import predict_side_effect_percentage
 import joblib
 import os
+import numpy as np
+
+# --------------------------------------------------
+# Path Setup
+# --------------------------------------------------
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.dirname(BASE_DIR)
 
-# Load regression metrics (saved during training)
-metrics = joblib.load(
-    os.path.join(BASE_DIR, "../regression_metrics.pkl")
-)
+# --------------------------------------------------
+# Load NEW Model Files
+# --------------------------------------------------
+
+model_path = os.path.join(PROJECT_ROOT, "drug_rf_tfidf_model.pkl")
+vectorizer_path = os.path.join(PROJECT_ROOT, "drug_tfidf_vectorizer.pkl")
+metrics_path = os.path.join(PROJECT_ROOT, "drug_model_metrics.pkl")
+
+model = joblib.load(model_path)
+vectorizer = joblib.load(vectorizer_path)
+
+print("Model loaded from:", model_path)
+print("Model type:", type(model))
+print("Model expects features:", model.n_features_in_)
+
+# Load metrics
+try:
+    metrics = joblib.load(metrics_path)
+except:
+    metrics = {"MAE": "-", "RMSE": "-", "R2": "-"}
+
+# --------------------------------------------------
+# View Function
+# --------------------------------------------------
 
 def drug_predictor(request):
     result = None
@@ -479,17 +565,20 @@ def drug_predictor(request):
     if request.method == "POST":
         drug_name = request.POST.get("drug")
 
-        prob = predict_side_effect_percentage(drug_name)
+        if drug_name:
 
-        if prob is not None:
+            input_vector = vectorizer.transform([drug_name])
+            prediction = model.predict(input_vector)
+
+            probability = np.clip(prediction[0], 0, 100)
+
             result = {
                 "drug": drug_name,
-                "probability": prob
+                "probability": round(float(probability), 2)
             }
+
         else:
-            result = {
-                "error": "Drug not found in dataset"
-            }
+            result = {"error": "Invalid drug name"}
 
     return render(
         request,
@@ -499,6 +588,8 @@ def drug_predictor(request):
             "metrics": metrics
         }
     )
+
+
 from django.shortcuts import render
 from .predict_deficiency import predict_lack_of_component
 
@@ -616,20 +707,50 @@ def index(request):
         "cid": cid,
         "error": error
     })
+import os
 import pandas as pd
 import pickle
+from django.shortcuts import render
+from django.conf import settings
 
-model = pickle.load(open("dosage_model.pkl", "rb"))
-metrics = pickle.load(open("metrics.pkl", "rb"))
+# --------------------------------------------------
+# Load Model & Metrics
+# --------------------------------------------------
 
-# Load dataset for base dose lookup
-df = pd.read_csv("dosage_multiplier_dataset.csv")
+dosage_model = pickle.load(
+    open(os.path.join(settings.BASE_DIR, "dosage_model.pkl"), "rb")
+)
+
+dosage_metrics = pickle.load(
+    open(os.path.join(settings.BASE_DIR, "metrics.pkl"), "rb")
+)
+
+# --------------------------------------------------
+# Load Dosage Dataset (IMPORTANT: use unique name)
+# --------------------------------------------------
+
+dosage_df = pd.read_csv(
+    os.path.join(settings.BASE_DIR, "dosage_multiplier_dataset.csv")
+)
+
+# Clean column names (removes hidden spaces)
+dosage_df.columns = dosage_df.columns.str.strip()
+
+
+# --------------------------------------------------
+# Helper Function
+# --------------------------------------------------
+
 def get_base_dose(drug):
-    row = df[df["Drug"].str.lower() == drug.lower()]
+    row = dosage_df[dosage_df["Drug"].str.lower() == drug.lower()]
     if row.empty:
         return None
     return float(row.iloc[0]["Base_Dose"])
-from django.shortcuts import render
+
+
+# --------------------------------------------------
+# Main View
+# --------------------------------------------------
 
 def drug_dosage_view(request):
     context = {}
@@ -637,74 +758,92 @@ def drug_dosage_view(request):
     if request.method == "POST":
         drug = request.POST.get("drug")
 
+        if not drug:
+            context["error"] = "Please enter a drug name"
+            return render(request, "drug_dosage.html", context)
+
         base_dose = get_base_dose(drug)
 
         if base_dose is None:
             context["error"] = "Drug not found in database"
-            return render(request, "discovery/drug_dosage.html", context)
+            return render(request, "drug_dosage.html", context)
 
         results = {}
 
-        for age in ["Infant", "Adult", "Old"]:
+        for age in ["Infant", "Adult", "OldAge"]:
+
             inp = pd.DataFrame([{
                 "Drug": drug,
                 "Age_Group": age,
                 "Base_Dose": base_dose
             }])
 
-            multiplier = model.predict(inp)[0]
+            # 🔥 IMPORTANT:
+            # Your model is a Pipeline → it handles encoding internally
+            multiplier = dosage_model.predict(inp)[0]
+
             final_dose = base_dose * multiplier
 
-            results[age] = round(final_dose, 2)
+            results[age] = round(float(final_dose), 2)
 
         context = {
             "drug": drug,
             "base_dose": base_dose,
             "results": results,
-            "metrics": metrics
+            "metrics": dosage_metrics
         }
 
     return render(request, "drug_dosage.html", context)
+
+
+
+
 from django.shortcuts import render
 import pandas as pd
 import joblib
 import numpy as np
 
-# Load data & model
+# Load dataset (for lookup)
 df = pd.read_csv("drug_properties_with_binding_affinity.csv")
+
+# Load trained regression model
 model = joblib.load("drug_risk_model.pkl")
-accuracy = joblib.load("model_accuracy.pkl")
+
+# Load regression metrics
+metrics = joblib.load("drug_model_metrics.pkl")
+
 
 def predict_features(request):
     result = None
     error = None
 
     if request.method == "POST":
-        drug_input = request.POST.get("drug").lower()
+        drug_input = request.POST.get("drug").lower().strip()
 
+        # Find drug in dataset
         row = df[df["Drug_name"].str.lower().str.contains(drug_input)]
 
         if row.empty:
             error = "Drug not found in dataset."
         else:
             logp = row.iloc[0]["Lipophilicity_LogP"]
-            affinity = row.iloc[0]["Binding_Affinity_kcal_per_mol"]
 
-            features = np.array([[logp, affinity]])
-            pred = model.predict(features)[0]
+            # 🔥 Regression prediction
+            predicted_affinity = model.predict([[logp]])[0]
 
             result = {
                 "name": row.iloc[0]["Drug_name"],
                 "logp": logp,
-                "affinity": affinity,
-                "risk": "LOW RISK" if pred == 0 else "HIGH RISK",
-                "accuracy": accuracy
+                "actual_affinity": row.iloc[0]["Binding_Affinity_kcal_per_mol"],
+                
+                "metrics": metrics
             }
 
     return render(request, "features.html", {
         "result": result,
         "error": error
     })
+
 
 
 

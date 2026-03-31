@@ -1,55 +1,92 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Dashboard</title>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+
   <style>
     body {
       font-family: 'Roboto', sans-serif;
-      background: linear-gradient(135deg, #6a11cb, #2575fc);
       margin: 0;
       padding: 0;
       min-height: 100vh;
       color: #fff;
+      background: linear-gradient(
+        135deg,
+        #0f2027 0%,
+        #203a43 40%,
+        #2c5364 100%
+      );
+      background-attachment: fixed;
+      position: relative;
+      overflow-x: hidden;
     }
 
-    /* Navbar */
+    /* Animated glowing particles */
+    body::before {
+      content: "";
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      background-image:
+        radial-gradient(circle at 25% 35%, rgba(0,255,255,0.2) 2px, transparent 2px),
+        radial-gradient(circle at 75% 70%, rgba(0,200,255,0.15) 2px, transparent 2px),
+        radial-gradient(circle at 50% 50%, rgba(0,255,200,0.1) 2px, transparent 2px);
+      background-size: 300px 300px;
+      animation: moveStars 50s linear infinite;
+      z-index: 0;
+    }
+
+    @keyframes moveStars {
+      from { background-position: 0 0; }
+      to { background-position: 1200px 1200px; }
+    }
+
     .navbar {
-      background: rgba(0, 0, 0, 0.25);
-      padding: 15px 30px;
+      background: rgba(0, 0, 0, 0.35);
+      padding: 15px 40px;
       display: flex;
       justify-content: flex-end;
-      gap: 20px;
-      backdrop-filter: blur(10px);
+      gap: 25px;
+      backdrop-filter: blur(12px);
+      position: relative;
+      z-index: 2;
+      border-bottom: 1px solid rgba(0,255,255,0.2);
     }
+
     .navbar a {
       color: #fff;
       text-decoration: none;
       font-weight: 600;
       transition: 0.3s;
     }
+
     .navbar a:hover {
-      color: #ffd700;
+      color: #00ffff;
     }
 
     .container {
-      padding: 30px;
-      max-width: 1200px;
+      padding: 50px;
+      max-width: 1400px;
       margin: 0 auto;
+      position: relative;
+      z-index: 2;
     }
 
     .welcome {
-      font-size: 24px;
-      margin-bottom: 30px;
-      text-shadow: 1px 1px 5px rgba(0,0,0,0.3);
+      font-size: 30px;
+      margin-bottom: 45px;
+      text-shadow:
+        0 0 10px rgba(0,255,255,0.6),
+        0 0 20px rgba(0,200,255,0.5);
     }
 
-    /* Card grid */
     .card-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 25px;
+      grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+      gap: 35px;
     }
 
     .card-link {
@@ -58,152 +95,162 @@
       display: block;
     }
 
-    /* Cards */
     .card {
-      background: rgba(255, 255, 255, 0.1);
-      backdrop-filter: blur(10px);
-      border-radius: 20px;
+      background: rgba(255, 255, 255, 0.05);
+      backdrop-filter: blur(18px);
+      border-radius: 25px;
       overflow: hidden;
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-      box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+      border: 1px solid rgba(0,255,255,0.25);
+      box-shadow:
+        0 0 15px rgba(0,255,255,0.25),
+        0 0 25px rgba(0,200,255,0.15);
+      transition: all 0.4s ease;
     }
+
     .card:hover {
-      transform: translateY(-10px) scale(1.02);
-      box-shadow: 0 15px 35px rgba(0,0,0,0.35);
+      transform: translateY(-12px);
+      box-shadow:
+        0 0 30px rgba(0,255,255,0.7),
+        0 0 50px rgba(0,200,255,0.6);
     }
 
     .card img {
       width: 100%;
-      height: 180px;
+      height: 200px;
       object-fit: cover;
-      transition: transform 0.3s ease;
+      border-top-left-radius: 25px;
+      border-top-right-radius: 25px;
+      transition: transform 0.4s ease;
     }
+
     .card:hover img {
       transform: scale(1.05);
     }
 
     .card-content {
-      padding: 20px;
-      background: rgba(0,0,0,0.15);
-    }
-    .card-content h3 {
-      margin: 0 0 10px;
-      font-size: 20px;
-      color: #fff;
-    }
-    .card-content p {
-      font-size: 14px;
-      color: #e0e0e0;
-      line-height: 1.5;
+      padding: 22px;
+      background: rgba(0,0,0,0.3);
     }
 
-    @media(max-width: 768px){
-      .welcome { font-size: 20px; }
-      .card-content h3 { font-size: 18px; }
+    .card-content h3 {
+      margin: 0 0 12px;
+      font-size: 20px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+
+    .card-content p {
+      font-size: 14px;
+      color: #ccefff;
+      line-height: 1.6;
     }
   </style>
 </head>
+
 <body>
-  <!-- Navbar -->
-  <div class="navbar">
-    <a href="/profile/">Profile</a>
-    <a href="/logout/">Logout</a>
+
+<div class="navbar">
+  <a href="/profile/">Profile</a>
+  <a href="/logout/">Logout</a>
+</div>
+
+<div class="container">
+  <p class="welcome">👋 Welcome, {{ request.user.username }}!</p>
+
+  <div class="card-grid">
+
+    <a href="{% url 'search' %}" class="card-link">
+      <div class="card">
+        <img src="{% static 'images/drug_prediction.png' %}" alt="Drug Prediction">
+        <div class="card-content">
+          <h3>Drug Prediction</h3>
+          <p>Upload molecular data and predict potential drug effectiveness using AI models.</p>
+        </div>
+      </div>
+    </a>
+
+    <a href="{% url 'analytics' %}" class="card-link">
+      <div class="card">
+        <img src="{% static 'images/analytics.png' %}" alt="Analytics">
+        <div class="card-content">
+          <h3>Analytics</h3>
+          <p>Visualize datasets, analyze properties, and discover hidden patterns.</p>
+        </div>
+      </div>
+    </a>
+
+    <a href="{% url 'reports' %}" class="card-link">
+      <div class="card">
+        <img src="{% static 'images/reports.png' %}" alt="Reports">
+        <div class="card-content">
+          <h3>Resources</h3>
+          <p>Generate and download detailed reports for your research.</p>
+        </div>
+      </div>
+    </a>
+
+    <a href="{% url 'resources' %}" class="card-link">
+      <div class="card">
+        <img src="{% static 'images/collaborate.png' %}" alt="Collaborate">
+        <div class="card-content">
+          <h3>Collaborate</h3>
+          <p>Work with your team by sharing datasets and models securely.</p>
+        </div>
+      </div>
+    </a>
+
+    <a href="{% url 'drug_predictor' %}" class="card-link">
+      <div class="card">
+        <img src="{% static 'images/side_effects.png' %}" alt="Side Effects">
+        <div class="card-content">
+          <h3>Percentage of Side Effects</h3>
+          <p>Analyze potential side effects of selected drugs.</p>
+        </div>
+      </div>
+    </a>
+
+    <a href="{% url 'disease_predictor' %}" class="card-link">
+      <div class="card">
+        <img src="{% static 'images/deficiencies.png' %}" alt="Deficiencies">
+        <div class="card-content">
+          <h3>Biological Deficiencies</h3>
+          <p>Identify biological deficiencies in the body.</p>
+        </div>
+      </div>
+    </a>
+
+    <a href="{% url 'dosage' %}" class="card-link">
+      <div class="card">
+        <img src="{% static 'images/dosage.png' %}" alt="Dosage">
+        <div class="card-content">
+          <h3>Drug Dosage</h3>
+          <p>Determine appropriate drug dosage for various age groups.</p>
+        </div>
+      </div>
+    </a>
+
+    <a href="{% url 'index' %}" class="card-link">
+      <div class="card">
+        <img src="{% static 'images/drug_structure.png' %}" alt="Drug Structure">
+        <div class="card-content">
+          <h3>Drug Structure</h3>
+          <p>View 2D and 3D structures of drugs.</p>
+        </div>
+      </div>
+    </a>
+
+    <a href="{% url 'features' %}" class="card-link">
+      <div class="card">
+        <img src="{% static 'images/drug_properties.png' %}" alt="Drug Properties">
+        <div class="card-content">
+          <h3>Drug Properties</h3>
+          <p>Explore detailed drug properties and mechanisms.</p>
+        </div>
+      </div>
+    </a>
+
   </div>
+</div>
 
-  <!-- Dashboard -->
-  <div class="container">
-    <p class="welcome">👋 Welcome, {{ request.user.username }}!</p>
-
-    <div class="card-grid">
-      <!-- Drug Prediction Card -->
-      <a href="{% url 'search' %}" class="card-link">
-        <div class="card">
-          <img src="https://picsum.photos/400/200?random=1" alt="Research">
-          <div class="card-content">
-            <h3>Drug Prediction</h3>
-            <p>Upload molecular data and predict potential drug effectiveness using AI models.</p>
-          </div>
-        </div>
-      </a>
-
-      <!-- Analytics Card -->
-      <a href="{% url 'analytics' %}" class="card-link">
-        <div class="card">
-          <img src="https://picsum.photos/400/200?random=2" alt="Analytics">
-          <div class="card-content">
-            <h3>Analytics</h3>
-            <p>Visualize datasets, analyze properties, and discover hidden patterns.</p>
-          </div>
-        </div>
-      </a>
-
-      <!-- Reports Card -->
-      <a href="{% url 'reports' %}" class="card-link">
-        <div class="card">
-          <img src="https://picsum.photos/400/200?random=3" alt="Reports">
-          <div class="card-content">
-            <h3>Reports</h3>
-            <p>Generate and download detailed reports for your research.</p>
-          </div>
-        </div>
-      </a>
-
-      <!-- Collaborate Card -->
-      <a href="{% url 'resources' %}" class="card-link">
-        <div class="card">
-          <img src="https://picsum.photos/400/200?random=4" alt="Team">
-          <div class="card-content">
-            <h3>Collaborate</h3>
-            <p>Work with your team by sharing datasets, models, and results securely.</p>
-          </div>
-        </div>
-      </a>
-      <a href="{% url 'drug_predictor' %}" class="card-link">
-        <div class="card">
-          <img src="https://picsum.photos/400/200?random=5" alt="Team">
-          <div class="card-content">
-            <h3>Percentage of side effects</h3>
-            <p>Get the percentage of side effects by using the specific drug</p>
-          </div>
-        </div>
-      </a>
-      <a href="{% url 'disease_predictor' %}" class="card-link">
-        <div class="card">
-          <img src="https://picsum.photos/400/200?random=6" alt="Team">
-          <div class="card-content">
-            <h3>Lack of biological deficiencies</h3>
-            <p>Get which biological deficiencies are lack in body</p>
-          </div>
-        </div>
-      </a>
-      <a href="{% url 'dosage' %}" class="card-link">
-        <div class="card">
-          <img src="https://picsum.photos/400/200?random=7" alt="Team">
-          <div class="card-content">
-            <h3>Find the Drug Dosage!!!</h3>
-            <p>Get the dosages of drugs to be used for different kind of ages</p>
-          </div>
-        </div>
-      </a>
-      <a href="{% url 'index' %}" class="card-link">
-        <div class="card">
-          <img src="https://picsum.photos/400/200?random=8" alt="Team">
-          <div class="card-content">
-            <h3>Drug Structure</h3>
-            <p>Get the 2D Drug Structures and 3D Drug Structures</p>
-          </div>
-        </div>
-      </a>
-      <a href="{% url 'features' %}" class="card-link">
-        <div class="card">
-          <img src="https://picsum.photos/400/200?random=9" alt="Team">
-          <div class="card-content">
-            <h3>Drug Properties!!!</h3>
-            <p>Get the Drug Properties</p>
-          </div>
-        </div>
-      </a>
-    </div>
-  </div>
 </body>
 </html>

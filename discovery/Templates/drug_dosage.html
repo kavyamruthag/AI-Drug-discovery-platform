@@ -1,158 +1,200 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Drug Dosage Predictor</title>
+<meta charset="UTF-8">
+<title>Drug Dosage Predictor</title>
 
-    <style>
-        body {
-            font-family: "Segoe UI", Arial, sans-serif;
-            background: linear-gradient(135deg, #e3f2fd, #f9fbe7);
-            margin: 0;
-            padding: 0;
-        }
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
 
-        .container {
-            max-width: 650px;
-            margin: 60px auto;
-            background: #ffffff;
-            padding: 35px;
-            border-radius: 16px;
-            box-shadow: 0 15px 40px rgba(0,0,0,0.15);
-        }
+<style>
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
 
-        h2 {
-            text-align: center;
-            color: #1a237e;
-            margin-bottom: 10px;
-        }
+    background: linear-gradient(
+        135deg,
+        #0f2027 0%,
+        #203a43 40%,
+        #2c5364 100%
+    );
+    background-attachment: fixed;
+    position: relative;
+    overflow-x: hidden;
+}
 
-        .subtitle {
-            text-align: center;
-            color: #555;
-            margin-bottom: 30px;
-            font-size: 14px;
-        }
+/* Animated particles */
+body::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image:
+        radial-gradient(circle at 25% 35%, rgba(0,255,255,0.15) 2px, transparent 2px),
+        radial-gradient(circle at 75% 70%, rgba(0,200,255,0.15) 2px, transparent 2px),
+        radial-gradient(circle at 50% 50%, rgba(0,255,200,0.1) 2px, transparent 2px);
+    background-size: 300px 300px;
+    animation: moveStars 50s linear infinite;
+    z-index: 0;
+}
 
-        form {
-            display: flex;
-            gap: 10px;
-            margin-bottom: 25px;
-        }
+@keyframes moveStars {
+    from { background-position: 0 0; }
+    to { background-position: 1200px 1200px; }
+}
 
-        input[type="text"] {
-            flex: 1;
-            padding: 14px;
-            border-radius: 10px;
-            border: 1px solid #ccc;
-            font-size: 15px;
-            outline: none;
-        }
+.container {
+    max-width: 700px;
+    width: 90%;
+    background: rgba(255,255,255,0.06);
+    backdrop-filter: blur(20px);
+    padding: 40px;
+    border-radius: 25px;
+    border: 1px solid rgba(0,255,255,0.25);
+    box-shadow:
+        0 0 30px rgba(0,255,255,0.25),
+        0 0 60px rgba(0,200,255,0.15);
+    position: relative;
+    z-index: 2;
+    text-align: center;
+}
 
-        input[type="text"]:focus {
-            border-color: #3949ab;
-            box-shadow: 0 0 5px rgba(57,73,171,0.3);
-        }
+h2 {
+    margin-bottom: 10px;
+    text-shadow:
+        0 0 10px rgba(0,255,255,0.6),
+        0 0 20px rgba(0,200,255,0.5);
+}
 
-        button {
-            padding: 14px 22px;
-            border: none;
-            border-radius: 10px;
-            background: #3949ab;
-            color: #fff;
-            font-size: 15px;
-            cursor: pointer;
-            transition: background 0.3s;
-        }
+.subtitle {
+    color: #ccefff;
+    margin-bottom: 30px;
+    font-size: 14px;
+}
 
-        button:hover {
-            background: #283593;
-        }
+form {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 25px;
+}
 
-        .error {
-            background: #ffebee;
-            color: #c62828;
-            padding: 12px;
-            border-radius: 8px;
-            text-align: center;
-            margin-bottom: 20px;
-        }
+input[type="text"] {
+    flex: 1;
+    padding: 14px;
+    border-radius: 12px;
+    border: 1px solid rgba(0,255,255,0.3);
+    background: rgba(0,0,0,0.4);
+    color: #fff;
+    font-size: 14px;
+    outline: none;
+    transition: 0.3s;
+}
 
-        .result-box {
-            margin-top: 25px;
-        }
+input::placeholder {
+    color: #ccefff;
+}
 
-        .drug-name {
-            text-align: center;
-            font-weight: 600;
-            font-size: 18px;
-            margin-bottom: 20px;
-            color: #2e3b55;
-        }
+input:focus {
+    border-color: #00ffff;
+    box-shadow: 0 0 10px rgba(0,255,255,0.7);
+}
 
-        .dosage-cards {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 15px;
-        }
+button {
+    padding: 14px 22px;
+    border: none;
+    border-radius: 12px;
+    background: linear-gradient(90deg, #00ffff, #00bfff);
+    color: #000;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.3s;
+    box-shadow: 0 0 15px rgba(0,255,255,0.6);
+}
 
-        .card {
-            padding: 20px;
-            border-radius: 14px;
-            text-align: center;
-            box-shadow: 0 6px 18px rgba(0,0,0,0.12);
-        }
+button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 0 25px rgba(0,255,255,0.9);
+}
 
-        .infant {
-            background: #e1f5fe;
-        }
+.error {
+    background: rgba(255,0,0,0.15);
+    color: #ff4d4d;
+    padding: 12px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
 
-        .adult {
-            background: #e8f5e9;
-        }
+.result-box {
+    margin-top: 30px;
+}
 
-        .old {
-            background: #fff3e0;
-        }
+.drug-name {
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: #00ffff;
+}
 
-        .card h4 {
-            margin: 0;
-            margin-bottom: 8px;
-            color: #333;
-        }
+.dosage-cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
 
-        .dose {
-            font-size: 22px;
-            font-weight: bold;
-            color: #1a237e;
-        }
+.card {
+    padding: 20px;
+    border-radius: 18px;
+    text-align: center;
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(0,255,255,0.2);
+    transition: 0.3s;
+}
 
-        .metrics {
-            margin-top: 30px;
-            padding-top: 15px;
-            border-top: 1px dashed #ccc;
-            font-size: 14px;
-            color: #444;
-        }
+.card:hover {
+    box-shadow: 0 0 20px rgba(0,255,255,0.6);
+}
 
-        .metrics span {
-            display: inline-block;
-            margin-right: 15px;
-        }
+.card h4 {
+    margin-bottom: 10px;
+    color: #ccefff;
+}
 
-        footer {
-            text-align: center;
-            font-size: 12px;
-            margin-top: 20px;
-            color: #777;
-        }
+.dose {
+    font-size: 22px;
+    font-weight: bold;
+    color: #00ffff;
+}
 
-        @media (max-width: 600px) {
-            .dosage-cards {
-                grid-template-columns: 1fr;
-            }
-        }
-    </style>
+.metrics {
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(0,255,255,0.3);
+    font-size: 14px;
+    color: #ccefff;
+}
+
+.metrics span {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+footer {
+    margin-top: 30px;
+    font-size: 12px;
+    color: #ccefff;
+}
+
+@media (max-width: 600px) {
+    .dosage-cards {
+        grid-template-columns: 1fr;
+    }
+}
+</style>
 </head>
 
 <body>
@@ -163,7 +205,7 @@
 
     <form method="post">
         {% csrf_token %}
-        <input type="text" name="drug" placeholder="Enter drug name (e.g., Paracetamol)" required>
+        <input type="text" name="drug" placeholder="Enter drug name" required>
         <button type="submit">Predict</button>
     </form>
 
@@ -178,19 +220,19 @@
         </div>
 
         <div class="dosage-cards">
-            <div class="card infant">
+            <div class="card">
                 <h4>👶 Infant</h4>
                 <div class="dose">{{ results.Infant }} mg</div>
             </div>
 
-            <div class="card adult">
+            <div class="card">
                 <h4>🧑 Adult</h4>
                 <div class="dose">{{ results.Adult }} mg</div>
             </div>
 
-            <div class="card old">
+            <div class="card">
                 <h4>👴 Old Age</h4>
-                <div class="dose">{{ results.Old }} mg</div>
+                <div class="dose">{{ results.OldAge }} mg</div>
             </div>
         </div>
 
@@ -198,7 +240,6 @@
             <strong>Model Performance:</strong><br>
             <span>MAE: {{ metrics.MAE }}</span>
             <span>MSE: {{ metrics.MSE }}</span>
-            <span>R²: {{ metrics.R2 }}</span>
         </div>
     </div>
     {% endif %}
